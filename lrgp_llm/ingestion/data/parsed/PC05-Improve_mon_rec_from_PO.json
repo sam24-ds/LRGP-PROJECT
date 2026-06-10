@@ -1,0 +1,1941 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "PC05-Improve_mon_rec_from_PO",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12950753563964504767,
+    "filename": "PC05-Improve_mon_rec_from_PO.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 38.88,
+            "t": 732.1739829101563,
+            "r": 530.5760000000001,
+            "b": 669.4559829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "lmprove monomer recove  ry from  polyolefin resin degassing",
+      "text": "lmprove monomer recove  ry from  polyolefin resin degassing",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 38.64,
+            "t": 653.2539829101562,
+            "r": 284.30199999999996,
+            "b": 609.0689829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Gase  histories  highlight  how to recover and recycle ethylene  and propylene from polymer waste-gas streams",
+      "text": "Gase  histories  highlight  how to recover and recycle ethylene  and propylene from polymer waste-gas streams"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.12,
+            "t": 596.1419829101562,
+            "r": 274.281,
+            "b": 576.5369829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 38.88,
+            "t": 562.5419829101563,
+            "r": 287.84400000000016,
+            "b": 464.2169829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            93,
+            612
+          ]
+        }
+      ],
+      "orig": "R. W. Baker  and M. Jacobs,  Membrane Technology and Research.  Inc.. Menlo Park. California ecovering volatile  organic compounds  (VOCs) from vent gases  with  membrane systems is an attractive alternative to  flaring.  The  systems are based on membranes that  selectively permeate organic compounds from air or nitrogen. Most systems installed  have the basic design illustrated in Fig.  1,  which  consists of two steps.  First, the  feed gas is  compressed and passed to  a condenser where it is cooled;  a portion  ofthe  organic vapor condenses and is directed to a storage tank  for recycling  or reuse.",
+      "text": "R. W. Baker  and M. Jacobs,  Membrane Technology and Research.  Inc.. Menlo Park. California ecovering volatile  organic compounds  (VOCs) from vent gases  with  membrane systems is an attractive alternative to  flaring.  The  systems are based on membranes that  selectively permeate organic compounds from air or nitrogen. Most systems installed  have the basic design illustrated in Fig.  1,  which  consists of two steps.  First, the  feed gas is  compressed and passed to  a condenser where it is cooled;  a portion  ofthe  organic vapor condenses and is directed to a storage tank  for recycling  or reuse."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.12,
+            "t": 461.5019829101563,
+            "r": 287.2650000000001,
+            "b": 340.6169829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            619
+          ]
+        }
+      ],
+      "orig": "In  the second  step, the noncondensed  portion ofthe feed gas, which  still  contains a significant  fraction  of organic compounds,  passes  across  the surface  ofan  organicselective membrane.  The membrane  separates the gas into  two streams: a permeate enriched in  organic vapor and a residue stream of purified  air  or nitrogen.  The organic-rich  permeate is recycled back to the compressor's inlet;  the organic-depleted gas is vented. Such systems typically  achieve  greater than997o removal of VOC from the feed gas, and reduce the VOC content ofthe  vented gas to 100  parts per million  (ppm) or less.1",
+      "text": "In  the second  step, the noncondensed  portion ofthe feed gas, which  still  contains a significant  fraction  of organic compounds,  passes  across  the surface  ofan  organicselective membrane.  The membrane  separates the gas into  two streams: a permeate enriched in  organic vapor and a residue stream of purified  air  or nitrogen.  The organic-rich  permeate is recycled back to the compressor's inlet;  the organic-depleted gas is vented. Such systems typically  achieve  greater than997o removal of VOC from the feed gas, and reduce the VOC content ofthe  vented gas to 100  parts per million  (ppm) or less.1"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.12,
+            "t": 337.66198291015627,
+            "r": 288.78899999999993,
+            "b": 283.97698291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            275
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 38.88,
+            "t": 281.50198291015636,
+            "r": 161.21699999999998,
+            "b": 217.01698291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            276,
+            437
+          ]
+        }
+      ],
+      "orig": "In  most membrane system applications, high-value organic  vapors such  as  vinyl chloride monomer,  methyl chloride and methyl formate are recovered  from process streams. Carbon adsorption may be a better treatment option for low-VOC-concentration (5,000  ppm or less)  air streams,  but membrane systems are competitive with carbon adsorption or condensation for more concentrated streams, especially if high VOC recovery is required.",
+      "text": "In  most membrane system applications, high-value organic  vapors such  as  vinyl chloride monomer,  methyl chloride and methyl formate are recovered  from process streams. Carbon adsorption may be a better treatment option for low-VOC-concentration (5,000  ppm or less)  air streams,  but membrane systems are competitive with carbon adsorption or condensation for more concentrated streams, especially if high VOC recovery is required."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.6,
+            "t": 203.74198291015625,
+            "r": 155.77200000000002,
+            "b": 194.6969829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Polyolefin plant  vents.",
+      "text": "Polyolefin plant  vents.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.12,
+            "t": 191.74198291015625,
+            "r": 160.92900000000003,
+            "b": 93.89698291015634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "Recently, a new application of membrane  technology has been recognized:  recovery ofethylene  or propylene monomers f r o m resin degassing  vent streams  in polyolefin plants. The source of such a vent stream is shown in Fig. 2.2",
+      "text": "Recently, a new application of membrane  technology has been recognized:  recovery ofethylene  or propylene monomers f r o m resin degassing  vent streams  in polyolefin plants. The source of such a vent stream is shown in Fig. 2.2"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.84,
+            "t": 554.6239829101563,
+            "r": 552.9680000000001,
+            "b": 522.9839829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            241
+          ]
+        }
+      ],
+      "orig": "Fig. 1. A typical  compression-condensation membrane  system  generally  achieves  95-99% VOC  recovery. The process  is most commonly used to recover  high-value  VOCs  such as vinyl chloride  monomer, methyl  chloride  and methyl  formate.",
+      "text": "Fig. 1. A typical  compression-condensation membrane  system  generally  achieves  95-99% VOC  recovery. The process  is most commonly used to recover  high-value  VOCs  such as vinyl chloride  monomer, methyl  chloride  and methyl  formate."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.84,
+            "t": 401.74198291015625,
+            "r": 554.1090000000002,
+            "b": 376.8569829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "Fig.  2. In  a  typical  polyolefin plant, the  vent  stream currently flared can  be  treated by  a  membrane system to recover nitrogen and  valuable  monomer.",
+      "text": "Fig.  2. In  a  typical  polyolefin plant, the  vent  stream currently flared can  be  treated by  a  membrane system to recover nitrogen and  valuable  monomer."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.84,
+            "t": 359.98198291015626,
+            "r": 550.9080000000001,
+            "b": 283.25698291015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            395
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 430.08,
+            "t": 280.78198291015633,
+            "r": 557.4000000000002,
+            "b": 92.6969829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            396,
+            868
+          ]
+        }
+      ],
+      "orig": "In  a typical  olefin  polymerization  process,  monomer plus catalyst, various comonomers,  solvents and stabilizers are contacted at high  pressure in  a polymerization reactor. The polymerization  reaction may be in the gas phase or in a slurry  phase using an organic solvent such as butane or hexane. The raw  polymer product (in powder form)  contains significant  amounts  of sorbed unre- acted monomen  con'Lonomers and  processing soluents. These components must be removed before the polymer can be used. The raw  polymer is passed  to large resin purge bins, where nitrogen removes absorbed monomer and process  solvents. End users  are increasingly requiring very low levels  ofresiduals in  the final  polymer,  so nitrogen  usage in this  step i s increasing.  The composition and volume of the vent gas from the degassing  step vary widely, depending on",
+      "text": "In  a typical  olefin  polymerization  process,  monomer plus catalyst, various comonomers,  solvents and stabilizers are contacted at high  pressure in  a polymerization reactor. The polymerization  reaction may be in the gas phase or in a slurry  phase using an organic solvent such as butane or hexane. The raw  polymer product (in powder form)  contains significant  amounts  of sorbed unre- acted monomen  con'Lonomers and  processing soluents. These components must be removed before the polymer can be used. The raw  polymer is passed  to large resin purge bins, where nitrogen removes absorbed monomer and process  solvents. End users  are increasingly requiring very low levels  ofresiduals in  the final  polymer,  so nitrogen  usage in this  step i s increasing.  The composition and volume of the vent gas from the degassing  step vary widely, depending on"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 168.48,
+            "t": 82.78198291015633,
+            "r": 433.3050000000002,
+            "b": 73.97698291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Reprinted  from March 1996 HYDROCARBON  PFOCESSTNG@",
+      "text": "Reprinted  from March 1996 HYDROCARBON  PFOCESSTNG@"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.56,
+            "t": 491.5019829101563,
+            "r": 290.9700000000002,
+            "b": 458.4569829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        }
+      ],
+      "orig": "Fig.  3. Vapor pressure of light  hydrocarbons found  in  olefin  purgebin  gases as  a  function of condenser temperature. Because of  the volatility of these  gases,  cryogenic temperatures are  required to achieve good  recoveries by  simple  condensation.",
+      "text": "Fig.  3. Vapor pressure of light  hydrocarbons found  in  olefin  purgebin  gases as  a  function of condenser temperature. Because of  the volatility of these  gases,  cryogenic temperatures are  required to achieve good  recoveries by  simple  condensation."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.56,
+            "t": 439.42198291015626,
+            "r": 287.66400000000016,
+            "b": 407.3369829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "the size of the plant,  the product polymer  (polyethylene or polypropylene)  and the polyrnerization process.  Representative stream compositions  are listed in Table 1.",
+      "text": "the size of the plant,  the product polymer  (polyethylene or polypropylene)  and the polyrnerization process.  Representative stream compositions  are listed in Table 1."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.56,
+            "t": 404.6219829101563,
+            "r": 289.41600000000017,
+            "b": 238.61698291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            909
+          ]
+        }
+      ],
+      "orig": "In  most plants, the vent gas is flared  and the monomer content is lost. The value ofthese potentially recoverable monomers is very high:  about $1 million  dollars annually, representing a considerable  resource-recovery  opportunity. Until  the development of membrane technology,  no appropriate  recovery technology existed, however. The streams are not good  candidates  for pressure  swing adsorption treatment, which generally oniy recovers  the heavier components ofthe  gas.  Condensation can be used,  but very low temperatures are required to sufficiently  remove the volatile gases ethylene and propylene. Vapor pressure curves for common vent gas  components  are shown  in Fig. 3.  Even at  -120\"C,  the offgas  from a low-temperature condenser  will  never contain less  than 507o  ethylene or 2Eo propylene.  Such  modest  recovery does  not generallyjustify the cost  of a cryogenic  system.",
+      "text": "In  most plants, the vent gas is flared  and the monomer content is lost. The value ofthese potentially recoverable monomers is very high:  about $1 million  dollars annually, representing a considerable  resource-recovery  opportunity. Until  the development of membrane technology,  no appropriate  recovery technology existed, however. The streams are not good  candidates  for pressure  swing adsorption treatment, which generally oniy recovers  the heavier components ofthe  gas.  Condensation can be used,  but very low temperatures are required to sufficiently  remove the volatile gases ethylene and propylene. Vapor pressure curves for common vent gas  components  are shown  in Fig. 3.  Even at  -120\"C,  the offgas  from a low-temperature condenser  will  never contain less  than 507o  ethylene or 2Eo propylene.  Such  modest  recovery does  not generallyjustify the cost  of a cryogenic  system."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 235.90198291015622,
+            "r": 287.59800000000007,
+            "b": 171.41698291015632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            344
+          ]
+        }
+      ],
+      "orig": "Application  of a membrane system to resource recovery from  the  purge-bin  vent  is shown in  its  simplest  form  in Fig.  4. The membrane  unit  fractionates  the vent  gas into two streams-a monomer/solvent-rich  stream that  is recycled to monomer  supply  and purification, and a nitrogen stream that  is recycled to the resin purge bin.",
+      "text": "Application  of a membrane system to resource recovery from  the  purge-bin  vent  is shown in  its  simplest  form  in Fig.  4. The membrane  unit  fractionates  the vent  gas into two streams-a monomer/solvent-rich  stream that  is recycled to monomer  supply  and purification, and a nitrogen stream that  is recycled to the resin purge bin."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 168.9419829101563,
+            "r": 287.9850000000001,
+            "b": 126.77698291015622,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "A number  of membrane  process designs can be considered, depending on the composition of the purge-bin vent gas and the specific plant  requirements  for the recycled materials.",
+      "text": "A number  of membrane  process designs can be considered, depending on the composition of the purge-bin vent gas and the specific plant  requirements  for the recycled materials."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.04,
+            "t": 112.78198291015633,
+            "r": 288.1470000000002,
+            "b": 92.9369829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "TWo-stage  membffane  system. If  plant  design does  not require  complete nitrogen  removal from the recycled",
+      "text": "TWo-stage  membffane  system. If  plant  design does  not require  complete nitrogen  removal from the recycled"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 304.8,
+            "t": 674.3839829101563,
+            "r": 553.504,
+            "b": 658.8239829101564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "Fig. 4. A membrane  separation  system  recovers  monomer,  solvents and nitrogen  from the resin  degassing  operation.",
+      "text": "Fig. 4. A membrane  separation  system  recovers  monomer,  solvents and nitrogen  from the resin  degassing  operation."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 305.28,
+            "t": 428.1419829101563,
+            "r": 557.118,
+            "b": 403.0169829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            212
+          ]
+        }
+      ],
+      "orig": "Fig.  5. Two-stage membrane separation process fractionates noncondensable organics from  nitrogen. A plant of  this  general design is currently being  constructed for  a  new  polypropylene facility in  Europe.",
+      "text": "Fig.  5. Two-stage membrane separation process fractionates noncondensable organics from  nitrogen. A plant of  this  general design is currently being  constructed for  a  new  polypropylene facility in  Europe."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 305.28,
+            "t": 381.8219829101563,
+            "r": 553.6200000000001,
+            "b": 238.37698291015636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            718
+          ]
+        }
+      ],
+      "orig": "monomer, a two-stage membrane system is the most efficient design. A typical  system is shown in Fig. 5. The purge-bin vent gas is first  compressed  and sent to the main membrane separation step. This step produces  a residue gas containing96To nitrogen that  can be recycled to the  purge bin.  The hydrocarbon-rich  permeate from this  step cannot be sent directly to the olefin plant because it  contains too much  nitrogen;  therefore,  the  stream  is recompressed  and concentrated  further  in a second  membrane stage.  This stage  produces  a nitrogen-rich gas,  which is recycled to the feed gas line,  and a monomer  stream containing 85 volVo (.97 wtTo)  hydrocarbon, which is recirculated to the reactor.",
+      "text": "monomer, a two-stage membrane system is the most efficient design. A typical  system is shown in Fig. 5. The purge-bin vent gas is first  compressed  and sent to the main membrane separation step. This step produces  a residue gas containing96To nitrogen that  can be recycled to the  purge bin.  The hydrocarbon-rich  permeate from this  step cannot be sent directly to the olefin plant because it  contains too much  nitrogen;  therefore,  the  stream  is recompressed  and concentrated  further  in a second  membrane stage.  This stage  produces  a nitrogen-rich gas,  which is recycled to the feed gas line,  and a monomer  stream containing 85 volVo (.97 wtTo)  hydrocarbon, which is recirculated to the reactor."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 305.52,
+            "t": 235.6619829101562,
+            "r": 552.423,
+            "b": 92.6969829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            740
+          ]
+        }
+      ],
+      "orig": "The nitrogen stream produced in the design in Fig. 5 still  contains about 4 volTohydrocarbon, which  may make it  unsuitable for direct reuse in the resin purge bin. FIari ng  this  gas would  be a loss of nitrogen  and valuable monomer. However, because  the gas is under pressure, a second  nitrogen clean-up step can be added  to the system (Fig.  6). This second  step produces  relatively  pure nitrogen (> 99Vo)  and a strearn containing  I0-I57o  hydrocarbon. The nitrogen  stream is now pure enough to be recycled to the plant,  but  the hydrocarbon  stream is too dilute  to mix with  the hydrocarbon-rich  concentrate going to the olefin plant.  The hydrocarbon stream can be flared  or, better, recycled  to the main compressor.",
+      "text": "The nitrogen stream produced in the design in Fig. 5 still  contains about 4 volTohydrocarbon, which  may make it  unsuitable for direct reuse in the resin purge bin. FIari ng  this  gas would  be a loss of nitrogen  and valuable monomer. However, because  the gas is under pressure, a second  nitrogen clean-up step can be added  to the system (Fig.  6). This second  step produces  relatively  pure nitrogen (> 99Vo)  and a strearn containing  I0-I57o  hydrocarbon. The nitrogen  stream is now pure enough to be recycled to the plant,  but  the hydrocarbon  stream is too dilute  to mix with  the hydrocarbon-rich  concentrate going to the olefin plant.  The hydrocarbon stream can be flared  or, better, recycled  to the main compressor."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 278.64,
+            "t": 79.9079829101563,
+            "r": 373.82400000000007,
+            "b": 74.11798291015634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "PROCESSING / MARCH  1996",
+      "text": "PROCESSING / MARCH  1996"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 35.28,
+            "t": 645.3439829101563,
+            "r": 282.656,
+            "b": 612.7439829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            292
+          ]
+        }
+      ],
+      "orig": "Fig. 6. Using  a second  nitrogen  purification step  to remove  the last  few percent  of hydrocarbon from the nitrogen stream facilitates reuse  of this nitrogen.  The permeate  contains  10-15% hydrocarbon  and can be flared  or,  as  shown,  mixed  with  feed  gas  from  the  purge  bin.",
+      "text": "Fig. 6. Using  a second  nitrogen  purification step  to remove  the last  few percent  of hydrocarbon from the nitrogen stream facilitates reuse  of this nitrogen.  The permeate  contains  10-15% hydrocarbon  and can be flared  or,  as  shown,  mixed  with  feed  gas  from  the  purge  bin."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.8,
+            "t": 359.2639829101563,
+            "r": 283.47200000000004,
+            "b": 327.3839829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "Fig. 7. A compression-condensation membrane  system  to recover pure nitrogen-free propylene  from a purge-bin  vent gas. In this design,  most of required  refrigeration is provided  by evaporation  of the recovered  propylene  liquid.",
+      "text": "Fig. 7. A compression-condensation membrane  system  to recover pure nitrogen-free propylene  from a purge-bin  vent gas. In this design,  most of required  refrigeration is provided  by evaporation  of the recovered  propylene  liquid."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.8,
+            "t": 305.4999829101563,
+            "r": 280.59999999999997,
+            "b": 295.04998291015636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Gompression-condensation  membrane  system.  If",
+      "text": "Gompression-condensation  membrane  system.  If",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.8,
+            "t": 294.2199829101563,
+            "r": 287.72999999999996,
+            "b": 261.68998291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 300.72,
+            "t": 809.2619829101562,
+            "r": 499.02600000000007,
+            "b": 799.4969829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            182,
+            227
+          ]
+        }
+      ],
+      "orig": "better  removal  ofnitrogen  from  the  recycled organic  stream is  required,  a compression-condensation design  is the optimum process. A system  designed to treat a concentrated propylene/nitrogen stream is shown in Fig. 7.",
+      "text": "better  removal  ofnitrogen  from  the  recycled organic  stream is  required,  a compression-condensation design  is the optimum process. A system  designed to treat a concentrated propylene/nitrogen stream is shown in Fig. 7."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 300.24,
+            "t": 797.5019829101562,
+            "r": 548.7690000000001,
+            "b": 643.2569829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            749
+          ]
+        }
+      ],
+      "orig": "After  compression and cooling, most of the propylene and some of the ethylene and nitrogen  are removed as a condensed  liquid.  This C3+ hydrocarbon condensate  is first  flashed at low pressure to remove dissolved nitrogen and most of the dissolved  ethylene. These gases  are returned  to the  inlet  of the  compressor for  treatment. The nitrogen-free  condensed C3+ hydrocarbon  stream (stream 2,Fig.7)  is then ready to be recycled  to the polymerization reactor. The remaining  uncondensed  fraction of the  propylene  is removed from  the  condenser offgas by the membrane step. The residue gas, which is essentially  free of all  C3+ hydrocarbons and contains only nitrogen  and ethylene, is recycled to the purge bin (stream  3, Fig. 7).",
+      "text": "After  compression and cooling, most of the propylene and some of the ethylene and nitrogen  are removed as a condensed  liquid.  This C3+ hydrocarbon condensate  is first  flashed at low pressure to remove dissolved nitrogen and most of the dissolved  ethylene. These gases  are returned  to the  inlet  of the  compressor for  treatment. The nitrogen-free  condensed C3+ hydrocarbon  stream (stream 2,Fig.7)  is then ready to be recycled  to the polymerization reactor. The remaining  uncondensed  fraction of the  propylene  is removed from  the  condenser offgas by the membrane step. The residue gas, which is essentially  free of all  C3+ hydrocarbons and contains only nitrogen  and ethylene, is recycled to the purge bin (stream  3, Fig. 7)."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 300.0,
+            "t": 640.5419829101563,
+            "r": 547.128,
+            "b": 576.0569829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            306
+          ]
+        }
+      ],
+      "orig": "The main  design disadvantage is the refrigeration required to cool the incoming feed gas to  -20' to  -30'C. However, by using  the recovered liquid  propylene  as a refrigeration medium  to unload  the condenser, as shown in  Fig.  7, the external  refrigeration  requirement  can be reduced tp  to 60Vo.",
+      "text": "The main  design disadvantage is the refrigeration required to cool the incoming feed gas to  -20' to  -30'C. However, by using  the recovered liquid  propylene  as a refrigeration medium  to unload  the condenser, as shown in  Fig.  7, the external  refrigeration  requirement  can be reduced tp  to 60Vo."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.88,
+            "t": 557.7499829101563,
+            "r": 545.3299999999999,
+            "b": 537.0449829101564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "1  Baker,  R.W and  J.  G.  Wijmans, \"Membrane Separation of  Organic Vapors  from  Gas Streams,\" Polymeric Gas  Separation Membranes, D.  R.  Paul and  Y P  Yampol'skii, (eds.),  CRC  Press, Boca Raton,  Florida,1994.",
+      "text": "1  Baker,  R.W and  J.  G.  Wijmans, \"Membrane Separation of  Organic Vapors  from  Gas Streams,\" Polymeric Gas  Separation Membranes, D.  R.  Paul and  Y P  Yampol'skii, (eds.),  CRC  Press, Boca Raton,  Florida,1994.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.64,
+            "t": 536.8699829101563,
+            "r": 545.55,
+            "b": 529.1249829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "z  Burdett, I.  D.,  \"A  Continuing Success,  The  Unipol Process,\"  Chem.  Tech.,  October  7992.",
+      "text": "z  Burdett, I.  D.,  \"A  Continuing Success,  The  Unipol Process,\"  Chem.  Tech.,  October  7992.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.64,
+            "t": 529.9099829101564,
+            "r": 533.55,
+            "b": 522.1649829101564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "3  Chemical Marketing Reporte4  Polyethylene and  Polypropylene Profile, May  1994.",
+      "text": "3  Chemical Marketing Reporte4  Polyethylene and  Polypropylene Profile, May  1994.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.16,
+            "t": 425.7439829101563,
+            "r": 319.776,
+            "b": 418.3439829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "dew",
+      "text": "dew"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 329.76,
+            "t": 425.7439829101563,
+            "r": 338.688,
+            "b": 418.3439829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "iL",
+      "text": "iL"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 350.4,
+            "t": 425.5039829101563,
+            "r": 361.584,
+            "b": 418.1039829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "iffi",
+      "text": "iffi"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 369.12,
+            "t": 498.94398291015625,
+            "r": 419.08,
+            "b": 491.30398291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "The  authors",
+      "text": "The  authors",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 368.4,
+            "t": 487.9039829101563,
+            "r": 546.5039999999999,
+            "b": 416.6639829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            388
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 299.76,
+            "t": 416.3839829101563,
+            "r": 546.928,
+            "b": 399.86398291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            389,
+            479
+          ]
+        }
+      ],
+      "orig": "Richard W. Baker  is president  of  Membrane Technology  and Research,  lnc., Menlo Park, California.  He received  a BS  in  chemistry  from Chelsea College, London Universi$  and a PhD in physical chemistry from Imperial College, London University.  A member of several  professionalassociations  as well as of  ACS,  he seryes on editorial boards of fhe Journal of Membrane Science and the Journal of Controlled Release,  and  has published  more than 100 papers  and patents.",
+      "text": "Richard W. Baker  is president  of  Membrane Technology  and Research,  lnc., Menlo Park, California.  He received  a BS  in  chemistry  from Chelsea College, London Universi$  and a PhD in physical chemistry from Imperial College, London University.  A member of several  professionalassociations  as well as of  ACS,  he seryes on editorial boards of fhe Journal of Membrane Science and the Journal of Controlled Release,  and  has published  more than 100 papers  and patents."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 299.28,
+            "t": 392.3839829101563,
+            "r": 478.87199999999996,
+            "b": 294.2639829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            527
+          ]
+        }
+      ],
+      "orig": "Marc  Jacobs istheVaporSep sa/es  andbusiness development manager at Membrane Technology and Research,  lnc., Menlo Park, California.  He is responsible  for the company's custom engineer,ng systems buslness and for its licensing activities.  Mr.  Jacobs has  more than 16  years  of experience in  developing,  designing  and  operating equipment for the chemical  process  lndusfr-es.  He has  a BS in engineering from Lehigh University,  an MS from Carnegie-Mellon,  and an MBA from the University  of California,  Berkeley.",
+      "text": "Marc  Jacobs istheVaporSep sa/es  andbusiness development manager at Membrane Technology and Research,  lnc., Menlo Park, California.  He is responsible  for the company's custom engineer,ng systems buslness and for its licensing activities.  Mr.  Jacobs has  more than 16  years  of experience in  developing,  designing  and  operating equipment for the chemical  process  lndusfr-es.  He has  a BS in engineering from Lehigh University,  an MS from Carnegie-Mellon,  and an MBA from the University  of California,  Berkeley."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 299.28,
+            "t": 278.3839829101563,
+            "r": 548.7919999999999,
+            "b": 261.1439829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "Marc Jacobs  can be reached  at MembraneTechnology  and Research Inc., Menlo Park, California, 41  *328-2228  (phone);  41  5-328-6580  (fax).",
+      "text": "Marc Jacobs  can be reached  at MembraneTechnology  and Research Inc., Menlo Park, California, 41  *328-2228  (phone);  41  5-328-6580  (fax)."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 212.64,
+            "t": 80.38798291015632,
+            "r": 367.82400000000007,
+            "b": 74.11798291015634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "}ITDROCARBON PROCESSING / MARCH  1996",
+      "text": "}ITDROCARBON PROCESSING / MARCH  1996"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 590.16,
+            "t": 509.03198291015633,
+            "r": 591.048,
+            "b": 505.33198291015634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "l",
+      "text": "l"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 590.64,
+            "t": 486.7119829101563,
+            "r": 591.752,
+            "b": 483.0119829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 590.88,
+            "t": 473.03198291015633,
+            "r": 591.992,
+            "b": 469.33198291015634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 46.56,
+            "t": 95.25998291015628,
+            "r": 93.81000000000002,
+            "b": 86.00998291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "F15ftfi/096",
+      "text": "F15ftfi/096"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 152.88,
+            "t": 95.01998291015627,
+            "r": 424.87999999999994,
+            "b": 83.84998291015631,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "Cspfight  @  1C06 W @ulf  Rrblieltiry Canpeny.  Al rbfit8 r\u20acserv6d.",
+      "text": "Cspfight  @  1C06 W @ulf  Rrblieltiry Canpeny.  Al rbfit8 r\u20acserv6d."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 491.04,
+            "t": 94.53998291015625,
+            "r": 557.9599999999999,
+            "b": 85.04998291015636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "r,?hrt$ in U.SA.",
+      "text": "r,?hrt$ in U.SA."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.80413818359375,
+            "t": 654.2151489257812,
+            "r": 549.8695678710938,
+            "b": 558.3956909179688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.8681335449219,
+            "t": 509.3082275390625,
+            "r": 549.782470703125,
+            "b": 404.609619140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.69264221191406,
+            "t": 811.2849235534668,
+            "r": 286.4757080078125,
+            "b": 685.9319458007812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.80625534057617,
+            "t": 675.0041351318359,
+            "r": 286.21722412109375,
+            "b": 494.9587707519531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 302.4395751953125,
+            "t": 811.969425201416,
+            "r": 551.219970703125,
+            "b": 678.8026885986328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 304.14556884765625,
+            "t": 649.2962799072266,
+            "r": 551.0762329101562,
+            "b": 430.7497863769531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.4833869934082,
+            "t": 811.0004501342773,
+            "r": 282.0019836425781,
+            "b": 649.2348480224609,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.92850875854492,
+            "t": 603.8098449707031,
+            "r": 281.8603210449219,
+            "b": 363.9000549316406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 298.6233825683594,
+            "t": 502.7767639160156,
+            "r": 365.1181640625,
+            "b": 419.06964111328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 478.37750244140625,
+            "t": 391.1850280761719,
+            "r": 545.7730102539062,
+            "b": 305.56329345703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.67828369140625,
+            "t": 505.4740295410156,
+            "r": 539.029541015625,
+            "b": 439.83612060546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 45.991004943847656,
+            "t": 438.7535095214844,
+            "r": 270.0916442871094,
+            "b": 374.26123046875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.47998046875,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.47998046875,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.47998046875,
+        "height": 841.9199829101562
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.47998046875,
+        "height": 841.9199829101562
+      },
+      "page_no": 4
+    }
+  }
+}

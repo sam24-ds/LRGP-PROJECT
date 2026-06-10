@@ -1,0 +1,6648 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "ST8_membrane_contactor",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12708816885580214985,
+    "filename": "ST8_membrane_contactor.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/145"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/147"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/150"
+      },
+      {
+        "$ref": "#/texts/151"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/144"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/146"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.056,
+            "t": 785.3012460484375,
+            "r": 97.304904,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "FellesLab",
+      "text": "FellesLab"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 266.797,
+            "t": 785.3012460484375,
+            "r": 328.5123182199999,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Aug-Nov 2021",
+      "text": "Aug-Nov 2021"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 502.0010346199999,
+            "t": 785.3012460484375,
+            "r": 538.2549360200001,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "p. 1 of 5",
+      "text": "p. 1 of 5"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 82.121,
+            "t": 753.6481646484375,
+            "r": 513.1924062500001,
+            "b": 710.5994896484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Carbon dioxide absorption in a membrane contactor",
+      "text": "Carbon dioxide absorption in a membrane contactor",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 259.929,
+            "t": 696.0844135484374,
+            "r": 334.87992011,
+            "b": 686.6340146484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Nesrine Bali \u2217",
+      "text": "Nesrine Bali \u2217"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 198.69199999999998,
+            "t": 669.1552460484373,
+            "r": 396.61797794,
+            "b": 660.3582702484373,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Department of Chemical Engineering, NTNU",
+      "text": "Department of Chemical Engineering, NTNU"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 259.68399999999997,
+            "t": 646.6353845484373,
+            "r": 336.7175187399998,
+            "b": 637.0026492484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "19. August 2021",
+      "text": "19. August 2021"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 275.89099999999996,
+            "t": 598.4598720484373,
+            "r": 319.72643999999985,
+            "b": 589.5632702484372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 81.229,
+            "t": 573.3648642484375,
+            "r": 513.3424600806391,
+            "b": 532.5705330484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            414
+          ]
+        }
+      ],
+      "orig": "The objective of this laboratory experiment is to determine carbon dioxide absorption rate as a function of the liquid velocity in a hollow fiber membrane contactor. The experimentally measured absorption rate is to be compared with an absorption rate predicted by a model. The applicability of the model is then to be critically analyzed to assess if the provided model is good enough for describing this process.",
+      "text": "The objective of this laboratory experiment is to determine carbon dioxide absorption rate as a function of the liquid velocity in a hollow fiber membrane contactor. The experimentally measured absorption rate is to be compared with an absorption rate predicted by a model. The applicability of the model is then to be critically analyzed to assess if the provided model is good enough for describing this process."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 128.06799999999998,
+            "t": 518.0254755484374,
+            "r": 216.05316423000002,
+            "b": 508.2836492484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "1 Introduction",
+      "text": "1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.697,
+            "t": 495.4342460484375,
+            "r": 289.35279650848,
+            "b": 319.26527024843745,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            764
+          ]
+        }
+      ],
+      "orig": "Liquid/liquid or gas/liquid interphase interactions are traditionally carried out using a column, a tower or a mixer. All these designs require that the two phases are in direct contact. This direct contact could lead to unwanted phenomena such as foaming, flooding and formation of emulsions, that will reduce the efficiency of the process (Gabelman & Hwang 1999). An alternative for overcoming these complications are the use of non-dispersive contact using a microporous membrane, which also gives a large interfacial area. This experiment introduces a membrane contacting process, which is a hybrid of gas absorption and membrane separation process (Atchariyawut et al. 2008) and uses it to study the absorption of CO 2 from a gas stream into a liquid solvent.",
+      "text": "Liquid/liquid or gas/liquid interphase interactions are traditionally carried out using a column, a tower or a mixer. All these designs require that the two phases are in direct contact. This direct contact could lead to unwanted phenomena such as foaming, flooding and formation of emulsions, that will reduce the efficiency of the process (Gabelman & Hwang 1999). An alternative for overcoming these complications are the use of non-dispersive contact using a microporous membrane, which also gives a large interfacial area. This experiment introduces a membrane contacting process, which is a hybrid of gas absorption and membrane separation process (Atchariyawut et al. 2008) and uses it to study the absorption of CO 2 from a gas stream into a liquid solvent."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 97.868,
+            "t": 300.2074755484375,
+            "r": 246.56230573000005,
+            "b": 290.46564924843756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "2 Theoretical background",
+      "text": "2 Theoretical background",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.677,
+            "t": 277.61724604843744,
+            "r": 289.3549205348,
+            "b": 209.04427024843756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            292
+          ]
+        }
+      ],
+      "orig": "A membrane contactor is a device where the mass transfer occurs between two phases without dispersion of one phase within another. That mass transfer is diffusive transport and by assuming steady-state conditions the molar absorption rate is described by Fick's first law, defined by eq. (1).",
+      "text": "A membrane contactor is a device where the mass transfer occurs between two phases without dispersion of one phase within another. That mass transfer is diffusive transport and by assuming steady-state conditions the molar absorption rate is described by Fick's first law, defined by eq. (1)."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 129.95499999999998,
+            "t": 197.50751864843755,
+            "r": 287.69121028,
+            "b": 174.32490452567095,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "J A = -D A ( \u2202\u00b5 A \u2202x ) (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.056,
+            "t": 162.61824604843753,
+            "r": 289.3525543383999,
+            "b": 94.04627024843751,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        }
+      ],
+      "orig": "J A is the flux of a component A across a surface, D A the diffusion coefficient of the component, x the distance and \u00b5 A is the chemical potential. The absorption rate, which is the same as the flux, is then driven by the difference in chemical potential across the interface and will have a continuous profile as shown in fig. 1.",
+      "text": "J A is the flux of a component A across a surface, D A the diffusion coefficient of the component, x the distance and \u00b5 A is the chemical potential. The absorption rate, which is the same as the flux, is then driven by the difference in chemical potential across the interface and will have a continuous profile as shown in fig. 1."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.838,
+            "t": 84.32958104843749,
+            "r": 147.92099406999998,
+            "b": 75.85181524843756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "\u2217 arne.t.elve@ntnu.no",
+      "text": "\u2217 arne.t.elve@ntnu.no",
+      "hyperlink": "arne.t.elve@ntnu.no"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.616,
+            "t": 380.7112460484375,
+            "r": 538.2473606215992,
+            "b": 359.9592702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Figure 1: Illustration of chemical potential profile across the membrane and the two phases.",
+      "text": "Figure 1: Illustration of chemical potential profile across the membrane and the two phases."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 351.666,
+            "t": 416.73124604843747,
+            "r": 377.32168752,
+            "b": 407.9342702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Phase",
+      "text": "Phase"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 380.64,
+            "t": 416.6714704484375,
+            "r": 387.01307521999996,
+            "b": 407.96490452567093,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\u03b1",
+      "text": "\u03b1"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 410.154,
+            "t": 416.73124604843747,
+            "r": 456.12044014,
+            "b": 407.9342702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Membrane",
+      "text": "Membrane"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 479.34900000000005,
+            "t": 417.6722460484375,
+            "r": 505.00468752000006,
+            "b": 408.8752702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Phase",
+      "text": "Phase"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 508.32400000000007,
+            "t": 417.61247044843753,
+            "r": 513.95884656,
+            "b": 408.90590452567096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\u03b2",
+      "text": "\u03b2"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 518.165,
+            "t": 405.2024704484375,
+            "r": 523.8586259,
+            "b": 396.49590452567094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "x",
+      "text": "x"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 316.34000000000003,
+            "t": 519.5564704484375,
+            "r": 322.34346276,
+            "b": 510.8499045256709,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\u00b5",
+      "text": "\u00b5"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 322.343,
+            "t": 516.0211200484374,
+            "r": 328.33419158000004,
+            "b": 509.92654138100227,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "A",
+      "text": "A"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.258,
+            "t": 344.84624604843754,
+            "r": 539.9152526779999,
+            "b": 180.63127024843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            747
+          ]
+        }
+      ],
+      "orig": "To simplify the calculation, we split the diffusion into three segments. The first segment is from the gas phase into the membrane surface (phase \u03b1 ), the second segment is the membrane, and the last segment is from the membrane surface into the liquid bulk (phase \u03b2 ). For the first two segments, the mass transport rate is fast (Kreulen et al. 1993). We, therefore, simplify by assuming very fast diffusion from the gas phase into the interphase at the boundary between the membrane and the liquid phase. The flux is then limited by the solubility of CO 2 in water. By doing the assumption of fast transport into membrane limited by the solubility, the flux can then be described by eq. (2), which will be used for comparison in this experiment.",
+      "text": "To simplify the calculation, we split the diffusion into three segments. The first segment is from the gas phase into the membrane surface (phase \u03b1 ), the second segment is the membrane, and the last segment is from the membrane surface into the liquid bulk (phase \u03b2 ). For the first two segments, the mass transport rate is fast (Kreulen et al. 1993). We, therefore, simplify by assuming very fast diffusion from the gas phase into the interphase at the boundary between the membrane and the liquid phase. The flux is then limited by the solubility of CO 2 in water. By doing the assumption of fast transport into membrane limited by the solubility, the flux can then be described by eq. (2), which will be used for comparison in this experiment."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 379.615,
+            "t": 166.08112004843747,
+            "r": 538.25121028,
+            "b": 153.40954138100233,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "J A = k L ( C i A -C b A ) (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 307.108,
+            "t": 138.70824604843756,
+            "r": 539.9169529051993,
+            "b": 91.90354138100236,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "Where, k L , represents the average liquid phase mass transfer coefficient, C i A is the interface concentration as given by Henry's law, and the liquid bulk concentration is represented by C b A . The mass transfer",
+      "text": "Where, k L , represents the average liquid phase mass transfer coefficient, C i A is the interface concentration as given by Henry's law, and the liquid bulk concentration is represented by C b A . The mass transfer"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 60.377,
+            "t": 785.3012460484375,
+            "r": 96.63090140000003,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "p. 2 of 5",
+      "text": "p. 2 of 5"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 238.81712860000002,
+            "t": 785.3012460484375,
+            "r": 356.48838598000003,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "ST8: Membrane Contactor",
+      "text": "ST8: Membrane Contactor"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 497.741,
+            "t": 785.3012460484375,
+            "r": 537.989904,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "FellesLab",
+      "text": "FellesLab"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.056,
+            "t": 753.7522460484375,
+            "r": 289.35577831466003,
+            "b": 721.0442702484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "coefficient can be estimated using the Sherwood number, which describes the ratio between convective and diffusive mass transport, defined by eq. (3).",
+      "text": "coefficient can be estimated using the Sherwood number, which describes the ratio between convective and diffusive mass transport, defined by eq. (3)."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 150.15699999999998,
+            "t": 707.9284704484376,
+            "r": 287.69121028,
+            "b": 684.7245413810023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Sh = k L d D A (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.056,
+            "t": 673.5562460484375,
+            "r": 287.6944739179999,
+            "b": 628.8942702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "Sh is the Sherwood number, d is diameter and D A is the diffusion coefficient. The Sherwood number can be estimated using the analogy of Leveque's solution for heat transfer (Leveque 1928).",
+      "text": "Sh is the Sherwood number, d is diameter and D A is the diffusion coefficient. The Sherwood number can be estimated using the analogy of Leveque's solution for heat transfer (Leveque 1928)."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.989,
+            "t": 614.2872460484375,
+            "r": 287.69121028,
+            "b": 605.4902702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "For Gz < 10 , Sh = 3 . 67 (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 102.989,
+            "t": 600.1471303484376,
+            "r": 287.69121028,
+            "b": 587.0952702484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "For Gz > 20 , Sh = 1 . 62 ( Gz ) 1 3 (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.697,
+            "t": 572.4892460484375,
+            "r": 289.3533862944001,
+            "b": 539.7812702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "For the intermediate range of Graetz numbers the Sherwood number can be estimated using the definition defined by eq. (6).",
+      "text": "For the intermediate range of Graetz numbers the Sherwood number can be estimated using the definition defined by eq. (6)."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 117.09299999999999,
+            "t": 527.0741303484376,
+            "r": 287.69121028,
+            "b": 512.8872702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Sh = ( 3 . 67 3 +1 . 62 3 Gz ) 1 3 (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.548,
+            "t": 498.2812460484375,
+            "r": 288.0594955765601,
+            "b": 477.5292702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "With Gz representing the Graetz number defined by eq. (7).",
+      "text": "With Gz representing the Graetz number defined by eq. (7)."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 146.495,
+            "t": 474.0569628484375,
+            "r": 287.69121028,
+            "b": 449.2365413810023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Gz = v L d 2 D A L (7)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.548,
+            "t": 441.3672460484375,
+            "r": 288.05460995288,
+            "b": 372.7942702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            288
+          ]
+        }
+      ],
+      "orig": "Where, v L is the liquid velocity and L is the length of the fiber. By assuming laminar flow of liquid and a fully developed velocity profile through the hollow fiber, the bulk concentration in the liquid at any axial distance, z , is given by (Dindore et al. 2005) as defined in eq. (8).",
+      "text": "Where, v L is the liquid velocity and L is the length of the fiber. By assuming laminar flow of liquid and a fully developed velocity profile through the hollow fiber, the bulk concentration in the liquid at any axial distance, z , is given by (Dindore et al. 2005) as defined in eq. (8)."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 101.223,
+            "t": 359.79151864843755,
+            "r": 287.69121028,
+            "b": 335.68554138100234,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "C b A \u2223 \u2223 \u2223 z = C i A [ 1 -exp ( -4 k L z v L d )] (8)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.548,
+            "t": 323.38224604843754,
+            "r": 287.8880254952,
+            "b": 266.76427024843747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "Where v is the liquid velocity and d is the diameter of the pipe. The average bulk concentration in the fiber, to be used in eq. (2), can be obtained from the integration of C b A over the length of the fiber, L , as defined in eq. (9).",
+      "text": "Where v is the liquid velocity and d is the diameter of the pipe. The average bulk concentration in the fiber, to be used in eq. (2), can be obtained from the integration of C b A over the length of the fiber, L , as defined in eq. (9)."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 127.249,
+            "t": 253.75912004843758,
+            "r": 287.69121028,
+            "b": 227.46909744843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "\u2329 C b A \u232a = 1 L \u222b L 0 C b A dz (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.697,
+            "t": 215.76924604843748,
+            "r": 289.3563491716401,
+            "b": 75.46527024843749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            642
+          ]
+        }
+      ],
+      "orig": "The model defined by eq. (2) is valid only for physical absorption of gas with constant gas-liquid interface conditions. This is not the case in this experiment. A high partial pressure would impose a high absorption rate, which will reduce the total pressure in the gas phase. This will lead to a significant drop in the partial pressure in the gas phase, and therefore a lower concentration at the gas-liquid interface across the length of the fiber. In this situation, high deviations may occur between the flux predicted by the model and experimentally measured flux, particularly at high liquid flow rates, when the absorption is higher.",
+      "text": "The model defined by eq. (2) is valid only for physical absorption of gas with constant gas-liquid interface conditions. This is not the case in this experiment. A high partial pressure would impose a high absorption rate, which will reduce the total pressure in the gas phase. This will lead to a significant drop in the partial pressure in the gas phase, and therefore a lower concentration at the gas-liquid interface across the length of the fiber. In this situation, high deviations may occur between the flux predicted by the model and experimentally measured flux, particularly at high liquid flow rates, when the absorption is higher."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 313.18199999999996,
+            "t": 754.5134755484376,
+            "r": 532.37418266,
+            "b": 744.7716492484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "3 Set-up and exeperimental procedure",
+      "text": "3 Set-up and exeperimental procedure",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.258,
+            "t": 731.9312460484375,
+            "r": 538.2554901031991,
+            "b": 699.2232702484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "The experimental set-up is illustrated in fig. 2 with the corresponding symbol explanations included in table 1.",
+      "text": "The experimental set-up is illustrated in fig. 2 with the corresponding symbol explanations included in table 1."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.258,
+            "t": 689.6892460484374,
+            "r": 538.4490993400001,
+            "b": 668.9372702484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Table 1: Unit description of the membrane contactor rig illustrated in fig. 2.",
+      "text": "Table 1: Unit description of the membrane contactor rig illustrated in fig. 2."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.616,
+            "t": 421.8148720484375,
+            "r": 399.27789756000016,
+            "b": 412.9182702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Set-up description",
+      "text": "Set-up description",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.258,
+            "t": 403.3262460484375,
+            "r": 540.1887127079999,
+            "b": 95.64927024843746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1380
+          ]
+        }
+      ],
+      "orig": "The setup is designed for having a mixture of CO 2 and N 2 in contact with a solvent, which will be water for this experiment, using a membrane contactor. This facilitates the absorption of components between the contacting phases. The membrane contactor module used in this experiment consists of two membrane contactors coupled in parallel, doubling the total capacity. Each of the two membrane contactors contain thousands of small tubes densely packed together with a diameter of each tube in the scale of \u00b5m . The result is that the relative surface area is very large compared to total volume. The walls of these tubes are the membrane fiber. The solvent will be inside the tubes and the gas will be on the outside. Physical parameters on the membrane are available either in data sheets located in the lab or measurable. The letters in the measurements are P for pressure, H for humidity, F for flow, T for temperature. The controllers also have an information bubble, and the C stands for controller. Set-points for the controllers are manipulated via the software. The raw data from the IR-sensor is a number between 0 and 2 16 , which you have to calibrate to a number that corresponds to the concentration before you can start the experiment. More information on the manipulation of the set-points for the controller and the calibration of the IR sensor is given below.",
+      "text": "The setup is designed for having a mixture of CO 2 and N 2 in contact with a solvent, which will be water for this experiment, using a membrane contactor. This facilitates the absorption of components between the contacting phases. The membrane contactor module used in this experiment consists of two membrane contactors coupled in parallel, doubling the total capacity. Each of the two membrane contactors contain thousands of small tubes densely packed together with a diameter of each tube in the scale of \u00b5m . The result is that the relative surface area is very large compared to total volume. The walls of these tubes are the membrane fiber. The solvent will be inside the tubes and the gas will be on the outside. Physical parameters on the membrane are available either in data sheets located in the lab or measurable. The letters in the measurements are P for pressure, H for humidity, F for flow, T for temperature. The controllers also have an information bubble, and the C stands for controller. Set-points for the controllers are manipulated via the software. The raw data from the IR-sensor is a number between 0 and 2 16 , which you have to calibrate to a number that corresponds to the concentration before you can start the experiment. More information on the manipulation of the set-points for the controller and the calibration of the IR sensor is given below."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.056,
+            "t": 785.3012460484375,
+            "r": 97.304904,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "FellesLab",
+      "text": "FellesLab"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 266.797,
+            "t": 785.3012460484375,
+            "r": 328.5123182199999,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Aug-Nov 2021",
+      "text": "Aug-Nov 2021"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 502.0010346199999,
+            "t": 785.3012460484375,
+            "r": 538.2549360200001,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "p. 3 of 5",
+      "text": "p. 3 of 5"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.056,
+            "t": 527.8322460484375,
+            "r": 538.2533458628002,
+            "b": 507.0802702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "Figure 2: This figure illustrates the experimental setup for the membrane contactor rig. The units are explained in table 1.",
+      "text": "Figure 2: This figure illustrates the experimental setup for the membrane contactor rig. The units are explained in table 1."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 88.464,
+            "t": 562.2312460484376,
+            "r": 95.93594999999999,
+            "b": 553.4342702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "H",
+      "text": "H"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 95.93599999999999,
+            "t": 558.6779628484376,
+            "r": 99.90688171999999,
+            "b": 552.5200974484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 100.40499999999999,
+            "t": 562.2312460484376,
+            "r": 108.15391027999999,
+            "b": 553.4342702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "O",
+      "text": "O"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 195.075,
+            "t": 581.3715810484375,
+            "r": 199.96766559999998,
+            "b": 576.0933602484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "P",
+      "text": "P"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 393.5,
+            "t": 581.3715810484375,
+            "r": 398.3926656,
+            "b": 576.0933602484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "P",
+      "text": "P"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 434.16200000000003,
+            "t": 558.9268609284375,
+            "r": 442.76789313200004,
+            "b": 557.1674657684374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "[myBlack]",
+      "text": "[myBlack]"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 433.985,
+            "t": 581.3715810484375,
+            "r": 444.07997088,
+            "b": 576.0933602484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "PC",
+      "text": "PC"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 488.033,
+            "t": 562.4532460484376,
+            "r": 502.28549556,
+            "b": 553.6562702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Liq",
+      "text": "Liq"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 88.602,
+            "t": 647.2712460484375,
+            "r": 103.5459,
+            "b": 638.4742702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "CO",
+      "text": "CO"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.546,
+            "t": 643.7169628484376,
+            "r": 107.51688172,
+            "b": 637.5590974484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 92.338,
+            "t": 732.3102460484375,
+            "r": 99.80994999999999,
+            "b": 723.5132702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 99.80999999999999,
+            "t": 728.7569628484375,
+            "r": 103.78088171999998,
+            "b": 722.5990974484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 136.524,
+            "t": 643.9658609284376,
+            "r": 145.129893132,
+            "b": 642.2064657684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "[myBlack]",
+      "text": "[myBlack]"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 136.541,
+            "t": 666.4105810484375,
+            "r": 146.25101344,
+            "b": 661.1323602484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "FC",
+      "text": "FC"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 136.524,
+            "t": 729.0048609284376,
+            "r": 145.129893132,
+            "b": 727.2454657684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "[myBlack]",
+      "text": "[myBlack]"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 136.541,
+            "t": 751.4495810484375,
+            "r": 146.25101344,
+            "b": 746.1713602484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "FC",
+      "text": "FC"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 218.886,
+            "t": 751.4495810484375,
+            "r": 229.44602816,
+            "b": 746.1713602484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "HT",
+      "text": "HT"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 241.56199999999998,
+            "t": 751.4495810484375,
+            "r": 246.45466559999997,
+            "b": 746.1713602484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "P",
+      "text": "P"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 262.97615371999996,
+            "t": 672.8699077804374,
+            "r": 264.73554888,
+            "b": 664.2640146484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "[myBlack]",
+      "text": "[myBlack]"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 326.88599999999997,
+            "t": 751.4495810484375,
+            "r": 331.77866559999995,
+            "b": 746.1713602484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "P",
+      "text": "P"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 347.706,
+            "t": 729.0048609284376,
+            "r": 356.311893132,
+            "b": 727.2454657684376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "[myBlack]",
+      "text": "[myBlack]"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 347.528,
+            "t": 751.4495810484375,
+            "r": 357.62297088,
+            "b": 746.1713602484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "PC",
+      "text": "PC"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 394.73199999999997,
+            "t": 731.5632460484376,
+            "r": 405.66296471999993,
+            "b": 722.7662702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "IR",
+      "text": "IR"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 486.79499999999996,
+            "t": 731.5632460484376,
+            "r": 503.52419791999995,
+            "b": 722.7662702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Gas",
+      "text": "Gas"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 397.654,
+            "t": 751.4495810484375,
+            "r": 402.74033984,
+            "b": 746.1713602484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "B",
+      "text": "B"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.056,
+            "t": 482.5028720484375,
+            "r": 124.51973842,
+            "b": 473.6062702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Experimental",
+      "text": "Experimental",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.678,
+            "t": 464.0132460484375,
+            "r": 287.69246244199996,
+            "b": 443.26127024843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "A summary of the experimental procedure is given below.",
+      "text": "A summary of the experimental procedure is given below."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 68.74799999999999,
+            "t": 430.1652460484375,
+            "r": 274.4095313328,
+            "b": 397.45827024843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "i Fill 25 liters of distilled water into the feeding tank and add a small amount of dissolved BTB (Bromothymol blue).",
+      "text": "i Fill 25 liters of distilled water into the feeding tank and add a small amount of dissolved BTB (Bromothymol blue).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.188,
+            "t": 388.32224604843753,
+            "r": 272.7460361604,
+            "b": 367.5702702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "ii Add the required amount of NaOH 0.01 M into the feeding tank.",
+      "text": "ii Add the required amount of NaOH 0.01 M into the feeding tank.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 63.629000000000005,
+            "t": 358.4342460484375,
+            "r": 274.6798365960001,
+            "b": 337.68227024843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "iii Give the controllers the selected set-points. More information on the controllers below.",
+      "text": "iii Give the controllers the selected set-points. More information on the controllers below.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 63.885000000000005,
+            "t": 328.5462460484375,
+            "r": 274.4068713186,
+            "b": 295.8392702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "iv Calibrate the IR sensor in the region you expect to operate. More information on how to perform the calibration below.",
+      "text": "iv Calibrate the IR sensor in the region you expect to operate. More information on how to perform the calibration below.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.444,
+            "t": 286.70324604843745,
+            "r": 273.0158953975999,
+            "b": 230.0852702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "v Start the experiment by pumping the feeding water into the lumen of the hollow fibers. Start with a low pump velocity. Before you start taking measurements, make sure that there is no air in the liquid feeding hose.",
+      "text": "v Start the experiment by pumping the feeding water into the lumen of the hollow fibers. Start with a low pump velocity. Before you start taking measurements, make sure that there is no air in the liquid feeding hose.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 314.445,
+            "t": 482.4032460484375,
+            "r": 524.9756284439995,
+            "b": 342.0992702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            512
+          ]
+        }
+      ],
+      "orig": "vi When the concentration of CO 2 stabilizes, determine the liquid flow rate by measuring the time necessary to collect a given volume of liquid. This have be done manually using a measuring cylinder and a stop watch. Record gas temperatures, flow rates of CO 2 and N 2 in the gas inlet, pressures in liquid and gas phases in both inlet and outlet and composition of the outlet gas stream. This is handled by the software. To start the measuring press \" Start \". Stop the measuring by pressing \" Stop Sampling \".",
+      "text": "vi When the concentration of CO 2 stabilizes, determine the liquid flow rate by measuring the time necessary to collect a given volume of liquid. This have be done manually using a measuring cylinder and a stop watch. Record gas temperatures, flow rates of CO 2 and N 2 in the gas inlet, pressures in liquid and gas phases in both inlet and outlet and composition of the outlet gas stream. This is handled by the software. To start the measuring press \" Start \". Stop the measuring by pressing \" Stop Sampling \".",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.885,
+            "t": 332.9632460484375,
+            "r": 525.2422076948001,
+            "b": 264.39027024843745,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "vii Repeat the two previous points with an increased liquid flow rate by increasing the pump speed. Collect data for ten different flow rates. As the experiment progresses, you should be able to observe a color change from blue to yellow.",
+      "text": "vii Repeat the two previous points with an increased liquid flow rate by increasing the pump speed. Collect data for ten different flow rates. As the experiment progresses, you should be able to observe a color change from blue to yellow.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 309.325,
+            "t": 255.2542460484375,
+            "r": 523.3059066466,
+            "b": 234.50227024843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "viii Upon completion the experiments, re-set the controllers, transfer your data and clean up.",
+      "text": "viii Upon completion the experiments, re-set the controllers, transfer your data and clean up.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/tables/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.698,
+            "t": 200.62624604843745,
+            "r": 538.61631132952,
+            "b": 167.91827024843747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            312
+          ]
+        }
+      ],
+      "orig": "Table 2: Controllers in the membrane contactor rig. The setpoints for the flow controllers will be decided by you. The total flow in the gas phase should not exceed 0 . 5 L/min . Note that the pressure in the gas phase is given in absolute pressure, while the pressure in the liquid phase uses relative pressure.",
+      "text": "Table 2: Controllers in the membrane contactor rig. The setpoints for the flow controllers will be decided by you. The total flow in the gas phase should not exceed 0 . 5 L/min . Note that the pressure in the gas phase is given in absolute pressure, while the pressure in the liquid phase uses relative pressure."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 60.377,
+            "t": 785.3012460484375,
+            "r": 96.63090140000003,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "p. 4 of 5",
+      "text": "p. 4 of 5"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.81712860000002,
+            "t": 785.3012460484375,
+            "r": 356.48838598000003,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "ST8: Membrane Contactor",
+      "text": "ST8: Membrane Contactor"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 497.741,
+            "t": 785.3012460484375,
+            "r": 537.989904,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "FellesLab",
+      "text": "FellesLab"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 57.056,
+            "t": 753.8518720484376,
+            "r": 155.3519929,
+            "b": 744.9552702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Setup of controllers",
+      "text": "Setup of controllers",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.697,
+            "t": 735.3622460484376,
+            "r": 289.61912868679997,
+            "b": 630.9242702484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            465
+          ]
+        }
+      ],
+      "orig": "There are in total four controllers that require a given set-point. These controllers are listed and specified in table 2. Note that pressure controller for the gas phase operates with absolute pressure, while the pressure controller for the liquid phase uses relative pressure. The set-point for the flow controllers will be decided by you, but the total amount of gas should not exceed 0 . 5 [ L min ] . The flow rates for the flow controllers are set in SLPM 1 .",
+      "text": "There are in total four controllers that require a given set-point. These controllers are listed and specified in table 2. Note that pressure controller for the gas phase operates with absolute pressure, while the pressure controller for the liquid phase uses relative pressure. The set-point for the flow controllers will be decided by you, but the total amount of gas should not exceed 0 . 5 [ L min ] . The flow rates for the flow controllers are set in SLPM 1 ."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 57.056,
+            "t": 614.0698720484376,
+            "r": 198.26589239999998,
+            "b": 605.1732702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Calibration of the IR-sensor",
+      "text": "Calibration of the IR-sensor",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 56.697,
+            "t": 595.5812460484375,
+            "r": 289.62116105719997,
+            "b": 491.14327024843755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            441
+          ]
+        }
+      ],
+      "orig": "The IR-sensor is used to measure content of CO 2 in the retentate. It has to be calibrated before usage. The IR-sensor detects an analog signal in the range from 4 mA -20 mA , which is translated into a 16-bit number. This value ranges between 0 and 2 16 and has to be expressed as a percentage of CO 2 . You will have to perform a regression in the lab similar to the illustration included in fig. 3 by following the following instructions.",
+      "text": "The IR-sensor is used to measure content of CO 2 in the retentate. It has to be calibrated before usage. The IR-sensor detects an analog signal in the range from 4 mA -20 mA , which is translated into a 16-bit number. This value ranges between 0 and 2 16 and has to be expressed as a percentage of CO 2 . You will have to perform a regression in the lab similar to the illustration included in fig. 3 by following the following instructions."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 68.74799999999999,
+            "t": 478.8662460484375,
+            "r": 272.7440199752,
+            "b": 458.11427024843755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "i Bypass the membrane unit by selecting the bypass using the 3-way valve.",
+      "text": "i Bypass the membrane unit by selecting the bypass using the 3-way valve.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.188,
+            "t": 448.97824604843754,
+            "r": 230.10158140000016,
+            "b": 440.18127024843756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "ii Set the controllers to the setpoints.",
+      "text": "ii Set the controllers to the setpoints.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.628,
+            "t": 431.0452460484375,
+            "r": 272.7517609154,
+            "b": 410.2932702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "iii Read the 16-bit number when the number is stable.",
+      "text": "iii Read the 16-bit number when the number is stable.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.884,
+            "t": 401.1572460484375,
+            "r": 274.4136919596,
+            "b": 356.4952702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "iv Reduce the amount of CO 2 by setting a lower set-point for that flow controller and take new measurements when stable. Repeat this a couple of times.",
+      "text": "iv Reduce the amount of CO 2 by setting a lower set-point for that flow controller and take new measurements when stable. Repeat this a couple of times.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.444,
+            "t": 347.3592460484375,
+            "r": 274.411490225,
+            "b": 326.60727024843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "v Make your regression and put it into the software.",
+      "text": "v Make your regression and put it into the software.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.884,
+            "t": 317.4712460484375,
+            "r": 274.41466829440003,
+            "b": 284.76427024843747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "vi Set the controllers back to the point before calibration and lead the gas flow into the membrane unit using the 3-way valve.",
+      "text": "vi Set the controllers back to the point before calibration and lead the gas flow into the membrane unit using the 3-way valve.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 57.056,
+            "t": 130.3402460484375,
+            "r": 287.6906259,
+            "b": 97.63227024843752,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            148
+          ]
+        }
+      ],
+      "orig": "Figure 3: Example of a linear calibration curve. The x is the bit reading measured, which has to be expressed as a percentage, y , using regression.",
+      "text": "Figure 3: Example of a linear calibration curve. The x is the bit reading measured, which has to be expressed as a percentage, y , using regression."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 265.79200000000003,
+            "t": 149.73047044843747,
+            "r": 271.4856259,
+            "b": 141.023904525671,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "x",
+      "text": "x"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.593,
+            "t": 264.0844704484375,
+            "r": 72.47766278,
+            "b": 255.37790452567094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "y",
+      "text": "y"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 157.796,
+            "t": 240.09347044843753,
+            "r": 162.68066278,
+            "b": 231.38690452567096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "y",
+      "text": "y"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 165.805,
+            "t": 240.1532460484375,
+            "r": 173.55391028,
+            "b": 231.35627024843757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "=",
+      "text": "="
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 176.321,
+            "t": 240.09347044843753,
+            "r": 187.28085626,
+            "b": 231.38690452567096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ax",
+      "text": "ax"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 189.495,
+            "t": 240.1532460484375,
+            "r": 197.24391028,
+            "b": 231.35627024843757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "+",
+      "text": "+"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 199.458,
+            "t": 240.09347044843753,
+            "r": 203.73394792,
+            "b": 231.38690452567096,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "b",
+      "text": "b"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.838,
+            "t": 84.32958104843749,
+            "r": 247.83022922000004,
+            "b": 75.85181524843756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "1 Standard Litres Per Minute, 0 \u25e6 C , 14 . 6959 psia",
+      "text": "1 Standard Litres Per Minute, 0 \u25e6 C , 14 . 6959 psia"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 370.798,
+            "t": 754.5134755484374,
+            "r": 474.96572316999993,
+            "b": 744.7716492484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "4 Data treatment",
+      "text": "4 Data treatment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 307.238,
+            "t": 731.6742460484375,
+            "r": 539.91162986096,
+            "b": 687.0122702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "You will use eq. (2) as comparison to your experimental results. The computer is not connected to the Internet, so please bring a USB-stick to transfer the measurements.",
+      "text": "You will use eq. (2) as comparison to your experimental results. The computer is not connected to the Internet, so please bring a USB-stick to transfer the measurements."
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 307.617,
+            "t": 668.7318720484376,
+            "r": 360.2972362800001,
+            "b": 659.8352702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Work plan",
+      "text": "Work plan",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 307.357,
+            "t": 649.9862460484375,
+            "r": 538.2532442881198,
+            "b": 629.2342702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Make sure that you read the risk a assessment before you do the experiment.",
+      "text": "Make sure that you read the risk a assessment before you do the experiment."
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 307.617,
+            "t": 626.0762460484375,
+            "r": 538.2503929919993,
+            "b": 593.3682702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "In addition to the tasks described in the guidelines for work plans for the Felleslab, some more specific information for this experiment is given here.",
+      "text": "In addition to the tasks described in the guidelines for work plans for the Felleslab, some more specific information for this experiment is given here."
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 307.617,
+            "t": 590.2102460484375,
+            "r": 539.640175692,
+            "b": 521.6372702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "Read the comments on what to include in the report, so that you are prepared to perform the experiment in such a way that you will be able to answer the questions raised there. Based on what you shall do in the experiment, the following should be included in the work plan:",
+      "text": "Read the comments on what to include in the report, so that you are prepared to perform the experiment in such a way that you will be able to answer the questions raised there. Based on what you shall do in the experiment, the following should be included in the work plan:"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.89500000000004,
+            "t": 507.9212460484376,
+            "r": 457.2534601800001,
+            "b": 499.1242702484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "glyph[trianglerightsld] Some background and theory:",
+      "text": "glyph[trianglerightsld] Some background and theory:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.22400000000005,
+            "t": 495.9662460484375,
+            "r": 524.6959299450001,
+            "b": 439.34827024843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "\u00b7 Write a short theory summary that includes the equations required for the calculations, explaining how membrane contactors work and their applications. This can be included in the final report.",
+      "text": "Write a short theory summary that includes the equations required for the calculations, explaining how membrane contactors work and their applications. This can be included in the final report.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.224,
+            "t": 436.19024604843753,
+            "r": 524.9759487431995,
+            "b": 415.4382702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "\u00b7 What is purpose of the first humidifier included in the experiment?",
+      "text": "What is purpose of the first humidifier included in the experiment?",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.224,
+            "t": 412.2802460484375,
+            "r": 443.5522964000001,
+            "b": 403.4832702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "\u00b7 Explain the use of BTB.",
+      "text": "Explain the use of BTB.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.224,
+            "t": 400.3252460484375,
+            "r": 523.3114971612002,
+            "b": 379.5722702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "\u00b7 How can you determine the absorption rate from the available measurements?",
+      "text": "How can you determine the absorption rate from the available measurements?",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.224,
+            "t": 376.4142460484375,
+            "r": 523.5106096847996,
+            "b": 355.66227024843755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "\u00b7 Prepare how to do a linear regression for the calibration of the IR-sensor in the lab.",
+      "text": "Prepare how to do a linear regression for the calibration of the IR-sensor in the lab.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.895,
+            "t": 352.50424604843755,
+            "r": 373.80871510000003,
+            "b": 343.70727024843757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "glyph[trianglerightsld] Procedure:",
+      "text": "glyph[trianglerightsld] Procedure:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.224,
+            "t": 340.5492460484375,
+            "r": 523.5526518567998,
+            "b": 319.7972702484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "\u00b7 How to prepare a 25 liter solution of pH 7.5 from a 0.01 M solution of NaOH.",
+      "text": "How to prepare a 25 liter solution of pH 7.5 from a 0.01 M solution of NaOH.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.224,
+            "t": 316.6382460484375,
+            "r": 523.3114373855997,
+            "b": 295.88627024843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "\u00b7 A description of what you will do in the experiment and operating procedure.",
+      "text": "A description of what you will do in the experiment and operating procedure.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.224,
+            "t": 292.72824604843754,
+            "r": 523.3073726447996,
+            "b": 260.02127024843753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "\u00b7 Name the measurements you have to take and the parameters you require to do the calculations.",
+      "text": "Name the measurements you have to take and the parameters you require to do the calculations.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.895,
+            "t": 256.86324604843753,
+            "r": 349.4053264,
+            "b": 248.0662702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "glyph[trianglerightsld] HSE:",
+      "text": "glyph[trianglerightsld] HSE:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.224,
+            "t": 244.90724604843751,
+            "r": 442.49825332,
+            "b": 236.11027024843747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "\u00b7 Name the possible risks.",
+      "text": "Name the possible risks.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.224,
+            "t": 232.95224604843747,
+            "r": 523.3124535707994,
+            "b": 212.2002702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "\u00b7 According to your opinion, what is the largest risk in this experiment?",
+      "text": "According to your opinion, what is the largest risk in this experiment?",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.224,
+            "t": 209.0422460484375,
+            "r": 523.3124535707996,
+            "b": 188.29027024843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "\u00b7 What will you do to avoid or reduce this risk?",
+      "text": "What will you do to avoid or reduce this risk?",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 327.224,
+            "t": 185.13224604843754,
+            "r": 523.3033079039994,
+            "b": 164.37927024843748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "\u00b7 What precautions can you take to reduce the potential risk of COVID infection?",
+      "text": "What precautions can you take to reduce the potential risk of COVID infection?",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 307.258,
+            "t": 150.6632460484375,
+            "r": 538.2555934692001,
+            "b": 94.04627024843751,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "The work plan is to be handed in no later than two working days before lab day. It has to be approved by your supervisor before you can gain access to the lab. As this might mean you need to revise it, you are advised to deliver it at your earliest convenience.",
+      "text": "The work plan is to be handed in no later than two working days before lab day. It has to be approved by your supervisor before you can gain access to the lab. As this might mean you need to revise it, you are advised to deliver it at your earliest convenience."
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 57.056,
+            "t": 785.3012460484375,
+            "r": 97.304904,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "FellesLab",
+      "text": "FellesLab"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 266.797,
+            "t": 785.3012460484375,
+            "r": 328.5123182199999,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Aug-Nov 2021",
+      "text": "Aug-Nov 2021"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 502.0010346199999,
+            "t": 785.3012460484375,
+            "r": 538.2549360200001,
+            "b": 776.5042702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "p. 5 of 5",
+      "text": "p. 5 of 5"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 57.056,
+            "t": 753.8518720484376,
+            "r": 92.48599438000001,
+            "b": 744.9552702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Report",
+      "text": "Report",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.697,
+            "t": 735.3622460484376,
+            "r": 287.8872226312,
+            "b": 702.6552702484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "The report should follow the guidelines for reports for the Felleslab, some more specific information for this experiment is given here.",
+      "text": "The report should follow the guidelines for reports for the Felleslab, some more specific information for this experiment is given here."
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.797,
+            "t": 699.4972460484375,
+            "r": 289.62442053199993,
+            "b": 571.1482702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            540
+          ]
+        }
+      ],
+      "orig": "Plot the flux of CO 2 as a function of the liquid velocity. Plot both the measured flux and the theoretical flux you have estimated from your model eq. (2). Data for solubility and diffusivity input parameters can be found in (Versteeg & Swaalj 1988) and membrane parameters are available in the lab. Compare your results with the model at different flowrates. Comment on the changes in composition of the gas phase, throughout the experiment, and how this affects the results. Conclude on the applicability of the model in this experiment.",
+      "text": "Plot the flux of CO 2 as a function of the liquid velocity. Plot both the measured flux and the theoretical flux you have estimated from your model eq. (2). Data for solubility and diffusivity input parameters can be found in (Versteeg & Swaalj 1988) and membrane parameters are available in the lab. Compare your results with the model at different flowrates. Comment on the changes in composition of the gas phase, throughout the experiment, and how this affects the results. Conclude on the applicability of the model in this experiment."
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 57.056,
+            "t": 539.8443714484375,
+            "r": 132.4514688,
+            "b": 529.3477058484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Bibliography",
+      "text": "Bibliography",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 57.056,
+            "t": 516.7102460484375,
+            "r": 538.2546158876801,
+            "b": 484.0032702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "Atchariyawut, S., Jiraratananon, R. & Wang, R. (2008), 'Mass transfer study and modeling of gas-liquid membrane contacting process by multistage cascade model for CO2 absorption', Separation and Purification Technology 6 3(1), 15-22.",
+      "text": "Atchariyawut, S., Jiraratananon, R. & Wang, R. (2008), 'Mass transfer study and modeling of gas-liquid membrane contacting process by multistage cascade model for CO2 absorption', Separation and Purification Technology 6 3(1), 15-22.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 57.056,
+            "t": 472.87524604843753,
+            "r": 538.2501777559992,
+            "b": 452.1232702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "Dindore, V., Brilman, D. & Versteeg, G. (2005), 'Hollow fiber membrane contactor as a gas-liquid model contactor', Chemical Engineering Science 6 0(2), 467-479.",
+      "text": "Dindore, V., Brilman, D. & Versteeg, G. (2005), 'Hollow fiber membrane contactor as a gas-liquid model contactor', Chemical Engineering Science 6 0(2), 467-479.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.01899999999998,
+            "t": 449.0648720484375,
+            "r": 287.9103930399999,
+            "b": 440.1682702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "URL: http://dx.doi.org/10.1016/j.ces.2004.07.129",
+      "text": "URL: http://dx.doi.org/10.1016/j.ces.2004.07.129"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 57.056,
+            "t": 429.04124604843753,
+            "r": 538.2470452524,
+            "b": 408.2882702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "Gabelman, A. & Hwang, S.-T. (1999), 'Hollow fiber membrane contactors', Journal of Membrane Science 1 59(1-2), 61-106.",
+      "text": "Gabelman, A. & Hwang, S.-T. (1999), 'Hollow fiber membrane contactors', Journal of Membrane Science 1 59(1-2), 61-106.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.01899999999999,
+            "t": 405.2298720484375,
+            "r": 318.74663255999985,
+            "b": 396.33327024843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "URL: http://dx.doi.org/10.1016/S0376-7388(99)00040-X",
+      "text": "URL: http://dx.doi.org/10.1016/S0376-7388(99)00040-X"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 57.056,
+            "t": 385.2062460484375,
+            "r": 539.7471548487998,
+            "b": 352.49927024843754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "Kreulen, H., Smolders, C., Versteeg, G. & van Swaaij, W. (1993), 'Microporous hollow fibre membrane modules as gas-liquid contactors Part 2. Mass transfer with chemical reaction', Journal of Membrane Science 7 8(3), 217238.",
+      "text": "Kreulen, H., Smolders, C., Versteeg, G. & van Swaaij, W. (1993), 'Microporous hollow fibre membrane modules as gas-liquid contactors Part 2. Mass transfer with chemical reaction', Journal of Membrane Science 7 8(3), 217238.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.01899999999999,
+            "t": 349.4398720484375,
+            "r": 312.2430472799998,
+            "b": 340.5432702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "URL: http://dx.doi.org/10.1016/0376-7388(93)80002-F",
+      "text": "URL: http://dx.doi.org/10.1016/0376-7388(93)80002-F"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 57.05599999999999,
+            "t": 329.41624604843753,
+            "r": 478.8378869199999,
+            "b": 320.6192702484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Leveque, M. (1928), 'Transmission de chaleur par convection', Les lois de la transmission p. 204.",
+      "text": "Leveque, M. (1928), 'Transmission de chaleur par convection', Les lois de la transmission p. 204.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 57.056,
+            "t": 309.49224604843744,
+            "r": 539.4187190052795,
+            "b": 288.7392702484376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "Versteeg, G. F. & Swaalj, W. V. (1988), 'Solubility and diffusivity of acid gases (carbon dioxide, nitrous oxide) in aqueous alkanolamine solutions', Journal of Chemical & Engineering Data 3 3(1), 29-34.",
+      "text": "Versteeg, G. F. & Swaalj, W. V. (1988), 'Solubility and diffusivity of acid gases (carbon dioxide, nitrous oxide) in aqueous alkanolamine solutions', Journal of Chemical & Engineering Data 3 3(1), 29-34.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.019,
+            "t": 285.68087204843755,
+            "r": 267.5498274199999,
+            "b": 276.78427024843756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "URL: http://dx.doi.org/10.1021/je00051a011",
+      "text": "URL: http://dx.doi.org/10.1021/je00051a011"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.238,
+            "t": 753.7522460484375,
+            "r": 540.1887127080001,
+            "b": 649.3132702484374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            478
+          ]
+        }
+      ],
+      "orig": "You will get alot of data after you have carried out your experiments. Filter out the measurements you need to do your calculations and any measurement relevant in your discussion to place them in the appendix. Explain in details the calculations with numbers and units for one run. It is sufficient to refer to the equations in your theory section and write it out with numbers and units in the appendix. The calibration of the IR-sensor is also to be included in the appendix.",
+      "text": "You will get alot of data after you have carried out your experiments. Filter out the measurements you need to do your calculations and any measurement relevant in your discussion to place them in the appendix. Explain in details the calculations with numbers and units for one run. It is sufficient to refer to the equations in your theory section and write it out with numbers and units in the appendix. The calibration of the IR-sensor is also to be included in the appendix."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 314.4458312988281,
+            "t": 520.9110717773438,
+            "r": 532.79833984375,
+            "b": 397.466796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 86.62743377685547,
+            "t": 759.0022277832031,
+            "r": 503.56732177734375,
+            "b": 542.3744812011719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 66.48199462890625,
+            "t": 264.96514892578125,
+            "r": 280.53436279296875,
+            "b": 141.1781005859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/103"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 305.79266357421875,
+            "t": 665.7820892333984,
+            "r": 535.5804443359375,
+            "b": 437.2388610839844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 307.616,
+              "t": 181.17214259999992,
+              "r": 344.8522137600001,
+              "b": 190.0687444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Symbol",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 472.28383036000014,
+              "t": 181.17214259999992,
+              "r": 529.93042274,
+              "b": 190.0687444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Description",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 478.218,
+              "t": 202.59476859999995,
+              "r": 529.9687256999999,
+              "b": 211.3917444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Check valve",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 308.281,
+              "t": 224.2581537200001,
+              "r": 316.88689313199995,
+              "b": 226.01754888000005,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "[myBlack]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 459.096,
+              "t": 219.9297686,
+              "r": 529.9699363999999,
+              "b": 228.72674440000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Controlled valve",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 483.726,
+              "t": 244.55076859999997,
+              "r": 529.9713929399999,
+              "b": 253.3477444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Humidifier",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 316.681,
+              "t": 259.93576859999996,
+              "r": 327.61196471999995,
+              "b": 268.7327444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "IR",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 489.011,
+              "t": 263.2557686,
+              "r": 529.97023738,
+              "b": 272.05274440000005,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "IR-sensor",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 308.281,
+              "t": 284.92015372000003,
+              "r": 316.88689313199995,
+              "b": 286.67954887999997,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "[myBlack]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 394.338,
+              "t": 280.59076860000005,
+              "r": 529.9718251799999,
+              "b": 289.3877444000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Manually operated 3-way valve",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 487.24,
+              "t": 297.92576859999997,
+              "r": 529.9646101,
+              "b": 306.7227444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Mass flow",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 310.93699999999995,
+              "t": 311.9397686,
+              "r": 316.19526027999996,
+              "b": 320.7367444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "x",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.457,
+              "t": 315.2607686,
+              "r": 529.9673694399997,
+              "b": 324.05774440000005,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Measurement of variable x",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 404.827,
+              "t": 336.0167686,
+              "r": 529.9652260799999,
+              "b": 344.81374439999996,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Membrane contactor module",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 503.817,
+              "t": 356.3867686,
+              "r": 529.96982126,
+              "b": 365.18374439999997,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Pump",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 489.316,
+              "t": 375.3397686,
+              "r": 529.9693855599999,
+              "b": 384.1367444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Reservoir",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 477.941,
+              "t": 392.6747686,
+              "r": 529.9686859799999,
+              "b": 401.4717444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Safety valve",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 12,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 307.616,
+                "t": 181.17214259999992,
+                "r": 344.8522137600001,
+                "b": 190.0687444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Symbol",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 472.28383036000014,
+                "t": 181.17214259999992,
+                "r": 529.93042274,
+                "b": 190.0687444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Description",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 478.218,
+                "t": 202.59476859999995,
+                "r": 529.9687256999999,
+                "b": 211.3917444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Check valve",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 308.281,
+                "t": 224.2581537200001,
+                "r": 316.88689313199995,
+                "b": 226.01754888000005,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "[myBlack]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 459.096,
+                "t": 219.9297686,
+                "r": 529.9699363999999,
+                "b": 228.72674440000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Controlled valve",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 483.726,
+                "t": 244.55076859999997,
+                "r": 529.9713929399999,
+                "b": 253.3477444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Humidifier",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 316.681,
+                "t": 259.93576859999996,
+                "r": 327.61196471999995,
+                "b": 268.7327444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "IR",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 489.011,
+                "t": 263.2557686,
+                "r": 529.97023738,
+                "b": 272.05274440000005,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "IR-sensor",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 308.281,
+                "t": 284.92015372000003,
+                "r": 316.88689313199995,
+                "b": 286.67954887999997,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "[myBlack]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 394.338,
+                "t": 280.59076860000005,
+                "r": 529.9718251799999,
+                "b": 289.3877444000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Manually operated 3-way valve",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 487.24,
+                "t": 297.92576859999997,
+                "r": 529.9646101,
+                "b": 306.7227444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Mass flow",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 310.93699999999995,
+                "t": 311.9397686,
+                "r": 316.19526027999996,
+                "b": 320.7367444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "x",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.457,
+                "t": 315.2607686,
+                "r": 529.9673694399997,
+                "b": 324.05774440000005,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Measurement of variable x",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 404.827,
+                "t": 336.0167686,
+                "r": 529.9652260799999,
+                "b": 344.81374439999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Membrane contactor module",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 503.817,
+                "t": 356.3867686,
+                "r": 529.96982126,
+                "b": 365.18374439999997,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Pump",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 489.316,
+                "t": 375.3397686,
+                "r": 529.9693855599999,
+                "b": 384.1367444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Reservoir",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 477.941,
+                "t": 392.6747686,
+                "r": 529.9686859799999,
+                "b": 401.4717444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Safety valve",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.7694206237793,
+            "t": 165.59649658203125,
+            "r": 536.596435546875,
+            "b": 77.0999755859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 59.461,
+              "t": 682.1901426,
+              "r": 110.7484648,
+              "b": 691.0867444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Controller",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 219.17144059999998,
+              "t": 682.1901426,
+              "r": 276.81803298,
+              "b": 691.0867444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Description",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 385.28085918,
+              "t": 682.1901426,
+              "r": 431.2682207800001,
+              "b": 691.0867444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Set-point",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 502.5306985800001,
+              "t": 682.1901426,
+              "r": 529.8670767200001,
+              "b": 691.0867444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Units",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 59.461,
+              "t": 700.0835442,
+              "r": 78.86388172,
+              "b": 709.7349171999999,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "CO 2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 178.71800000000002,
+              "t": 700.0237686,
+              "r": 317.31383084000004,
+              "b": 709.7349171999999,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Flow controller for pure CO 2 in",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 406.61857724000004,
+              "t": 700.0237686,
+              "r": 409.93911182000005,
+              "b": 708.8207444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "-",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 484.443,
+              "t": 698.2018946,
+              "r": 529.86945514,
+              "b": 711.6544732674352,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "l min ( STP )",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 59.46100000000001,
+              "t": 717.4185442,
+              "r": 71.43688172,
+              "b": 727.0699172,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "N 2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 182.43200000000002,
+              "t": 717.3587686,
+              "r": 313.60083084000007,
+              "b": 727.0699172,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Flow controller for pure N 2 in",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 406.6216270400001,
+              "t": 717.3587686,
+              "r": 409.9421616200001,
+              "b": 726.1557444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "-",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 484.443,
+              "t": 715.5368946,
+              "r": 529.86945514,
+              "b": 728.9894732674352,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "l min ( STP )",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 59.46100000000001,
+              "t": 734.7535442,
+              "r": 68.35949874,
+              "b": 744.3834732674352,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "p g",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 168.09300000000002,
+              "t": 734.6937686,
+              "r": 327.9389319600001,
+              "b": 743.4907444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Pressure controller for the gas outlet",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 403.2960383600001,
+              "t": 734.6937686,
+              "r": 413.2586383600001,
+              "b": 743.4907444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "17",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 511.48900000000003,
+              "t": 734.7535442,
+              "r": 529.8699970000001,
+              "b": 743.4601101227665,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "psia",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 59.46100000000001,
+              "t": 752.0885442,
+              "r": 66.99263394000002,
+              "b": 761.7184732674351,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "p l",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 162.72400000000002,
+              "t": 752.0287686,
+              "r": 333.3086185000002,
+              "b": 760.8257444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Pressure controller for the liquid outlet",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 405.7865335000002,
+              "t": 752.0287686,
+              "r": 410.76783350000017,
+              "b": 760.8257444,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 511.645,
+              "t": 752.0885442,
+              "r": 529.5119268400001,
+              "b": 760.7951101227666,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "psig",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 4,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 59.461,
+                "t": 682.1901426,
+                "r": 110.7484648,
+                "b": 691.0867444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Controller",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 219.17144059999998,
+                "t": 682.1901426,
+                "r": 276.81803298,
+                "b": 691.0867444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Description",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 385.28085918,
+                "t": 682.1901426,
+                "r": 431.2682207800001,
+                "b": 691.0867444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Set-point",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 502.5306985800001,
+                "t": 682.1901426,
+                "r": 529.8670767200001,
+                "b": 691.0867444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Units",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 59.461,
+                "t": 700.0835442,
+                "r": 78.86388172,
+                "b": 709.7349171999999,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "CO 2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 178.71800000000002,
+                "t": 700.0237686,
+                "r": 317.31383084000004,
+                "b": 709.7349171999999,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Flow controller for pure CO 2 in",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 406.61857724000004,
+                "t": 700.0237686,
+                "r": 409.93911182000005,
+                "b": 708.8207444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "-",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 484.443,
+                "t": 698.2018946,
+                "r": 529.86945514,
+                "b": 711.6544732674352,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "l min ( STP )",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 59.46100000000001,
+                "t": 717.4185442,
+                "r": 71.43688172,
+                "b": 727.0699172,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "N 2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 182.43200000000002,
+                "t": 717.3587686,
+                "r": 313.60083084000007,
+                "b": 727.0699172,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Flow controller for pure N 2 in",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 406.6216270400001,
+                "t": 717.3587686,
+                "r": 409.9421616200001,
+                "b": 726.1557444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "-",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 484.443,
+                "t": 715.5368946,
+                "r": 529.86945514,
+                "b": 728.9894732674352,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "l min ( STP )",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 59.46100000000001,
+                "t": 734.7535442,
+                "r": 68.35949874,
+                "b": 744.3834732674352,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "p g",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 168.09300000000002,
+                "t": 734.6937686,
+                "r": 327.9389319600001,
+                "b": 743.4907444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Pressure controller for the gas outlet",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 403.2960383600001,
+                "t": 734.6937686,
+                "r": 413.2586383600001,
+                "b": 743.4907444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "17",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 511.48900000000003,
+                "t": 734.7535442,
+                "r": 529.8699970000001,
+                "b": 743.4601101227665,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "psia",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 59.46100000000001,
+                "t": 752.0885442,
+                "r": 66.99263394000002,
+                "b": 761.7184732674351,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "p l",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.72400000000002,
+                "t": 752.0287686,
+                "r": 333.3086185000002,
+                "b": 760.8257444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Pressure controller for the liquid outlet",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 405.7865335000002,
+                "t": 752.0287686,
+                "r": 410.76783350000017,
+                "b": 760.8257444,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 511.645,
+                "t": 752.0885442,
+                "r": 529.5119268400001,
+                "b": 760.7951101227666,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "psig",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 5
+    }
+  }
+}

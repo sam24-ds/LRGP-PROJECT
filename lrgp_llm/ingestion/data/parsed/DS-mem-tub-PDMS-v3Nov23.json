@@ -1,0 +1,2256 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "DS-mem-tub-PDMS-v3Nov23",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8346931235270109096,
+    "filename": "DS-mem-tub-PDMS-v3Nov23.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 672.5747146484375,
+            "r": 391.69019999999995,
+            "b": 626.2295702634108,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Datasheet TUBULAR PDMS MEMBRANE",
+      "text": "Datasheet TUBULAR PDMS MEMBRANE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 609.7827146484375,
+            "r": 502.69819999999976,
+            "b": 568.2785114398815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "Tubular PDMS (polydimethyl siloxane) membranes have organophilic (hydrophobic) characteristics, which means that the organic constituent of the feed passes preferentially through the membrane.",
+      "text": "Tubular PDMS (polydimethyl siloxane) membranes have organophilic (hydrophobic) characteristics, which means that the organic constituent of the feed passes preferentially through the membrane."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 548.9886146484375,
+            "r": 186.83819999999997,
+            "b": 538.5421065609019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "MEMBRANE ELEMENT",
+      "text": "MEMBRANE ELEMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 533.9886146484375,
+            "r": 119.5182,
+            "b": 523.5421065609019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Geometry",
+      "text": "Geometry"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.94219999999999,
+            "t": 533.9886146484375,
+            "r": 265.3302,
+            "b": 523.5421065609019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Tubular",
+      "text": "Tubular"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 518.9886146484375,
+            "r": 130.2942,
+            "b": 508.54210656090186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Dimensions",
+      "text": "Dimensions"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.94149999999996,
+            "t": 518.9886146484375,
+            "r": 459.9815,
+            "b": 463.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "1-channel tube 250 x 10 x 7 mm, effective membrane surface area 0.005 m 2 1-channel tube 500 x 10 x 7 mm, effective membrane surface area 0.010 m 2",
+      "text": "1-channel tube 250 x 10 x 7 mm, effective membrane surface area 0.005 m 2 1-channel tube 500 x 10 x 7 mm, effective membrane surface area 0.010 m 2"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 458.9886146484375,
+            "r": 220.95180000000005,
+            "b": 448.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "External diameter tolerance",
+      "text": "External diameter tolerance"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.94219999999999,
+            "t": 458.9886146484375,
+            "r": 372.27419999999984,
+            "b": 448.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "10 mm + 0.5 mm / - 0.0 mm",
+      "text": "10 mm + 0.5 mm / - 0.0 mm"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 443.9886146484375,
+            "r": 169.6902,
+            "b": 433.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Substrate material",
+      "text": "Substrate material"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.94219999999999,
+            "t": 444.3006146484375,
+            "r": 263.127776,
+            "b": 430.4495404334042,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "\u03b1 -Al 2 O 3",
+      "text": "\u03b1 -Al 2 O 3"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 428.9886146484375,
+            "r": 118.53299999999999,
+            "b": 418.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Top layer",
+      "text": "Top layer"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.94219999999999,
+            "t": 428.9886146484375,
+            "r": 256.2462,
+            "b": 418.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "PDMS",
+      "text": "PDMS"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 413.9886146484375,
+            "r": 155.66219999999998,
+            "b": 403.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Coating position",
+      "text": "Coating position"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.94219999999999,
+            "t": 413.9886146484375,
+            "r": 317.8661999999999,
+            "b": 403.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Inside of the tube",
+      "text": "Inside of the tube"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 383.9886146484375,
+            "r": 196.05299999999997,
+            "b": 373.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "OPERATIONAL WINDOW",
+      "text": "OPERATIONAL WINDOW",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 368.9886146484375,
+            "r": 136.70099999999996,
+            "b": 358.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Temperature",
+      "text": "Temperature"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 181.4142,
+            "t": 368.9886146484375,
+            "r": 368.2541999999998,
+            "b": 358.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Maximum 70 \u00b0C (short-term 80 \u00b0C)",
+      "text": "Maximum 70 \u00b0C (short-term 80 \u00b0C)"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 353.9886146484375,
+            "r": 114.75299999999999,
+            "b": 343.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Pressure",
+      "text": "Pressure"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 181.4142,
+            "t": 353.9886146484375,
+            "r": 271.3062,
+            "b": 343.5421065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Maximum 10 bar",
+      "text": "Maximum 10 bar"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 338.9886146484375,
+            "r": 80.2662,
+            "b": 328.54210656090186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "pH",
+      "text": "pH"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 181.4142,
+            "t": 338.9886146484375,
+            "r": 202.71420000000003,
+            "b": 328.54210656090186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1-12",
+      "text": "1-12"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 323.98861464843753,
+            "r": 138.66899999999998,
+            "b": 313.54210656090186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Pre-filtration",
+      "text": "Pre-filtration"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 181.4142,
+            "t": 323.98861464843753,
+            "r": 294.87420000000003,
+            "b": 313.54210656090186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "10 \u00b5m cartridge filter",
+      "text": "10 \u00b5m cartridge filter"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 293.98861464843753,
+            "r": 348.09180000000003,
+            "b": 283.54210656090186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "CLEANING OF PDMS PERVAPORATION MEMBRANES",
+      "text": "CLEANING OF PDMS PERVAPORATION MEMBRANES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.3622,
+            "t": 278.98861464843753,
+            "r": 403.7141999999997,
+            "b": 178.54210656090186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            384
+          ]
+        }
+      ],
+      "orig": "Cleaning in aqueous environments requires special care. This is to keep elements (more or less) free from microorganisms. In case you are processing food products, starch or other carbohydrate-containing sources like juices, wine or (soybean) milk, take extreme care to clean your element during and after experiments! Cleaning best can be done by rinsing the membranes with RO water.",
+      "text": "Cleaning in aqueous environments requires special care. This is to keep elements (more or less) free from microorganisms. In case you are processing food products, starch or other carbohydrate-containing sources like juices, wine or (soybean) milk, take extreme care to clean your element during and after experiments! Cleaning best can be done by rinsing the membranes with RO water."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.3622,
+            "t": 683.9887146484375,
+            "r": 490.08899999999966,
+            "b": 658.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "In case of complex mixtures this may not be sufficient, and you could apply the following procedures:",
+      "text": "In case of complex mixtures this may not be sufficient, and you could apply the following procedures:"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.3622,
+            "t": 653.9887146484375,
+            "r": 497.9981999999998,
+            "b": 643.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "\u00b7 0.05 wt% sodium hydroxide at 40 \u00b0C for 30 minutes, then rinse with RO water",
+      "text": "0.05 wt% sodium hydroxide at 40 \u00b0C for 30 minutes, then rinse with RO water",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.3622,
+            "t": 638.9887146484375,
+            "r": 292.24619999999993,
+            "b": 628.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "\u00b7 Ethanol or ethanol solutions (>25 wt%)",
+      "text": "Ethanol or ethanol solutions (>25 wt%)",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.3622,
+            "t": 623.9887146484375,
+            "r": 482.27819999999986,
+            "b": 598.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "\u00b7 Rinse with hot water (max. 90 \u00b0C) to remove e.g. waxes and fats and to kill microorganisms",
+      "text": "Rinse with hot water (max. 90 \u00b0C) to remove e.g. waxes and fats and to kill microorganisms",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.3622,
+            "t": 593.9887146484375,
+            "r": 488.3849999999998,
+            "b": 583.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "\u00b7 Enzymatic solutions: depending on the feed (after that rinse with RO water)",
+      "text": "Enzymatic solutions: depending on the feed (after that rinse with RO water)",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.3622,
+            "t": 578.9887146484375,
+            "r": 491.4581999999998,
+            "b": 568.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "\u00b7 Mild hydrogen peroxide solutions (0.5 wt%) (after that rinse with RO water)",
+      "text": "Mild hydrogen peroxide solutions (0.5 wt%) (after that rinse with RO water)",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.3622,
+            "t": 548.9887146484375,
+            "r": 243.35820000000004,
+            "b": 538.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "\u00b7 Please contact us for support!",
+      "text": "Please contact us for support!",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.3622,
+            "t": 533.9887146484375,
+            "r": 496.11399599999993,
+            "b": 523.5301827132612,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "\u00b7 Avoid detergents since they may affect the surface chemistry of the membrane",
+      "text": "Avoid detergents since they may affect the surface chemistry of the membrane",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.3622,
+            "t": 503.9887146484375,
+            "r": 116.49348000000002,
+            "b": 493.54220656090183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "STORAGE",
+      "text": "STORAGE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.3622,
+            "t": 488.9887146484375,
+            "r": 286.68302399999993,
+            "b": 478.54220656090183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "After use, rinse thoroughly with RO water.",
+      "text": "After use, rinse thoroughly with RO water."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.3622,
+            "t": 458.9887146484375,
+            "r": 168.07284,
+            "b": 448.5301827132612,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Short term storage",
+      "text": "Short term storage",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.3622,
+            "t": 443.9887146484375,
+            "r": 469.3331199999999,
+            "b": 385.44964043340417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "After rinsing with clean RO water, rinse with 0.25 wt% sodium metabisulphite (Na 2 S 2 O 5 ) or with >10 wt% ethanol in water. Rinse for at least 30 min and keep the membranes wetted with this solution for storage. For prolonged storage (>2 weeks) Na 2 S 2 O 5 or ethanol should be repeated.",
+      "text": "After rinsing with clean RO water, rinse with 0.25 wt% sodium metabisulphite (Na 2 S 2 O 5 ) or with >10 wt% ethanol in water. Rinse for at least 30 min and keep the membranes wetted with this solution for storage. For prolonged storage (>2 weeks) Na 2 S 2 O 5 or ethanol should be repeated."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.35696000000004,
+            "t": 368.9887146484375,
+            "r": 164.66896000000006,
+            "b": 358.5301827132612,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Long term storage",
+      "text": "Long term storage",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.35696000000004,
+            "t": 353.9887146484375,
+            "r": 440.46330399999994,
+            "b": 283.54220656090183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            328
+          ]
+        }
+      ],
+      "orig": "Soak element in a 0.7 wt% benzalkonium chloride in RO water solution. Glycerin should not be used for storage of these membranes. The membrane module should not get dry. It should be stored in the closed pressure vessel (use the supplied stoppers for that) at a temperature below 20 \u00b0C. Never keep the membrane in full sunlight.",
+      "text": "Soak element in a 0.7 wt% benzalkonium chloride in RO water solution. Glycerin should not be used for storage of these membranes. The membrane module should not get dry. It should be stored in the closed pressure vessel (use the supplied stoppers for that) at a temperature below 20 \u00b0C. Never keep the membrane in full sunlight."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 62.35696000000004,
+            "t": 263.9887146484375,
+            "r": 424.983616,
+            "b": 193.54220656090183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "After storage, and before re-use, carefully rinse with RO water. First permeates may have contamination or non-standard compositions and should not be used for application tests. Typically, stable operation is reached after approx. 2 hours, provided that temperature, vacuum and crossflow are under control.",
+      "text": "After storage, and before re-use, carefully rinse with RO water. First permeates may have contamination or non-standard compositions and should not be used for application tests. Typically, stable operation is reached after approx. 2 hours, provided that temperature, vacuum and crossflow are under control."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.3622,
+            "t": 683.9887146484375,
+            "r": 496.8054000000001,
+            "b": 658.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "EXAMPLES OF APPLICATIONS WITH TUBULAR ORGANOPHILIC (HYDROPHOBIC) PDMS MEMBRANES",
+      "text": "EXAMPLES OF APPLICATIONS WITH TUBULAR ORGANOPHILIC (HYDROPHOBIC) PDMS MEMBRANES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.3622,
+            "t": 653.9887146484375,
+            "r": 490.73819999999967,
+            "b": 613.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "\u00b7 Recovery or extraction of organics (in biotech or biotech-related food applications) from natural feed streams like fruit juices, wine, beer, coconut oil, essential oils (carvone, limonene) and in combination with fermentation",
+      "text": "Recovery or extraction of organics (in biotech or biotech-related food applications) from natural feed streams like fruit juices, wine, beer, coconut oil, essential oils (carvone, limonene) and in combination with fermentation",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.3622,
+            "t": 608.9887146484375,
+            "r": 433.5941999999998,
+            "b": 598.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "\u00b7 Removal of ethyl alcohol (and other alcohols) from wine and beer",
+      "text": "Removal of ethyl alcohol (and other alcohols) from wine and beer",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.3622,
+            "t": 593.9887146484375,
+            "r": 400.4633999999998,
+            "b": 583.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "\u00b7 Upgrading of reverse osmosis permeate in juice production",
+      "text": "Upgrading of reverse osmosis permeate in juice production",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.3622,
+            "t": 578.9887146484375,
+            "r": 500.15819999999957,
+            "b": 538.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "\u00b7 Combination with bioreactor in production of alcohols (ethanol, IPA, butanol), ABE (acetone, butanol, ethanol), aldehydes, flavor production as well as acid production",
+      "text": "Combination with bioreactor in production of alcohols (ethanol, IPA, butanol), ABE (acetone, butanol, ethanol), aldehydes, flavor production as well as acid production",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.3622,
+            "t": 533.9887146484375,
+            "r": 330.2501999999998,
+            "b": 523.5422065609018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "\u00b7 Removal of volatile organic compounds (VOC)",
+      "text": "Removal of volatile organic compounds (VOC)",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.3622,
+            "t": 503.9887146484375,
+            "r": 486.89819999999963,
+            "b": 493.54220656090183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Typical example of pervaporation (PV) process in combination with bioreactor:",
+      "text": "Typical example of pervaporation (PV) process in combination with bioreactor:"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 237.31,
+            "t": 453.6283816484375,
+            "r": 274.33429359999997,
+            "b": 446.1031524933471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "produced",
+      "text": "produced"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 245.9559744,
+            "t": 443.29844314843746,
+            "r": 274.20355809999995,
+            "b": 435.7732139933471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "alcohol",
+      "text": "alcohol"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 369.8583656,
+            "t": 379.06264984843745,
+            "r": 386.3223229,
+            "b": 371.5374206933471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "ti me",
+      "text": "ti me"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 110.88005580000004,
+            "t": 413.47560814843746,
+            "r": 128.54677970000003,
+            "b": 405.9503789933471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "feed",
+      "text": "feed"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 166.76512420000003,
+            "t": 395.92767914843745,
+            "r": 205.09677280000005,
+            "b": 388.4024499933471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "permeate",
+      "text": "permeate"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 139.95563100000004,
+            "t": 443.5837050484374,
+            "r": 177.30240550000005,
+            "b": 436.05847589334707,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "retentate",
+      "text": "retentate"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.94370580000003,
+            "t": 476.5962867484374,
+            "r": 110.26995680000005,
+            "b": 469.07105759334706,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "(bio)reactor",
+      "text": "(bio)reactor"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 145.35064930000004,
+            "t": 476.5962867484374,
+            "r": 173.72896850000004,
+            "b": 469.07105759334706,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "PV unit",
+      "text": "PV unit"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 267.57962610000004,
+            "t": 396.0054778484374,
+            "r": 272.83519320000005,
+            "b": 388.48024869334705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 342.3101,
+            "t": 453.9229136484375,
+            "r": 367.4392466,
+            "b": 447.22226219838996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "withPV",
+      "text": "withPV"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 325.0658246,
+            "t": 407.83267884843747,
+            "r": 360.9590621,
+            "b": 401.13202739838994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "withoutPV",
+      "text": "withoutPV"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 267.5608,
+            "t": 396.0014816484375,
+            "r": 272.8163671,
+            "b": 388.47625249334715,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 332.9578,
+            "t": 453.9815136484375,
+            "r": 358.08694660000003,
+            "b": 447.28086219838997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "withPV",
+      "text": "withPV"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 325.0651681,
+            "t": 407.8373991484375,
+            "r": 360.9584056,
+            "b": 401.13674769838997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "withoutPV",
+      "text": "withoutPV"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.3622,
+            "t": 353.9887146484375,
+            "r": 439.09019999999964,
+            "b": 268.5301827132612,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            363
+          ]
+        }
+      ],
+      "orig": "The image shows the principle of a membrane reactor for continuous product recovery (alcohols, aromas). The system with pervaporation continuously produces alcohol while other systems stop when inhibiting amounts of alcohol (or another inhibitor) have been reached. In some cases, a pretreatment is necessary. PDMS membranes are stable and insensitive to fouling.",
+      "text": "The image shows the principle of a membrane reactor for continuous product recovery (alcohols, aromas). The system with pervaporation continuously produces alcohol while other systems stop when inhibiting amounts of alcohol (or another inhibitor) have been reached. In some cases, a pretreatment is necessary. PDMS membranes are stable and insensitive to fouling."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 495.0063,
+            "t": 125.40691464843746,
+            "r": 570.3543000000001,
+            "b": 63.57203358278571,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Heliumstraat 11 7463 PL Rijssen The Netherlands T +31 548 530 360 info@pervatech.nl pervatech.com",
+      "text": "Heliumstraat 11 7463 PL Rijssen The Netherlands T +31 548 530 360 info@pervatech.nl pervatech.com"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 474.341,
+            "t": 19.003214648437506,
+            "r": 568.8199999999999,
+            "b": 12.909418264041733,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "DS-mem-tub-PDMS-v3Nov23",
+      "text": "DS-mem-tub-PDMS-v3Nov23"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 60.921138763427734,
+            "t": 807.8219337463379,
+            "r": 511.27655029296875,
+            "b": 717.6631011962891,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 394.52545166015625,
+            "t": 66.11334228515625,
+            "r": 576.82568359375,
+            "b": 29.4493408203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 394.63458251953125,
+            "t": 66.18450927734375,
+            "r": 576.7868041992188,
+            "b": 29.43841552734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.425838470458984,
+            "t": 478.5203552246094,
+            "r": 398.66571044921875,
+            "b": 372.9423522949219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 394.49755859375,
+            "t": 66.58966064453125,
+            "r": 576.8267211914062,
+            "b": 29.25286865234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 3
+    }
+  }
+}

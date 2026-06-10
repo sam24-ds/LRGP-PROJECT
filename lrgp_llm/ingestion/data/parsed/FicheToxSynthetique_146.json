@@ -1,0 +1,4772 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "FicheToxSynthetique_146",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18140568946442297212,
+    "filename": "FicheToxSynthetique_146.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/63"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 243.25,
+            "t": 806.770507805,
+            "r": 564.4300000000001,
+            "b": 794.17285157,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Base de donn\u00e9es FICHES TOXICOLOGIQUES",
+      "text": "Base de donn\u00e9es FICHES TOXICOLOGIQUES"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 734.99375,
+            "r": 136.01875,
+            "b": 720.66875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "2-Amino\u00e9thanol",
+      "text": "2-Amino\u00e9thanol",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 711.296,
+            "r": 281.5345,
+            "b": 700.5635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Fiche toxicologique synth\u00e9tique n\u00b0 146 - Edition 2014",
+      "text": "Fiche toxicologique synth\u00e9tique n\u00b0 146 - Edition 2014",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 692.2841796875,
+            "r": 237.53199999999998,
+            "b": 687.2414550815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Pour plus d'information se r\u00e9f\u00e9rer \u00e0 la fiche toxicologique compl\u00e8te.",
+      "text": "Pour plus d'information se r\u00e9f\u00e9rer \u00e0 la fiche toxicologique compl\u00e8te."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 243.87109375,
+            "t": 518.5148925725,
+            "r": 351.33906249999995,
+            "b": 510.36853027625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "2-AMINO\u00c9THANOL",
+      "text": "2-AMINO\u00c9THANOL"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.0,
+            "t": 492.5165,
+            "r": 63.305499999999995,
+            "b": 484.4945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Danger",
+      "text": "Danger",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.75,
+            "t": 478.5341796875,
+            "r": 129.61075,
+            "b": 473.4914550815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "H332 - Nocif par inhalation",
+      "text": "H332 - Nocif par inhalation",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.75,
+            "t": 465.0341796875,
+            "r": 144.25975,
+            "b": 459.9914550815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "H312 - Nocif par contact cutan\u00e9",
+      "text": "H312 - Nocif par contact cutan\u00e9",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.75,
+            "t": 450.7841796875,
+            "r": 140.86075,
+            "b": 445.7414550815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "H302 - Nocif en cas d'ingestion",
+      "text": "H302 - Nocif en cas d'ingestion",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.75,
+            "t": 436.5341796875,
+            "r": 287.26,
+            "b": 431.4914550815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "H314 - Provoque de graves br\u00fblures de la peau et de graves l\u00e9sions des yeux",
+      "text": "H314 - Provoque de graves br\u00fblures de la peau et de graves l\u00e9sions des yeux",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.0,
+            "t": 420.7841796875,
+            "r": 370.282,
+            "b": 405.9914550815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "Les conseils de prudence P sont s\u00e9lectionn\u00e9s selon les crit\u00e8res de l'annexe 1 du r\u00e9glement CE n\u00b0 1272/2008. 205-483-3",
+      "text": "Les conseils de prudence P sont s\u00e9lectionn\u00e9s selon les crit\u00e8res de l'annexe 1 du r\u00e9glement CE n\u00b0 1272/2008. 205-483-3"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 381.30575,
+            "r": 123.92425,
+            "b": 371.56475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Propri\u00e9t\u00e9s physiques",
+      "text": "Propri\u00e9t\u00e9s physiques",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 307.0859375,
+            "r": 158.032,
+            "b": 300.9914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "\u00c0 20 \u00b0C et 101,3 kPa, 1 ppm = 2,54 mg/m . 3",
+      "text": "\u00c0 20 \u00b0C et 101,3 kPa, 1 ppm = 2,54 mg/m . 3"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 284.55575,
+            "r": 268.71025,
+            "b": 274.81475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "M\u00e9thodes de d\u00e9tection et de d\u00e9termination dans l'air",
+      "text": "M\u00e9thodes de d\u00e9tection et de d\u00e9termination dans l'air",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 38.5,
+            "t": 270.0341796875,
+            "r": 561.61075,
+            "b": 256.7414550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            327
+          ]
+        }
+      ],
+      "orig": "Pr\u00e9l\u00e8vement au travers d'un tube contenant deux plages d'alumine (s\u00e9par\u00e9es par un tampon de laine de verre trait\u00e9e au dim\u00e9thylchlorsilane). D\u00e9sorption par de l'eau ultra-pure. Dosage par chromatographie ionique avec ou sans suppression et d\u00e9tection conductim\u00e9trique, ou par \u00e9lectrophor\u00e8se capillaire et d\u00e9tection en UV inverse.",
+      "text": "Pr\u00e9l\u00e8vement au travers d'un tube contenant deux plages d'alumine (s\u00e9par\u00e9es par un tampon de laine de verre trait\u00e9e au dim\u00e9thylchlorsilane). D\u00e9sorption par de l'eau ultra-pure. Dosage par chromatographie ionique avec ou sans suppression et d\u00e9tection conductim\u00e9trique, ou par \u00e9lectrophor\u00e8se capillaire et d\u00e9tection en UV inverse.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 38.5,
+            "t": 251.2841796875,
+            "r": 560.50975,
+            "b": 237.9914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "Pr\u00e9l\u00e8vement par pompage de l'atmosph\u00e8re sur tube de gel de silice. D\u00e9sorption par un m\u00e9lange d'eau et de m\u00e9thanol. Dosage par chromatographie en phase gazeuse et d\u00e9tection par ionisation de flamme (photo ionisation ou d\u00e9tection thermo-ionique pour plus de sen sibilit\u00e9).",
+      "text": "Pr\u00e9l\u00e8vement par pompage de l'atmosph\u00e8re sur tube de gel de silice. D\u00e9sorption par un m\u00e9lange d'eau et de m\u00e9thanol. Dosage par chromatographie en phase gazeuse et d\u00e9tection par ionisation de flamme (photo ionisation ou d\u00e9tection thermo-ionique pour plus de sen sibilit\u00e9).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0,
+            "t": 220.80575,
+            "r": 231.41875000000002,
+            "b": 211.06475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Valeurs Limites d'Exposition Professionnelle",
+      "text": "Valeurs Limites d'Exposition Professionnelle",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.0,
+            "t": 198.7841796875,
+            "r": 549.61075,
+            "b": 184.7414550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "Des valeurs limites d'exposition professionnelle contraignantes dans l'air des lieux de travail ont \u00e9t\u00e9 \u00e9tablies en France pour le 2-amino\u00e9thanol (article R. 4412.149 du Code du travail).",
+      "text": "Des valeurs limites d'exposition professionnelle contraignantes dans l'air des lieux de travail ont \u00e9t\u00e9 \u00e9tablies en France pour le 2-amino\u00e9thanol (article R. 4412.149 du Code du travail)."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 271.75,
+            "t": 43.86230468300005,
+            "r": 400.468,
+            "b": 36.30371094199995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "2-Amino\u00e9thanol - Edition : 2014",
+      "text": "2-Amino\u00e9thanol - Edition : 2014"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.25,
+            "t": 43.86230468300005,
+            "r": 108.964,
+            "b": 36.30371094199995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "www.inrs.fr/fichetox",
+      "text": "www.inrs.fr/fichetox",
+      "hyperlink": "http://www.inrs.fr/fichetox"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 523.0,
+            "t": 43.86230468300005,
+            "r": 563.9680000000001,
+            "b": 36.30371094199995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Page 1 / 3",
+      "text": "Page 1 / 3"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.0,
+            "t": 737.55575,
+            "r": 140.66875,
+            "b": 727.81475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Pathologie - Toxicologie",
+      "text": "Pathologie - Toxicologie",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.0,
+            "t": 708.19625,
+            "r": 149.78125,
+            "b": 699.6012499999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Toxicocin\u00e9tique - M\u00e9tabolisme",
+      "text": "Toxicocin\u00e9tique - M\u00e9tabolisme",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 34.0,
+            "t": 687.0341796875,
+            "r": 565.75975,
+            "b": 662.603515628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            505
+          ]
+        }
+      ],
+      "orig": "L'absorption percutan\u00e9e du 2-amino\u00e9thanol est assez importante in vivo . Pour les voies orale et respiratoire, les preuves de son passage dans l'organisme existent mais aucune quantification n'est disponible. Une fois absorb\u00e9, il est principalement distribu\u00e9 dans le foie, le cerveau, les reins et le c\u0153ur. Le 2-amino\u00e9thanol est un interm\u00e9diaire normal du m\u00e9tabolisme chez l'homme et chez les mammi f\u00e8res. Il est principalement \u00e9limin\u00e9 par les poumons (CO 2 ) et dans les urines sous forme de m\u00e9tabolites.",
+      "text": "L'absorption percutan\u00e9e du 2-amino\u00e9thanol est assez importante in vivo . Pour les voies orale et respiratoire, les preuves de son passage dans l'organisme existent mais aucune quantification n'est disponible. Une fois absorb\u00e9, il est principalement distribu\u00e9 dans le foie, le cerveau, les reins et le c\u0153ur. Le 2-amino\u00e9thanol est un interm\u00e9diaire normal du m\u00e9tabolisme chez l'homme et chez les mammi f\u00e8res. Il est principalement \u00e9limin\u00e9 par les poumons (CO 2 ) et dans les urines sous forme de m\u00e9tabolites."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.0,
+            "t": 642.19625,
+            "r": 119.03125,
+            "b": 633.6012499999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Toxicit\u00e9 exp\u00e9rimentale",
+      "text": "Toxicit\u00e9 exp\u00e9rimentale",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.0,
+            "t": 614.0165,
+            "r": 80.4625,
+            "b": 605.9945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Toxicit\u00e9 aig\u00fce",
+      "text": "Toxicit\u00e9 aig\u00fce",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.5,
+            "t": 598.5341796875,
+            "r": 556.1125,
+            "b": 566.4914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            501
+          ]
+        }
+      ],
+      "orig": "La toxicit\u00e9 aigu\u00eb du 2-amino\u00e9thanol est faible par les voies cutan\u00e9e et respiratoire, et mod\u00e9r\u00e9e par voie orale. Les sympt\u00f4mes observ\u00e9s aux doses l\u00e9tales sont essentiel lement dus \u00e0 l'alcalinit\u00e9 du produit, se traduisant par une irritation intense du tractus gastro-intestinal. \u00c0 ces signes irritatifs sont associ\u00e9s des sympt\u00f4mes neurologiques et pulmonaires. Les propri\u00e9t\u00e9s corrosives du 2-amino\u00e9thanol ont \u00e9t\u00e9 mises en \u00e9vidence pour la peau et les yeux ; aucun potentiel sensibilisant n'est observ\u00e9.",
+      "text": "La toxicit\u00e9 aigu\u00eb du 2-amino\u00e9thanol est faible par les voies cutan\u00e9e et respiratoire, et mod\u00e9r\u00e9e par voie orale. Les sympt\u00f4mes observ\u00e9s aux doses l\u00e9tales sont essentiel lement dus \u00e0 l'alcalinit\u00e9 du produit, se traduisant par une irritation intense du tractus gastro-intestinal. \u00c0 ces signes irritatifs sont associ\u00e9s des sympt\u00f4mes neurologiques et pulmonaires. Les propri\u00e9t\u00e9s corrosives du 2-amino\u00e9thanol ont \u00e9t\u00e9 mises en \u00e9vidence pour la peau et les yeux ; aucun potentiel sensibilisant n'est observ\u00e9."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.0,
+            "t": 547.2665,
+            "r": 149.46249999999998,
+            "b": 539.2445,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Toxicit\u00e9 subchronique, chronique",
+      "text": "Toxicit\u00e9 subchronique, chronique",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.5,
+            "t": 531.7841796875,
+            "r": 556.9427499999999,
+            "b": 508.7414550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            463
+          ]
+        }
+      ],
+      "orig": "Par voie orale, le 2-amino\u00e9thanol entra\u00eene seulement une diminution du poids corporel des animaux. \u00c0 la suite d'expositions r\u00e9p\u00e9t\u00e9es par inhalation, les l\u00e9sions rappor t\u00e9es sont essentiellement li\u00e9es aux propri\u00e9t\u00e9s corrosives du produit au niveau du larynx, de la trach\u00e9e et des poumons. Des atteintes h\u00e9patiques et r\u00e9nales sont aussi rapport\u00e9es aux plus fortes doses. Une exposition cutan\u00e9e r\u00e9p\u00e9t\u00e9e est \u00e0 l'origine d'atteintes h\u00e9patique, cardiaque et pulmonaire.",
+      "text": "Par voie orale, le 2-amino\u00e9thanol entra\u00eene seulement une diminution du poids corporel des animaux. \u00c0 la suite d'expositions r\u00e9p\u00e9t\u00e9es par inhalation, les l\u00e9sions rappor t\u00e9es sont essentiellement li\u00e9es aux propri\u00e9t\u00e9s corrosives du produit au niveau du larynx, de la trach\u00e9e et des poumons. Des atteintes h\u00e9patiques et r\u00e9nales sont aussi rapport\u00e9es aux plus fortes doses. Une exposition cutan\u00e9e r\u00e9p\u00e9t\u00e9e est \u00e0 l'origine d'atteintes h\u00e9patique, cardiaque et pulmonaire."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.0,
+            "t": 489.51649999999995,
+            "r": 101.3935,
+            "b": 481.4945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Effets g\u00e9notoxiques",
+      "text": "Effets g\u00e9notoxiques",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.5,
+            "t": 474.0341796875,
+            "r": 238.28199999999998,
+            "b": 468.9914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Le 2-amino\u00e9thanol ne montre pas de potentiel g\u00e9no toxique.",
+      "text": "Le 2-amino\u00e9thanol ne montre pas de potentiel g\u00e9no toxique."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.0,
+            "t": 449.76649999999995,
+            "r": 102.1435,
+            "b": 441.7445,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Effets canc\u00e9rog\u00e8nes",
+      "text": "Effets canc\u00e9rog\u00e8nes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.5,
+            "t": 434.2841796875,
+            "r": 364.282,
+            "b": 429.2414550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Les donn\u00e9es disponibles sont insuffisantes pour juger du potentiel canc\u00e9rog\u00e8ne du 2-amino\u00e9thanol.",
+      "text": "Les donn\u00e9es disponibles sont insuffisantes pour juger du potentiel canc\u00e9rog\u00e8ne du 2-amino\u00e9thanol."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.0,
+            "t": 410.01649999999995,
+            "r": 121.18299999999999,
+            "b": 401.9945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Effets sur la reproduction",
+      "text": "Effets sur la reproduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.5,
+            "t": 394.5341796875,
+            "r": 559.36075,
+            "b": 362.4914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            509
+          ]
+        }
+      ],
+      "orig": "Des effets sur la fertilit\u00e9 sont observ\u00e9s au cours d'une \u00e9tude men\u00e9e sur deux g\u00e9n\u00e9rations, aussi bien chez les m\u00e2les (effets sur le nombre de spermatozo\u00efdes, les \u00e9pididymes et la prostate) que chez les femelles (diminution du nombre d'implantations et de la taille des port\u00e9es, augmentation des pertes post-implantatoires). En ce qui concerne le d\u00e9ve loppement, le 2-amino\u00e9thanol n'appara\u00eet pas t\u00e9ratog\u00e8ne mais pr\u00e9sente une f\u0153totoxicit\u00e9 dans une \u00e9tude au proto cole pr\u00e9sentant des limitations m\u00e9thodologiques.",
+      "text": "Des effets sur la fertilit\u00e9 sont observ\u00e9s au cours d'une \u00e9tude men\u00e9e sur deux g\u00e9n\u00e9rations, aussi bien chez les m\u00e2les (effets sur le nombre de spermatozo\u00efdes, les \u00e9pididymes et la prostate) que chez les femelles (diminution du nombre d'implantations et de la taille des port\u00e9es, augmentation des pertes post-implantatoires). En ce qui concerne le d\u00e9ve loppement, le 2-amino\u00e9thanol n'appara\u00eet pas t\u00e9ratog\u00e8ne mais pr\u00e9sente une f\u0153totoxicit\u00e9 dans une \u00e9tude au proto cole pr\u00e9sentant des limitations m\u00e9thodologiques."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.0,
+            "t": 342.94624999999996,
+            "r": 112.28125,
+            "b": 334.35124999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Toxicit\u00e9 sur l'Homme",
+      "text": "Toxicit\u00e9 sur l'Homme",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.5,
+            "t": 327.0341796875,
+            "r": 560.6927499999999,
+            "b": 312.9914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "Chez l'homme, le 2-amino\u00e9thanol est un irritant des voies respiratoires, de la peau et des yeux. Des ecz\u00e9mas sont \u00e9ga lement rapport\u00e9s, ainsi que quelques rares cas de r\u00e9actions bronchiques asthmatiformes.",
+      "text": "Chez l'homme, le 2-amino\u00e9thanol est un irritant des voies respiratoires, de la peau et des yeux. Des ecz\u00e9mas sont \u00e9ga lement rapport\u00e9s, ainsi que quelques rares cas de r\u00e9actions bronchiques asthmatiformes."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.0,
+            "t": 293.55575,
+            "r": 112.67425,
+            "b": 283.81475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Recommandations",
+      "text": "Recommandations",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.5,
+            "t": 276.0341796875,
+            "r": 554.50975,
+            "b": 252.9914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            355
+          ]
+        }
+      ],
+      "orig": "Le 2-amino\u00e9thanol est une substance peu volatile ; \u00e0 tem p\u00e9rature ambiante, le risque de pollution des locaux de travail ne para\u00eet pas tr\u00e8s \u00e9lev\u00e9. Il n'en est pas de m\u00eame lorsque le 2-amino\u00e9thanol est utilis\u00e9 \u00e0 temp\u00e9rature \u00e9le v\u00e9e ou en grande quantit\u00e9. Certaines mesures de pr\u00e9ven tion sont n\u00e9cessaires lors du stockage et de l'utilisation de ce produit.",
+      "text": "Le 2-amino\u00e9thanol est une substance peu volatile ; \u00e0 tem p\u00e9rature ambiante, le risque de pollution des locaux de travail ne para\u00eet pas tr\u00e8s \u00e9lev\u00e9. Il n'en est pas de m\u00eame lorsque le 2-amino\u00e9thanol est utilis\u00e9 \u00e0 temp\u00e9rature \u00e9le v\u00e9e ou en grande quantit\u00e9. Certaines mesures de pr\u00e9ven tion sont n\u00e9cessaires lors du stockage et de l'utilisation de ce produit."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.0,
+            "t": 234.51649999999995,
+            "r": 112.7125,
+            "b": 226.49450000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Au point vue technique",
+      "text": "Au point vue technique",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.5,
+            "t": 209.76649999999995,
+            "r": 84.2125,
+            "b": 201.74450000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Stockage",
+      "text": "Stockage",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 61.0,
+            "t": 196.5341796875,
+            "r": 555.25975,
+            "b": 174.9914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            395
+          ]
+        }
+      ],
+      "orig": "Stocker le 2-amino\u00e9thanol dans des locaux frais et bien ventil\u00e9s. Tenir \u00e0 l'\u00e9cart de toute source d'ignition (\u00e9tin celles, flammes nues, rayons solaires...) et ne pas fumer. Tenir \u00e0 l'\u00e9cart des produits oxydants et des acides. Le sol des locaux sera incombustible, imperm\u00e9able et formera cuvette de r\u00e9tention, afin qu'en cas de d\u00e9versement acci dentel le liquide ne puisse se r\u00e9pandre au-dehors.",
+      "text": "Stocker le 2-amino\u00e9thanol dans des locaux frais et bien ventil\u00e9s. Tenir \u00e0 l'\u00e9cart de toute source d'ignition (\u00e9tin celles, flammes nues, rayons solaires...) et ne pas fumer. Tenir \u00e0 l'\u00e9cart des produits oxydants et des acides. Le sol des locaux sera incombustible, imperm\u00e9able et formera cuvette de r\u00e9tention, afin qu'en cas de d\u00e9versement acci dentel le liquide ne puisse se r\u00e9pandre au-dehors.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 61.0,
+            "t": 169.5341796875,
+            "r": 433.282,
+            "b": 164.4914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "Des appareils de protection respiratoire isolants seront pr\u00e9vus \u00e0 proximit\u00e9 des locaux pour les interventions d'ur gence.",
+      "text": "Des appareils de protection respiratoire isolants seront pr\u00e9vus \u00e0 proximit\u00e9 des locaux pour les interventions d'ur gence.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.5,
+            "t": 146.76649999999995,
+            "r": 98.68299999999999,
+            "b": 138.74450000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Manipulation",
+      "text": "Manipulation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 61.0,
+            "t": 133.5341796875,
+            "r": 560.50975,
+            "b": 103.74145508149991,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            559
+          ]
+        }
+      ],
+      "orig": "Pr\u00e9venir toute inhalation de vapeurs. Effectuer en appa reil clos toute op\u00e9ration industrielle qui s'y pr\u00eate. Pr\u00e9voir une aspiration des vapeurs \u00e0 leur source d'\u00e9mission ainsi qu'une ventilation g\u00e9n\u00e9rale des locaux. Pr\u00e9voir \u00e9galement des appareils de protection respiratoire pour certaines op\u00e9rations exceptionnelles de courte dur\u00e9e ; leur choix d\u00e9pend des conditions de travail ; si un appareil filtrant peut \u00eatre utilis\u00e9, il doit \u00eatre muni d'un filtre de type AP2. Pour des interventions d'urgence, le port d'un appareil respiratoire isolant est n\u00e9cessaire.",
+      "text": "Pr\u00e9venir toute inhalation de vapeurs. Effectuer en appa reil clos toute op\u00e9ration industrielle qui s'y pr\u00eate. Pr\u00e9voir une aspiration des vapeurs \u00e0 leur source d'\u00e9mission ainsi qu'une ventilation g\u00e9n\u00e9rale des locaux. Pr\u00e9voir \u00e9galement des appareils de protection respiratoire pour certaines op\u00e9rations exceptionnelles de courte dur\u00e9e ; leur choix d\u00e9pend des conditions de travail ; si un appareil filtrant peut \u00eatre utilis\u00e9, il doit \u00eatre muni d'un filtre de type AP2. Pour des interventions d'urgence, le port d'un appareil respiratoire isolant est n\u00e9cessaire.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 61.0,
+            "t": 98.2841796875,
+            "r": 562.36075,
+            "b": 84.99145508149991,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "Contr\u00f4ler r\u00e9guli\u00e8rement la teneur de l'atmosph\u00e8re en 2-amino\u00e9thanol dans l'air des lieux de travail (voir le cha pitre \u00ab M\u00e9thodes de d\u00e9tection et de d\u00e9termination dans l'air \u00bb.",
+      "text": "Contr\u00f4ler r\u00e9guli\u00e8rement la teneur de l'atmosph\u00e8re en 2-amino\u00e9thanol dans l'air des lieux de travail (voir le cha pitre \u00ab M\u00e9thodes de d\u00e9tection et de d\u00e9termination dans l'air \u00bb.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 61.0,
+            "t": 57.0341796875,
+            "r": 550.89025,
+            "b": 51.99145508149991,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "\u00c9viter tout contact de produit avec la peau et les yeux. Mettre \u00e0 la disposition du personnel des \u00e9quipements de protection individuelle : v\u00eatements de travail,",
+      "text": "\u00c9viter tout contact de produit avec la peau et les yeux. Mettre \u00e0 la disposition du personnel des \u00e9quipements de protection individuelle : v\u00eatements de travail,"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 271.75,
+            "t": 43.86230468300005,
+            "r": 400.468,
+            "b": 36.30371094199995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "2-Amino\u00e9thanol - Edition : 2014",
+      "text": "2-Amino\u00e9thanol - Edition : 2014"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 243.25,
+            "t": 806.770507805,
+            "r": 564.4300000000001,
+            "b": 794.17285157,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Base de donn\u00e9es FICHES TOXICOLOGIQUES",
+      "text": "Base de donn\u00e9es FICHES TOXICOLOGIQUES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 30.25,
+            "t": 43.86230468300005,
+            "r": 108.964,
+            "b": 36.30371094199995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "www.inrs.fr/fichetox",
+      "text": "www.inrs.fr/fichetox",
+      "hyperlink": "http://www.inrs.fr/fichetox"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 523.0,
+            "t": 43.86230468300005,
+            "r": 563.9680000000001,
+            "b": 36.30371094199995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Page 2 / 3",
+      "text": "Page 2 / 3"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 243.25,
+            "t": 806.770507805,
+            "r": 564.4300000000001,
+            "b": 794.17285157,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "Base de donn\u00e9es FICHES TOXICOLOGIQUES",
+      "text": "Base de donn\u00e9es FICHES TOXICOLOGIQUES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 741.7841796875,
+            "r": 556.8625,
+            "b": 720.2414550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            350
+          ]
+        }
+      ],
+      "orig": "\u00c9viter tout contact de produit avec la peau et les yeux. Mettre \u00e0 la disposition du personnel des \u00e9quipements de protection individuelle : v\u00eatements de travail, gants imperm\u00e9ables (par exemple en caoutchouc butyle, caout chouc nitrile, n\u00e9opr\u00e8ne, Viton) et lunettes de s\u00e9curit\u00e9. Ces effets seront maintenus en bon \u00e9tat et net toy\u00e9s apr\u00e8s chaque usage.",
+      "text": "\u00c9viter tout contact de produit avec la peau et les yeux. Mettre \u00e0 la disposition du personnel des \u00e9quipements de protection individuelle : v\u00eatements de travail, gants imperm\u00e9ables (par exemple en caoutchouc butyle, caout chouc nitrile, n\u00e9opr\u00e8ne, Viton) et lunettes de s\u00e9curit\u00e9. Ces effets seront maintenus en bon \u00e9tat et net toy\u00e9s apr\u00e8s chaque usage.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 714.7841796875,
+            "r": 328.282,
+            "b": 709.7414550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Pr\u00e9voir l'installation de fontaines oculaires dans les ate liers o\u00f9 le produit est manipul\u00e9.",
+      "text": "Pr\u00e9voir l'installation de fontaines oculaires dans les ate liers o\u00f9 le produit est manipul\u00e9.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 704.2841796875,
+            "r": 556.1927499999999,
+            "b": 690.9914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            295
+          ]
+        }
+      ],
+      "orig": "En cas de fuite ou de d\u00e9versement accidentel sur le sol, neutraliser le 2-amino\u00e9thanol par du bisulfate de sodium et r\u00e9cup\u00e9rer imm\u00e9diatement le produit apr\u00e8s l'avoir recouvert de mat\u00e9riau absorbant inerte (sable, terre, ver miculite...). Laver ensuite \u00e0 grande eau la surface ayant \u00e9t\u00e9 souill\u00e9e.",
+      "text": "En cas de fuite ou de d\u00e9versement accidentel sur le sol, neutraliser le 2-amino\u00e9thanol par du bisulfate de sodium et r\u00e9cup\u00e9rer imm\u00e9diatement le produit apr\u00e8s l'avoir recouvert de mat\u00e9riau absorbant inerte (sable, terre, ver miculite...). Laver ensuite \u00e0 grande eau la surface ayant \u00e9t\u00e9 souill\u00e9e.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 28.0,
+            "t": 671.7665,
+            "r": 121.8055,
+            "b": 663.7445,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Conduite m\u00e9dicale \u00e0 tenir",
+      "text": "Conduite m\u00e9dicale \u00e0 tenir",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 656.2841796875,
+            "r": 338.032,
+            "b": 651.2414550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "Des recommandations m\u00e9dicales sp\u00e9cifiques existent concernant certains organes cibles.",
+      "text": "Des recommandations m\u00e9dicales sp\u00e9cifiques existent concernant certains organes cibles.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 645.7841796875,
+            "r": 540.5319999999999,
+            "b": 640.7414550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "Lors d'accidents aigus, demander dans tous les cas l'avis d'un m\u00e9decin ou du centre antipoison r\u00e9gional ou des ser vices de secours m\u00e9dicalis\u00e9s d'urgence.",
+      "text": "Lors d'accidents aigus, demander dans tous les cas l'avis d'un m\u00e9decin ou du centre antipoison r\u00e9gional ou des ser vices de secours m\u00e9dicalis\u00e9s d'urgence.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 635.2841796875,
+            "r": 553.36075,
+            "b": 621.9914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "En cas de contact cutan\u00e9, laver imm\u00e9diatement et abondamment \u00e0 l'eau pendant 15 minutes. Retirer les v\u00eatements souill\u00e9s. Si la contamination est \u00e9tendue ou prolong\u00e9e et/ou s'il appara\u00eet des l\u00e9sions cutan\u00e9es, consulter un m\u00e9decinou faire transf\u00e9rer en milieu hospitalier..",
+      "text": "En cas de contact cutan\u00e9, laver imm\u00e9diatement et abondamment \u00e0 l'eau pendant 15 minutes. Retirer les v\u00eatements souill\u00e9s. Si la contamination est \u00e9tendue ou prolong\u00e9e et/ou s'il appara\u00eet des l\u00e9sions cutan\u00e9es, consulter un m\u00e9decinou faire transf\u00e9rer en milieu hospitalier..",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 616.5341796875,
+            "r": 459.532,
+            "b": 611.4914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "En cas de projection oculaire, laver imm\u00e9diatement et abondamment \u00e0 l'eau pendant 15 minutes. Consulter un ophtalmologiste.",
+      "text": "En cas de projection oculaire, laver imm\u00e9diatement et abondamment \u00e0 l'eau pendant 15 minutes. Consulter un ophtalmologiste.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 606.0341796875,
+            "r": 551.64025,
+            "b": 584.4914550814999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            411
+          ]
+        }
+      ],
+      "orig": "En cas d'inhalation massive de vapeurs ou d'a\u00e9rosols, retirer le sujet de la zone pollu\u00e9e apr\u00e8s avoir pris les pr\u00e9cautions n\u00e9cessaires pour les sauveteurs. Faire transf\u00e9rer le sujet en milieu hospitalier pour un bilan des l\u00e9sions, surveillance prolong\u00e9e et traitement symptomatique si n\u00e9cessaire.. En attendant les secours, d\u00e9shabiller la victime et commencer une d\u00e9contamina tion cutan\u00e9e et oculaire soigneuse.",
+      "text": "En cas d'inhalation massive de vapeurs ou d'a\u00e9rosols, retirer le sujet de la zone pollu\u00e9e apr\u00e8s avoir pris les pr\u00e9cautions n\u00e9cessaires pour les sauveteurs. Faire transf\u00e9rer le sujet en milieu hospitalier pour un bilan des l\u00e9sions, surveillance prolong\u00e9e et traitement symptomatique si n\u00e9cessaire.. En attendant les secours, d\u00e9shabiller la victime et commencer une d\u00e9contamina tion cutan\u00e9e et oculaire soigneuse.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 579.0341796875,
+            "r": 547.00975,
+            "b": 565.7414550815001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            274
+          ]
+        }
+      ],
+      "orig": "En cas d'ingestion, ne pas faire boire et ne pas tenter de provoquer des vomissements. Faire transf\u00e9 rer rapidement en milieu hospitalier, si possible par une ambulance m\u00e9dicalis\u00e9e, pour un bilan des l\u00e9sions, surveillance prolong\u00e9e et traitement symptomatique si n\u00e9cessaire.",
+      "text": "En cas d'ingestion, ne pas faire boire et ne pas tenter de provoquer des vomissements. Faire transf\u00e9 rer rapidement en milieu hospitalier, si possible par une ambulance m\u00e9dicalis\u00e9e, pour un bilan des l\u00e9sions, surveillance prolong\u00e9e et traitement symptomatique si n\u00e9cessaire.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.0,
+            "t": 560.2841796875,
+            "r": 532.00975,
+            "b": 546.9914550815001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "Dans les deux cas pr\u00e9c\u00e9dents, placer la victime en posi tion lat\u00e9rale de s\u00e9curit\u00e9 si elle est inconsciente et mettre en \u0153uvre, s'il y a lieu, des man\u0153uvres de r\u00e9animation.",
+      "text": "Dans les deux cas pr\u00e9c\u00e9dents, placer la victime en posi tion lat\u00e9rale de s\u00e9curit\u00e9 si elle est inconsciente et mettre en \u0153uvre, s'il y a lieu, des man\u0153uvres de r\u00e9animation.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 271.75,
+            "t": 43.86230468300005,
+            "r": 400.468,
+            "b": 36.30371094199995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "2-Amino\u00e9thanol - Edition : 2014",
+      "text": "2-Amino\u00e9thanol - Edition : 2014"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 30.25,
+            "t": 43.86230468300005,
+            "r": 108.964,
+            "b": 36.30371094199995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "www.inrs.fr/fichetox",
+      "text": "www.inrs.fr/fichetox",
+      "hyperlink": "http://www.inrs.fr/fichetox"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 523.0,
+            "t": 43.86230468300005,
+            "r": 563.9680000000001,
+            "b": 36.30371094199995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Page 3 / 3",
+      "text": "Page 3 / 3"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.782196044921875,
+            "t": 812.7167835235596,
+            "r": 149.7478790283203,
+            "b": 767.0372924804688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 207.77499389648438,
+            "t": 623.7319183349609,
+            "r": 294.21893310546875,
+            "b": 536.7916259765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 303.43585205078125,
+            "t": 623.5353546142578,
+            "r": 390.33251953125,
+            "b": 536.86572265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.6905460357666,
+            "t": 812.8779621124268,
+            "r": 149.715576171875,
+            "b": 764.1433792114258,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 28.695186614990234,
+            "t": 812.6899394989014,
+            "r": 149.66293334960938,
+            "b": 768.3210830688477,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.02028465270996,
+            "t": 674.2341766357422,
+            "r": 521.507568359375,
+            "b": 637.1995697021484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 35.875,
+              "t": 175.77539062799997,
+              "r": 89.641,
+              "b": 180.12011718600002,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Formule Chimique",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 122.5,
+              "t": 175.77539062799997,
+              "r": 137.344,
+              "b": 180.12011718600002,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Nom",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 170.125,
+              "t": 175.77539062799997,
+              "r": 208.651,
+              "b": 180.12011718600002,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Num\u00e9ro CAS",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 223.375,
+              "t": 175.77539062799997,
+              "r": 257.461,
+              "b": 180.12011718600002,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Num\u00e9ro CE",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 272.125,
+              "t": 175.77539062799997,
+              "r": 315.31899999999996,
+              "b": 180.12011718600002,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Num\u00e9ro index",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 404.875,
+              "t": 175.77539062799997,
+              "r": 439.33299999999997,
+              "b": 180.12011718600002,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "Synonymes",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.25,
+              "t": 193.2158203125,
+              "r": 66.799,
+              "b": 199.64648437200003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "C H ON 2 7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 104.5,
+              "t": 193.2158203125,
+              "r": 154.94424999999998,
+              "b": 198.25854491849998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2-Amino\u00e9thanol",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 169.75,
+              "t": 193.2158203125,
+              "r": 196.82725,
+              "b": 198.25854491849998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "141-43-5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 223.0,
+              "t": 193.2158203125,
+              "r": 253.82725,
+              "b": 198.25854491849998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "205-483-3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 271.75,
+              "t": 193.2158203125,
+              "r": 312.32725,
+              "b": 198.25854491849998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "603-030-00-8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 331.0,
+              "t": 193.2158203125,
+              "r": 514.00975,
+              "b": 198.25854491849998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "Ethanolamine ;Mono\u00e9thanolamine ; 2-Hydroxy\u00e9thylamine",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 2,
+        "num_cols": 6,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 35.875,
+                "t": 175.77539062799997,
+                "r": 89.641,
+                "b": 180.12011718600002,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Formule Chimique",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 122.5,
+                "t": 175.77539062799997,
+                "r": 137.344,
+                "b": 180.12011718600002,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Nom",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 170.125,
+                "t": 175.77539062799997,
+                "r": 208.651,
+                "b": 180.12011718600002,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Num\u00e9ro CAS",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 223.375,
+                "t": 175.77539062799997,
+                "r": 257.461,
+                "b": 180.12011718600002,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Num\u00e9ro CE",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 272.125,
+                "t": 175.77539062799997,
+                "r": 315.31899999999996,
+                "b": 180.12011718600002,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Num\u00e9ro index",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 404.875,
+                "t": 175.77539062799997,
+                "r": 439.33299999999997,
+                "b": 180.12011718600002,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "Synonymes",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.25,
+                "t": 193.2158203125,
+                "r": 66.799,
+                "b": 199.64648437200003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "C H ON 2 7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 104.5,
+                "t": 193.2158203125,
+                "r": 154.94424999999998,
+                "b": 198.25854491849998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2-Amino\u00e9thanol",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 169.75,
+                "t": 193.2158203125,
+                "r": 196.82725,
+                "b": 198.25854491849998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "141-43-5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 223.0,
+                "t": 193.2158203125,
+                "r": 253.82725,
+                "b": 198.25854491849998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "205-483-3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 271.75,
+                "t": 193.2158203125,
+                "r": 312.32725,
+                "b": 198.25854491849998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "603-030-00-8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 331.0,
+                "t": 193.2158203125,
+                "r": 514.00975,
+                "b": 198.25854491849998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "Ethanolamine ;Mono\u00e9thanolamine ; 2-Hydroxy\u00e9thylamine",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.25167465209961,
+            "t": 366.0677490234375,
+            "r": 478.02557373046875,
+            "b": 310.79046630859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 37.75,
+              "t": 484.02539062799997,
+              "r": 84.016,
+              "b": 488.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nom Substance",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 106.375,
+              "t": 484.02539062799997,
+              "r": 126.901,
+              "b": 488.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "N\u00b0CAS",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 146.875,
+              "t": 484.02539062799997,
+              "r": 186.391,
+              "b": 488.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Etat Physique",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 201.625,
+              "t": 484.02539062799997,
+              "r": 245.287,
+              "b": 488.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Pointde fusion",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 260.125,
+              "t": 484.02539062799997,
+              "r": 307.53700000000003,
+              "b": 488.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Point d'\u00e9bulition",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 322.375,
+              "t": 484.02539062799997,
+              "r": 379.82500000000005,
+              "b": 488.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "Pression de vapeur",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 413.5,
+              "t": 484.02539062799997,
+              "r": 451.45000000000005,
+              "b": 488.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "Point d'\u00e9clair",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 35.5,
+              "t": 501.4658203125,
+              "r": 85.94425,
+              "b": 506.50854491850004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2-Amino\u00e9thanol",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 100.75,
+              "t": 501.4658203125,
+              "r": 131.57725,
+              "b": 506.50854491850004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "141-483-5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 147.25,
+              "t": 501.4658203125,
+              "r": 171.25975,
+              "b": 506.50854491850004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Liquide",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 202.0,
+              "t": 501.4658203125,
+              "r": 237.7255,
+              "b": 506.50854491850004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "10 \u00e0 10,5 \u00b0C",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 260.5,
+              "t": 501.4658203125,
+              "r": 298.4755,
+              "b": 506.50854491850004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "167 \u00e0 172 \u00b0C",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 322.75,
+              "t": 501.4658203125,
+              "r": 371.9755,
+              "b": 524.5085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "0,05 kPA \u00e0 20 \u00b0C 0,78 kPa \u00e0 60 \u00b0C 2,6 kPa \u00e0 80 \u00b0C",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 395.5,
+              "t": 501.4658203125,
+              "r": 470.23449999999997,
+              "b": 515.5085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "85 \u00b0C (coupelle ferm\u00e9e) 93 \u00b0C (coupelle ouverte)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 2,
+        "num_cols": 7,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 37.75,
+                "t": 484.02539062799997,
+                "r": 84.016,
+                "b": 488.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nom Substance",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 106.375,
+                "t": 484.02539062799997,
+                "r": 126.901,
+                "b": 488.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "N\u00b0CAS",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 146.875,
+                "t": 484.02539062799997,
+                "r": 186.391,
+                "b": 488.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Etat Physique",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 201.625,
+                "t": 484.02539062799997,
+                "r": 245.287,
+                "b": 488.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Pointde fusion",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 260.125,
+                "t": 484.02539062799997,
+                "r": 307.53700000000003,
+                "b": 488.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Point d'\u00e9bulition",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 322.375,
+                "t": 484.02539062799997,
+                "r": 379.82500000000005,
+                "b": 488.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "Pression de vapeur",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 413.5,
+                "t": 484.02539062799997,
+                "r": 451.45000000000005,
+                "b": 488.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "Point d'\u00e9clair",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 35.5,
+                "t": 501.4658203125,
+                "r": 85.94425,
+                "b": 506.50854491850004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2-Amino\u00e9thanol",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 100.75,
+                "t": 501.4658203125,
+                "r": 131.57725,
+                "b": 506.50854491850004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "141-483-5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 147.25,
+                "t": 501.4658203125,
+                "r": 171.25975,
+                "b": 506.50854491850004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Liquide",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 202.0,
+                "t": 501.4658203125,
+                "r": 237.7255,
+                "b": 506.50854491850004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "10 \u00e0 10,5 \u00b0C",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 260.5,
+                "t": 501.4658203125,
+                "r": 298.4755,
+                "b": 506.50854491850004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "167 \u00e0 172 \u00b0C",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 322.75,
+                "t": 501.4658203125,
+                "r": 371.9755,
+                "b": 524.5085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "0,05 kPA \u00e0 20 \u00b0C 0,78 kPa \u00e0 60 \u00b0C 2,6 kPa \u00e0 80 \u00b0C",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 395.5,
+                "t": 501.4658203125,
+                "r": 470.23449999999997,
+                "b": 515.5085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "85 \u00b0C (coupelle ferm\u00e9e) 93 \u00b0C (coupelle ouverte)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 27.451766967773438,
+            "t": 174.40557861328125,
+            "r": 566.790283203125,
+            "b": 69.517333984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 45.625,
+              "t": 676.025390628,
+              "r": 75.391,
+              "b": 680.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Substance",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 219.25,
+              "t": 676.025390628,
+              "r": 234.526,
+              "b": 680.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "PAYS",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 367.75,
+              "t": 676.025390628,
+              "r": 399.76599999999996,
+              "b": 680.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "VME(ppm)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.25,
+              "t": 676.025390628,
+              "r": 453.01599999999996,
+              "b": 680.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "VME(mg/m\u00b3)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 467.875,
+              "t": 676.025390628,
+              "r": 502.14099999999996,
+              "b": 680.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "VLCT (ppm)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 517.375,
+              "t": 676.025390628,
+              "r": 558.391,
+              "b": 680.370117186,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "VLCT (mg/m\u00b3)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 35.5,
+              "t": 693.4658203125,
+              "r": 85.94425,
+              "b": 698.5085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2-Amino\u00e9thanol",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 100.0,
+              "t": 693.4658203125,
+              "r": 255.73450000000003,
+              "b": 698.5085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "France ( VLEPr\u00e9glementaire contraignante - 2007)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 367.75,
+              "t": 693.4658203125,
+              "r": 371.57725,
+              "b": 698.5085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.25,
+              "t": 693.4658203125,
+              "r": 423.32724999999994,
+              "b": 698.5085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "2,5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 467.5,
+              "t": 693.4658203125,
+              "r": 471.32724999999994,
+              "b": 698.5085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 517.0,
+              "t": 693.4658203125,
+              "r": 526.0772499999999,
+              "b": 698.5085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "7,6",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 35.5,
+              "t": 712.2158203125,
+              "r": 85.94425,
+              "b": 717.2585449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2-Amino\u00e9thanol",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 100.0,
+              "t": 712.2158203125,
+              "r": 179.2345,
+              "b": 717.2585449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Etats-Unis (ACGIH - 2001)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 367.75,
+              "t": 712.2158203125,
+              "r": 371.57725,
+              "b": 717.2585449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.25,
+              "t": 712.2158203125,
+              "r": 423.32724999999994,
+              "b": 717.2585449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "7,5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 467.5,
+              "t": 712.2158203125,
+              "r": 471.32724999999994,
+              "b": 717.2585449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "6",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 517.0,
+              "t": 712.2158203125,
+              "r": 524.5772499999999,
+              "b": 717.2585449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "15",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 35.5,
+              "t": 730.9658203125,
+              "r": 85.94425,
+              "b": 736.0085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2-Amino\u00e9thanol",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 100.0,
+              "t": 730.9658203125,
+              "r": 178.4845,
+              "b": 736.0085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Allemagne ( Valeur MAK )",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 367.75,
+              "t": 730.9658203125,
+              "r": 371.57725,
+              "b": 736.0085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.25,
+              "t": 730.9658203125,
+              "r": 423.32724999999994,
+              "b": 736.0085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "5,1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 467.5,
+              "t": 730.9658203125,
+              "r": 469.65324999999996,
+              "b": 736.0085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "-",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 517.0,
+              "t": 730.9658203125,
+              "r": 519.15325,
+              "b": 736.0085449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "-",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 35.5,
+              "t": 749.7158203125,
+              "r": 85.94425,
+              "b": 754.7585449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "2-Amino\u00e9thanol",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 100.0,
+              "t": 749.7158203125,
+              "r": 332.50975,
+              "b": 763.7585449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Union Europ\u00e9enne (valeurs limites indicatives d'exposition professionnelle 2006)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 367.75,
+              "t": 749.7158203125,
+              "r": 371.57725,
+              "b": 754.7585449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 414.25,
+              "t": 749.7158203125,
+              "r": 423.32724999999994,
+              "b": 754.7585449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "2,5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 467.5,
+              "t": 749.7158203125,
+              "r": 471.32724999999994,
+              "b": 754.7585449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 517.0,
+              "t": 749.7158203125,
+              "r": 526.0772499999999,
+              "b": 754.7585449185001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "7,6",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 6,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 45.625,
+                "t": 676.025390628,
+                "r": 75.391,
+                "b": 680.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Substance",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 219.25,
+                "t": 676.025390628,
+                "r": 234.526,
+                "b": 680.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "PAYS",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 367.75,
+                "t": 676.025390628,
+                "r": 399.76599999999996,
+                "b": 680.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "VME(ppm)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.25,
+                "t": 676.025390628,
+                "r": 453.01599999999996,
+                "b": 680.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "VME(mg/m\u00b3)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 467.875,
+                "t": 676.025390628,
+                "r": 502.14099999999996,
+                "b": 680.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "VLCT (ppm)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 517.375,
+                "t": 676.025390628,
+                "r": 558.391,
+                "b": 680.370117186,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "VLCT (mg/m\u00b3)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 35.5,
+                "t": 693.4658203125,
+                "r": 85.94425,
+                "b": 698.5085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2-Amino\u00e9thanol",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 100.0,
+                "t": 693.4658203125,
+                "r": 255.73450000000003,
+                "b": 698.5085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "France ( VLEPr\u00e9glementaire contraignante - 2007)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 367.75,
+                "t": 693.4658203125,
+                "r": 371.57725,
+                "b": 698.5085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.25,
+                "t": 693.4658203125,
+                "r": 423.32724999999994,
+                "b": 698.5085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "2,5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 467.5,
+                "t": 693.4658203125,
+                "r": 471.32724999999994,
+                "b": 698.5085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 517.0,
+                "t": 693.4658203125,
+                "r": 526.0772499999999,
+                "b": 698.5085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "7,6",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 35.5,
+                "t": 712.2158203125,
+                "r": 85.94425,
+                "b": 717.2585449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2-Amino\u00e9thanol",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 100.0,
+                "t": 712.2158203125,
+                "r": 179.2345,
+                "b": 717.2585449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Etats-Unis (ACGIH - 2001)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 367.75,
+                "t": 712.2158203125,
+                "r": 371.57725,
+                "b": 717.2585449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.25,
+                "t": 712.2158203125,
+                "r": 423.32724999999994,
+                "b": 717.2585449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "7,5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 467.5,
+                "t": 712.2158203125,
+                "r": 471.32724999999994,
+                "b": 717.2585449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "6",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 517.0,
+                "t": 712.2158203125,
+                "r": 524.5772499999999,
+                "b": 717.2585449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "15",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 35.5,
+                "t": 730.9658203125,
+                "r": 85.94425,
+                "b": 736.0085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2-Amino\u00e9thanol",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 100.0,
+                "t": 730.9658203125,
+                "r": 178.4845,
+                "b": 736.0085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Allemagne ( Valeur MAK )",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 367.75,
+                "t": 730.9658203125,
+                "r": 371.57725,
+                "b": 736.0085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.25,
+                "t": 730.9658203125,
+                "r": 423.32724999999994,
+                "b": 736.0085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "5,1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 467.5,
+                "t": 730.9658203125,
+                "r": 469.65324999999996,
+                "b": 736.0085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "-",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 517.0,
+                "t": 730.9658203125,
+                "r": 519.15325,
+                "b": 736.0085449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "-",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 35.5,
+                "t": 749.7158203125,
+                "r": 85.94425,
+                "b": 754.7585449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "2-Amino\u00e9thanol",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 100.0,
+                "t": 749.7158203125,
+                "r": 332.50975,
+                "b": 763.7585449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Union Europ\u00e9enne (valeurs limites indicatives d'exposition professionnelle 2006)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 367.75,
+                "t": 749.7158203125,
+                "r": 371.57725,
+                "b": 754.7585449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 414.25,
+                "t": 749.7158203125,
+                "r": 423.32724999999994,
+                "b": 754.7585449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "2,5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 467.5,
+                "t": 749.7158203125,
+                "r": 471.32724999999994,
+                "b": 754.7585449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 517.0,
+                "t": 749.7158203125,
+                "r": 526.0772499999999,
+                "b": 754.7585449185001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "7,6",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 3
+    }
+  }
+}

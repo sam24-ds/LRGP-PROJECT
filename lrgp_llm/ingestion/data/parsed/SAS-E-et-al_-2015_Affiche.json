@@ -1,0 +1,997 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "SAS-E-et-al_-2015_Affiche",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18050260563563216361,
+    "filename": "SAS-E-et-al_-2015_Affiche.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.6,
+            "t": 1743.636009765625,
+            "r": 45.6,
+            "b": 1733.3040097656249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.744,
+            "t": 1731.641129765625,
+            "r": 2787.4488800000004,
+            "b": 1692.1404128595475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "LES CONTACTEURS MEMBRANAIRES ou COMMENT REPOUSSER LES LIMITES DE L'EXTRACTION LIQUIDE-LIQUIDE CLASSIQUE",
+      "text": "LES CONTACTEURS MEMBRANAIRES ou COMMENT REPOUSSER LES LIMITES DE L'EXTRACTION LIQUIDE-LIQUIDE CLASSIQUE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1083.31,
+            "t": 1681.865129765625,
+            "r": 1769.52712,
+            "b": 1653.1275509810946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "E. Sas 1 , N. Martinez 1 , F. Biasotto 1  et S. Alex 2",
+      "text": "E. Sas 1 , N. Martinez 1 , F. Biasotto 1  et S. Alex 2"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 433.13,
+            "t": 1622.4891297656252,
+            "r": 2408.500000000001,
+            "b": 1591.400009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "1 Centre d'\u00e9tudes des proc\u00e9d\u00e9s chimiques du Qu\u00e9bec(C\u00c9PROCQ) & 2 Institut des proc\u00e9d\u00e9s industriels(IPI), Coll\u00e8ge de Maisonneuve, Montr\u00e9al, Qc., Canada",
+      "text": "1 Centre d'\u00e9tudes des proc\u00e9d\u00e9s chimiques du Qu\u00e9bec(C\u00c9PROCQ) & 2 Institut des proc\u00e9d\u00e9s industriels(IPI), Coll\u00e8ge de Maisonneuve, Montr\u00e9al, Qc., Canada"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.232,
+            "t": 1551.2440097656252,
+            "r": 2759.074,
+            "b": 1470.2993025833046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1040
+          ]
+        }
+      ],
+      "orig": "Les contacteurs membranaires ont \u00e9t\u00e9 d\u00e9velopp\u00e9s vers la fin des ann\u00e9es 1990 pour le d\u00e9gazage des fluides industriels pour en diminuer la corrosion due aux gaz dissous. Rapidement, on s'est aper\u00e7u qu'ils pouvaient rendre de fiers services en extraction liquide-liquide. Cependant, il aura fallu attendre presque 10 ans avant de voir les premi\u00e8res applications industrielles, et cette technologie manque encore d'historique. Par contre, on peut lui pr\u00e9dire un bel avenir, car on peut s'en servir aussi bien pour r\u00e9duire la pollution organique et min\u00e9rale des eaux (r\u00e9duction de la demande chimique en oxyg\u00e8ne, des m\u00e9taux lourds, de l'ammoniaque, des oxyanions, etc.) que pour traiter l'ammoniac des effluents aqueux et le dioxyde de carbone dans l'air. Cette technologie est aujourd'hui \u00e0 la chimie industrielle ce que l'\u00e2ne et le mulet ont \u00e9t\u00e9 (et sont) \u00e0 l'agriculture. Tout comme eux, les contacteurs sont de v\u00e9ritables b\u00eates de somme, car ils all\u00e8gent les traitements, il ne nous reste plus qu'\u00e0 avoir l'intelligence de bien les utiliser.",
+      "text": "Les contacteurs membranaires ont \u00e9t\u00e9 d\u00e9velopp\u00e9s vers la fin des ann\u00e9es 1990 pour le d\u00e9gazage des fluides industriels pour en diminuer la corrosion due aux gaz dissous. Rapidement, on s'est aper\u00e7u qu'ils pouvaient rendre de fiers services en extraction liquide-liquide. Cependant, il aura fallu attendre presque 10 ans avant de voir les premi\u00e8res applications industrielles, et cette technologie manque encore d'historique. Par contre, on peut lui pr\u00e9dire un bel avenir, car on peut s'en servir aussi bien pour r\u00e9duire la pollution organique et min\u00e9rale des eaux (r\u00e9duction de la demande chimique en oxyg\u00e8ne, des m\u00e9taux lourds, de l'ammoniaque, des oxyanions, etc.) que pour traiter l'ammoniac des effluents aqueux et le dioxyde de carbone dans l'air. Cette technologie est aujourd'hui \u00e0 la chimie industrielle ce que l'\u00e2ne et le mulet ont \u00e9t\u00e9 (et sont) \u00e0 l'agriculture. Tout comme eux, les contacteurs sont de v\u00e9ritables b\u00eates de somme, car ils all\u00e8gent les traitements, il ne nous reste plus qu'\u00e0 avoir l'intelligence de bien les utiliser."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 95.088,
+            "t": 1423.922889765625,
+            "r": 906.9419200000004,
+            "b": 1352.6632088816473,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "L'EXTRACTION LIQUIDE-LIQUIDE EN QUELQUES MOTS ET UNE IMAGE",
+      "text": "L'EXTRACTION LIQUIDE-LIQUIDE EN QUELQUES MOTS ET UNE IMAGE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 41.232,
+            "t": 1318.7540097656251,
+            "r": 1012.644,
+            "b": 1237.8093025833045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            397
+          ]
+        }
+      ],
+      "orig": "L'extraction liquide-liquide (ELL) consiste \u00e0 mettre en contact une solution aqueuse contamin\u00e9e avec une phase organique constitu\u00e9e d'un solvant et d'un agent complexant dont le r\u00f4le est d'extraire les ions m\u00e9talliques ou les contaminants. Ensuite, les deux liquides non miscibles sont s\u00e9par\u00e9s, donnant de l'eau propre et une solution organique contenant les m\u00e9taux ou les contaminants concentr\u00e9s.",
+      "text": "L'extraction liquide-liquide (ELL) consiste \u00e0 mettre en contact une solution aqueuse contamin\u00e9e avec une phase organique constitu\u00e9e d'un solvant et d'un agent complexant dont le r\u00f4le est d'extraire les ions m\u00e9talliques ou les contaminants. Ensuite, les deux liquides non miscibles sont s\u00e9par\u00e9s, donnant de l'eau propre et une solution organique contenant les m\u00e9taux ou les contaminants concentr\u00e9s."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 528.86,
+            "t": 1200.118889765625,
+            "r": 704.67536,
+            "b": 878.5839160639675,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            308
+          ]
+        }
+      ],
+      "orig": "Ce proc\u00e9d\u00e9 fonctionne bien \u00e0 condition que les deux phases ne se m\u00e9langent pas. Malheureusement, ceci arrive souvent car on doit choisir des agents extractants tr\u00e8s tensioactifs ou/et d'utiliser des solvants plus polaires, ces deux options conduisant presque toujours \u00e0 la formation d'\u00e9mulsions tr\u00e8s stables.",
+      "text": "Ce proc\u00e9d\u00e9 fonctionne bien \u00e0 condition que les deux phases ne se m\u00e9langent pas. Malheureusement, ceci arrive souvent car on doit choisir des agents extractants tr\u00e8s tensioactifs ou/et d'utiliser des solvants plus polaires, ces deux options conduisant presque toujours \u00e0 la formation d'\u00e9mulsions tr\u00e8s stables."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 125.04,
+            "t": 793.420889765625,
+            "r": 776.12888,
+            "b": 757.5796398208737,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "LE COEUR DE LA TECHNOLOGIE",
+      "text": "LE COEUR DE LA TECHNOLOGIE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 69.6,
+            "t": 729.1940097656252,
+            "r": 825.5840000000001,
+            "b": 561.8493025833045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            657
+          ]
+        }
+      ],
+      "orig": "Un contacteur membranaire est un syst\u00e8me o\u00f9 l'eau \u00e0 traiter circule d'un c\u00f4t\u00e9 de la membrane et la solution extractante de l'autre. La petite taille des pores (30-50 nm) et la propri\u00e9t\u00e9 hydrophobe marqu\u00e9e de la membrane en polypropyl\u00e8ne emp\u00eachent l'eau de la traverser, ainsi les deux viennent en contact uniquement au niveau des pores. Les contacteurs  se  vendent  sous  forme  de  module  de  fibres  creuses  et,  d\u00e9pendant  des applications, le liquide peut circuler \u00e0 l'int\u00e9rieur des fibres (Lumen side) ou \u00e0 l'ext\u00e9rieur (Shell  side)  (et  vice  versa  pour  l'autre  fluide).  La  figure  montre  un  module  en  coupe ainsi que son aspect assembl\u00e9.",
+      "text": "Un contacteur membranaire est un syst\u00e8me o\u00f9 l'eau \u00e0 traiter circule d'un c\u00f4t\u00e9 de la membrane et la solution extractante de l'autre. La petite taille des pores (30-50 nm) et la propri\u00e9t\u00e9 hydrophobe marqu\u00e9e de la membrane en polypropyl\u00e8ne emp\u00eachent l'eau de la traverser, ainsi les deux viennent en contact uniquement au niveau des pores. Les contacteurs  se  vendent  sous  forme  de  module  de  fibres  creuses  et,  d\u00e9pendant  des applications, le liquide peut circuler \u00e0 l'int\u00e9rieur des fibres (Lumen side) ou \u00e0 l'ext\u00e9rieur (Shell  side)  (et  vice  versa  pour  l'autre  fluide).  La  figure  montre  un  module  en  coupe ainsi que son aspect assembl\u00e9."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 505.68,
+            "t": 556.394009765625,
+            "r": 817.670672,
+            "b": 432.2193025833046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "Faire de l'extraction avec cette technologie permet  aussi d'utiliser deux phases identiques, si on choisit bien la membrane, ce qui ouvre tout un champ d'applications !",
+      "text": "Faire de l'extraction avec cette technologie permet  aussi d'utiliser deux phases identiques, si on choisit bien la membrane, ce qui ouvre tout un champ d'applications !"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 493.2,
+            "t": 405.164009765625,
+            "r": 825.5840000000001,
+            "b": 259.41930258330467,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            240
+          ]
+        }
+      ],
+      "orig": "Ces  modules    sont  disponibles  pour des applications \u00e0 l'\u00e9chelle laboratoire (litre par min.) et industrielle  (plusieurs  m 3   par  min.)  \u00e0 des co\u00fbts tr\u00e8s raisonnables malgr\u00e9 le monopole de la compagnie Membrana (Charlotte, NC, USA).",
+      "text": "Ces  modules    sont  disponibles  pour des applications \u00e0 l'\u00e9chelle laboratoire (litre par min.) et industrielle  (plusieurs  m 3   par  min.)  \u00e0 des co\u00fbts tr\u00e8s raisonnables malgr\u00e9 le monopole de la compagnie Membrana (Charlotte, NC, USA)."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1774.06,
+            "t": 1405.732889765625,
+            "r": 2113.96264,
+            "b": 1334.4391546054042,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "I- EXTRACTION DES M\u00c9TAUX",
+      "text": "I- EXTRACTION DES M\u00c9TAUX",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.184,
+            "t": 144.81112976562508,
+            "r": 160.85255999999995,
+            "b": 132.21825816341516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "R\u00c9F\u00c9RENCES",
+      "text": "R\u00c9F\u00c9RENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 160.82,
+            "t": 144.81112976562508,
+            "r": 172.76312000000001,
+            "b": 132.21825816341516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ":",
+      "text": ":"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.184,
+            "t": 128.05516976562512,
+            "r": 825.18532,
+            "b": 96.22025816341511,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "\uf071 S. Alex et F. Biasotto, \u00abLes contacteurs membranaires: les b\u00eates de somme de l'extraction\u00bb. Chimiste, 30(1), 1319, 2015.",
+      "text": "\uf071 S. Alex et F. Biasotto, \u00abLes contacteurs membranaires: les b\u00eates de somme de l'extraction\u00bb. Chimiste, 30(1), 1319, 2015."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.184,
+            "t": 92.61684976562492,
+            "r": 828.85312,
+            "b": 62.620258163414974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "\uf071 C. Fr\u00e9dette et S. Alex,  \u00abTraitement  de  l'ammoniac:  nouvelle  technique  pour  un  vieux  gaz\u00bb.  Vecteur Environnement, 44(3), 24-29, 2011.",
+      "text": "\uf071 C. Fr\u00e9dette et S. Alex,  \u00abTraitement  de  l'ammoniac:  nouvelle  technique  pour  un  vieux  gaz\u00bb.  Vecteur Environnement, 44(3), 24-29, 2011."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.184,
+            "t": 59.01684976562501,
+            "r": 828.85312,
+            "b": 29.020258163415065,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "\uf071 S.  Alex,  F.  Biasotto  and  G.  Aroca,  \u00abExtraction  of  organic  and  inorganic  compounds  from  aqueous  solutions using hollow fibre liquid-liquid contactor\u00bb. Desalination, 241, 337-341, 2009.",
+      "text": "\uf071 S.  Alex,  F.  Biasotto  and  G.  Aroca,  \u00abExtraction  of  organic  and  inorganic  compounds  from  aqueous  solutions using hollow fibre liquid-liquid contactor\u00bb. Desalination, 241, 337-341, 2009.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1309.68,
+            "t": 1156.415129765625,
+            "r": 1489.00712,
+            "b": 1089.2775509810947,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Extraction des m\u00e9taux",
+      "text": "Extraction des m\u00e9taux"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1272.74,
+            "t": 1071.065481765625,
+            "r": 1292.714672,
+            "b": 1038.7545411247409,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1087.18,
+            "t": 822.328361765625,
+            "r": 1496.34888,
+            "b": 690.4696398208737,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "LES GRANDES APPLICATIONS DE LA B\u00caTE DE SOMME",
+      "text": "LES GRANDES APPLICATIONS DE LA B\u00caTE DE SOMME"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1310.64,
+            "t": 555.1851297656249,
+            "r": 1522.20012,
+            "b": 488.0475509810947,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Extraction de l'ammoniac",
+      "text": "Extraction de l'ammoniac"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1273.49,
+            "t": 464.328009765625,
+            "r": 1303.4180000000001,
+            "b": 432.03859540098415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "II",
+      "text": "II"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2156.26,
+            "t": 1348.4840097656252,
+            "r": 2721.444,
+            "b": 1094.7393025833046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            750
+          ]
+        }
+      ],
+      "orig": "Le  solvant  organique  dop\u00e9  avec  l'extractant  circule  d'un  c\u00f4t\u00e9 d'une fibre creuse qu'il empreigne, tandis que l'autre face de la paroi est expos\u00e9e \u00e0 l'eau. Pour \u00e9viter que le solvant organique s'\u00e9chappe, une pression positive est appliqu\u00e9e du cot\u00e9 aqueux, ainsi la solution organique est immobilis\u00e9e au niveau de chaque pore et ne peut pas se disperser dans l'eau ce qui \u00e9vite  la  formation  d'\u00e9mulsions.  En  plus  de  supprimer  ce probl\u00e8me critique,  cette  technique  diminue  l'entrainement  de l'extractant et du solvant vers la phase aqueuse, ce qui limite cette  pollution  secondaire  in\u00e9vitable  en  extraction  liquideliquide  classique.  Les  rendements  obtenus  sont  de  95  %  et plus si la phase extractante est bien choisie.",
+      "text": "Le  solvant  organique  dop\u00e9  avec  l'extractant  circule  d'un  c\u00f4t\u00e9 d'une fibre creuse qu'il empreigne, tandis que l'autre face de la paroi est expos\u00e9e \u00e0 l'eau. Pour \u00e9viter que le solvant organique s'\u00e9chappe, une pression positive est appliqu\u00e9e du cot\u00e9 aqueux, ainsi la solution organique est immobilis\u00e9e au niveau de chaque pore et ne peut pas se disperser dans l'eau ce qui \u00e9vite  la  formation  d'\u00e9mulsions.  En  plus  de  supprimer  ce probl\u00e8me critique,  cette  technique  diminue  l'entrainement  de l'extractant et du solvant vers la phase aqueuse, ce qui limite cette  pollution  secondaire  in\u00e9vitable  en  extraction  liquideliquide  classique.  Les  rendements  obtenus  sont  de  95  %  et plus si la phase extractante est bien choisie."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2156.26,
+            "t": 1067.684009765625,
+            "r": 2721.444,
+            "b": 1029.9393025833047,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Cette technique a \u00e9t\u00e9 exp\u00e9riment\u00e9e avec succ\u00e8s sur de nombreux m\u00e9taux.",
+      "text": "Cette technique a \u00e9t\u00e9 exp\u00e9riment\u00e9e avec succ\u00e8s sur de nombreux m\u00e9taux."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2156.26,
+            "t": 1002.864009765625,
+            "r": 2721.444,
+            "b": 857.00809210582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            451
+          ]
+        }
+      ],
+      "orig": "Historiquement, cette m\u00e9thode d\u00e9couverte il y a plus de 20 ans n'a  pas  connu  de  d\u00e9veloppement  fulgurant,  car  il  \u00e9tait  alors difficile  de  maintenir  une  pression  constante  sur  toute  la surface  des  membranes,  un  facteur  critique  pour  assurer  un bon contact entre les deux milieux. L'arriv\u00e9e des contacteurs de  Membrana,  d\u00e9di\u00e9s  au  d\u00e9gazage  industriel,  a  corrig\u00e9  ce d\u00e9faut et a donn\u00e9 un nouveau d\u00e9part \u00e0 cette technologie .",
+      "text": "Historiquement, cette m\u00e9thode d\u00e9couverte il y a plus de 20 ans n'a  pas  connu  de  d\u00e9veloppement  fulgurant,  car  il  \u00e9tait  alors difficile  de  maintenir  une  pression  constante  sur  toute  la surface  des  membranes,  un  facteur  critique  pour  assurer  un bon contact entre les deux milieux. L'arriv\u00e9e des contacteurs de  Membrana,  d\u00e9di\u00e9s  au  d\u00e9gazage  industriel,  a  corrig\u00e9  ce d\u00e9faut et a donn\u00e9 un nouveau d\u00e9part \u00e0 cette technologie ."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1785.31,
+            "t": 800.112889765625,
+            "r": 2340.3008800000002,
+            "b": 769.6532088816471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "II- EXTRACTION DE L'AMMONIAC",
+      "text": "II- EXTRACTION DE L'AMMONIAC",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2153.35,
+            "t": 722.4940097656249,
+            "r": 2735.470644,
+            "b": 490.3293025833045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            695
+          ]
+        }
+      ],
+      "orig": "Les ions ammonium sont la b\u00eate noire des environnementalistes, car ils sont tr\u00e8s solubles dans l'eau et donc difficiles \u00e0 extraire ou  \u00e0  faire  pr\u00e9cipiter.  Leur  extraction  et  leur  neutralisation  se font  en  augmentant  le  pH  de  l'eau  \u00e0  traiter  pour  les  rendre volatils.  Ensuite,  on  les  entraine  avec  de  l'air  sous  forme d'ammoniac. Finalement, ce dernier est  lav\u00e9 par une solution acide dans des colonnes. Cette m\u00e9thode de traitement n'est pas la  seule  mais  elle  est  la  plus  populaire  car  elle  est  bien maitris\u00e9e  et  facile  \u00e0  op\u00e9rer.  Par  contre,  les  installations  sont volumineuses et pas toujours faciles \u00e0 int\u00e9grer surtout dans les petits ateliers.",
+      "text": "Les ions ammonium sont la b\u00eate noire des environnementalistes, car ils sont tr\u00e8s solubles dans l'eau et donc difficiles \u00e0 extraire ou  \u00e0  faire  pr\u00e9cipiter.  Leur  extraction  et  leur  neutralisation  se font  en  augmentant  le  pH  de  l'eau  \u00e0  traiter  pour  les  rendre volatils.  Ensuite,  on  les  entraine  avec  de  l'air  sous  forme d'ammoniac. Finalement, ce dernier est  lav\u00e9 par une solution acide dans des colonnes. Cette m\u00e9thode de traitement n'est pas la  seule  mais  elle  est  la  plus  populaire  car  elle  est  bien maitris\u00e9e  et  facile  \u00e0  op\u00e9rer.  Par  contre,  les  installations  sont volumineuses et pas toujours faciles \u00e0 int\u00e9grer surtout dans les petits ateliers."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2153.35,
+            "t": 463.2740097656251,
+            "r": 2730.424,
+            "b": 295.8952483070616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            545
+          ]
+        }
+      ],
+      "orig": "Aussi,  on    contourne  ces  d\u00e9fauts  avec  l'usage  de  contacteurs. Pour  cela,  il  suffit  de  faire  circuler  le  liquide  charg\u00e9  en  NH 3 (NH4 + )  \u00e0  un  pH  basique  d'un  c\u00f4t\u00e9  de  la  membrane  des  fibres creuses  et  de  l'autre  une  solution  acide  qui  circule  \u00e0  contrecourant.  Seul  l'ammoniac  sous  forme  gazeuse  peut  traverser les parois des fibres. L'acide garantit une neutralisation imm\u00e9diate  du  gaz  aussi  longtemps  qu'il  n'est  pas  satur\u00e9.  Sa capacit\u00e9 de neutralisation est la force motrice de l'\u00e9change.",
+      "text": "Aussi,  on    contourne  ces  d\u00e9fauts  avec  l'usage  de  contacteurs. Pour  cela,  il  suffit  de  faire  circuler  le  liquide  charg\u00e9  en  NH 3 (NH4 + )  \u00e0  un  pH  basique  d'un  c\u00f4t\u00e9  de  la  membrane  des  fibres creuses  et  de  l'autre  une  solution  acide  qui  circule  \u00e0  contrecourant.  Seul  l'ammoniac  sous  forme  gazeuse  peut  traverser les parois des fibres. L'acide garantit une neutralisation imm\u00e9diate  du  gaz  aussi  longtemps  qu'il  n'est  pas  satur\u00e9.  Sa capacit\u00e9 de neutralisation est la force motrice de l'\u00e9change."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2153.11,
+            "t": 268.84400976562506,
+            "r": 2730.424,
+            "b": 187.8993025833047,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "Les taux d'enl\u00e8vement en azote ammoniacal sont au del\u00e0 de 95 %. Souvent le proc\u00e9d\u00e9 est op\u00e9r\u00e9 \u00e0 chaud (40-50  0 C) pour favoriser le d\u00e9gazage et l'effluent doit \u00eatre imp\u00e9rativement pr\u00e9-filtr\u00e9 avec un filtre de 10 microns pour ne pas colmater le module.",
+      "text": "Les taux d'enl\u00e8vement en azote ammoniacal sont au del\u00e0 de 95 %. Souvent le proc\u00e9d\u00e9 est op\u00e9r\u00e9 \u00e0 chaud (40-50  0 C) pour favoriser le d\u00e9gazage et l'effluent doit \u00eatre imp\u00e9rativement pr\u00e9-filtr\u00e9 avec un filtre de 10 microns pour ne pas colmater le module."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 67.62035369873047,
+            "t": 1179.3406372070312,
+            "r": 469.77398681640625,
+            "b": 928.7100830078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 2835.0,
+        "height": 1757.760009765625
+      },
+      "page_no": 1
+    }
+  }
+}

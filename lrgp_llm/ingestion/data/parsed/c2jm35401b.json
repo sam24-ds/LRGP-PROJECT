@@ -1,0 +1,4511 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "c2jm35401b",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 5012779160123043638,
+    "filename": "c2jm35401b.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 5.504,
+            "t": 656.7100151367188,
+            "r": 12.688,
+            "b": 308.55001513671874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Published on 25 September 2012. Downloaded by Universite de Lorraine on 2/5/2024 11:19:22 AM.",
+      "text": "Published on 25 September 2012. Downloaded by Universite de Lorraine on 2/5/2024 11:19:22 AM."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 319.96,
+            "t": 777.0260151367187,
+            "r": 575.848,
+            "b": 769.8420151367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "View Article Online / Journal Homepage / Table of Contents for this issue",
+      "text": "View Article Online / Journal Homepage / Table of Contents for this issue"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.5968,
+            "t": 768.2889900367187,
+            "r": 229.99001138000003,
+            "b": 722.7855824267187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Journal of Materials Chemistry",
+      "text": "Journal of Materials Chemistry",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.5968,
+            "t": 709.1236401367187,
+            "r": 243.35934794000005,
+            "b": 697.3000462367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Cite this: J. Mater. Chem. , 2012, 22 , 25272",
+      "text": "Cite this: J. Mater. Chem. , 2012, 22 , 25272"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.5968,
+            "t": 677.4796859467187,
+            "r": 150.85317516000006,
+            "b": 674.9930251467188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "www.rsc.org/materials",
+      "text": "www.rsc.org/materials"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 428.2015,
+            "t": 757.0769151367188,
+            "r": 532.3029242699998,
+            "b": 754.5902543367188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Dynamic Article Links",
+      "text": "Dynamic Article Links"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 532.3463,
+            "t": 770.1110798367188,
+            "r": 550.2217999999999,
+            "b": 749.2103015367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "C <",
+      "text": "C <",
+      "hyperlink": "http://dx.doi.org/10.1039/c2jm35401b"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 496.2329,
+            "t": 692.4240901367187,
+            "r": 551.62124894,
+            "b": 672.7179684367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "PAPER",
+      "text": "PAPER"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.5968,
+            "t": 660.0847012367187,
+            "r": 502.5913623800005,
+            "b": 627.8550086667187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Electrospinning technology applied in zeolitic imidazolate framework membrane synthesis \u2020",
+      "text": "Electrospinning technology applied in zeolitic imidazolate framework membrane synthesis \u2020",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.5968,
+            "t": 615.2145541367188,
+            "r": 311.16736039999995,
+            "b": 603.9048661367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Lili Fan, Ming Xue, Zixi Kang, Huan Li and Shilun Qiu *",
+      "text": "Lili Fan, Ming Xue, Zixi Kang, Huan Li and Shilun Qiu *"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.5968,
+            "t": 591.8752577367188,
+            "r": 266.4685325799999,
+            "b": 583.6890258367188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Received 10th August 2012, Accepted 24th September 2012",
+      "text": "Received 10th August 2012, Accepted 24th September 2012"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.5968,
+            "t": 579.7788224067187,
+            "r": 142.90753879999994,
+            "b": 571.7270850067188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "DOI: 10.1039/c2jm35401b",
+      "text": "DOI: 10.1039/c2jm35401b"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.59575566000001,
+            "t": 554.8901668667188,
+            "r": 432.1378133400001,
+            "b": 450.3505762279321,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            825
+          ]
+        }
+      ],
+      "orig": "For the first time, an electrospinning technique has been introduced into the synthesis of supported microporous membranes. This new approach is suitable for various substrates, especially tubes, with the possibility of large-area processing. We can precisely control the thickness of the seed layer and obtain a continuous and uniform seed coating on the support surface. The zeolite imidazolate framework-8 was selected as a candidate to demonstrate the effectiveness of this method, by which, defect-free and well-intergrown ZIF-8 membranes have been successfully synthesized. Single gas permeance of H2, N2, CH4, CO2 and binary mixtures experiments for H2-CO2, H2-CH4, H2-N2 were carried out. The results indicated that the ZIF-8 membrane prepared through this new approach had better H2 selectivity and gas permeability.",
+      "text": "For the first time, an electrospinning technique has been introduced into the synthesis of supported microporous membranes. This new approach is suitable for various substrates, especially tubes, with the possibility of large-area processing. We can precisely control the thickness of the seed layer and obtain a continuous and uniform seed coating on the support surface. The zeolite imidazolate framework-8 was selected as a candidate to demonstrate the effectiveness of this method, by which, defect-free and well-intergrown ZIF-8 membranes have been successfully synthesized. Single gas permeance of H2, N2, CH4, CO2 and binary mixtures experiments for H2-CO2, H2-CH4, H2-N2 were carried out. The results indicated that the ZIF-8 membrane prepared through this new approach had better H2 selectivity and gas permeability."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.5968,
+            "t": 429.49404813671873,
+            "r": 99.958937,
+            "b": 419.6528661367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Introduction",
+      "text": "Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.59559457,
+            "t": 410.26686323671873,
+            "r": 288.67779691999993,
+            "b": 173.198809304836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1301
+          ]
+        }
+      ],
+      "orig": "Microporous membranes have attracted intense interest due to their well-defined porosity and tunable chemical functionality, which make them extremely attractive for potential applications in molecular separations, membrane reactors, chemical sensors and catalysis. To date, great research efforts have been made in converting various zeolites and metal organic frameworks (MOFs) into membranes and films. 1-7 There are two main synthesis approaches of microporous membranes, including in situ and secondary growth. The in situ method has limitations of the support type for different materials, and is usually applied after modification of the support surface, which will need a series of complex operations. It is relatively easy to control the final orientation and obtain a dense and continuous membrane free from cracks or intercrystal gaps through the secondary growth method, in which, the seeding procedure is of vital importance. Several seeding techniques have been widely used nowadays, such as rubbing, 8 dipcoating-wiping, 9 spin coating 10 and heating, 11 etc. However, there is still a great need for a versatile method suitable for different kinds of supports that can meet the requirements to form the seed layer only on the support surface with uniformity and controllable thickness.",
+      "text": "Microporous membranes have attracted intense interest due to their well-defined porosity and tunable chemical functionality, which make them extremely attractive for potential applications in molecular separations, membrane reactors, chemical sensors and catalysis. To date, great research efforts have been made in converting various zeolites and metal organic frameworks (MOFs) into membranes and films. 1-7 There are two main synthesis approaches of microporous membranes, including in situ and secondary growth. The in situ method has limitations of the support type for different materials, and is usually applied after modification of the support surface, which will need a series of complex operations. It is relatively easy to control the final orientation and obtain a dense and continuous membrane free from cracks or intercrystal gaps through the secondary growth method, in which, the seeding procedure is of vital importance. Several seeding techniques have been widely used nowadays, such as rubbing, 8 dipcoating-wiping, 9 spin coating 10 and heating, 11 etc. However, there is still a great need for a versatile method suitable for different kinds of supports that can meet the requirements to form the seed layer only on the support surface with uniformity and controllable thickness."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.59652499999999,
+            "t": 169.6622454767188,
+            "r": 288.6706096399999,
+            "b": 127.33406766483586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "The electrospinning technique has been developed since 1934, 12 and is generally acknowledged nowadays to be a simple but efficient method for manufacturing fibers by a rich variety of materials with controllable morphologies, compositions, and",
+      "text": "The electrospinning technique has been developed since 1934, 12 and is generally acknowledged nowadays to be a simple but efficient method for manufacturing fibers by a rich variety of materials with controllable morphologies, compositions, and"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.5968,
+            "t": 105.89640013671874,
+            "r": 288.7489937199997,
+            "b": 53.03985454391534,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            368
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.59402889,
+            "t": 430.1226901367187,
+            "r": 551.6824596099999,
+            "b": 295.2013249848359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            369,
+            1075
+          ]
+        }
+      ],
+      "orig": "State Key Laboratory of Inorganic Synthesis & Preparative Chemistry, College of Chemistry, Jilin University, Changchun, China, 130012. E-mail: sqiu@jlu.edu.cn; Fax: +86 431 85168589; Tel: +86 431 85168589 \u2020 Electronic supplementary information (ESI) available: Digital image, SEM pictures, TEM picture, table of data and schematic diagrams. See DOI: 10.1039/c2jm35401b diameters. 13,14 This process involves the use of a high voltage power supply which is applied for driving the polymer solution to the tip of the needle, forming a droplet. The droplet is first stretched into a Taylor cone and then an electrified jet, which is subsequently elongated and whipped by electrostatic repulsion before finally being deposited on the grounded collector. The electrospun fibers have already found application in tissue engineering, 15 drug delivery systems, 16 anode materials, 17 as well as in sensing, 18 and catalysis. 19 Nowadays, efforts have been made in the design and preparation of composite fibers electrospun from MOF nanoparticles with suitable carrier polymers. 20,21",
+      "text": "State Key Laboratory of Inorganic Synthesis & Preparative Chemistry, College of Chemistry, Jilin University, Changchun, China, 130012. E-mail: sqiu@jlu.edu.cn; Fax: +86 431 85168589; Tel: +86 431 85168589 \u2020 Electronic supplementary information (ESI) available: Digital image, SEM pictures, TEM picture, table of data and schematic diagrams. See DOI: 10.1039/c2jm35401b diameters. 13,14 This process involves the use of a high voltage power supply which is applied for driving the polymer solution to the tip of the needle, forming a droplet. The droplet is first stretched into a Taylor cone and then an electrified jet, which is subsequently elongated and whipped by electrostatic repulsion before finally being deposited on the grounded collector. The electrospun fibers have already found application in tissue engineering, 15 drug delivery systems, 16 anode materials, 17 as well as in sensing, 18 and catalysis. 19 Nowadays, efforts have been made in the design and preparation of composite fibers electrospun from MOF nanoparticles with suitable carrier polymers. 20,21"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.5953663,
+            "t": 291.7219632367187,
+            "r": 551.6936599500002,
+            "b": 249.39410930483587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "To meet the demand, we adopted a novel method by employing the electrospinning technique as a means of seeding. This approach can be applied to various types of supports, especially for tubes. With respect to other conventional seeding",
+      "text": "To meet the demand, we adopted a novel method by employing the electrospinning technique as a means of seeding. This approach can be applied to various types of supports, especially for tubes. With respect to other conventional seeding"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.5952,
+            "t": 70.61564253671872,
+            "r": 551.7545668999998,
+            "b": 52.27393835303667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "Fig. 1 Schematic diagram of the electrospinning process for the support (macroporous SiO2 wafer) seeding.",
+      "text": "Fig. 1 Schematic diagram of the electrospinning process for the support (macroporous SiO2 wafer) seeding."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.5968,
+            "t": 40.12018193671872,
+            "r": 71.47157393999998,
+            "b": 32.593803849785445,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "25272 |",
+      "text": "25272 |"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 75.68450344,
+            "t": 40.76376513671869,
+            "r": 217.66996602,
+            "b": 32.38871533671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "J. Mater. Chem. , 2012, 22 , 25272-25276",
+      "text": "J. Mater. Chem. , 2012, 22 , 25272-25276"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 355.68977054,
+            "t": 42.96549713671868,
+            "r": 551.6566208400003,
+            "b": 31.94836893671868,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "This journal is \u00aa The Royal Society of Chemistry 2012",
+      "text": "This journal is \u00aa The Royal Society of Chemistry 2012"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 5.504,
+            "t": 656.7100151367188,
+            "r": 12.688,
+            "b": 308.55001513671874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Published on 25 September 2012. Downloaded by Universite de Lorraine on 2/5/2024 11:19:22 AM.",
+      "text": "Published on 25 September 2012. Downloaded by Universite de Lorraine on 2/5/2024 11:19:22 AM."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 488.96,
+            "t": 772.0260151367187,
+            "r": 558.88,
+            "b": 764.8420151367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "View Article Online",
+      "text": "View Article Online"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.596799999999995,
+            "t": 547.2328425367187,
+            "r": 288.6796529800001,
+            "b": 519.2265835239153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "Fig. 2 SEMimages of the ZIF-8/PVP composite fibers electrospun from methanol solutions of 12 wt% PVP and different seed concentrations: (a) 6 wt%, (b) 8 wt%, (c) 10 wt% and (d) 12 wt%.",
+      "text": "Fig. 2 SEMimages of the ZIF-8/PVP composite fibers electrospun from methanol solutions of 12 wt% PVP and different seed concentrations: (a) 6 wt%, (b) 8 wt%, (c) 10 wt% and (d) 12 wt%."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.5968,
+            "t": 498.1975632367187,
+            "r": 288.6771610499999,
+            "b": 375.65001646483597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            689
+          ]
+        }
+      ],
+      "orig": "methods, this low-cost technique has a wider range of applications with the possibility of large-area processing. By adjusting the voltage, viscosity of the polymer solution and distance between the needle and collector, fibers with appropriate sizes can be obtained. Furthermore, we can precisely control the thickness of the seed layer and obtain a continuous and uniform seed coating on the support surface, which provides a good basis for the synthesis of high-quality membranes. In order to verify the feasibility and effectiveness of this method, the most studied prototypical zeolite imidazolate framework-8 (ref. 22) (ZIF-8) was chosen to prepare a gas separation membrane via this",
+      "text": "methods, this low-cost technique has a wider range of applications with the possibility of large-area processing. By adjusting the voltage, viscosity of the polymer solution and distance between the needle and collector, fibers with appropriate sizes can be obtained. Furthermore, we can precisely control the thickness of the seed layer and obtain a continuous and uniform seed coating on the support surface, which provides a good basis for the synthesis of high-quality membranes. In order to verify the feasibility and effectiveness of this method, the most studied prototypical zeolite imidazolate framework-8 (ref. 22) (ZIF-8) was chosen to prepare a gas separation membrane via this"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.596799999999995,
+            "t": 81.10384253671873,
+            "r": 288.70276656000004,
+            "b": 53.09758352391532,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "Fig. 3 SEM images of the support surface (a), top-view of the ZIF-8 membrane without (b) and with (c and d) seeding fibers, cross-section view of the ZIF-8 membrane (e and f).",
+      "text": "Fig. 3 SEM images of the support surface (a), top-view of the ZIF-8 membrane without (b) and with (c and d) seeding fibers, cross-section view of the ZIF-8 membrane (e and f)."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.5952,
+            "t": 564.2974425367188,
+            "r": 551.68522616,
+            "b": 546.7791697039154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "Fig. 4 XRDpatterns of the simulated ZIF-8 (a), ZIF-8 seed crystals (b) and synthesized ZIF-8 membrane (c).",
+      "text": "Fig. 4 XRDpatterns of the simulated ZIF-8 (a), ZIF-8 seed crystals (b) and synthesized ZIF-8 membrane (c)."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.59541497000004,
+            "t": 525.6954120767188,
+            "r": 551.6856389500001,
+            "b": 449.012283064836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            415
+          ]
+        }
+      ],
+      "orig": "method owing to its exceptional properties combined from both zeolites and MOFs. ZIF-8 is a crystalline porous material with the cubic space group ( I \u0016 43 m ) and a sodalite (SOD) zeolite-type structure. The 3.4 \u0017 Asmall aperture (which is within the range of a few gas molecules in kinetic diameter), the remarkable thermal and chemical stability, as well as the simple synthetic steps make it an ideal candidate.",
+      "text": "method owing to its exceptional properties combined from both zeolites and MOFs. ZIF-8 is a crystalline porous material with the cubic space group ( I \u0016 43 m ) and a sodalite (SOD) zeolite-type structure. The 3.4 \u0017 Asmall aperture (which is within the range of a few gas molecules in kinetic diameter), the remarkable thermal and chemical stability, as well as the simple synthetic steps make it an ideal candidate."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.59443449,
+            "t": 445.53310355671886,
+            "r": 551.7166354799999,
+            "b": 311.52936766483595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            713
+          ]
+        }
+      ],
+      "orig": "So far, ZIF-8 membranes with molecular sieving properties have been synthesized through a number of ways. Caro et al. 23,24 reported ZIF-8 membranes prepared by a microwave-assisted solvothermal synthesis and a dip-coating seeding approach, respectively. A support surface modification and in situ solvothermal growth method was suggested by Jeong et al. 25 Wang et al. 26 prepared ZIF-8 films though a contra-diffusion process, while Lai and Pan 27 reported ZIF-8 membranes synthesized in aqueous solutions at near room temperature. Further, Wang et al. 28 presented the synthesis of zeolitic imidazolate framework ZIF-8 membranes on the outer surface of alumina hollow fibers using a concentrated synthesis gel.",
+      "text": "So far, ZIF-8 membranes with molecular sieving properties have been synthesized through a number of ways. Caro et al. 23,24 reported ZIF-8 membranes prepared by a microwave-assisted solvothermal synthesis and a dip-coating seeding approach, respectively. A support surface modification and in situ solvothermal growth method was suggested by Jeong et al. 25 Wang et al. 26 prepared ZIF-8 films though a contra-diffusion process, while Lai and Pan 27 reported ZIF-8 membranes synthesized in aqueous solutions at near room temperature. Further, Wang et al. 28 presented the synthesis of zeolitic imidazolate framework ZIF-8 membranes on the outer surface of alumina hollow fibers using a concentrated synthesis gel."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.59494699000004,
+            "t": 308.0501881567188,
+            "r": 551.6771013000001,
+            "b": 277.174092584836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "In this work, the novel electrospinning technique assisted approach we suggested in the ZIF-8 membrane preparation is introduced for the first time to the synthesis of supported",
+      "text": "In this work, the novel electrospinning technique assisted approach we suggested in the ZIF-8 membrane preparation is introduced for the first time to the synthesis of supported"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.59484224,
+            "t": 70.61564253671872,
+            "r": 551.7247194,
+            "b": 53.09736970391543,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "Fig. 5 Plot of H2-CO2, H2-N2 and H2-CH4 separation factors of the ZIF-8 membrane with changes in testing time.",
+      "text": "Fig. 5 Plot of H2-CO2, H2-N2 and H2-CH4 separation factors of the ZIF-8 membrane with changes in testing time."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 43.5968,
+            "t": 42.96549713671868,
+            "r": 239.56365029999995,
+            "b": 31.94836893671868,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "This journal is \u00aa The Royal Society of Chemistry 2012",
+      "text": "This journal is \u00aa The Royal Society of Chemistry 2012"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 377.51740285999995,
+            "t": 40.76376513671869,
+            "r": 551.6693231400002,
+            "b": 32.38871533671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "J. Mater. Chem. , 2012, 22 , 25272-25276 | 25273",
+      "text": "J. Mater. Chem. , 2012, 22 , 25272-25276 | 25273"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 5.504,
+            "t": 656.7100151367188,
+            "r": 12.688,
+            "b": 308.55001513671874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Published on 25 September 2012. Downloaded by Universite de Lorraine on 2/5/2024 11:19:22 AM.",
+      "text": "Published on 25 September 2012. Downloaded by Universite de Lorraine on 2/5/2024 11:19:22 AM."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 488.96,
+            "t": 772.0260151367187,
+            "r": 558.88,
+            "b": 764.8420151367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "View Article Online",
+      "text": "View Article Online"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.59593818000002,
+            "t": 727.4921941367187,
+            "r": 551.7089404999998,
+            "b": 709.2607712639153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            201
+          ]
+        }
+      ],
+      "orig": "Table 1 Permeance (mol m \u0000 2 s \u0000 1 Pa \u0000 1 ) and separation factors (H2 versus other gases) of the ZIF-8 membrane at 298 K and 1 atmospheric pressure. The volume ratio for the mixed gas systems is 1 : 1",
+      "text": "Table 1 Permeance (mol m \u0000 2 s \u0000 1 Pa \u0000 1 ) and separation factors (H2 versus other gases) of the ZIF-8 membrane at 298 K and 1 atmospheric pressure. The volume ratio for the mixed gas systems is 1 : 1"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.5968,
+            "t": 622.9218632367187,
+            "r": 288.66371159999994,
+            "b": 603.4975260248358,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "microporous membranes. It is very effective and has a great potential in becoming a universal method.",
+      "text": "microporous membranes. It is very effective and has a great potential in becoming a universal method."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.5968,
+            "t": 586.0798481367187,
+            "r": 105.18638000000001,
+            "b": 576.2386661367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Experimental",
+      "text": "Experimental",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.5968,
+            "t": 566.9093632367187,
+            "r": 175.87483063999989,
+            "b": 558.8576258367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Synthesis of ZIF-8 seeding crystals",
+      "text": "Synthesis of ZIF-8 seeding crystals",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.59559658999996,
+            "t": 548.9946958367187,
+            "r": 288.6764664199999,
+            "b": 402.5731155367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            767
+          ]
+        }
+      ],
+      "orig": "Nanoparticles of ZIF-8 were prepared according to previous report. 8 In a typical synthesis, solution A was prepared by dissolving 0.3 g of zinc nitrate hexahydrate [Zn(NO3)2 $ 6H2O, Aldrich, 98%] in 11.3 g of methanol, while 0.66 g of 2-methylimidazole (C4H6N2, Aldrich, 99%) was dispersed in 11 g of methanol to form solution B. Timing started when solution B was added quickly to solution A under vigorously stirring. Five minutes later, the homogeneous mixture was transferred to a Teflon lined stainless steel autoclave and heated at 150 \u000e C for 5 hours. The products were collected by centrifugation and washed thoroughly with fresh methanol three times to remove any unreacted reactants. The resultant powder was then dried at 60 \u000e C overnight for further use.",
+      "text": "Nanoparticles of ZIF-8 were prepared according to previous report. 8 In a typical synthesis, solution A was prepared by dissolving 0.3 g of zinc nitrate hexahydrate [Zn(NO3)2 $ 6H2O, Aldrich, 98%] in 11.3 g of methanol, while 0.66 g of 2-methylimidazole (C4H6N2, Aldrich, 99%) was dispersed in 11 g of methanol to form solution B. Timing started when solution B was added quickly to solution A under vigorously stirring. Five minutes later, the homogeneous mixture was transferred to a Teflon lined stainless steel autoclave and heated at 150 \u000e C for 5 hours. The products were collected by centrifugation and washed thoroughly with fresh methanol three times to remove any unreacted reactants. The resultant powder was then dried at 60 \u000e C overnight for further use."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.596632639999996,
+            "t": 385.8318901467187,
+            "r": 248.58059671999993,
+            "b": 377.7801527467187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Preparation of the ZIF-8/PVP composite fiber coating",
+      "text": "Preparation of the ZIF-8/PVP composite fiber coating",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.596048199999984,
+            "t": 367.9172227467187,
+            "r": 288.6769936899999,
+            "b": 302.6278833448359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            362
+          ]
+        }
+      ],
+      "orig": "The ZIF-8 seed crystals synthesized were re-dispersed in methanol by ultrasonic vibration to form a suspension with an appropriate concentration. Then measured amount of polyvinylpyrrolidone (PVP, Aldrich, M w 1 300 000) was added under stirring. When the PVP gradually dissolved, the electrospinning solution was obtained with uniformity and moderate viscosity.",
+      "text": "The ZIF-8 seed crystals synthesized were re-dispersed in methanol by ultrasonic vibration to form a suspension with an appropriate concentration. Then measured amount of polyvinylpyrrolidone (PVP, Aldrich, M w 1 300 000) was added under stirring. When the PVP gradually dissolved, the electrospinning solution was obtained with uniformity and moderate viscosity."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.595592769999996,
+            "t": 299.1487632367187,
+            "r": 288.6774917299998,
+            "b": 188.10949258483595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            598
+          ]
+        }
+      ],
+      "orig": "Prior to use, one side of the support (macroporous SiO2, 25 mm in diameter and 2 mm in thickness) was cleaned several times by ultrasonic vibration in deionized water, and was then dried at 100 \u000e C overnight. After being immersed in N , N -dimethylformamide (DMF) for a while, the macroporous SiO2 wafer was laid on a piece of aluminum foil, together serving as the collector to receive non-woven mats of long composite fibers. The prepared solution (0.4 ml) was loaded into a syringe and electrospun by applying a 12 kV voltage at a distance of 15 cm to form the ZIF-8/PVP composite fiber coating.",
+      "text": "Prior to use, one side of the support (macroporous SiO2, 25 mm in diameter and 2 mm in thickness) was cleaned several times by ultrasonic vibration in deionized water, and was then dried at 100 \u000e C overnight. After being immersed in N , N -dimethylformamide (DMF) for a while, the macroporous SiO2 wafer was laid on a piece of aluminum foil, together serving as the collector to receive non-woven mats of long composite fibers. The prepared solution (0.4 ml) was loaded into a syringe and electrospun by applying a 12 kV voltage at a distance of 15 cm to form the ZIF-8/PVP composite fiber coating."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.59623404999999,
+            "t": 170.39989834671883,
+            "r": 153.28277520999993,
+            "b": 162.34816094671874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Synthesis of zif-8 membranes",
+      "text": "Synthesis of zif-8 membranes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.59623404999999,
+            "t": 152.48523094671884,
+            "r": 288.65722213999993,
+            "b": 51.927515536718715,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            541
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59496176,
+            "t": 622.9243529467186,
+            "r": 551.6842871000002,
+            "b": 580.5938676648359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            542,
+            753
+          ]
+        }
+      ],
+      "orig": "The reaction solution was prepared by dissolving Zn(NO3)2 $ 6H2O (0.9 mmol), 2-methylimidazole (mIm) (1.0 mmol) and triethylamine (0.020 g) subsequently in 20 ml DMF. The seeded support was firstly placed in a Teflon-lined autoclave with the seeded side facing upward and the reaction solution was then loaded. The secondary growth was carried out at 120 \u000e C for 24 hours. When the autoclave was cooled to room temperature, the disc was taken out, rinsed with fresh DMF and dried in an 80 \u000e C oven overnight. Prior to the separation studies, the ZIF-8 membrane was activated under a nitrogen flow (99.999%) at 150 \u000e C for 12 hours and the TGA curves indicate that most of the guest DMF molecules had been removed after the activation process (Fig. S1\u2020).",
+      "text": "The reaction solution was prepared by dissolving Zn(NO3)2 $ 6H2O (0.9 mmol), 2-methylimidazole (mIm) (1.0 mmol) and triethylamine (0.020 g) subsequently in 20 ml DMF. The seeded support was firstly placed in a Teflon-lined autoclave with the seeded side facing upward and the reaction solution was then loaded. The secondary growth was carried out at 120 \u000e C for 24 hours. When the autoclave was cooled to room temperature, the disc was taken out, rinsed with fresh DMF and dried in an 80 \u000e C oven overnight. Prior to the separation studies, the ZIF-8 membrane was activated under a nitrogen flow (99.999%) at 150 \u000e C for 12 hours and the TGA curves indicate that most of the guest DMF molecules had been removed after the activation process (Fig. S1\u2020)."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59496176,
+            "t": 560.7870558567188,
+            "r": 369.40389326000025,
+            "b": 552.7353184567188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Characterization",
+      "text": "Characterization",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59406513,
+            "t": 542.8150041367188,
+            "r": 551.6923587800004,
+            "b": 408.8138843848359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            718
+          ]
+        }
+      ],
+      "orig": "Microscopic features of the ZIF-8 membrane were examined by scanning electron microscopy (SEM, JEOL JSM-6510A) at an acceleration voltage of 10 kV. Transmission electron microscopy (TEM) images were recorded on a JEOL 3010 with an acceleration voltage of 300 kV. X-ray diffraction (XRD) measurements were performed on a SHIMADZU LabX XRD-6000 diffractometer with Cu-K a radiation ( l \u00bc 1.5418 \u0017 A). The FTIR spectra (KBr, Aldrich) were measured using a SHIMADZU IRAFFINITY-1 Fourier transform infrared spectrometer. Thermogravimetric analyses were performed using a Shimadzu DTG-60 thermal analyzer system at a heating rate of 2 \u000e Cmin \u0000 1 to 750 \u000e C in a dried air atmosphere and the air flow rate was 30 ml min \u0000 1 .",
+      "text": "Microscopic features of the ZIF-8 membrane were examined by scanning electron microscopy (SEM, JEOL JSM-6510A) at an acceleration voltage of 10 kV. Transmission electron microscopy (TEM) images were recorded on a JEOL 3010 with an acceleration voltage of 300 kV. X-ray diffraction (XRD) measurements were performed on a SHIMADZU LabX XRD-6000 diffractometer with Cu-K a radiation ( l \u00bc 1.5418 \u0017 A). The FTIR spectra (KBr, Aldrich) were measured using a SHIMADZU IRAFFINITY-1 Fourier transform infrared spectrometer. Thermogravimetric analyses were performed using a Shimadzu DTG-60 thermal analyzer system at a heating rate of 2 \u000e Cmin \u0000 1 to 750 \u000e C in a dried air atmosphere and the air flow rate was 30 ml min \u0000 1 ."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59389277,
+            "t": 389.0070725767187,
+            "r": 365.7571266900002,
+            "b": 380.95533517671873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Gas permeation",
+      "text": "Gas permeation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59389277,
+            "t": 371.0924051767187,
+            "r": 551.696,
+            "b": 225.63942602483587,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            800
+          ]
+        }
+      ],
+      "orig": "The gas permeation setup is illustrated in detail in Fig. S2.\u2020 Permeation tests were carried out for single H2, CO2, N2, CH4 gases and their binary mixtures H2-CO2, H2-CH4, H2-N2. The activated ZIF-8 membrane was sealed in a stainless steel cell. The feed side was exposed to the single gas or gas mixture, while the permeate side of the membrane was swept by argon (Ar), which was controlled at 80 ml min \u0000 1 . A soap-film flow meter was used to measure the gas flow rates. The gas penetrating through the membrane was analyzed by an on-line gas chromatograph (SHIMADZU GC-2014C). The feed flow rate of the single gas and each gas in the binary system were set to 80 ml min \u0000 1 and 40 ml min \u0000 1 , respectively. The pressure at both sides of the membrane were maintained at 1 atm in all experiments.",
+      "text": "The gas permeation setup is illustrated in detail in Fig. S2.\u2020 Permeation tests were carried out for single H2, CO2, N2, CH4 gases and their binary mixtures H2-CO2, H2-CH4, H2-N2. The activated ZIF-8 membrane was sealed in a stainless steel cell. The feed side was exposed to the single gas or gas mixture, while the permeate side of the membrane was swept by argon (Ar), which was controlled at 80 ml min \u0000 1 . A soap-film flow meter was used to measure the gas flow rates. The gas penetrating through the membrane was analyzed by an on-line gas chromatograph (SHIMADZU GC-2014C). The feed flow rate of the single gas and each gas in the binary system were set to 80 ml min \u0000 1 and 40 ml min \u0000 1 , respectively. The pressure at both sides of the membrane were maintained at 1 atm in all experiments."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.5952,
+            "t": 206.01064813671871,
+            "r": 408.28704869999984,
+            "b": 196.1694661367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Results and discussion",
+      "text": "Results and discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59446190999995,
+            "t": 186.8401632367187,
+            "r": 551.6954454500001,
+            "b": 52.8395082648359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            751
+          ]
+        }
+      ],
+      "orig": "A general schematic representation of the electrospinning process is shown in Fig. 1. The electrospinning solution prepared with ZIF-8 nanoparticles, PVP and methanol are firstly loaded into the syringe, which is connected to a hose with a capillary tip. The electrospinning rate is controlled by a pump. Then a high voltage is supplied to the metallic tip to draw the viscous solution into the fibers. The macroporous SiO2 support then serves as the collector, together with aluminum foil, to receive non-woven mats of composite fibers. As for the tubular supports, we fix them on a rotating shaft and the spinner will move periodically with constant speed (Fig. S3\u2020). So the electrospun fibers can be uniformly wrapped on the supports outer surface.",
+      "text": "A general schematic representation of the electrospinning process is shown in Fig. 1. The electrospinning solution prepared with ZIF-8 nanoparticles, PVP and methanol are firstly loaded into the syringe, which is connected to a hose with a capillary tip. The electrospinning rate is controlled by a pump. Then a high voltage is supplied to the metallic tip to draw the viscous solution into the fibers. The macroporous SiO2 support then serves as the collector, together with aluminum foil, to receive non-woven mats of composite fibers. As for the tubular supports, we fix them on a rotating shaft and the spinner will move periodically with constant speed (Fig. S3\u2020). So the electrospun fibers can be uniformly wrapped on the supports outer surface."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 43.5968,
+            "t": 40.76376513671869,
+            "r": 217.66996602,
+            "b": 32.38871533671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "25274 | J. Mater. Chem. , 2012, 22 , 25272-25276",
+      "text": "25274 | J. Mater. Chem. , 2012, 22 , 25272-25276"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 355.68977054,
+            "t": 42.96549713671868,
+            "r": 551.6566208400003,
+            "b": 31.94836893671868,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "This journal is \u00aa The Royal Society of Chemistry 2012",
+      "text": "This journal is \u00aa The Royal Society of Chemistry 2012"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 5.704,
+            "t": 633.4140151367186,
+            "r": 12.682623718887262,
+            "b": 308.55001513671874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Published on 25 September 2012. Downloaded by Universite de Lorraine on 2/5/2024 11:19:22 AM.",
+      "text": "Published on 25 September 2012. Downloaded by Universite de Lorraine on 2/5/2024 11:19:22 AM."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 488.96,
+            "t": 771.8260151367188,
+            "r": 554.28,
+            "b": 764.8473914178314,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "View Article Online",
+      "text": "View Article Online"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.59696629999999,
+            "t": 725.4226632367187,
+            "r": 288.6845003900001,
+            "b": 408.08045570483625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1719
+          ]
+        }
+      ],
+      "orig": "The nanoparticles of ZIF-8 prepared in methanol are about 85 nm in size (Fig. S4\u2020), which were well dispersed in the electrospun fibers. In our strategy, the ZIF-8/PVP fibers used were exactly equivalent to the seeds. Besides the appropriate voltage, flow rate and collecting distance, the content of PVP and the seeds in the electrospinning solution must also be adjusted to reach a certain balance in the initial stage. Before finding the ideal dosage of ZIF-8 seeds, methanol solutions with different PVP concentrations were prepared and electrospun under 12 kV (Fig. S5\u2020). When the concentration of PVP was low ( # 11 wt%), a typical beads-on-string structure could be obtained, which is unfavorable to the seeding uniformity. Smooth fibers can only be formed when the concentration of PVP reached 12 wt%. However, the diameters of the fibers would grow larger with the increase of PVP. Therefore, we selected 12 wt% as the optimal PVP proportion, under which conditions, different amounts of ZIF-8 seeds were added to form the electrospinning solution. As shown in Fig. 2, ZIF-8/PVP composite fibers with good continuity were obtained within 6-10 wt% seed concentrations and beads of seeds could be observed when the concentration is around 12 wt%. In this case, the seeds are relatively excessive and become agglomerated in the fibers, declining the seed distribution uniformity. Following the principle of the maximum load of seeds, an optimized seed proportion of 10 wt% was finalized. If the PVP content is too high, the large PVP molecules would block the access of seeds to the substrate surface, which can reduce the bonding strength between the support and the membrane to a great extent in further growth.",
+      "text": "The nanoparticles of ZIF-8 prepared in methanol are about 85 nm in size (Fig. S4\u2020), which were well dispersed in the electrospun fibers. In our strategy, the ZIF-8/PVP fibers used were exactly equivalent to the seeds. Besides the appropriate voltage, flow rate and collecting distance, the content of PVP and the seeds in the electrospinning solution must also be adjusted to reach a certain balance in the initial stage. Before finding the ideal dosage of ZIF-8 seeds, methanol solutions with different PVP concentrations were prepared and electrospun under 12 kV (Fig. S5\u2020). When the concentration of PVP was low ( # 11 wt%), a typical beads-on-string structure could be obtained, which is unfavorable to the seeding uniformity. Smooth fibers can only be formed when the concentration of PVP reached 12 wt%. However, the diameters of the fibers would grow larger with the increase of PVP. Therefore, we selected 12 wt% as the optimal PVP proportion, under which conditions, different amounts of ZIF-8 seeds were added to form the electrospinning solution. As shown in Fig. 2, ZIF-8/PVP composite fibers with good continuity were obtained within 6-10 wt% seed concentrations and beads of seeds could be observed when the concentration is around 12 wt%. In this case, the seeds are relatively excessive and become agglomerated in the fibers, declining the seed distribution uniformity. Following the principle of the maximum load of seeds, an optimized seed proportion of 10 wt% was finalized. If the PVP content is too high, the large PVP molecules would block the access of seeds to the substrate surface, which can reduce the bonding strength between the support and the membrane to a great extent in further growth."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.59696629999999,
+            "t": 404.6012761967191,
+            "r": 288.67912060999987,
+            "b": 144.5752447848365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1357
+          ]
+        }
+      ],
+      "orig": "ZIF-8 membranes were subsequently synthesized on the above basis. As can be seen, details about the morphology of the support surface is shown in Fig. 3a. To confirm the seeding role that the ZIF-8/PVP composite fibers played, membranes were also grown without them (Fig. 3b). After a secondary hydrothermal treatment for 24 h, the support surface was dotted with large crystals and big gaps existing between them. On the contrary, a compact and continuous membrane was grown from the mat of composite fibers. From the top view of the membrane (Fig. 3c and d), we can see that typical ZIF-8 crystals, with rhombic dodecahedron morphologies, completely cover the support surface and are well intergrown. The membrane is proved to be defect-free and all the crystals merge tightly as expected. The cross-sectional view (Fig. 3e and f) indicates that there are no pinholes or cracks inside the membrane and the crystals connect compactly to the support. Different from chemical bonds in zeolite materials, the frameworks of MOFs are composed of relatively weak coordination bonds and long time survival under sonication is rarely heard of for MOFs. It is worth mentioning that the ZIF-8 membrane synthesized by this approach remained intact after twenty minutes of ultrasonic vibration, indicating good bonding strength between the crystal layer and substrate.",
+      "text": "ZIF-8 membranes were subsequently synthesized on the above basis. As can be seen, details about the morphology of the support surface is shown in Fig. 3a. To confirm the seeding role that the ZIF-8/PVP composite fibers played, membranes were also grown without them (Fig. 3b). After a secondary hydrothermal treatment for 24 h, the support surface was dotted with large crystals and big gaps existing between them. On the contrary, a compact and continuous membrane was grown from the mat of composite fibers. From the top view of the membrane (Fig. 3c and d), we can see that typical ZIF-8 crystals, with rhombic dodecahedron morphologies, completely cover the support surface and are well intergrown. The membrane is proved to be defect-free and all the crystals merge tightly as expected. The cross-sectional view (Fig. 3e and f) indicates that there are no pinholes or cracks inside the membrane and the crystals connect compactly to the support. Different from chemical bonds in zeolite materials, the frameworks of MOFs are composed of relatively weak coordination bonds and long time survival under sonication is rarely heard of for MOFs. It is worth mentioning that the ZIF-8 membrane synthesized by this approach remained intact after twenty minutes of ultrasonic vibration, indicating good bonding strength between the crystal layer and substrate."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.59696629999999,
+            "t": 141.0960652767194,
+            "r": 288.67643071999987,
+            "b": 52.90469021483648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            499
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 306.59647789999997,
+            "t": 725.4343194267193,
+            "r": 551.6947715500004,
+            "b": 511.2153214548368,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            500,
+            1666
+          ]
+        }
+      ],
+      "orig": "In addition to some of the advantages mentioned earlier, introducing the technology of electrospinning to membrane synthesis was also designed to integrate some other unique characteristics. Since the support used in this work is insulated, there would be many residual positive charges on the fibers that could attract a certain amount of mIm molecules to the nearby region. As the reaction proceeds, PVP was slowly dissolved in the solvent and the ZIF-8 seeds wrapped in the fibers began to reveal themselves. The unsaturated metal sites on the surface of the seeds tend to combine with the ligands nearby, intergrowing into larger crystals. Meanwhile, at the bottom of the mats the seeds that emerged from the fibers interacted gradually with the -OH groups on the support's surface, enhancing the adhesion. When these procedures were accomplished, a compact membrane with good bonding strength was synthesized. To confirm whether there was a small fraction of PVP remaining after the secondary growth period, FTIR spectra were recorded (Fig. S6\u2020). Compared to pure ZIF-8, extra peaks were found for the ZIF-8 membrane, which could be attributed to residual PVP in the final membrane. Despite the slow dissolution, the polymer PVP increased the viscosity of the reaction solution to some extent. There was no visible evidence that the existence of PVP had a negative influence on the growth of the membrane. In this process, PVP played the role of a carrier polymer, in uniformly dispersing the seeds and enhancing the adhesion of the seeds to the substrate in the reaction system based on good accessibility for electrospinning and appropriate solubility in DMF.",
+      "text": "In addition to some of the advantages mentioned earlier, introducing the technology of electrospinning to membrane synthesis was also designed to integrate some other unique characteristics. Since the support used in this work is insulated, there would be many residual positive charges on the fibers that could attract a certain amount of mIm molecules to the nearby region. As the reaction proceeds, PVP was slowly dissolved in the solvent and the ZIF-8 seeds wrapped in the fibers began to reveal themselves. The unsaturated metal sites on the surface of the seeds tend to combine with the ligands nearby, intergrowing into larger crystals. Meanwhile, at the bottom of the mats the seeds that emerged from the fibers interacted gradually with the -OH groups on the support's surface, enhancing the adhesion. When these procedures were accomplished, a compact membrane with good bonding strength was synthesized. To confirm whether there was a small fraction of PVP remaining after the secondary growth period, FTIR spectra were recorded (Fig. S6\u2020). Compared to pure ZIF-8, extra peaks were found for the ZIF-8 membrane, which could be attributed to residual PVP in the final membrane. Despite the slow dissolution, the polymer PVP increased the viscosity of the reaction solution to some extent. There was no visible evidence that the existence of PVP had a negative influence on the growth of the membrane. In this process, PVP played the role of a carrier polymer, in uniformly dispersing the seeds and enhancing the adhesion of the seeds to the substrate in the reaction system based on good accessibility for electrospinning and appropriate solubility in DMF."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 306.59389277,
+            "t": 507.7361419467196,
+            "r": 551.6939796800002,
+            "b": 396.62544990483593,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            558
+          ]
+        }
+      ],
+      "orig": "In order to evaluate the crystal structural of the ZIF-8 membrane, X-ray diffraction (XRD) patterns were recorded. Fig. 4 shows the XRD patterns of the ZIF-8 seed crystals and the as-synthesized ZIF-8 membrane in the range from 4 \u000e to 40 \u000e , along with the simulated one for comparison. Both of the patterns illustrated the typical features of the ZIF-8 structure. The diffraction peaks are in accordance with the simulated pattern, indicating that both the seed crystals and the crystals in the membrane are in one pure phase and exhibit high crystallinity.",
+      "text": "In order to evaluate the crystal structural of the ZIF-8 membrane, X-ray diffraction (XRD) patterns were recorded. Fig. 4 shows the XRD patterns of the ZIF-8 seed crystals and the as-synthesized ZIF-8 membrane in the range from 4 \u000e to 40 \u000e , along with the simulated one for comparison. Both of the patterns illustrated the typical features of the ZIF-8 structure. The diffraction peaks are in accordance with the simulated pattern, indicating that both the seed crystals and the crystals in the membrane are in one pure phase and exhibit high crystallinity."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 306.59389277,
+            "t": 393.14627039671876,
+            "r": 551.696,
+            "b": 224.789650944836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            900
+          ]
+        }
+      ],
+      "orig": "Following the successful construction of the ZIF-8 membrane, gas permeation performances were investigated for H2, N2, CO2 and CH4 as single gases as well as the H2-N2, H2-CO2, and H2CH4 mixtures with equal volume ratios. Separation factors and permeation fluxes calculated from the volumetric flow rates are presented in Table 1. The H2 permeation flux is much higher than that of the other gases in both the single and mixture systems, indicating a selectivity preference for H2 of the membrane, which can be attributed to the fact that it is easier for the small H2 (2.9 \u0017 A) molecule to pass through the ZIF-8 membrane. Other relatively strong adsorbing sorbates (CO2, N2, and CH4 with kinetic diameter of 3.3 \u0017 A, 3.64 \u0017 A and 3.8 \u0017 A, respectively) also diffuse slowly through the membrane in spite of the 3.4 \u0017 A pore aperture size, suggesting the existence of ZIF-8 structural flexibility. 29",
+      "text": "Following the successful construction of the ZIF-8 membrane, gas permeation performances were investigated for H2, N2, CO2 and CH4 as single gases as well as the H2-N2, H2-CO2, and H2CH4 mixtures with equal volume ratios. Separation factors and permeation fluxes calculated from the volumetric flow rates are presented in Table 1. The H2 permeation flux is much higher than that of the other gases in both the single and mixture systems, indicating a selectivity preference for H2 of the membrane, which can be attributed to the fact that it is easier for the small H2 (2.9 \u0017 A) molecule to pass through the ZIF-8 membrane. Other relatively strong adsorbing sorbates (CO2, N2, and CH4 with kinetic diameter of 3.3 \u0017 A, 3.64 \u0017 A and 3.8 \u0017 A, respectively) also diffuse slowly through the membrane in spite of the 3.4 \u0017 A pore aperture size, suggesting the existence of ZIF-8 structural flexibility. 29"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 306.59392125,
+            "t": 221.3093632367187,
+            "r": 551.6886062800002,
+            "b": 52.89633833483583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            927
+          ]
+        }
+      ],
+      "orig": "Comparison of the H2 permeance for the single-gas with those in the mixed-gas reveals that H2 permeance is reduced by a certain degree from 7 -10 \u0000 7 to 3.3 -10 \u0000 7 mol m \u0000 2 s \u0000 1 Pa \u0000 1 in the binary systems (Table S1\u2020). This is because the adsorption of other components from the ZIF-8 network hinders the movement of the H2 molecules. The separation factors of the gas mixtures H2-N2, H2-CO2, and H2-CH4, determined as the molar ratios in permeance, all exceed their corresponding Knudsen constant ( ca. 3.74, 4.69, 2.83, respectively), which means that molecular sieves can be met by the ZIF-8 membrane synthesized using this method. In addition, compared with the recently reported ZIF-8 membranes prepared by other methods, 24-29 the ZIF-8 membrane from this study shows a superior gas permeation performance and the best H2-CO2 separation selectivity, which can be attributed to the fact that the high uniformity of the",
+      "text": "Comparison of the H2 permeance for the single-gas with those in the mixed-gas reveals that H2 permeance is reduced by a certain degree from 7 -10 \u0000 7 to 3.3 -10 \u0000 7 mol m \u0000 2 s \u0000 1 Pa \u0000 1 in the binary systems (Table S1\u2020). This is because the adsorption of other components from the ZIF-8 network hinders the movement of the H2 molecules. The separation factors of the gas mixtures H2-N2, H2-CO2, and H2-CH4, determined as the molar ratios in permeance, all exceed their corresponding Knudsen constant ( ca. 3.74, 4.69, 2.83, respectively), which means that molecular sieves can be met by the ZIF-8 membrane synthesized using this method. In addition, compared with the recently reported ZIF-8 membranes prepared by other methods, 24-29 the ZIF-8 membrane from this study shows a superior gas permeation performance and the best H2-CO2 separation selectivity, which can be attributed to the fact that the high uniformity of the"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 43.5968,
+            "t": 42.96549713671868,
+            "r": 239.56365029999995,
+            "b": 31.94836893671868,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "This journal is \u00aa The Royal Society of Chemistry 2012",
+      "text": "This journal is \u00aa The Royal Society of Chemistry 2012"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 377.51740285999995,
+            "t": 40.76376513671869,
+            "r": 551.6693231400002,
+            "b": 32.38871533671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "J. Mater. Chem. , 2012, 22 , 25272-25276 | 25275",
+      "text": "J. Mater. Chem. , 2012, 22 , 25272-25276 | 25275"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 5.504,
+            "t": 656.7100151367188,
+            "r": 12.688,
+            "b": 308.55001513671874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Published on 25 September 2012. Downloaded by Universite de Lorraine on 2/5/2024 11:19:22 AM.",
+      "text": "Published on 25 September 2012. Downloaded by Universite de Lorraine on 2/5/2024 11:19:22 AM."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 488.96,
+            "t": 772.0260151367187,
+            "r": 558.88,
+            "b": 764.8420151367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "View Article Online",
+      "text": "View Article Online"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.59608113999997,
+            "t": 725.4226632367187,
+            "r": 288.68465000000003,
+            "b": 545.5573666248359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            987
+          ]
+        }
+      ],
+      "orig": "seed coating decreases the possibility of the formation of defects. We believe that high permeability is a very important property for membranes from the practicability respective, especially when gas selectivities are very close. The ideal separation selectivity (calculated from the ratio of single-gas permeances) of H2CO2 and H2-CH4 is found to be a little higher than their separation selectivity. This phenomenon can be explained by taking CO2 as an example. The slower-diffusing CO2 molecules and faster-diffusing H2 molecules inhibit each other under the interaction of adsorption and size effects. Therefore, both of their permeation flux should be declined in the mixture, while the H2 flux decreased relatively faster in this process. To investigate the stability, the membrane was tested over a period of 12 hours and the separation results are shown in Fig. 5. During this period, the membrane was confirmed to be capable of retaining its separation factors and permeations.",
+      "text": "seed coating decreases the possibility of the formation of defects. We believe that high permeability is a very important property for membranes from the practicability respective, especially when gas selectivities are very close. The ideal separation selectivity (calculated from the ratio of single-gas permeances) of H2CO2 and H2-CH4 is found to be a little higher than their separation selectivity. This phenomenon can be explained by taking CO2 as an example. The slower-diffusing CO2 molecules and faster-diffusing H2 molecules inhibit each other under the interaction of adsorption and size effects. Therefore, both of their permeation flux should be declined in the mixture, while the H2 flux decreased relatively faster in this process. To investigate the stability, the membrane was tested over a period of 12 hours and the separation results are shown in Fig. 5. During this period, the membrane was confirmed to be capable of retaining its separation factors and permeations."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.59636911000001,
+            "t": 542.0781871167188,
+            "r": 288.6713503799999,
+            "b": 476.84600930483595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            347
+          ]
+        }
+      ],
+      "orig": "Given the advantages of the electrospinning technology, this method can also be extended to other substrates with different shapes, such as the commonly used carrier, porous Al2O3 tubes (Fig. S7\u2020). It indicates that this is a versatile method which is suitable for different kinds of supports with the possibility of large-area processing as well.",
+      "text": "Given the advantages of the electrospinning technology, this method can also be extended to other substrates with different shapes, such as the commonly used carrier, porous Al2O3 tubes (Fig. S7\u2020). It indicates that this is a versatile method which is suitable for different kinds of supports with the possibility of large-area processing as well."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.5968,
+            "t": 461.63894813671874,
+            "r": 98.00823500000001,
+            "b": 451.79776613671874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Conclusions",
+      "text": "Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.596223429999995,
+            "t": 442.4683632367187,
+            "r": 288.67805767999994,
+            "b": 262.6602093048359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            959
+          ]
+        }
+      ],
+      "orig": "In summary, we have developed a novel approach which introduces an electrospinning technique to the synthesis of supported microporous membranes. This approach has a wide range of applications with the possibility of large-area processing and can be applied to various types of supports, such as wafers, tubes and those with irregular shapes. We can precisely control the thickness of the seed layer and can obtain a continuous and uniform seed coating on the support surface, which is followed by conventional solvothermal treatment. The zeolite imidazolate framework-8 was selected as a candidate to demonstrate the effectiveness of this method, by which, high quality and wellintergrown ZIF-8 membranes have been successfully synthesized with better H2 selectivity and gas permeability. All the distinguishing features offered by this new approach leads to it having a great potential in a number of applications for the synthesis of microporous membranes.",
+      "text": "In summary, we have developed a novel approach which introduces an electrospinning technique to the synthesis of supported microporous membranes. This approach has a wide range of applications with the possibility of large-area processing and can be applied to various types of supports, such as wafers, tubes and those with irregular shapes. We can precisely control the thickness of the seed layer and can obtain a continuous and uniform seed coating on the support surface, which is followed by conventional solvothermal treatment. The zeolite imidazolate framework-8 was selected as a candidate to demonstrate the effectiveness of this method, by which, high quality and wellintergrown ZIF-8 membranes have been successfully synthesized with better H2 selectivity and gas permeability. All the distinguishing features offered by this new approach leads to it having a great potential in a number of applications for the synthesis of microporous membranes."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.5968,
+            "t": 247.45324813671868,
+            "r": 130.55975270000002,
+            "b": 237.61206613671868,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Acknowledgements",
+      "text": "Acknowledgements",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.5968,
+            "t": 228.2826632367187,
+            "r": 288.67805768,
+            "b": 185.89832161483594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "This work was supported by the National Basic Research Program of China (2011CB808703, 2012CB821700), the National Natural Science Foundation of China (grant nos. 91022030, 21101072), ''111'' project (B07016), and the",
+      "text": "This work was supported by the National Basic Research Program of China (2011CB808703, 2012CB821700), the National Natural Science Foundation of China (grant nos. 91022030, 21101072), ''111'' project (B07016), and the"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59631160000004,
+            "t": 725.4254431467187,
+            "r": 551.6533602700002,
+            "b": 706.0011059348359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "International Cooperation Project of Ministry of Science and Technology (2006DFA41190).",
+      "text": "International Cooperation Project of Ministry of Science and Technology (2006DFA41190)."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.5952,
+            "t": 686.4263481367187,
+            "r": 402.1039808999999,
+            "b": 676.5851661367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Notes and references",
+      "text": "Notes and references",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 310.507,
+            "t": 669.2281042567187,
+            "r": 551.7426374400001,
+            "b": 652.3272951567187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "1 O. Shekhah, J. Liu, R. A. Fischer and C. W \u20ac oll, Chem. Soc. Rev. , 2011, 40 , 1081.",
+      "text": "1 O. Shekhah, J. Liu, R. A. Fischer and C. W \u20ac oll, Chem. Soc. Rev. , 2011, 40 , 1081.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 310.50540595999996,
+            "t": 650.4702385567188,
+            "r": 551.67648478,
+            "b": 634.4256557039154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "2 J. Caro and M. Noack, Microporous Mesoporous Mater. , 2008, 115 , 215.",
+      "text": "2 J. Caro and M. Noack, Microporous Mesoporous Mater. , 2008, 115 , 215.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 310.50620297999996,
+            "t": 633.3406847167188,
+            "r": 551.6756877600001,
+            "b": 616.4398756167188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "3 D. Zacher, O. Shekhah, C. W \u20ac oll and R. A. Fischer, Chem. Soc. Rev. , 2009, 38 , 1418.",
+      "text": "3 D. Zacher, O. Shekhah, C. W \u20ac oll and R. A. Fischer, Chem. Soc. Rev. , 2009, 38 , 1418.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 310.50460894,
+            "t": 614.6394074367189,
+            "r": 551.7490136000001,
+            "b": 598.5244600567189,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "4 E. E. McLeary, J. C. Jansen and F. Kapteijnc, Microporous Mesoporous Mater. , 2006, 90 , 198.",
+      "text": "4 E. E. McLeary, J. C. Jansen and F. Kapteijnc, Microporous Mesoporous Mater. , 2006, 90 , 198.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 310.5046089400001,
+            "t": 596.667403456719,
+            "r": 551.6748907400001,
+            "b": 580.6228206039156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "5 H. Guo, G. Zhu, I. J. Hewitt and S. Qiu, J. Am. Chem. Soc. , 2009, 131 , 1646.",
+      "text": "5 H. Guo, G. Zhu, I. J. Hewitt and S. Qiu, J. Am. Chem. Soc. , 2009, 131 , 1646.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 310.5046089400001,
+            "t": 578.751987896719,
+            "r": 551.6748907400003,
+            "b": 562.7074050439156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "6 A. Huang, W. Dou and J. Caro, J. Am. Chem. Soc. , 2010, 132 , 15562.",
+      "text": "6 A. Huang, W. Dou and J. Caro, J. Am. Chem. Soc. , 2010, 132 , 15562.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 310.5046089400002,
+            "t": 560.8365723367191,
+            "r": 486.7209488200001,
+            "b": 553.6793327367191,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "7 Y. Li and W. Yang, J. Membr. Sci. , 2008, 316 , 3.",
+      "text": "7 Y. Li and W. Yang, J. Membr. Sci. , 2008, 316 , 3.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 310.5054059600002,
+            "t": 551.8788645567191,
+            "r": 547.4004724800004,
+            "b": 544.7216249567191,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "8 S. R. Venna and M. A. Carreon, J. Am. Chem. Soc. , 2010, 132 , 76.",
+      "text": "8 S. R. Venna and M. A. Carreon, J. Am. Chem. Soc. , 2010, 132 , 76.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 310.5054059600003,
+            "t": 542.9211567767192,
+            "r": 551.6764847800005,
+            "b": 526.8199855039157,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "9 Z. Wang, Q. Ge, J. Shao and Y. Yan, J. Am. Chem. Soc. , 2009, 131 , 6910.",
+      "text": "9 Z. Wang, Q. Ge, J. Shao and Y. Yan, J. Am. Chem. Soc. , 2009, 131 , 6910.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.5944288200004,
+            "t": 524.9491527967192,
+            "r": 551.6932222000005,
+            "b": 508.83420541671916,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "10 L. H. Wee, L. Tosheva, L. Itani, V. Valtchev and A. M. Doyle, J. Mater. Chem. , 2008, 18 , 3563.",
+      "text": "10 L. H. Wee, L. Tosheva, L. Itani, V. Valtchev and A. M. Doyle, J. Mater. Chem. , 2008, 18 , 3563.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.5944288200004,
+            "t": 507.0337372367191,
+            "r": 551.69561326,
+            "b": 490.9187898567191,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "11 X. Yin, G. Zhu, W. Yang, Y. Li, G. Zhu, R. Xu, J. Sun, S. Qiu and R. Xu, Adv. Mater. , 2005, 17 , 2006.",
+      "text": "11 X. Yin, G. Zhu, W. Yang, Y. Li, G. Zhu, R. Xu, J. Sun, S. Qiu and R. Xu, Adv. Mater. , 2005, 17 , 2006.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59522584000047,
+            "t": 489.11832167671906,
+            "r": 499.4684867000003,
+            "b": 482.03144660391575,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "12 A. Formhals, US Pat. , Specification 1-975-504, 1934.",
+      "text": "12 A. Formhals, US Pat. , Specification 1-975-504, 1934.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59522584000047,
+            "t": 480.1040254767191,
+            "r": 551.6772818000005,
+            "b": 464.05944262391574,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "13 A. Greiner and J. H. Wendorff, Angew. Chem., Int. Ed. , 2007, 46 , 5670.",
+      "text": "13 A. Greiner and J. H. Wendorff, Angew. Chem., Int. Ed. , 2007, 46 , 5670.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.5960228600005,
+            "t": 462.18860991671903,
+            "r": 490.4015871800005,
+            "b": 455.03137031671906,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "14 X. Lu, C. Wang and Y. Wei, Small , 2009, 5 , 2349.",
+      "text": "14 X. Lu, C. Wang and Y. Wei, Small , 2009, 5 , 2349.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.5960228600006,
+            "t": 453.230902136719,
+            "r": 551.6772818000006,
+            "b": 437.1863192839157,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "15 Q. P. Pham, U. Sharma and A. G. Mikos, Tissue Eng. , 2006, 12 , 1197.",
+      "text": "15 Q. P. Pham, U. Sharma and A. G. Mikos, Tissue Eng. , 2006, 12 , 1197.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59602286000063,
+            "t": 435.31548657671897,
+            "r": 551.7011924000002,
+            "b": 419.200539196719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "16 Z. Hou, C. Li, P. Ma, G. Li, Z. Cheng, C. Peng, D. Yang, P. Yang and J. Lin, Adv. Funct. Mater. , 2011, 21 , 2356.",
+      "text": "16 Z. Hou, C. Li, P. Ma, G. Li, Z. Cheng, C. Peng, D. Yang, P. Yang and J. Lin, Adv. Funct. Mater. , 2011, 21 , 2356.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.5960228600006,
+            "t": 417.34348259671896,
+            "r": 551.7290881000006,
+            "b": 401.22853521671897,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "17 Y. Yu, L. Gu, C. Zhu, P. A. van Aken and J. Maier, J. Am. Chem. Soc. , 2009, 131 , 15984.",
+      "text": "17 Y. Yu, L. Gu, C. Zhu, P. A. van Aken and J. Maier, J. Am. Chem. Soc. , 2009, 131 , 15984.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59602286000063,
+            "t": 399.4280670367189,
+            "r": 551.6995983600002,
+            "b": 383.31980293671876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "18 J. S. Lee, O. S. Kwon, S. J. Park, E. Y. Park, S. A. You, H. Yoon and J. Jang, ACS Nano , 2011, 5 , 7992.",
+      "text": "18 J. S. Lee, O. S. Kwon, S. J. Park, E. Y. Park, S. A. You, H. Yoon and J. Jang, ACS Nano , 2011, 5 , 7992.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59520332,
+            "t": 381.5193347567187,
+            "r": 551.7426149199999,
+            "b": 374.4324596839154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "19 S. Zhan, D. Chen, X. Jiao and Y. Song, Chem. Commun. , 2007, 2043.",
+      "text": "19 S. Zhan, D. Chen, X. Jiao and Y. Song, Chem. Commun. , 2007, 2043.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59520332,
+            "t": 372.5616269767187,
+            "r": 533.1608906399997,
+            "b": 356.3900911767187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "20 R. Ostermann, J. Cravillon, C. Weidmann, M. Wiebcke B. M. Smarsly, Chem. Commun. , 2011, 47 , 442.",
+      "text": "20 R. Ostermann, J. Cravillon, C. Weidmann, M. Wiebcke B. M. Smarsly, Chem. Commun. , 2011, 47 , 442.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 538.9137809999997,
+            "t": 372.5616269767187,
+            "r": 551.6979817999996,
+            "b": 365.4747519039154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "and",
+      "text": "and",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59520332,
+            "t": 355.3754847167187,
+            "r": 551.68841756,
+            "b": 338.4746756167187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "21 M. Rose, B. B \u20ac ohringer, M. Jolly, R. Fischer and S. Kaskel, Adv. Eng. Mater. , 2011, 13 , 356.",
+      "text": "21 M. Rose, B. B \u20ac ohringer, M. Jolly, R. Fischer and S. Kaskel, Adv. Eng. Mater. , 2011, 13 , 356.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59520332,
+            "t": 337.46006915671865,
+            "r": 551.74341194,
+            "b": 302.58725607671863,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "22 ( a ) K. S. Park, Z. Ni, A. P. C ^ ot \u0013 e, J. Y. Choi, R. Huang, F. J. UribeRomo, H. K. Chae, M. O'Keeffe and O. M. Yaghi, Proc. Natl. Acad. Sci. U. S. A. , 2006, 103 , 10186; ( b ) X.-C. Huang, Y.-Y. Lin, J.-P. Zhang and X.-M. Chen, Angew. Chem., Int. Ed. , 2006, 45 , 1557.",
+      "text": "22 ( a ) K. S. Park, Z. Ni, A. P. C ^ ot \u0013 e, J. Y. Choi, R. Huang, F. J. UribeRomo, H. K. Chae, M. O'Keeffe and O. M. Yaghi, Proc. Natl. Acad. Sci. U. S. A. , 2006, 103 , 10186; ( b ) X.-C. Huang, Y.-Y. Lin, J.-P. Zhang and X.-M. Chen, Angew. Chem., Int. Ed. , 2006, 45 , 1557.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59520332,
+            "t": 300.7867878967186,
+            "r": 551.68762054,
+            "b": 284.6718405167186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "23 H. Bux, F. Liang, Y. Li, J. Cravillon, M. Wiebcke and J. Caro, J. Am. Chem. Soc. , 2009, 131 , 16000.",
+      "text": "23 H. Bux, F. Liang, Y. Li, J. Cravillon, M. Wiebcke and J. Caro, J. Am. Chem. Soc. , 2009, 131 , 16000.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59520331999994,
+            "t": 282.87137233671854,
+            "r": 551.7242834599996,
+            "b": 266.75642495671855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "24 H. Bux, A. Feldhoff, J. Cravillon, M. Wiebcke, Y.-S. Li and J. Caro, Chem. Mater. , 2011, 23 , 2262.",
+      "text": "24 H. Bux, A. Feldhoff, J. Cravillon, M. Wiebcke, Y.-S. Li and J. Caro, Chem. Mater. , 2011, 23 , 2262.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59440629999995,
+            "t": 264.9559567767185,
+            "r": 551.6971847799998,
+            "b": 248.8410093967185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "25 M. C. McCarthy, V. Varela-Guerrero, G. V. Barnett and H.-K. Jeong, Langmuir , 2010, 26 , 14636.",
+      "text": "25 M. C. McCarthy, V. Varela-Guerrero, G. V. Barnett and H.-K. Jeong, Langmuir , 2010, 26 , 14636.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59440629999995,
+            "t": 246.98395279671854,
+            "r": 551.67646226,
+            "b": 230.86900541671855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "26 J. Yao, D. Dong, D. Li, L. He, G. Xu and H. Wang, Chem. Commun. , 2011, 47 , 2559.",
+      "text": "26 J. Yao, D. Dong, D. Li, L. He, G. Xu and H. Wang, Chem. Commun. , 2011, 47 , 2559.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59440629999995,
+            "t": 229.0685372367186,
+            "r": 500.6209550999999,
+            "b": 221.9112976367186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "27 Y. Pan and Z. Lai, Chem. Commun. , 2011, 47 , 10275.",
+      "text": "27 Y. Pan and Z. Lai, Chem. Commun. , 2011, 47 , 10275.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59360928,
+            "t": 220.11082945671853,
+            "r": 551.7378327999996,
+            "b": 203.99588207671854,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "28 J. Yao, G. Xu, K. Wang, L. He, P. A. Webley, C. Chen and H. Wang, J. Membr. Sci. , 2011, 385-386 , 187.",
+      "text": "28 J. Yao, G. Xu, K. Wang, L. He, P. A. Webley, C. Chen and H. Wang, J. Membr. Sci. , 2011, 385-386 , 187.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.59281225999996,
+            "t": 202.1954138967186,
+            "r": 551.7139222,
+            "b": 185.94019099671857,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "29 D. Fairen-Jimenez, S. A. Moggach, M. T. Wharmby, P. A. Wright, S. Parsons and T. D \u20ac uren, J. Am. Chem. Soc. , 2011, 133 , 8900.",
+      "text": "29 D. Fairen-Jimenez, S. A. Moggach, M. T. Wharmby, P. A. Wright, S. Parsons and T. D \u20ac uren, J. Am. Chem. Soc. , 2011, 133 , 8900.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 43.5968,
+            "t": 40.12018193671872,
+            "r": 71.47157393999998,
+            "b": 32.593803849785445,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "25276 |",
+      "text": "25276 |"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 75.68450344,
+            "t": 40.76376513671869,
+            "r": 217.66996602,
+            "b": 32.38871533671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "J. Mater. Chem. , 2012, 22 , 25272-25276",
+      "text": "J. Mater. Chem. , 2012, 22 , 25272-25276"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 355.68977054,
+            "t": 42.96549713671868,
+            "r": 551.6566208400003,
+            "b": 31.94836893671868,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "This journal is \u00aa The Royal Society of Chemistry 2012",
+      "text": "This journal is \u00aa The Royal Society of Chemistry 2012"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 426.9937744140625,
+            "t": 768.8586463928223,
+            "r": 552.3099975585938,
+            "b": 752.2180519104004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 322.86932373046875,
+            "t": 223.744140625,
+            "r": 534.6900024414062,
+            "b": 80.46514892578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 52.409339904785156,
+            "t": 726.5655326843262,
+            "r": 278.9732666015625,
+            "b": 556.6610260009766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.17135238647461,
+            "t": 344.23382568359375,
+            "r": 278.8097229003906,
+            "b": 89.8812255859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 332.3716125488281,
+            "t": 726.5146751403809,
+            "r": 524.5997314453125,
+            "b": 572.5747833251953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 328.48516845703125,
+            "t": 234.4664306640625,
+            "r": 528.9431762695312,
+            "b": 79.5325927734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.418392181396484,
+            "t": 704.6984100341797,
+            "r": 552.12744140625,
+            "b": 639.1041412353516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 43.59593818000002,
+              "t": 91.07307259999993,
+              "r": 78.7621568,
+              "b": 98.92667678368207,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Gas (H 2 /j)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 147.17432294,
+              "t": 82.05877639999994,
+              "r": 201.07917659999998,
+              "b": 104.18424779999998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Permeance (H 2 ) ( \u0002 10 \u0000 8 )",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 269.51830722,
+              "t": 82.05877639999994,
+              "r": 316.0379735599999,
+              "b": 104.18405159999998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Permeance (j) ( \u0002 10 \u0000 8 )",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 384.43446202,
+              "t": 91.07307259999993,
+              "r": 446.4721077600001,
+              "b": 98.15994767280336,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Knudsen constant",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 514.82932508,
+              "t": 82.05877639999994,
+              "r": 551.7552616799999,
+              "b": 98.15994767280336,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Separation factor",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 43.59603219999997,
+              "t": 109.55507260000002,
+              "r": 71.92729999999999,
+              "b": 117.46527678368204,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "H 2 -CO 2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 147.1748,
+              "t": 109.55507260000002,
+              "r": 161.28205399999996,
+              "b": 116.64194767280344,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "32.3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 269.51816701999996,
+              "t": 109.55507260000002,
+              "r": 283.6254210199999,
+              "b": 116.64194767280344,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "4.42",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 384.43490167999994,
+              "t": 109.55507260000002,
+              "r": 394.5570556799999,
+              "b": 116.64194767280344,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "4.7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 514.8289677199999,
+              "t": 109.55507260000002,
+              "r": 528.9362217199999,
+              "b": 116.64194767280344,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "7.31",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 43.59647186000001,
+              "t": 118.5691726,
+              "r": 72.3241,
+              "b": 126.42277678368202,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "H 2 -CH 4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 147.1748,
+              "t": 118.5691726,
+              "r": 161.28205399999996,
+              "b": 125.65604767280342,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "32.8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 269.51816701999996,
+              "t": 118.5691726,
+              "r": 283.6254210199999,
+              "b": 125.65604767280342,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "6.78",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 384.43490167999994,
+              "t": 118.5691726,
+              "r": 394.5570556799999,
+              "b": 125.65604767280342,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "2.8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 514.8289677199999,
+              "t": 118.5691726,
+              "r": 528.9362217199999,
+              "b": 125.65604767280342,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "4.84",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 43.59647186000001,
+              "t": 127.52667259999998,
+              "r": 66.5981,
+              "b": 135.38017678368203,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "H 2 -N 2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 147.1748,
+              "t": 127.52667259999998,
+              "r": 161.28205399999996,
+              "b": 134.6135476728034,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "33.0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 269.51816701999996,
+              "t": 127.52667259999998,
+              "r": 283.6254210199999,
+              "b": 134.6135476728034,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "6.70",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 384.43490167999994,
+              "t": 127.52667259999998,
+              "r": 394.5570556799999,
+              "b": 134.6135476728034,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "3.7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 514.8289677199999,
+              "t": 127.52667259999998,
+              "r": 528.9362217199999,
+              "b": 134.6135476728034,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "4.94",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 4,
+        "num_cols": 5,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 43.59593818000002,
+                "t": 91.07307259999993,
+                "r": 78.7621568,
+                "b": 98.92667678368207,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Gas (H 2 /j)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 147.17432294,
+                "t": 82.05877639999994,
+                "r": 201.07917659999998,
+                "b": 104.18424779999998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Permeance (H 2 ) ( \u0002 10 \u0000 8 )",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 269.51830722,
+                "t": 82.05877639999994,
+                "r": 316.0379735599999,
+                "b": 104.18405159999998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Permeance (j) ( \u0002 10 \u0000 8 )",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 384.43446202,
+                "t": 91.07307259999993,
+                "r": 446.4721077600001,
+                "b": 98.15994767280336,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Knudsen constant",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 514.82932508,
+                "t": 82.05877639999994,
+                "r": 551.7552616799999,
+                "b": 98.15994767280336,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Separation factor",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 43.59603219999997,
+                "t": 109.55507260000002,
+                "r": 71.92729999999999,
+                "b": 117.46527678368204,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "H 2 -CO 2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 147.1748,
+                "t": 109.55507260000002,
+                "r": 161.28205399999996,
+                "b": 116.64194767280344,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "32.3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 269.51816701999996,
+                "t": 109.55507260000002,
+                "r": 283.6254210199999,
+                "b": 116.64194767280344,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "4.42",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 384.43490167999994,
+                "t": 109.55507260000002,
+                "r": 394.5570556799999,
+                "b": 116.64194767280344,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "4.7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 514.8289677199999,
+                "t": 109.55507260000002,
+                "r": 528.9362217199999,
+                "b": 116.64194767280344,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "7.31",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 43.59647186000001,
+                "t": 118.5691726,
+                "r": 72.3241,
+                "b": 126.42277678368202,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "H 2 -CH 4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 147.1748,
+                "t": 118.5691726,
+                "r": 161.28205399999996,
+                "b": 125.65604767280342,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "32.8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 269.51816701999996,
+                "t": 118.5691726,
+                "r": 283.6254210199999,
+                "b": 125.65604767280342,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "6.78",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 384.43490167999994,
+                "t": 118.5691726,
+                "r": 394.5570556799999,
+                "b": 125.65604767280342,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "2.8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 514.8289677199999,
+                "t": 118.5691726,
+                "r": 528.9362217199999,
+                "b": 125.65604767280342,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "4.84",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 43.59647186000001,
+                "t": 127.52667259999998,
+                "r": 66.5981,
+                "b": 135.38017678368203,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "H 2 -N 2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 147.1748,
+                "t": 127.52667259999998,
+                "r": 161.28205399999996,
+                "b": 134.6135476728034,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "33.0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 269.51816701999996,
+                "t": 127.52667259999998,
+                "r": 283.6254210199999,
+                "b": 134.6135476728034,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "6.70",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 384.43490167999994,
+                "t": 127.52667259999998,
+                "r": 394.5570556799999,
+                "b": 134.6135476728034,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "3.7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 514.8289677199999,
+                "t": 127.52667259999998,
+                "r": 528.9362217199999,
+                "b": 134.6135476728034,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "4.94",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 779.5280151367188
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 779.5280151367188
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 779.5280151367188
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 779.5280151367188
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 779.5280151367188
+      },
+      "page_no": 5
+    }
+  }
+}

@@ -1,0 +1,4279 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "180",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8388122678245271112,
+    "filename": "180.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/groups/4"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 505.5227661,
+            "t": 775.7269160101563,
+            "r": 514.4187661,
+            "b": 768.5514905957916,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1075",
+      "text": "1075"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 138.02,
+            "t": 735.6759829101563,
+            "r": 387.36999999999995,
+            "b": 724.9128447886094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "CHEMICAL ENGINEERING TRANSACTIONS",
+      "text": "CHEMICAL ENGINEERING TRANSACTIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 84.984,
+            "t": 713.2571029101563,
+            "r": 159.56912,
+            "b": 703.3550158383331,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "VOL. 86, 2021",
+      "text": "VOL. 86, 2021"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 84.984,
+            "t": 684.2643829101563,
+            "r": 236.62661912,
+            "b": 677.8378321101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Guest Editors: Sauro Pierucci, Ji\u0159\u00ed Jarom\u00edr Kleme\u0161",
+      "text": "Guest Editors: Sauro Pierucci, Ji\u0159\u00ed Jarom\u00edr Kleme\u0161"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 84.984,
+            "t": 675.0243829101563,
+            "r": 204.30848,
+            "b": 668.5978321101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Copyright \u00a9 2021, AIDIC Servizi S.r.l.",
+      "text": "Copyright \u00a9 2021, AIDIC Servizi S.r.l."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 84.984,
+            "t": 666.5043829101562,
+            "r": 102.94077911999997,
+            "b": 660.0778321101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ISBN",
+      "text": "ISBN"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 102.98,
+            "t": 666.5043829101562,
+            "r": 169.86848,
+            "b": 660.0778321101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "978-88-95608-84-6;",
+      "text": "978-88-95608-84-6;"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 169.85,
+            "t": 666.5043829101562,
+            "r": 187.44490088,
+            "b": 660.0778321101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "ISSN",
+      "text": "ISSN"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 187.49,
+            "t": 666.5043829101562,
+            "r": 222.73004000000006,
+            "b": 660.0778321101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "2283-9216",
+      "text": "2283-9216"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 471.22,
+            "t": 755.3233429101563,
+            "r": 521.05488,
+            "b": 748.7300505045897,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "A publication of",
+      "text": "A publication of"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 442.18,
+            "t": 712.7233429101562,
+            "r": 521.05488,
+            "b": 690.6410803256632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "The Italian Association of Chemical Engineering Online at www.cetjournal.it",
+      "text": "The Italian Association of Chemical Engineering Online at www.cetjournal.it"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 433.107059032728,
+            "t": 670.5307766628043,
+            "r": 503.15111640930985,
+            "b": 664.2349176152187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "DOI: 10.303/CET2186180",
+      "text": "DOI: 10.303/CET2186180"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 125.78,
+            "t": 637.9273429101563,
+            "r": 488.01934384000003,
+            "b": 602.5282413594605,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Experimental Study on CO2 Membrane Separation from Flue Gas",
+      "text": "Experimental Study on CO2 Membrane Separation from Flue Gas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.10399999999998,
+            "t": 592.1019829101563,
+            "r": 311.92600400000015,
+            "b": 580.7342373833173,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "Lukas Kratky*, Josef Kolacny, Radek Sulc",
+      "text": "Lukas Kratky*, Josef Kolacny, Radek Sulc",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.10399999999998,
+            "t": 571.8666229101563,
+            "r": 480.1814635199997,
+            "b": 543.0102334071743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "Czech Technical University in Prague, Faculty of Mechanical Engineering, Department of Process Engineering, Technicka 4, 160 00, Prague 6, Czech Republic Lukas.Kratky@fs.cvut.cz",
+      "text": "Czech Technical University in Prague, Faculty of Mechanical Engineering, Department of Process Engineering, Technicka 4, 160 00, Prague 6, Czech Republic Lukas.Kratky@fs.cvut.cz"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.10399999999998,
+            "t": 527.9139829101564,
+            "r": 527.0219999999999,
+            "b": 439.68817376502705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            850
+          ]
+        }
+      ],
+      "orig": "The paper scoped to evaluate the process characteristics of polyetherimide-polyimide hollow fibre membrane module to separate CO2 of the model flue gas. The model gas was composed of 15.2 vol % CO2 + 4.5 vol % O2 + 80.3 vol % N2, as referenced to the typical composition of flue gas emitted by an LPG-fired power plant. The effect of process variables on process characteristics was researched for  various differential pressures between permeate 0.2 - 0.5 MPa (a) and retentate 0.5 - 1.0 MPa (a), feed flowrates 100 g h -1  and 200 g h -1 , all under the gas temperature of 30 \u00b0C. It was found out that the value of the separation factor (CO2/N2) was 6.9. The  decrease  of  the  separation  factor  (CO2/N2)  by  4.1  compared  to  the  ideal  selectivity  (CO2/N2). The separation factor (CO2/O2) was shallow; its maximum value of 1.8 was reached.",
+      "text": "The paper scoped to evaluate the process characteristics of polyetherimide-polyimide hollow fibre membrane module to separate CO2 of the model flue gas. The model gas was composed of 15.2 vol % CO2 + 4.5 vol % O2 + 80.3 vol % N2, as referenced to the typical composition of flue gas emitted by an LPG-fired power plant. The effect of process variables on process characteristics was researched for  various differential pressures between permeate 0.2 - 0.5 MPa (a) and retentate 0.5 - 1.0 MPa (a), feed flowrates 100 g h -1  and 200 g h -1 , all under the gas temperature of 30 \u00b0C. It was found out that the value of the separation factor (CO2/N2) was 6.9. The  decrease  of  the  separation  factor  (CO2/N2)  by  4.1  compared  to  the  ideal  selectivity  (CO2/N2). The separation factor (CO2/O2) was shallow; its maximum value of 1.8 was reached."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.10400000000001,
+            "t": 424.66134291015624,
+            "r": 154.49017991999997,
+            "b": 414.89600318520536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.10400000000001,
+            "t": 407.4139829101563,
+            "r": 527.0220000000002,
+            "b": 341.88817376502715,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            637
+          ]
+        }
+      ],
+      "orig": "CO2 separation from flue gas by membrane process is nowadays viewed as a young and promising method with a very high commercial potential in Carbon Capture and Utilization technologies. As highlighted by Song et al. (2019), it is given by its simplicity in technical set-up, compactness, modularity, its simplicity in operation, control  and  maintenance,  in  its  energy  efficiency  and  scale-up  flexibility.  Gas  membrane  separation  also evinces safety and environmental friendless because there is no  requirement to use hazardous chemicals, e.g. as demanded by conventional CO2 separation by absorption (Boulmal et al., 2017).",
+      "text": "CO2 separation from flue gas by membrane process is nowadays viewed as a young and promising method with a very high commercial potential in Carbon Capture and Utilization technologies. As highlighted by Song et al. (2019), it is given by its simplicity in technical set-up, compactness, modularity, its simplicity in operation, control  and  maintenance,  in  its  energy  efficiency  and  scale-up  flexibility.  Gas  membrane  separation  also evinces safety and environmental friendless because there is no  requirement to use hazardous chemicals, e.g. as demanded by conventional CO2 separation by absorption (Boulmal et al., 2017)."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.10400000000001,
+            "t": 339.0139829101564,
+            "r": 529.4260080000001,
+            "b": 239.3781737650272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            921
+          ]
+        }
+      ],
+      "orig": "Generally  known,  gas  membrane  separation  is  a  pressure-driven  process  that  uses  different  diffusivities of  individual gas components in a membrane cartridge to separate them. One or multi-stage configurations of laboratory or pilot gas membrane separation systems under TRL 3-6 are typically used to remove a given gas component from a feed. The configuration itself is primarily affected by flue gas composition, membrane characteristics (selectivity, permeability), and demanded permeate purity. Nevertheless, flue gas membrane separation has several limitations: low-temperature resistance up to 100\u00b0C, sensitivity to acid gases (SOX, NOX  and  H2S),  varying  long-term  performance,  and  low  selectivity  and  resilience  (Song  et  al.,  2019). Moreover,  Xu  et  al.  (2018)  discussed  that  it  is  impossible  to  reach  CO2  purity  higher  than  95  %  with  low energy demand and capture cost.",
+      "text": "Generally  known,  gas  membrane  separation  is  a  pressure-driven  process  that  uses  different  diffusivities of  individual gas components in a membrane cartridge to separate them. One or multi-stage configurations of laboratory or pilot gas membrane separation systems under TRL 3-6 are typically used to remove a given gas component from a feed. The configuration itself is primarily affected by flue gas composition, membrane characteristics (selectivity, permeability), and demanded permeate purity. Nevertheless, flue gas membrane separation has several limitations: low-temperature resistance up to 100\u00b0C, sensitivity to acid gases (SOX, NOX  and  H2S),  varying  long-term  performance,  and  low  selectivity  and  resilience  (Song  et  al.,  2019). Moreover,  Xu  et  al.  (2018)  discussed  that  it  is  impossible  to  reach  CO2  purity  higher  than  95  %  with  low energy demand and capture cost."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.10399999999998,
+            "t": 236.62398291015643,
+            "r": 527.022,
+            "b": 91.3981737650272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1406
+          ]
+        }
+      ],
+      "orig": "Gas membrane separation is still under intensive development in laboratory or pilot plant scales aiming to find suitable membrane material, ambient operating conditions and low energy demand under favourable capture cost. Scientific activities historically dominantly scoped to test the efficiency of CO2 removal from binary flue gas mixtures. Liu et al. (2020) modelled flue gas as binary mixture CO2 + N2 and used CHA-type membranes to remove CO2 from the model gas at ambient temperatures. Torstensen et al. (2019) studied CO2 removal from  model  flue  gas  as  a  mixture  of  10  vol  %  CO2  and  90  vol  %  N2  in  feed  using  PVA/nanocellulose nanocomposite membrane. Lee et al. (2015) tested a commercial hollow fibre module's separation efficiency to remove greenhouse gas impurities from industrial flue gas composed of 86.4 vol % N2 + 13.4 vol % O2 + 951 ppm SF6 + 72.2 ppm CF4 + 1198 ppm of CO2. Choi et al. (2013) modelled LNG-fired flue gas as 10.8 vol % CO2 + 89.2 vol % N2  to  experimentally  develop  multi-stage  membrane  process  using  PES  hollow  fibre membrane module. Ayadani et al. (2021)  reported the potential of CO2 separation from binary mixtures of CH4, N2 and H2 using an SZZ-13 zeolite membrane. Nevertheless, there is also an effort to test the efficiency of  CO2  removal  multicomponent gas mixtures. E.g. Liang et al.  (2017) tested separation characteristics  of",
+      "text": "Gas membrane separation is still under intensive development in laboratory or pilot plant scales aiming to find suitable membrane material, ambient operating conditions and low energy demand under favourable capture cost. Scientific activities historically dominantly scoped to test the efficiency of CO2 removal from binary flue gas mixtures. Liu et al. (2020) modelled flue gas as binary mixture CO2 + N2 and used CHA-type membranes to remove CO2 from the model gas at ambient temperatures. Torstensen et al. (2019) studied CO2 removal from  model  flue  gas  as  a  mixture  of  10  vol  %  CO2  and  90  vol  %  N2  in  feed  using  PVA/nanocellulose nanocomposite membrane. Lee et al. (2015) tested a commercial hollow fibre module's separation efficiency to remove greenhouse gas impurities from industrial flue gas composed of 86.4 vol % N2 + 13.4 vol % O2 + 951 ppm SF6 + 72.2 ppm CF4 + 1198 ppm of CO2. Choi et al. (2013) modelled LNG-fired flue gas as 10.8 vol % CO2 + 89.2 vol % N2  to  experimentally  develop  multi-stage  membrane  process  using  PES  hollow  fibre membrane module. Ayadani et al. (2021)  reported the potential of CO2 separation from binary mixtures of CH4, N2 and H2 using an SZZ-13 zeolite membrane. Nevertheless, there is also an effort to test the efficiency of  CO2  removal  multicomponent gas mixtures. E.g. Liang et al.  (2017) tested separation characteristics  of"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.150514772,
+            "t": 70.7200643572603,
+            "r": 540.0591219662939,
+            "b": 47.50975481527473,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "Paper Received: 8 September 2020; Revised: 2 6 January 2021;  Accepted: 27 April 2021 Please cite this article as: Kratky L., Kolacny J., Sulc R., 2021, Experimental Study on CO 2 Membrane Separation  from Flue Gas , Chemical Engineering T ransactions, 86, 1 075-1080 DOI:10.303/CET2186180",
+      "text": "Paper Received: 8 September 2020; Revised: 2 6 January 2021;  Accepted: 27 April 2021 Please cite this article as: Kratky L., Kolacny J., Sulc R., 2021, Experimental Study on CO 2 Membrane Separation  from Flue Gas , Chemical Engineering T ransactions, 86, 1 075-1080 DOI:10.303/CET2186180"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.0396729,
+            "t": 775.6309160101563,
+            "r": 102.8316729,
+            "b": 768.0524189922636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1076",
+      "text": "1076"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.10399999999998,
+            "t": 754.9839829101562,
+            "r": 527.0219999999999,
+            "b": 655.3781737650272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            932
+          ]
+        }
+      ],
+      "orig": "PDMS/PAN composite membranes for the synthetic ternary gas mixture composed of 15 vol % CO2 + 5 vol % O2  +  80  vol  %  N2.  Bruntetti  et  al.  (2020)  investigated  the  use  of  poly-decyl  methylsiloxane  composite membrane to separate CO2 from the model flue gas with composition 15 vol % CO2 + 5 vol % O2 + 80 vol % N2.  This  information  follows  that  gas  membrane  separation  processes  nowadays  primarily  identify  process characteristics of gas membrane separation for a given component from binary gas mixtures. There is little information  about  gas  membrane  separation  from  multicomponent  gas  mixtures  like  industrial  flue  gases. Thus, the paper deals to analyze and model separation fundamental process characteristics of membrane CO2  removal  from  the  model  flue  gas  for  a  brand  new  developed  membrane  module  in  dependence  on process parameters of the gas membrane separation process.",
+      "text": "PDMS/PAN composite membranes for the synthetic ternary gas mixture composed of 15 vol % CO2 + 5 vol % O2  +  80  vol  %  N2.  Bruntetti  et  al.  (2020)  investigated  the  use  of  poly-decyl  methylsiloxane  composite membrane to separate CO2 from the model flue gas with composition 15 vol % CO2 + 5 vol % O2 + 80 vol % N2.  This  information  follows  that  gas  membrane  separation  processes  nowadays  primarily  identify  process characteristics of gas membrane separation for a given component from binary gas mixtures. There is little information  about  gas  membrane  separation  from  multicomponent  gas  mixtures  like  industrial  flue  gases. Thus, the paper deals to analyze and model separation fundamental process characteristics of membrane CO2  removal  from  the  model  flue  gas  for  a  brand  new  developed  membrane  module  in  dependence  on process parameters of the gas membrane separation process."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.10400000000004,
+            "t": 640.3513429101564,
+            "r": 137.38885992000004,
+            "b": 630.5860031852055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "2. Methods",
+      "text": "2. Methods",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.10400000000004,
+            "t": 623.2239829101563,
+            "r": 188.67200000000005,
+            "b": 614.3998807490561,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "2.1 Experimental set-up",
+      "text": "2.1 Experimental set-up",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.10399999999998,
+            "t": 606.6339829101563,
+            "r": 527.0229990000007,
+            "b": 472.94817376502726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1252
+          ]
+        }
+      ],
+      "orig": "The  laboratory  membrane  unit  RALEX  GSU-LAB-200  was  used  to  carry  out  all  the  experiments.  Its experimental set-up is plotted in Figure 1. The tertiary gas mixture, the modelling flue gas produced by the LPG-fired power plant, was tested. The feed composition was set-up as 15.2 vol % CO2 + 4.5 vol % O2 + 80.3 vol % N2. Two flow rates of the gas mixture being 100 g h -1  and 200 g h -1  were used in experiments under one mean process gas temperature of 30 \u00b0C. The mixture was fed into the membrane module with polyetherimidepolyimide hollow fibres (Membrain Ltd, CZ). The internal diameter of fibre was 0.188 mm, the wall thickness of fibre was 0.06 mm, and the active mass transfer surface 0.8 m 2 . The effect of process variables on process characteristics  was  researched  for  various  differential  pressures  between  retentate  and  permeate  set according to working pressure ranges for permeate 0.2-0.5 MPa(a) and retentate 0.5-1.0 MPa(a). The mass gas flow rate was measured in feed and retentate streams. The volumetric concentrations of individual gas components in feed, permeate, and retentate streams were continuously analyzed by gas analyzers Emerson at steady-state conditions of the gas membrane separation process.",
+      "text": "The  laboratory  membrane  unit  RALEX  GSU-LAB-200  was  used  to  carry  out  all  the  experiments.  Its experimental set-up is plotted in Figure 1. The tertiary gas mixture, the modelling flue gas produced by the LPG-fired power plant, was tested. The feed composition was set-up as 15.2 vol % CO2 + 4.5 vol % O2 + 80.3 vol % N2. Two flow rates of the gas mixture being 100 g h -1  and 200 g h -1  were used in experiments under one mean process gas temperature of 30 \u00b0C. The mixture was fed into the membrane module with polyetherimidepolyimide hollow fibres (Membrain Ltd, CZ). The internal diameter of fibre was 0.188 mm, the wall thickness of fibre was 0.06 mm, and the active mass transfer surface 0.8 m 2 . The effect of process variables on process characteristics  was  researched  for  various  differential  pressures  between  retentate  and  permeate  set according to working pressure ranges for permeate 0.2-0.5 MPa(a) and retentate 0.5-1.0 MPa(a). The mass gas flow rate was measured in feed and retentate streams. The volumetric concentrations of individual gas components in feed, permeate, and retentate streams were continuously analyzed by gas analyzers Emerson at steady-state conditions of the gas membrane separation process."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 300.36198291015637,
+            "r": 305.332002,
+            "b": 292.30410887700714,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Figure 1: Technological scheme of the membrane unit.",
+      "text": "Figure 1: Technological scheme of the membrane unit."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 276.82398291015636,
+            "r": 160.08201,
+            "b": 267.99988074905616,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "2.2 Data analysis",
+      "text": "2.2 Data analysis",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.10399999999996,
+            "t": 260.3839829101564,
+            "r": 527.0010030000001,
+            "b": 206.2581737650271,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            457
+          ]
+        }
+      ],
+      "orig": "The  data  analysis  and  evaluation  supposed  the  ideal  gas  behaviour.  The  data  evaluation  was  based  on the application of the law of mass conservation, general definitions of the amount of substance, molar mass for individual components and gas mixtures. Based on this data, CO2 stage cut \u03b8CO2 (-),  permeate flux JCO2 (mol m -2  s -1 ), CO2 permeability PCO2 (barrer), CO2 permeance PCO2/l (GPU) and separation factor SF (-) were calculated as:",
+      "text": "The  data  analysis  and  evaluation  supposed  the  ideal  gas  behaviour.  The  data  evaluation  was  based  on the application of the law of mass conservation, general definitions of the amount of substance, molar mass for individual components and gas mixtures. Based on this data, CO2 stage cut \u03b8CO2 (-),  permeate flux JCO2 (mol m -2  s -1 ), CO2 permeability PCO2 (barrer), CO2 permeance PCO2/l (GPU) and separation factor SF (-) were calculated as:"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 193.11486291015626,
+            "r": 527.0219999999999,
+            "b": 165.27684637613834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "\ud835\udf03\ud835\udc36\ud835\udc422 = \ud835\udc5a\ud835\udc36\ud835\udc422 \ud835\udc43 \ud835\udc5a\ud835\udc36\ud835\udc422 \ud835\udc39 (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 153.03486291015633,
+            "r": 527.0219999999999,
+            "b": 127.2917013183719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "\ud835\udc3d \ud835\udc36\ud835\udc422 \ud835\udc43 = \ud835\udc5b\ud835\udc36\ud835\udc422 \ud835\udc43 \ud835\udc34 (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 114.97486291015628,
+            "r": 527.0219999999999,
+            "b": 87.13684637613835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "\ud835\udc43\ud835\udc36\ud835\udc422 \ud835\udc59 = \ud835\udc3d \ud835\udc36\ud835\udc422 \ud835\udc43 \ud835\udc5d \ud835\udc36\ud835\udc422 \ud835\udc43 \u2219 3.35 \u2219 10 -10 (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 505.5227661,
+            "t": 775.6309160101563,
+            "r": 523.3147661,
+            "b": 768.0524189922636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1077",
+      "text": "1077"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.104,
+            "t": 750.3548629101564,
+            "r": 527.0219999999999,
+            "b": 697.4368463761383,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "\ud835\udc46\ud835\udc39 (\ud835\udc36\ud835\udc422 \ud835\udc56 / ) = \ud835\udc50 \ud835\udc36\ud835\udc422 \ud835\udc5b\ud835\udc43 \ud835\udc50 \ud835\udc56 \ud835\udc5b\ud835\udc43 \ud835\udc50 \ud835\udc36\ud835\udc422 \ud835\udc5b\ud835\udc39 \ud835\udc50 \ud835\udc56 \ud835\udc5b\ud835\udc39 (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.104,
+            "t": 690.1719829101563,
+            "r": 527.0220000000002,
+            "b": 658.0181737650271,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "where A (m 2 )  represents  the  active  mass  transfer  surface  of  the  membrane  module, l (mm)  is  the  wall thickness of membrane fibre, \ud835\udc5d\ud835\udc36\ud835\udc422 \ud835\udc43 (Pa) defines partial pressure of CO2 in permeate stream, and i (-) means a gas component, CO2 excluded.",
+      "text": "where A (m 2 )  represents  the  active  mass  transfer  surface  of  the  membrane  module, l (mm)  is  the  wall thickness of membrane fibre, \ud835\udc5d\ud835\udc36\ud835\udc422 \ud835\udc43 (Pa) defines partial pressure of CO2 in permeate stream, and i (-) means a gas component, CO2 excluded."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.10400000000017,
+            "t": 642.9913429101563,
+            "r": 208.85185992000007,
+            "b": 633.2260031852054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "3. Results and Discussion",
+      "text": "3. Results and Discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.10400000000016,
+            "t": 625.6239829101563,
+            "r": 526.8430000000003,
+            "b": 605.6981737650271,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "The experimental analysis of process characteristics for the tested module was done both for single gases and the model flue gas.",
+      "text": "The experimental analysis of process characteristics for the tested module was done both for single gases and the model flue gas."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.104,
+            "t": 356.1619829101563,
+            "r": 526.7560040000001,
+            "b": 336.7041088770072,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "Figure  2:  CO2  and  N2  permeances  in  dependence  on  the  partial  pressure  difference  between  feed  and permeate (the lines represent only the trend).",
+      "text": "Figure  2:  CO2  and  N2  permeances  in  dependence  on  the  partial  pressure  difference  between  feed  and permeate (the lines represent only the trend)."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.10399999999998,
+            "t": 321.1339829101564,
+            "r": 527.0220090000004,
+            "b": 232.8981737650272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            778
+          ]
+        }
+      ],
+      "orig": "The  use  of  single  gases,  i.e.  nitrogen  and  carbon  dioxide,  was  applied  to  characterize  the  permeability of  the  membrane  cartridge  for  the  individual  gases  in  dependence  on  partial  pressure  difference  of  given component between feed and permeate stream. The results are plotted in Figure 2. The CO2 flowrate from feed to permeate stream was firmly linearly proportional to the given component's partial pressure difference between feed and permeate stream. Similar trends were reported by Choi et al. (2013). It was determined that the  maximum  CO2  permeance  of  32.09  GPU  was  an  order  of  magnitude  higher  than  the  maximum  N2 permeance being 1.15 GPU. Based on these values, the ideal selectivity of the given module was calculated as:",
+      "text": "The  use  of  single  gases,  i.e.  nitrogen  and  carbon  dioxide,  was  applied  to  characterize  the  permeability of  the  membrane  cartridge  for  the  individual  gases  in  dependence  on  partial  pressure  difference  of  given component between feed and permeate stream. The results are plotted in Figure 2. The CO2 flowrate from feed to permeate stream was firmly linearly proportional to the given component's partial pressure difference between feed and permeate stream. Similar trends were reported by Choi et al. (2013). It was determined that the  maximum  CO2  permeance  of  32.09  GPU  was  an  order  of  magnitude  higher  than  the  maximum  N2 permeance being 1.15 GPU. Based on these values, the ideal selectivity of the given module was calculated as:"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.104,
+            "t": 216.92886291015634,
+            "r": 527.0219999999999,
+            "b": 161.61170131837196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "\ud835\udefc\ud835\udc36\ud835\udc422 /\ud835\udc412 = \ud835\udc43\ud835\udc36\ud835\udc422 \ud835\udc59 \ud835\udc43 \ud835\udc41 2 \ud835\udc59 = 32.09 1.15 = 28 (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.10399999999998,
+            "t": 144.42198291015632,
+            "r": 527.0219999999999,
+            "b": 107.358173765027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            343
+          ]
+        }
+      ],
+      "orig": "The ideal selectivity \ud835\udefc \ud835\udc36\ud835\udc422 /\ud835\udc412 is equal to 43 GPU for polyimide and to 20 GPU for polyetherimide (\u0160\u00edpek, 2014). From this follows that the ideal selectivity \ud835\udefc \ud835\udc36\ud835\udc422 /\ud835\udc412 of  the  tested  module  being  28  GPU is  realistic  regarding the given selectivities of its material composition and its process behaviour are closer to the polyetherimide",
+      "text": "The ideal selectivity \ud835\udefc \ud835\udc36\ud835\udc422 /\ud835\udc412 is equal to 43 GPU for polyimide and to 20 GPU for polyetherimide (\u0160\u00edpek, 2014). From this follows that the ideal selectivity \ud835\udefc \ud835\udc36\ud835\udc422 /\ud835\udc412 of  the  tested  module  being  28  GPU is  realistic  regarding the given selectivities of its material composition and its process behaviour are closer to the polyetherimide"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.0396729,
+            "t": 775.6309160101563,
+            "r": 102.8316729,
+            "b": 768.0524189922636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1078",
+      "text": "1078"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.10399999999993,
+            "t": 754.9839829101562,
+            "r": 527.0040099999997,
+            "b": 735.058173765027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "matrix. Finally, the comparison of its parameters with other membrane modules is plotted in Figure 3, being at the upper bound as defined by Robeson (2008).",
+      "text": "matrix. Finally, the comparison of its parameters with other membrane modules is plotted in Figure 3, being at the upper bound as defined by Robeson (2008)."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.104,
+            "t": 474.02198291015634,
+            "r": 483.4420110000002,
+            "b": 465.96410887700716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Figure 3: The implementation of the experimental results to the Robeson diagram (Robeson, 2008).",
+      "text": "Figure 3: The implementation of the experimental results to the Robeson diagram (Robeson, 2008)."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.104,
+            "t": 246.6919829101563,
+            "r": 526.9479970000001,
+            "b": 227.2341088770071,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "Figure 4: CO2 concentration in permeate in dependence on stage cut \u03b8CO2 and feed flowrate m F  (the lines represent only the trend) at constant permeate pressure of 2 bar(a).",
+      "text": "Figure 4: CO2 concentration in permeate in dependence on stage cut \u03b8CO2 and feed flowrate m F  (the lines represent only the trend) at constant permeate pressure of 2 bar(a)."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.10400000000004,
+            "t": 211.66398291015628,
+            "r": 527.0310130000001,
+            "b": 89.358173765027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1221
+          ]
+        }
+      ],
+      "orig": "The dependence of CO2 concentration on stage cut is expressed in Figure 4. CO2 concentration in permeate is increasing with the increase in stage cut and feed flowrate. Nevertheless, the maximum concentration of 38 % vol. of CO2 was reached for the stage cut is higher than 0.4 at a feed flow rate of 200 g h -1 . This effect was caused by mass transfer limitations given by process parameters and available mass transfer surface. E.g. Liu et al. (2020) regarded the same trends due to the influence of concentration polarization. Figure 5 depicts the dependence of individual separation factors on the permeability of CO2. It is evident that the separation factor decreases with an increase in CO2 permeability and feed flowrate. The maximum separation factor SF(CO2/N2) of 6.9 was reached at CO2 permeability of 478 barrer. Nevertheless, the separation factor SF(CO2/O2) evinces shallow  values.  Its  maximum  value  of  1.8  was  reached  at  CO2  permeability  of  478  barrer.  The  presented experimental data are following the findings served by Brunetti et al. (2020). The team also reported moderate selectivities CO2/N2 = 8.7 at permeability close to 1000 barrer for CO2 removal from model flue gas using poly-",
+      "text": "The dependence of CO2 concentration on stage cut is expressed in Figure 4. CO2 concentration in permeate is increasing with the increase in stage cut and feed flowrate. Nevertheless, the maximum concentration of 38 % vol. of CO2 was reached for the stage cut is higher than 0.4 at a feed flow rate of 200 g h -1 . This effect was caused by mass transfer limitations given by process parameters and available mass transfer surface. E.g. Liu et al. (2020) regarded the same trends due to the influence of concentration polarization. Figure 5 depicts the dependence of individual separation factors on the permeability of CO2. It is evident that the separation factor decreases with an increase in CO2 permeability and feed flowrate. The maximum separation factor SF(CO2/N2) of 6.9 was reached at CO2 permeability of 478 barrer. Nevertheless, the separation factor SF(CO2/O2) evinces shallow  values.  Its  maximum  value  of  1.8  was  reached  at  CO2  permeability  of  478  barrer.  The  presented experimental data are following the findings served by Brunetti et al. (2020). The team also reported moderate selectivities CO2/N2 = 8.7 at permeability close to 1000 barrer for CO2 removal from model flue gas using poly-"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 505.5227661,
+            "t": 775.6309160101563,
+            "r": 523.3147661,
+            "b": 768.0524189922636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1079",
+      "text": "1079"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 85.104,
+            "t": 754.9839829101562,
+            "r": 527.0280029999999,
+            "b": 723.7781737650271,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            228
+          ]
+        }
+      ],
+      "orig": "decyl methylsiloxane composite membrane. Regarding the presented experimental data, the authors finally stated that the tested module is efficient to separate CO2 from N2, but there is very low selectivity for CO2 to O2 mixture.",
+      "text": "decyl methylsiloxane composite membrane. Regarding the presented experimental data, the authors finally stated that the tested module is efficient to separate CO2 from N2, but there is very low selectivity for CO2 to O2 mixture."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 85.10399999999998,
+            "t": 258.0919829101563,
+            "r": 526.8789969999999,
+            "b": 238.75410887700707,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "Figure 5: Separation factor SF (CO2/O2) and SF (CO2/N2) in dependence of CO2 permeability and feed flowrate m F (the lines represent only the trend).",
+      "text": "Figure 5: Separation factor SF (CO2/O2) and SF (CO2/N2) in dependence of CO2 permeability and feed flowrate m F (the lines represent only the trend)."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 85.10399999999993,
+            "t": 223.18398291015626,
+            "r": 527.0219999999999,
+            "b": 100.7581737650271,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1161
+          ]
+        }
+      ],
+      "orig": "The  summarization  of  the  most  important  experimental  results  is  overviewed  in  Table  1.  The  separation of  the  gas  mixture  achieves  significantly  worse  parameters than in testing, which would take place only on pure gases. Experimentally identified CO2 permeance for model flue gas is more than two times lower than the permeance of single pure gas. The same behaviour is also evident for selectivity. The achieved separation factor is approximately four times smaller than the achieved ideal selectivity. It is evident that there is a mutual interaction among individual gas components resulting in lower permeances and separation factors in the gas mixture than single gases. E.g. Liang et al. (2017) reported the mutual effect of individual gas components on separation  factor  and  presented  separation  factor  CO2/N2  =  11.1.  Choi  et  al.  (2013)  found  that  the  gas component from the gas mixture was lower than the pure component's ideal selectivity. Thus, it is a practical example of the interaction of components as they pass through the membrane, as pointed out by Robeson (2008), Choi et al. (2013) or He and Wang (2018).",
+      "text": "The  summarization  of  the  most  important  experimental  results  is  overviewed  in  Table  1.  The  separation of  the  gas  mixture  achieves  significantly  worse  parameters than in testing, which would take place only on pure gases. Experimentally identified CO2 permeance for model flue gas is more than two times lower than the permeance of single pure gas. The same behaviour is also evident for selectivity. The achieved separation factor is approximately four times smaller than the achieved ideal selectivity. It is evident that there is a mutual interaction among individual gas components resulting in lower permeances and separation factors in the gas mixture than single gases. E.g. Liang et al. (2017) reported the mutual effect of individual gas components on separation  factor  and  presented  separation  factor  CO2/N2  =  11.1.  Choi  et  al.  (2013)  found  that  the  gas component from the gas mixture was lower than the pure component's ideal selectivity. Thus, it is a practical example of the interaction of components as they pass through the membrane, as pointed out by Robeson (2008), Choi et al. (2013) or He and Wang (2018)."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.0396729,
+            "t": 775.7269160101563,
+            "r": 102.8316729,
+            "b": 768.5643613140237,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1080",
+      "text": "1080"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.104,
+            "t": 753.7719829101563,
+            "r": 498.46000300000003,
+            "b": 745.7141088770071,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "Table 1: The overview of characteristics for the given membrane module at process temperature 30 \u00b0C.",
+      "text": "Table 1: The overview of characteristics for the given membrane module at process temperature 30 \u00b0C."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.104,
+            "t": 580.3419829101563,
+            "r": 200.26099999999994,
+            "b": 571.708173765027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "* referenced by \u0160\u00edpek (2014)",
+      "text": "* referenced by \u0160\u00edpek (2014)"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10399999999998,
+            "t": 556.6813429101562,
+            "r": 156.12365975999992,
+            "b": 546.9160031852053,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "4. Conclusions",
+      "text": "4. Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10399999999993,
+            "t": 539.3139829101563,
+            "r": 526.9950130000001,
+            "b": 462.5081737650272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            749
+          ]
+        }
+      ],
+      "orig": "The experimental identification of process characteristics was carried out for the given membrane module and model tertiary gas mixture that corresponded with its composition to the LPG-fired power plant. It was found that the separation factor may not reach the ideal selectivity. When separating the modelled flue gases, the value of the separation factor CO2/N2 was almost 7. The decrease of the separation factor CO2/N2 compared to the ideal selectivity (CO2/N2 is approximately four times. The separation factor CO2/O2 is deficient; its value is  between  1  and  2.  The  CO2  permeation  of  the  module  decreased  two  to  three  times  in  the  case  of  the separation of the gas mixture compared to the separation of pure carbon dioxide.",
+      "text": "The experimental identification of process characteristics was carried out for the given membrane module and model tertiary gas mixture that corresponded with its composition to the LPG-fired power plant. It was found that the separation factor may not reach the ideal selectivity. When separating the modelled flue gases, the value of the separation factor CO2/N2 was almost 7. The decrease of the separation factor CO2/N2 compared to the ideal selectivity (CO2/N2 is approximately four times. The separation factor CO2/O2 is deficient; its value is  between  1  and  2.  The  CO2  permeation  of  the  module  decreased  two  to  three  times  in  the  case  of  the separation of the gas mixture compared to the separation of pure carbon dioxide."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10400000000006,
+            "t": 449.77398291015646,
+            "r": 172.23200100000005,
+            "b": 440.94988074905626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Acknowledgements",
+      "text": "Acknowledgements",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10400000000006,
+            "t": 431.77398291015646,
+            "r": 526.4010000000004,
+            "b": 411.84817376502724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "This work was supported by Ministry of Education, Youth and Sports of the Czech Republic under OP RDE grant number CZ.02.1.01/0.0/0.0/16_019/0000753 \"Research centre for low-carbon energy technologies\".",
+      "text": "This work was supported by Ministry of Education, Youth and Sports of the Czech Republic under OP RDE grant number CZ.02.1.01/0.0/0.0/16_019/0000753 \"Research centre for low-carbon energy technologies\"."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10400000000006,
+            "t": 399.1339829101565,
+            "r": 136.20200400000007,
+            "b": 390.3098807490563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10400000000006,
+            "t": 382.6939829101565,
+            "r": 526.667004,
+            "b": 362.76817376502726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "Ayadani A., Brunetti A., Maghsoudi H., Barbieri G., 2021, CO2 separation from binary mixtures of CH4, N2 and H2 by using SSZ-13 zeolite membrane, Separation and Purification Technology, 256, 117796-117804.",
+      "text": "Ayadani A., Brunetti A., Maghsoudi H., Barbieri G., 2021, CO2 separation from binary mixtures of CH4, N2 and H2 by using SSZ-13 zeolite membrane, Separation and Purification Technology, 256, 117796-117804.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10400000000006,
+            "t": 359.8939829101565,
+            "r": 527.0009970000001,
+            "b": 328.56817376502727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            280
+          ]
+        }
+      ],
+      "orig": "Boulmal  N.,  Rivera-Tinoco  R.,  Bouallou  C.,  2017,  Lipophilic  amine  aqueous  solutions  for  CO2  capture: comparison  of  absorption  rates  for  hexylamine  (hxa),  dimethylcyclohexylamine  (dmca)  and  hxa-dmca mixtures, Chemical Engineering Transactions, 61, 1201-1207.",
+      "text": "Boulmal  N.,  Rivera-Tinoco  R.,  Bouallou  C.,  2017,  Lipophilic  amine  aqueous  solutions  for  CO2  capture: comparison  of  absorption  rates  for  hexylamine  (hxa),  dimethylcyclohexylamine  (dmca)  and  hxa-dmca mixtures, Chemical Engineering Transactions, 61, 1201-1207.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10400000000006,
+            "t": 325.6939829101566,
+            "r": 526.9210020000004,
+            "b": 294.36817376502745,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "Brunetti A., Zito P.F., Borisov I., Grushevenko E., Volkov V., Volkov A., Barbieri G., 2020, CO2 separation from  humidified  ternary  gas  mixtures  using  a  polydeclymethylsiloxane  composite  membrane,  Fuel Processing Technology, 210, 106550-106559.",
+      "text": "Brunetti A., Zito P.F., Borisov I., Grushevenko E., Volkov V., Volkov A., Barbieri G., 2020, CO2 separation from  humidified  ternary  gas  mixtures  using  a  polydeclymethylsiloxane  composite  membrane,  Fuel Processing Technology, 210, 106550-106559.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10400000000006,
+            "t": 291.5839829101567,
+            "r": 527.0250060000002,
+            "b": 271.6581737650274,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "Choi S.H., Kim J.H., Lee Y., 2013, Pilot-scale multi-stage membrane process for the separation of CO2 from LNG-fired flue gas, Separation and Purification Technology, 110, 170-180.",
+      "text": "Choi S.H., Kim J.H., Lee Y., 2013, Pilot-scale multi-stage membrane process for the separation of CO2 from LNG-fired flue gas, Separation and Purification Technology, 110, 170-180.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10400000000006,
+            "t": 268.78398291015674,
+            "r": 526.3380000000001,
+            "b": 248.85817376502746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "He Z., Wang K., 2018, The ideal selectivity vs true selectivity for permeation of gas mixture in nanoporous membranes, IOP Conference Series: Materials Science and Engineering, 323, 1757-8981.",
+      "text": "He Z., Wang K., 2018, The ideal selectivity vs true selectivity for permeation of gas mixture in nanoporous membranes, IOP Conference Series: Materials Science and Engineering, 323, 1757-8981.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10400000000006,
+            "t": 245.98398291015667,
+            "r": 526.3560000000006,
+            "b": 226.0581737650274,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "Lee S., Choi J.W., Lee S.H., 2015, separation of greenhouse gases (SF6, CF4 and CO2) in an industrial flue gas using pilot scale membrane, Separation and Purification Technology, 148, 15-24.",
+      "text": "Lee S., Choi J.W., Lee S.H., 2015, separation of greenhouse gases (SF6, CF4 and CO2) in an industrial flue gas using pilot scale membrane, Separation and Purification Technology, 148, 15-24.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10400000000006,
+            "t": 223.1839829101566,
+            "r": 526.705002,
+            "b": 203.37817376502744,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "Liang C.Z., Yong W.F., Chung T.S., 2017, High-performance composite hollow fibre membrane for flue gas and air separations, Journal of Membrane Science, 541, 367-377.",
+      "text": "Liang C.Z., Yong W.F., Chung T.S., 2017, High-performance composite hollow fibre membrane for flue gas and air separations, Journal of Membrane Science, 541, 367-377.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.1040000000001,
+            "t": 200.50398291015665,
+            "r": 526.8279960000003,
+            "b": 180.57817376502737,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "Liu B., Tang C., Li X., Wang B., Zhou R., 2020, High-performance SAPO-34 membranes for CO2 separations from simulated flue gas, Microporous and Mesorporous Materials, 292, 109712-109722.",
+      "text": "Liu B., Tang C., Li X., Wang B., Zhou R., 2020, High-performance SAPO-34 membranes for CO2 separations from simulated flue gas, Microporous and Mesorporous Materials, 292, 109712-109722.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.1040000000001,
+            "t": 177.70398291015658,
+            "r": 463.4020000000001,
+            "b": 169.1781737650274,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "Robeson L.M., 2008, The upper bound revisited, Journal of Membrane Science, 320, 390-400.",
+      "text": "Robeson L.M., 2008, The upper bound revisited, Journal of Membrane Science, 320, 390-400."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.1040000000001,
+            "t": 166.41198291015667,
+            "r": 520.9920000000003,
+            "b": 158.33962931899646,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "\u0160\u00edpek M. (Ed), 2014, Membr\u00e1nov\u00e9 d\u011blen\u00ed plyn\u016f a par. University of Chemistry and Technology in Prague, CZ.",
+      "text": "\u0160\u00edpek M. (Ed), 2014, Membr\u00e1nov\u00e9 d\u011blen\u00ed plyn\u016f a par. University of Chemistry and Technology in Prague, CZ."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.1040000000001,
+            "t": 154.90398291015663,
+            "r": 526.4749980000003,
+            "b": 134.97817376502735,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "Song Ch., Liu Q., Deng S., Li H., Kitamura Y., 2019, Cryogenic based CO2 capture technologies: State of the art developments and current challenges, Renewable and Sustainable Energy Reviews, 101, 265-278.",
+      "text": "Song Ch., Liu Q., Deng S., Li H., Kitamura Y., 2019, Cryogenic based CO2 capture technologies: State of the art developments and current challenges, Renewable and Sustainable Energy Reviews, 101, 265-278.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.1040000000001,
+            "t": 132.19198291015664,
+            "r": 526.8130000000001,
+            "b": 112.27817376502742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "Torstensen  J.\u0424.,  Helberg  R.M.L.,  Deng  L.,  Gregersen  \u0424.W.,  2019,  PVA/nanocellulose  nanocomposite membranes for CO2 separation from flue gas, International Journal of GHG Control, 81, 93-102.",
+      "text": "Torstensen  J.\u0424.,  Helberg  R.M.L.,  Deng  L.,  Gregersen  \u0424.W.,  2019,  PVA/nanocellulose  nanocomposite membranes for CO2 separation from flue gas, International Journal of GHG Control, 81, 93-102.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 85.10400000000004,
+            "t": 109.40398291015663,
+            "r": 526.4640000000002,
+            "b": 89.47817376502735,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "Xu J., Wu H., Wang Z., Qiao Z., Zhao S., Wang J., 2018, Recent advances on the membrane processes for CO2 separation, Chinese Journal of Chemical Engineering, 26, 2280-2291.",
+      "text": "Xu J., Wu H., Wang Z., Qiao Z., Zhao S., Wang J., 2018, Recent advances on the membrane processes for CO2 separation, Chinese Journal of Chemical Engineering, 26, 2280-2291.",
+      "enumerated": false,
+      "marker": ""
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 83.66520690917969,
+            "t": 757.8416137695312,
+            "r": 388.2353820800781,
+            "b": 726.0180053710938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 437.84698486328125,
+            "t": 757.9508514404297,
+            "r": 525.3723754882812,
+            "b": 686.6587066650391,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 83.91656494140625,
+            "t": 461.48553466796875,
+            "r": 437.1134948730469,
+            "b": 316.7357177734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 88.51982116699219,
+            "t": 590.3178863525391,
+            "r": 450.8095703125,
+            "b": 371.1971435546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 92.36128997802734,
+            "t": 717.4214172363281,
+            "r": 329.1720275878906,
+            "b": 494.7909851074219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 86.2899169921875,
+            "t": 452.1960754394531,
+            "r": 393.71417236328125,
+            "b": 257.43939208984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 88.73888397216797,
+            "t": 709.9567413330078,
+            "r": 422.59259033203125,
+            "b": 274.139892578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 78.36799621582031,
+            "t": 741.9292678833008,
+            "r": 519.1505737304688,
+            "b": 582.0006713867188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "references": [],
+      "footnotes": [
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 162.89,
+              "t": 104.57600000000002,
+              "r": 219.746,
+              "b": 123.30180914512914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "flue gas m F = 100 g h -1",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 304.51,
+              "t": 104.57600000000002,
+              "r": 347.6380000000001,
+              "b": 133.7418091451292,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "single gas membrane module",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 231.41,
+              "t": 113.92399999999986,
+              "r": 288.286,
+              "b": 123.30180914512914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "m F = 200 g h -1",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 377.71,
+              "t": 114.89599999999996,
+              "r": 434.881,
+              "b": 133.7418091451292,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "pure polyetherimid*",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 450.82,
+              "t": 114.89599999999996,
+              "r": 492.501,
+              "b": 133.7418091451292,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "pure polyimide*",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 85.104,
+              "t": 136.01599999999996,
+              "r": 130.172,
+              "b": 144.54180914512915,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "permeance",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 85.104,
+              "t": 146.45600000000002,
+              "r": 130.172,
+              "b": 165.30180914512914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "CO 2 (GPU) permeance",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 162.89,
+              "t": 136.01599999999996,
+              "r": 180.46699999999998,
+              "b": 144.54180914512915,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "13.1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 231.41,
+              "t": 136.01599999999996,
+              "r": 249.01399999999998,
+              "b": 144.54180914512915,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "13.8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 304.51,
+              "t": 136.01599999999996,
+              "r": 322.07800000000003,
+              "b": 144.54180914512915,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "32.1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 377.71,
+              "t": 136.01599999999996,
+              "r": 395.344,
+              "b": 144.54180914512915,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "52.5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 450.82,
+              "t": 136.01599999999996,
+              "r": 473.464,
+              "b": 144.54180914512915,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "735.0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 85.104,
+              "t": 167.096,
+              "r": 130.172,
+              "b": 196.38180914512918,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "N 2 (GPU) permeance O 2 (GPU)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 162.89,
+              "t": 156.77599999999995,
+              "r": 175.42699999999996,
+              "b": 165.30180914512914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2.1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 231.41,
+              "t": 156.77599999999995,
+              "r": 243.94699999999997,
+              "b": 165.30180914512914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "2.8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 304.51,
+              "t": 156.77599999999995,
+              "r": 317.047,
+              "b": 165.30180914512914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "1.2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 377.71,
+              "t": 156.77599999999995,
+              "r": 422.269,
+              "b": 165.30180914512914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "not defined",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 450.82,
+              "t": 156.77599999999995,
+              "r": 495.379,
+              "b": 165.30180914512914,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "not defined",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 162.89,
+              "t": 177.41600000000005,
+              "r": 175.42699999999996,
+              "b": 185.94180914512924,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "5.3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 231.41,
+              "t": 177.41600000000005,
+              "r": 243.94699999999997,
+              "b": 185.94180914512924,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "5.9",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 304.51,
+              "t": 177.41600000000005,
+              "r": 355.59400000000005,
+              "b": 185.94180914512924,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "not analyzed",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 377.71,
+              "t": 177.41600000000005,
+              "r": 422.269,
+              "b": 185.94180914512924,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "not defined",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 450.82,
+              "t": 177.41600000000005,
+              "r": 495.379,
+              "b": 185.94180914512924,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "not defined",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 85.104,
+              "t": 198.17600000000004,
+              "r": 152.03400000000005,
+              "b": 206.70180914512923,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "ideal selectivity",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 85.104,
+              "t": 208.49599999999998,
+              "r": 127.14900000000003,
+              "b": 227.34180914512922,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "CO 2 /N 2 (-) separation",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 162.89,
+              "t": 198.17600000000004,
+              "r": 207.4489999999999,
+              "b": 206.70180914512923,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "not defined",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 231.41,
+              "t": 198.17600000000004,
+              "r": 275.96899999999994,
+              "b": 206.70180914512923,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "not defined",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 304.51,
+              "t": 198.17600000000004,
+              "r": 322.11400000000003,
+              "b": 206.70180914512923,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "28.0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 377.71,
+              "t": 198.17600000000004,
+              "r": 395.344,
+              "b": 206.70180914512923,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "20.0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 450.82,
+              "t": 198.17600000000004,
+              "r": 468.42400000000004,
+              "b": 206.70180914512923,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "43.0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 85.104,
+              "t": 229.25599999999997,
+              "r": 151.33700000000002,
+              "b": 258.45180914512923,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "factor CO 2 /N 2 (-) separation factor CO 2 /O 2 (-)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 162.89,
+              "t": 218.81600000000003,
+              "r": 175.45399999999998,
+              "b": 227.34180914512922,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "6.6",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 231.41,
+              "t": 218.81600000000003,
+              "r": 243.94699999999997,
+              "b": 227.34180914512922,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "6.9",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 304.51,
+              "t": 218.81600000000003,
+              "r": 349.069,
+              "b": 227.34180914512922,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "not defined",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 377.71,
+              "t": 218.81600000000003,
+              "r": 422.269,
+              "b": 227.34180914512922,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "not defined",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 450.82,
+              "t": 218.81600000000003,
+              "r": 495.379,
+              "b": 227.34180914512922,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "not defined",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 162.89,
+              "t": 239.606,
+              "r": 175.42699999999996,
+              "b": 248.13180914512918,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1.5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 231.41,
+              "t": 239.606,
+              "r": 243.94699999999997,
+              "b": 248.13180914512918,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1.8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 304.51,
+              "t": 239.606,
+              "r": 349.069,
+              "b": 248.13180914512918,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "not defined",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 377.71,
+              "t": 239.606,
+              "r": 422.269,
+              "b": 248.13180914512918,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "not defined",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 450.82,
+              "t": 239.606,
+              "r": 495.379,
+              "b": 248.13180914512918,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "not defined",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 7,
+        "num_cols": 6,
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.89,
+                "t": 104.57600000000002,
+                "r": 219.746,
+                "b": 123.30180914512914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "flue gas m F = 100 g h -1",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 231.41,
+                "t": 113.92399999999986,
+                "r": 288.286,
+                "b": 123.30180914512914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "m F = 200 g h -1",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 304.51,
+                "t": 104.57600000000002,
+                "r": 347.6380000000001,
+                "b": 133.7418091451292,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "single gas membrane module",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 377.71,
+                "t": 114.89599999999996,
+                "r": 434.881,
+                "b": 133.7418091451292,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "pure polyetherimid*",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 450.82,
+                "t": 114.89599999999996,
+                "r": 492.501,
+                "b": 133.7418091451292,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "pure polyimide*",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 85.104,
+                "t": 136.01599999999996,
+                "r": 130.172,
+                "b": 144.54180914512915,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "permeance",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.89,
+                "t": 136.01599999999996,
+                "r": 180.46699999999998,
+                "b": 144.54180914512915,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "13.1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 231.41,
+                "t": 136.01599999999996,
+                "r": 249.01399999999998,
+                "b": 144.54180914512915,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "13.8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 304.51,
+                "t": 136.01599999999996,
+                "r": 322.07800000000003,
+                "b": 144.54180914512915,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "32.1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 377.71,
+                "t": 136.01599999999996,
+                "r": 395.344,
+                "b": 144.54180914512915,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "52.5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 450.82,
+                "t": 136.01599999999996,
+                "r": 473.464,
+                "b": 144.54180914512915,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "735.0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 85.104,
+                "t": 146.45600000000002,
+                "r": 130.172,
+                "b": 165.30180914512914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "CO 2 (GPU) permeance",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.89,
+                "t": 156.77599999999995,
+                "r": 175.42699999999996,
+                "b": 165.30180914512914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2.1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 231.41,
+                "t": 156.77599999999995,
+                "r": 243.94699999999997,
+                "b": 165.30180914512914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "2.8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 304.51,
+                "t": 156.77599999999995,
+                "r": 317.047,
+                "b": 165.30180914512914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "1.2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 377.71,
+                "t": 156.77599999999995,
+                "r": 422.269,
+                "b": 165.30180914512914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "not defined",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 450.82,
+                "t": 156.77599999999995,
+                "r": 495.379,
+                "b": 165.30180914512914,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "not defined",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 85.104,
+                "t": 167.096,
+                "r": 130.172,
+                "b": 196.38180914512918,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "N 2 (GPU) permeance O 2 (GPU)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.89,
+                "t": 177.41600000000005,
+                "r": 175.42699999999996,
+                "b": 185.94180914512924,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "5.3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 231.41,
+                "t": 177.41600000000005,
+                "r": 243.94699999999997,
+                "b": 185.94180914512924,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "5.9",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 304.51,
+                "t": 177.41600000000005,
+                "r": 355.59400000000005,
+                "b": 185.94180914512924,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "not analyzed",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 377.71,
+                "t": 177.41600000000005,
+                "r": 422.269,
+                "b": 185.94180914512924,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "not defined",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 450.82,
+                "t": 177.41600000000005,
+                "r": 495.379,
+                "b": 185.94180914512924,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "not defined",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 85.104,
+                "t": 198.17600000000004,
+                "r": 152.03400000000005,
+                "b": 206.70180914512923,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "ideal selectivity",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.89,
+                "t": 198.17600000000004,
+                "r": 207.4489999999999,
+                "b": 206.70180914512923,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "not defined",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 231.41,
+                "t": 198.17600000000004,
+                "r": 275.96899999999994,
+                "b": 206.70180914512923,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "not defined",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 304.51,
+                "t": 198.17600000000004,
+                "r": 322.11400000000003,
+                "b": 206.70180914512923,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "28.0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 377.71,
+                "t": 198.17600000000004,
+                "r": 395.344,
+                "b": 206.70180914512923,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "20.0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 450.82,
+                "t": 198.17600000000004,
+                "r": 468.42400000000004,
+                "b": 206.70180914512923,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "43.0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 85.104,
+                "t": 208.49599999999998,
+                "r": 127.14900000000003,
+                "b": 227.34180914512922,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "CO 2 /N 2 (-) separation",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.89,
+                "t": 218.81600000000003,
+                "r": 175.45399999999998,
+                "b": 227.34180914512922,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "6.6",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 231.41,
+                "t": 218.81600000000003,
+                "r": 243.94699999999997,
+                "b": 227.34180914512922,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "6.9",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 304.51,
+                "t": 218.81600000000003,
+                "r": 349.069,
+                "b": 227.34180914512922,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "not defined",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 377.71,
+                "t": 218.81600000000003,
+                "r": 422.269,
+                "b": 227.34180914512922,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "not defined",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 450.82,
+                "t": 218.81600000000003,
+                "r": 495.379,
+                "b": 227.34180914512922,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "not defined",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 85.104,
+                "t": 229.25599999999997,
+                "r": 151.33700000000002,
+                "b": 258.45180914512923,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "factor CO 2 /N 2 (-) separation factor CO 2 /O 2 (-)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 162.89,
+                "t": 239.606,
+                "r": 175.42699999999996,
+                "b": 248.13180914512918,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1.5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 231.41,
+                "t": 239.606,
+                "r": 243.94699999999997,
+                "b": 248.13180914512918,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1.8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 304.51,
+                "t": 239.606,
+                "r": 349.069,
+                "b": 248.13180914512918,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "not defined",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 377.71,
+                "t": 239.606,
+                "r": 422.269,
+                "b": 248.13180914512918,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "not defined",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 450.82,
+                "t": 239.606,
+                "r": 495.379,
+                "b": 248.13180914512918,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "not defined",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 6
+    }
+  }
+}

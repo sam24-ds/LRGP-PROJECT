@@ -1,0 +1,2161 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "membranova-technologie-pro-vyrobu-biometanu-z-biop",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4298999333192492993,
+    "filename": "membranova-technologie-pro-vyrobu-biometanu-z-biop.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/pictures/5"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 122.66,
+            "t": 757.5269029101563,
+            "r": 478.0606400000002,
+            "b": 713.8558810919745,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Membr\u00e1nov\u00e1 technologie pro v\u00fdrobu biometanu z bioplynu",
+      "text": "Membr\u00e1nov\u00e1 technologie pro v\u00fdrobu biometanu z bioplynu",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.944,
+            "t": 703.5039829101563,
+            "r": 239.69,
+            "b": 693.4105283647017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Pro\u010d zav\u00e1d\u011bt novou technologii?",
+      "text": "Pro\u010d zav\u00e1d\u011bt novou technologii?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 688.0959829101563,
+            "r": 516.7,
+            "b": 677.7639829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "\u00b7 Mo\u017enost nav\u00fd\u0161en\u00ed v\u00fdkonu bioplynov\u00e9 stanice pro v\u00fdrobu nov\u00e9ho produktu biometanu",
+      "text": "Mo\u017enost nav\u00fd\u0161en\u00ed v\u00fdkonu bioplynov\u00e9 stanice pro v\u00fdrobu nov\u00e9ho produktu biometanu",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 672.1359829101564,
+            "r": 527.1719999999998,
+            "b": 645.9639829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "\u00b7 Biometan  (bioCNG)  je  mo\u017en\u00e9  vyu\u017e\u00edt  pro  automobily  jako  n\u00e1hradu  konven\u010dn\u00edch pohonn\u00fdch hmot nebo pro plynov\u00e9 kotle jako n\u00e1hradu zemn\u00edho plynu",
+      "text": "Biometan  (bioCNG)  je  mo\u017en\u00e9  vyu\u017e\u00edt  pro  automobily  jako  n\u00e1hradu  konven\u010dn\u00edch pohonn\u00fdch hmot nebo pro plynov\u00e9 kotle jako n\u00e1hradu zemn\u00edho plynu",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.944,
+            "t": 634.0239829101563,
+            "r": 234.89,
+            "b": 623.9305283647017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "V\u00fdhody membr\u00e1nov\u00e9 separace",
+      "text": "V\u00fdhody membr\u00e1nov\u00e9 separace",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 618.6159829101563,
+            "r": 483.22,
+            "b": 608.2839829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "\u00b7 Mo\u017enost instalace membr\u00e1nov\u00e9 technologie do st\u00e1vaj\u00edc\u00edch bioplynov\u00fdch stanic",
+      "text": "Mo\u017enost instalace membr\u00e1nov\u00e9 technologie do st\u00e1vaj\u00edc\u00edch bioplynov\u00fdch stanic",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 602.7759829101564,
+            "r": 296.33,
+            "b": 592.4439829101564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "\u00b7 Kvalita produktu: biometan > 95 % CH4",
+      "text": "Kvalita produktu: biometan > 95 % CH4",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 586.9359829101563,
+            "r": 507.58,
+            "b": 576.6039829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "\u00b7 Princip membr\u00e1nov\u00e9 separace nevy\u017eaduje p\u0159\u00eddavn\u00e9 chemik\u00e1lie a negeneruje odpady",
+      "text": "Princip membr\u00e1nov\u00e9 separace nevy\u017eaduje p\u0159\u00eddavn\u00e9 chemik\u00e1lie a negeneruje odpady",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 570.9759829101563,
+            "r": 263.33,
+            "b": 560.6439829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "\u00b7 Minim\u00e1ln\u00ed po\u017eadavky na obsluhu",
+      "text": "Minim\u00e1ln\u00ed po\u017eadavky na obsluhu",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 555.1059829101563,
+            "r": 445.63,
+            "b": 544.7739829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "\u00b7 N\u00edzk\u00e1 energetick\u00e1 n\u00e1ro\u010dnost ve srovn\u00e1n\u00ed s konven\u010dn\u00edmi technologiemi",
+      "text": "N\u00edzk\u00e1 energetick\u00e1 n\u00e1ro\u010dnost ve srovn\u00e1n\u00ed s konven\u010dn\u00edmi technologiemi",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 539.2659829101564,
+            "r": 375.91,
+            "b": 528.9339829101564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "\u00b7 Membr\u00e1nov\u00e1 technologie pracuje v kontinu\u00e1ln\u00edm re\u017eimu",
+      "text": "Membr\u00e1nov\u00e1 technologie pracuje v kontinu\u00e1ln\u00edm re\u017eimu",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 523.4259829101563,
+            "r": 295.25,
+            "b": 513.0939829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "\u00b7 Mo\u017enosti roz\u0161\u00ed\u0159en\u00ed kapacity technologie",
+      "text": "Mo\u017enosti roz\u0161\u00ed\u0159en\u00ed kapacity technologie",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 507.58598291015625,
+            "r": 211.61,
+            "b": 497.25398291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "\u00b7 Mal\u00e1 zastav\u011bn\u00e1 plocha",
+      "text": "Mal\u00e1 zastav\u011bn\u00e1 plocha",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 491.7459829101563,
+            "r": 446.23,
+            "b": 481.4139829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "\u00b7 Kontejnerov\u00e9 proveden\u00ed - bez nutnosti vy\u0159izov\u00e1n\u00ed stavebn\u00edho povolen\u00ed",
+      "text": "Kontejnerov\u00e9 proveden\u00ed - bez nutnosti vy\u0159izov\u00e1n\u00ed stavebn\u00edho povolen\u00ed",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 475.90598291015624,
+            "r": 244.61,
+            "b": 465.57398291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "\u00b7 Dod\u00e1vka technologie na m\u00edru",
+      "text": "Dod\u00e1vka technologie na m\u00edru",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 459.94598291015626,
+            "r": 286.97,
+            "b": 449.61398291015627,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "\u00b7 Variantn\u00ed vyu\u017eit\u00ed produktu biometanu",
+      "text": "Variantn\u00ed vyu\u017eit\u00ed produktu biometanu",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 444.1059829101563,
+            "r": 524.38,
+            "b": 433.7739829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "\u00b7 Mo\u017enost objedn\u00e1n\u00ed demonstra\u010dn\u00ed pilot\u00e1\u017ee technologie p\u0159ed realizac\u00ed vlastn\u00ed technologie",
+      "text": "Mo\u017enost objedn\u00e1n\u00ed demonstra\u010dn\u00ed pilot\u00e1\u017ee technologie p\u0159ed realizac\u00ed vlastn\u00ed technologie",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.944,
+            "t": 408.1539829101563,
+            "r": 176.9,
+            "b": 398.0605283647017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Nab\u00eddka MemBrain",
+      "text": "Nab\u00eddka MemBrain",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 388.6659829101563,
+            "r": 527.4219999999999,
+            "b": 362.4739829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "\u00b7 Dod\u00e1vka membr\u00e1nov\u00e9 technologie pro v\u00fdrobu biometanu z bioplynu na po\u017eadovanou kapacitu a kvalitu produktu",
+      "text": "Dod\u00e1vka membr\u00e1nov\u00e9 technologie pro v\u00fdrobu biometanu z bioplynu na po\u017eadovanou kapacitu a kvalitu produktu",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 356.96598291015624,
+            "r": 199.94,
+            "b": 346.63398291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "\u00b7 Start-up technologie",
+      "text": "Start-up technologie",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 341.12598291015627,
+            "r": 370.87,
+            "b": 330.7939829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "\u00b7 Monitoring technologie, garan\u010dn\u00ed a post-garan\u010dn\u00ed servis",
+      "text": "Monitoring technologie, garan\u010dn\u00ed a post-garan\u010dn\u00ed servis",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 325.28598291015624,
+            "r": 379.51,
+            "b": 314.95398291015636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "\u00b7 Demonstra\u010dn\u00ed pilot\u00e1\u017e technologie p\u0159ed realizac\u00ed dod\u00e1vky",
+      "text": "Demonstra\u010dn\u00ed pilot\u00e1\u017e technologie p\u0159ed realizac\u00ed dod\u00e1vky",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 309.4459829101563,
+            "r": 400.63,
+            "b": 299.1139829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "\u00b7 Zaji\u0161t\u011bn\u00ed pot\u0159ebn\u00e9 p\u0159ed\u00fapravy p\u0159ed membr\u00e1novou technologii",
+      "text": "Zaji\u0161t\u011bn\u00ed pot\u0159ebn\u00e9 p\u0159ed\u00fapravy p\u0159ed membr\u00e1novou technologii",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 85.104,
+            "t": 293.4859829101563,
+            "r": 303.89,
+            "b": 283.1539829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "\u00b7 Zpracov\u00e1n\u00ed technicko-ekonomick\u00e9 studie",
+      "text": "Zpracov\u00e1n\u00ed technicko-ekonomick\u00e9 studie",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.944,
+            "t": 99.93622291015629,
+            "r": 561.3100000000001,
+            "b": 79.94828836470174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "Pilotn\u00ed jednotka GSU V01-500/35                                Bioplynov\u00e1 stanice, kde byla v pilotn\u00edm m\u011b\u0159\u00edtku odzkou\u0161ena nov\u00e1 technologie",
+      "text": "Pilotn\u00ed jednotka GSU V01-500/35                                Bioplynov\u00e1 stanice, kde byla v pilotn\u00edm m\u011b\u0159\u00edtku odzkou\u0161ena nov\u00e1 technologie"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 81.384,
+            "t": 60.89998291015627,
+            "r": 518.11,
+            "b": 50.567982910156275,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "strana 1 z 2",
+      "text": "strana 1 z 2"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.744,
+            "t": 42.915702910156256,
+            "r": 241.94,
+            "b": 35.99326291015632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "www.membrain.cz, info.membrain@membrain.cz",
+      "text": "www.membrain.cz, info.membrain@membrain.cz"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.944,
+            "t": 384.1059829101563,
+            "r": 177.74,
+            "b": 373.7739829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "2. V\u00fdroba biometanu",
+      "text": "2. V\u00fdroba biometanu",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 367.1659829101563,
+            "r": 370.39,
+            "b": 356.8339829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "\u00b7 \u0158e\u0161en\u00ed pro nov\u00e9 BPS s \u00fapravou cel\u00e9 produkce bioplynu",
+      "text": "\u0158e\u0161en\u00ed pro nov\u00e9 BPS s \u00fapravou cel\u00e9 produkce bioplynu",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 351.32598291015626,
+            "r": 391.63,
+            "b": 340.99398291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "\u00b7 Z\u00e1kladn\u00ed sch\u00e9matick\u00e9 zobrazen\u00ed je uvedeno na obr\u00e1zku \u010d. 2",
+      "text": "Z\u00e1kladn\u00ed sch\u00e9matick\u00e9 zobrazen\u00ed je uvedeno na obr\u00e1zku \u010d. 2",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 335.4859829101563,
+            "r": 539.4699999999998,
+            "b": 309.31398291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "\u00b7 Kapacita  cca  125  Nm3/h  biometanu  (>  95  %  CH4),  mo\u017eno  modul\u00e1rn\u011b  \u0161k\u00e1lovat  dle po\u017eadavk\u016f",
+      "text": "Kapacita  cca  125  Nm3/h  biometanu  (>  95  %  CH4),  mo\u017eno  modul\u00e1rn\u011b  \u0161k\u00e1lovat  dle po\u017eadavk\u016f",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 303.8059829101562,
+            "r": 527.2459999999998,
+            "b": 277.6339829101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "\u00b7 Produkt  je  vtl\u00e1\u010den  do  s\u00edt\u011b  zemn\u00edho  plynu  -  VTL  nebo  STL  s\u00edt\u011b,  pop\u0159.  vyu\u017eit  jako bioCNG v doprav\u011b",
+      "text": "Produkt  je  vtl\u00e1\u010den  do  s\u00edt\u011b  zemn\u00edho  plynu  -  VTL  nebo  STL  s\u00edt\u011b,  pop\u0159.  vyu\u017eit  jako bioCNG v doprav\u011b",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.944,
+            "t": 256.2979829101563,
+            "r": 167.9,
+            "b": 245.9510738192472,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Obr\u00e1zek \u010d. 2",
+      "text": "Obr\u00e1zek \u010d. 2",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 485.86,
+            "t": 180.56226291015628,
+            "r": 552.15976,
+            "b": 160.4667029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "1. biometan do s\u00edt\u011b",
+      "text": "biometan do s\u00edt\u011b",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 485.86,
+            "t": 157.52226291015631,
+            "r": 543.7900000000001,
+            "b": 137.06670291015632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "2. bioCNG v doprav\u011b",
+      "text": "bioCNG v doprav\u011b",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 81.384,
+            "t": 60.89998291015627,
+            "r": 518.11,
+            "b": 50.567982910156275,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "strana 2 z 2",
+      "text": "strana 2 z 2"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.744,
+            "t": 42.915702910156256,
+            "r": 241.94,
+            "b": 35.99326291015632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "www.membrain.cz, info.membrain@membrain.cz",
+      "text": "www.membrain.cz, info.membrain@membrain.cz"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.944,
+            "t": 746.3439829101563,
+            "r": 491.74,
+            "b": 736.2505283647017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "VARIANTY UPLATN\u011aN\u00cd TECHNOLOGIE V BIOPLYNOV\u00ddCH STANIC\u00cdCH",
+      "text": "VARIANTY UPLATN\u011aN\u00cd TECHNOLOGIE V BIOPLYNOV\u00ddCH STANIC\u00cdCH",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.944,
+            "t": 726.9759829101563,
+            "r": 263.81,
+            "b": 716.6439829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "1. Kombinace s kogenera\u010dn\u00ed jednotkou",
+      "text": "1. Kombinace s kogenera\u010dn\u00ed jednotkou",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 710.0559829101563,
+            "r": 221.33,
+            "b": 699.7239829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "\u00b7 \u0158e\u0161en\u00ed pro st\u00e1vaj\u00edc\u00ed BPS",
+      "text": "\u0158e\u0161en\u00ed pro st\u00e1vaj\u00edc\u00ed BPS",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 694.2159829101563,
+            "r": 391.63,
+            "b": 683.8839829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "\u00b7 Z\u00e1kladn\u00ed sch\u00e9matick\u00e9 zobrazen\u00ed je uvedeno na obr\u00e1zku \u010d. 1",
+      "text": "Z\u00e1kladn\u00ed sch\u00e9matick\u00e9 zobrazen\u00ed je uvedeno na obr\u00e1zku \u010d. 1",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 678.3759829101563,
+            "r": 393.31,
+            "b": 668.0439829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "\u00b7 Recyklace odpadn\u00edho proudu (CO2) - \u017e\u00e1dn\u00e9 odpadn\u00ed proudy",
+      "text": "Recyklace odpadn\u00edho proudu (CO2) - \u017e\u00e1dn\u00e9 odpadn\u00ed proudy",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 662.5359829101563,
+            "r": 505.66,
+            "b": 652.2039829101564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "\u00b7 Kapacita a\u017e do cca 50 % produkce bioplynu (koncentrace CH4 v produktu  > 95 %)",
+      "text": "Kapacita a\u017e do cca 50 % produkce bioplynu (koncentrace CH4 v produktu  > 95 %)",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 646.6959829101563,
+            "r": 491.62,
+            "b": 636.3639829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "\u00b7 Vyu\u017e\u00edv\u00e1 existuj\u00edc\u00ed p\u0159ed\u00fapravy bioplynu (dodate\u010dn\u00e1 p\u0159ed\u00faprava je m\u00e9n\u011b n\u00e1ro\u010dn\u00e1)",
+      "text": "Vyu\u017e\u00edv\u00e1 existuj\u00edc\u00ed p\u0159ed\u00fapravy bioplynu (dodate\u010dn\u00e1 p\u0159ed\u00faprava je m\u00e9n\u011b n\u00e1ro\u010dn\u00e1)",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 85.104,
+            "t": 630.8559829101563,
+            "r": 527.196,
+            "b": 604.6839829101564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "\u00b7 Vyu\u017eit\u00ed pro zem\u011bd\u011blskou techniku i pro ve\u0159ejnou dopravu (osobn\u00ed, n\u00e1kladn\u00ed, autobusy), pop\u0159. plynov\u00e9 kotle",
+      "text": "Vyu\u017eit\u00ed pro zem\u011bd\u011blskou techniku i pro ve\u0159ejnou dopravu (osobn\u00ed, n\u00e1kladn\u00ed, autobusy), pop\u0159. plynov\u00e9 kotle",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 354.19,
+            "t": 422.3207029101563,
+            "r": 462.31,
+            "b": 412.8152629101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Technologie MemBrain",
+      "text": "Technologie MemBrain"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 503.14,
+            "t": 507.9722629101563,
+            "r": 510.67,
+            "b": 499.3967029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "1.",
+      "text": "1."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 517.3,
+            "t": 507.9722629101563,
+            "r": 569.5561600000001,
+            "b": 499.3967029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "bioCNG pro",
+      "text": "bioCNG pro"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 517.3,
+            "t": 496.5722629101563,
+            "r": 552.55,
+            "b": 487.99670291015633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "dopravu",
+      "text": "dopravu"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 503.14,
+            "t": 473.5322629101563,
+            "r": 510.67,
+            "b": 464.9567029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "2.",
+      "text": "2."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 517.3,
+            "t": 473.5322629101563,
+            "r": 556.86268,
+            "b": 464.9567029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "biometan",
+      "text": "biometan"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 517.3,
+            "t": 462.0122629101563,
+            "r": 555.67,
+            "b": 453.4367029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "pro kotle",
+      "text": "pro kotle"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 517.3,
+            "t": 450.4922629101563,
+            "r": 541.75,
+            "b": 441.9167029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "apod.",
+      "text": "apod."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.944,
+            "t": 585.3879829101562,
+            "r": 143.78400000000002,
+            "b": 575.0410738192471,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Obr\u00e1zek \u010d. 1",
+      "text": "Obr\u00e1zek \u010d. 1"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 354.19,
+            "t": 584.7107029101562,
+            "r": 455.34999999999997,
+            "b": 575.2052629101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "St\u00e1vaj\u00edc\u00ed za\u0159\u00edzen\u00ed BPS",
+      "text": "St\u00e1vaj\u00edc\u00ed za\u0159\u00edzen\u00ed BPS"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 515.38,
+            "t": 558.1322629101563,
+            "r": 552.91,
+            "b": 549.5567029101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "elekt\u0159ina",
+      "text": "elekt\u0159ina"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 524.14,
+            "t": 546.6122629101563,
+            "r": 546.67,
+            "b": 538.0367029101564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "teplo",
+      "text": "teplo"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 395.9666442871094,
+            "t": 812.2580699920654,
+            "r": 523.5407104492188,
+            "b": 779.5048370361328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.28182220458984,
+            "t": 257.4527587890625,
+            "r": 251.8455047607422,
+            "b": 105.0362548828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 283.5085144042969,
+            "t": 253.9996337890625,
+            "r": 547.64306640625,
+            "b": 108.9921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/5"
+        },
+        {
+          "$ref": "#/groups/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 88.01719665527344,
+            "t": 244.7650146484375,
+            "r": 561.3651123046875,
+            "b": 98.941162109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 395.9515380859375,
+            "t": 812.1933975219727,
+            "r": 523.4439086914062,
+            "b": 779.4797058105469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.69324493408203,
+            "t": 587.4628295898438,
+            "r": 576.8748168945312,
+            "b": 430.6705627441406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    }
+  }
+}

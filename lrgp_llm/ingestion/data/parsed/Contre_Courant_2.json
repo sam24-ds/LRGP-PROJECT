@@ -1,0 +1,5938 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Contre_Courant_2",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 1222745601108121728,
+    "filename": "Contre_Courant_2.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/groups/4"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.44,
+            "t": 634.3224,
+            "r": 223.01975999999993,
+            "b": 628.55664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Journal of  Membrane Science, 48  (1990) 115-122",
+      "text": "Journal of  Membrane Science, 48  (1990) 115-122"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.67999999999998,
+            "t": 624.0024,
+            "r": 324.05980000000017,
+            "b": 618.23664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Elsevier Science Publishers B.V.,  Amsterdam Printed  in The Netherlands",
+      "text": "Elsevier Science Publishers B.V.,  Amsterdam Printed  in The Netherlands"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.920000000000016,
+            "t": 598.56,
+            "r": 152.0352,
+            "b": 591.5999999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Short Communication",
+      "text": "Short Communication"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 383.04,
+            "t": 633.3624,
+            "r": 397.26,
+            "b": 627.59664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "115",
+      "text": "115"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.440000000000055,
+            "t": 561.3599999999999,
+            "r": 381.4752000000002,
+            "b": 542.1599999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "ITERATIVE SOLUTION  OF MULTICOMPONENT PERMEATOR MODEL  EQUATIONS",
+      "text": "ITERATIVE SOLUTION  OF MULTICOMPONENT PERMEATOR MODEL  EQUATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.44000000000005,
+            "t": 512.4024,
+            "r": 113.09968000000002,
+            "b": 506.6366399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "F.P.  McCANDLESS",
+      "text": "F.P.  McCANDLESS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.200000000000045,
+            "t": 496.79975999999994,
+            "r": 389.82032000000027,
+            "b": 477.5966399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "Department of  Chemical Engineering, Montana State University, Bozeman, MT  59717 (U.S.A.) (Received October 26,1987; accepted in revised form May 17,1989)",
+      "text": "Department of  Chemical Engineering, Montana State University, Bozeman, MT  59717 (U.S.A.) (Received October 26,1987; accepted in revised form May 17,1989)"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.680000000000035,
+            "t": 447.888,
+            "r": 83.83954000000004,
+            "b": 441.62399999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Summary",
+      "text": "Summary",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.95999999999998,
+            "t": 426.2423999999999,
+            "r": 397.02034000000015,
+            "b": 368.87663999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            517
+          ]
+        }
+      ],
+      "orig": "Countercurrent  and  recycle permeator  model equations  require a  trial  and  error  (iterative) solution procedure. Although the iterative  calculations are simple for a binary system, the calculations for a multicomponent  system are greatly complicated because there are M1 independent mole fractions  in an M component  system. This paper describes a systematic  method to find the multicomponent  solution vector using a direct search maximization  routine which is a modification of the complex method of Box.",
+      "text": "Countercurrent  and  recycle permeator  model equations  require a  trial  and  error  (iterative) solution procedure. Although the iterative  calculations are simple for a binary system, the calculations for a multicomponent  system are greatly complicated because there are M1 independent mole fractions  in an M component  system. This paper describes a systematic  method to find the multicomponent  solution vector using a direct search maximization  routine which is a modification of the complex method of Box."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.199999999999974,
+            "t": 338.688,
+            "r": 97.51967999999995,
+            "b": 332.424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Introduction",
+      "text": "Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.72000000000003,
+            "t": 314.4,
+            "r": 397.443,
+            "b": 229.19999999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            552
+          ]
+        }
+      ],
+      "orig": "The  flow pattern and use of recycle in a permeation  stage can have a significant  effect  on  the  separation  that  is obtained  in  the  stage.  As  a  result,  an analytical  understanding  of  these  effects  is  important  and  there  have  been several excellent  papers published  on the mathematical  modeling  of permeation  stages for the  separation  of binary  gas mixtures using different  flow  and recycle  configurations.  Among  these are papers by  Stern and co-workers [l31, Blaisdell and Kammermeyer [ 41, and Hwang et al. [ 5-81.",
+      "text": "The  flow pattern and use of recycle in a permeation  stage can have a significant  effect  on  the  separation  that  is obtained  in  the  stage.  As  a  result,  an analytical  understanding  of  these  effects  is  important  and  there  have  been several excellent  papers published  on the mathematical  modeling  of permeation  stages for the  separation  of binary  gas mixtures using different  flow  and recycle  configurations.  Among  these are papers by  Stern and co-workers [l31, Blaisdell and Kammermeyer [ 41, and Hwang et al. [ 5-81."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.96000000000009,
+            "t": 228.2399999999999,
+            "r": 397.46880000000004,
+            "b": 134.87999999999988,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            587
+          ]
+        }
+      ],
+      "orig": "The  solution  of  the  countercurrent  model  equations  and  all of  the  recycle permeator equations requires a trial and error (iterative)  procedure. Typically, a reject composition  is assumed and the appropriate  differential  equations  are solved  numerically.  Iterations  are made  until  satisfactory  material balances are achieved  at the feed to the stage. For the case of a binary  feed, a Wegstein or similar routine  can conveniently  be used to provide  new trial values based on the results of previous  iterations and a solution is usually obtained  in a few cycles.",
+      "text": "The  solution  of  the  countercurrent  model  equations  and  all of  the  recycle permeator equations requires a trial and error (iterative)  procedure. Typically, a reject composition  is assumed and the appropriate  differential  equations  are solved  numerically.  Iterations  are made  until  satisfactory  material balances are achieved  at the feed to the stage. For the case of a binary  feed, a Wegstein or similar routine  can conveniently  be used to provide  new trial values based on the results of previous  iterations and a solution is usually obtained  in a few cycles."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.720000000000255,
+            "t": 129.5999999999999,
+            "r": 396.50880000000024,
+            "b": 85.67999999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            319
+          ]
+        }
+      ],
+      "orig": "More  recently  the separation  of  multicomponent mixtures  (i.e., those  having three or more components) has become  of interest [6,9-U]. However,  for this case there is apparently no generally applicable, simple method to provide better  and better  (reject)  compositions  in the iterative calculations  which ul-",
+      "text": "More  recently  the separation  of  multicomponent mixtures  (i.e., those  having three or more components) has become  of interest [6,9-U]. However,  for this case there is apparently no generally applicable, simple method to provide better  and better  (reject)  compositions  in the iterative calculations  which ul-"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.20000000000027,
+            "t": 56.15999999999997,
+            "r": 118.89600000000029,
+            "b": 50.87735999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "0376-7388/90/$03.50",
+      "text": "0376-7388/90/$03.50"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 142.32000000000028,
+            "t": 57.12239999999997,
+            "r": 292.6200000000004,
+            "b": 51.35663999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "0 1990 Elsevier Science Publishers B.V.",
+      "text": "0 1990 Elsevier Science Publishers B.V."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.64,
+            "t": 634.212,
+            "r": 52.094759999999994,
+            "b": 629.166,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "116",
+      "text": "116"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.68,
+            "t": 612.72,
+            "r": 398.90880000000004,
+            "b": 531.8399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            541
+          ]
+        }
+      ],
+      "orig": "timately  result in convergence.  With  A4 components  present  there are M1 independent  mole  fractions.  Although  constraints  are placed  on  the possible values of the individual mole fractions by material balance considerations, these are not too  helpful  in determining  the exact  composition  which  will result in convergence.  The  constraints  can only be used to somewhat narrow the range of possible values. As a result, the solution  of the multicomponent  model equations  is much more difficult  than for the binary  case.",
+      "text": "timately  result in convergence.  With  A4 components  present  there are M1 independent  mole  fractions.  Although  constraints  are placed  on  the possible values of the individual mole fractions by material balance considerations, these are not too  helpful  in determining  the exact  composition  which  will result in convergence.  The  constraints  can only be used to somewhat narrow the range of possible values. As a result, the solution  of the multicomponent  model equations  is much more difficult  than for the binary  case."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.68000000000029,
+            "t": 526.3199999999999,
+            "r": 398.6688000000001,
+            "b": 457.4399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            469
+          ]
+        }
+      ],
+      "orig": "The  purpose  of the present paper is to describe a method  that we have successfully  used to solve the countercurrent  and recycle  multicomponent  model equations.  The  method  utilizes a direct search maximization  routine which  is a modification  of the complex  method  of Box.  The  equations and search technique will be described  only  for a simple countercurrent  stage but the method can easily be applied to other flow patterns and to recycle permeators.",
+      "text": "The  purpose  of the present paper is to describe a method  that we have successfully  used to solve the countercurrent  and recycle  multicomponent  model equations.  The  method  utilizes a direct search maximization  routine which  is a modification  of the complex  method  of Box.  The  equations and search technique will be described  only  for a simple countercurrent  stage but the method can easily be applied to other flow patterns and to recycle permeators."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.68000000000029,
+            "t": 436.1279999999999,
+            "r": 115.75998000000023,
+            "b": 429.86399999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Model equations",
+      "text": "Model equations",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.440000000000225,
+            "t": 407.51999999999987,
+            "r": 397.4688000000002,
+            "b": 358.79999999999984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        }
+      ],
+      "orig": "Only the case of  a single countercurrent  permeator  with plug flow  on both sides  of  the  membrane  will be  considered  here.  The  model  equations  follow closely those presented by  Stern and Leone [lo], and the reader is referred to that paper  for  the  details of  the  derivation.  Referring  to  Fig. 1, the  following",
+      "text": "Only the case of  a single countercurrent  permeator  with plug flow  on both sides  of  the  membrane  will be  considered  here.  The  model  equations  follow closely those presented by  Stern and Leone [lo], and the reader is referred to that paper  for  the  details of  the  derivation.  Referring  to  Fig. 1, the  following"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.44000000000031,
+            "t": 269.4119999999998,
+            "r": 223.69472000000025,
+            "b": 264.36599999999976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Fig.  1. Permeation stage  with  countercurrent flow.",
+      "text": "Fig.  1. Permeation stage  with  countercurrent flow."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 223.4400000000003,
+            "t": 352.2619199999998,
+            "r": 257.7330000000003,
+            "b": 346.4399999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "NON-POROUS",
+      "text": "NON-POROUS"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 225.84000000000032,
+            "t": 346.07807999999983,
+            "r": 250.05090000000035,
+            "b": 342.4795199999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "IWEMBRA",
+      "text": "IWEMBRA"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 256.5600000000003,
+            "t": 345.5419199999998,
+            "r": 265.89260000000036,
+            "b": 339.7199999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NE",
+      "text": "NE"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.16000000000028,
+            "t": 329.8423199999998,
+            "r": 48.24000000000029,
+            "b": 325.1399999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "LOW",
+      "text": "LOW"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.400000000000276,
+            "t": 331.9187999999998,
+            "r": 93.84342000000028,
+            "b": 328.0783199999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "P  PRODUCT",
+      "text": "P  PRODUCT"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 71.28000000000029,
+            "t": 324.3105599999998,
+            "r": 75.59810000000027,
+            "b": 320.2799999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "L",
+      "text": "L"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 44.88000000000029,
+            "t": 315.30191999999977,
+            "r": 74.6886000000003,
+            "b": 309.4799999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "LLO,  YOi",
+      "text": "LLO,  YOi"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 221.7600000000003,
+            "t": 299.2219199999998,
+            "r": 271.59780000000046,
+            "b": 293.3999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "H/G/f  P APODXT",
+      "text": "H/G/f  P APODXT"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 220.08000000000033,
+            "t": 283.86191999999977,
+            "r": 251.14320000000032,
+            "b": 278.0399999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "L  HO,  x0;",
+      "text": "L  HO,  x0;"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.44000000000031,
+            "t": 253.43999999999983,
+            "r": 343.4688000000002,
+            "b": 246.4799999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "equations  result from  material balances  on an element of area dA:",
+      "text": "equations  result from  material balances  on an element of area dA:"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.960000000000285,
+            "t": 222.49871999999982,
+            "r": 403.5225000000002,
+            "b": 187.55999999999983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "d.X. I= %ji--wr-Yil dL' [_ _x, J_ ' ;zlaij Ixipr -yil 1 L' (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.16000000000031,
+            "t": 174.07679999999982,
+            "r": 403.2825000000002,
+            "b": 150.9599999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "y, = L'Xi -XOi 1 L'-1 (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.72000000000031,
+            "t": 141.91679999999985,
+            "r": 399.2064000000004,
+            "b": 110.63999999999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "dA LHO 6/PL WE dL' i~Ipi[xipr yil (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.4800000000003,
+            "t": 95.99999999999989,
+            "r": 66.2686000000003,
+            "b": 89.03999999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "where",
+      "text": "where"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 382.32,
+            "t": 633.732,
+            "r": 396.55764,
+            "b": 628.686,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "117",
+      "text": "117"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.72,
+            "t": 602.4,
+            "r": 260.6688,
+            "b": 580.8,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "LH L'  =LHI(l_ 0)' Pi P PH %'F --8 LLO '-pL' =-LHI",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.71999999999997,
+            "t": 565.4399999999999,
+            "r": 396.74879999999996,
+            "b": 496.7999999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            436
+          ]
+        }
+      ],
+      "orig": "These  equations,  together  with  the  appropriate  boundary  conditions,  represent the mathematical  model  for  the permeation  stage. In these  equations the dimensionless  high pressure flow rate, L' , is the independent  variable, and the  stream composition  and  membrane  area are determined  as a function  of L' . Integration  starts at the reject end where the boundary  conditions  for the counter-current  permeator  are:",
+      "text": "These  equations,  together  with  the  appropriate  boundary  conditions,  represent the mathematical  model  for  the permeation  stage. In these  equations the dimensionless  high pressure flow rate, L' , is the independent  variable, and the  stream composition  and  membrane  area are determined  as a function  of L' . Integration  starts at the reject end where the boundary  conditions  for the counter-current  permeator  are:"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.719999999999985,
+            "t": 481.6799999999999,
+            "r": 394.1087999999999,
+            "b": 473.0399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Xi=XOi, Yi=YEi, L'=1 (5)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.19999999999993,
+            "t": 459.3599999999999,
+            "r": 396.0284000000001,
+            "b": 427.4399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "and proceeds to the feed end where L'  = l/l -  6. The low pressure compositions (YE,) at the reject end are needed to start the calculation  and are determined from the following  two equations:",
+      "text": "and proceeds to the feed end where L'  = l/l -  6. The low pressure compositions (YE,) at the reject end are needed to start the calculation  and are determined from the following  two equations:"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.71999999999996,
+            "t": 418.0948799999999,
+            "r": 403.04249999999985,
+            "b": 390.2399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "YE. -&cYij XOiPH-YEiPL . . YE, XOj PHYEj PL 1 ' '#' (6)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.4267692565918,
+            "t": 378.541259765625,
+            "r": 394.1598815917969,
+            "b": 343.6128845214844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.959999999999866,
+            "t": 331.6799999999999,
+            "r": 397.4687999999999,
+            "b": 245.75999999999988,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            560
+          ]
+        }
+      ],
+      "orig": "In the above equations the subscriptj  designates a specific reference component. A trial and error solution  is required. The  reject composition  vector,  XOi, at L'  = 1 is assumed for a given stage cut and feed composition,  the YEi are calculated from eqns.  (6)  and  (7 ) to provide  the initial  Yi for the integration.  Xi, Yi, and A are then calculated  using eqns.  (l), (2)  and  (3)  as a function  of L' using a 4th order Runge-Kutta  integration routine to the feed conditions where L'  = l/l -  6. At this point  material balances  require that",
+      "text": "In the above equations the subscriptj  designates a specific reference component. A trial and error solution  is required. The  reject composition  vector,  XOi, at L'  = 1 is assumed for a given stage cut and feed composition,  the YEi are calculated from eqns.  (6)  and  (7 ) to provide  the initial  Yi for the integration.  Xi, Yi, and A are then calculated  using eqns.  (l), (2)  and  (3)  as a function  of L' using a 4th order Runge-Kutta  integration routine to the feed conditions where L'  = l/l -  6. At this point  material balances  require that"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 38.639999999999816,
+            "t": 235.92479999999983,
+            "r": 394.58879999999976,
+            "b": 213.8399999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "yo. Xii(l-8)XOi I= 8 (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.19999999999982,
+            "t": 198.23999999999978,
+            "r": 396.74879999999973,
+            "b": 166.55999999999983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "All of the  YOi  (calculated) must match the material balance  values within the convergence  criteria. If the convergence  criterion  is not  met a new set of XOi are assumed and the calculations  are repeated.",
+      "text": "All of the  YOi  (calculated) must match the material balance  values within the convergence  criteria. If the convergence  criterion  is not  met a new set of XOi are assumed and the calculations  are repeated."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.43999999999971,
+            "t": 161.5199999999998,
+            "r": 397.46879999999965,
+            "b": 92.63999999999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            427
+          ]
+        }
+      ],
+      "orig": "As previously  discussed,  it is not  a trivial  matter  to  find  a set of  XOi  that results in the  solution  of  the  multicomponent equations,  but  we have  found that a modified version of the complex  method of Box  can easily be used in the calculations  to  obtain  convergence in  a  reasonable  number  of  iterations.  A brief description  of the procedure  will first be given followed by the calculation details.",
+      "text": "As previously  discussed,  it is not  a trivial  matter  to  find  a set of  XOi  that results in the  solution  of  the  multicomponent equations,  but  we have  found that a modified version of the complex  method of Box  can easily be used in the calculations  to  obtain  convergence in  a  reasonable  number  of  iterations.  A brief description  of the procedure  will first be given followed by the calculation details."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 38.16,
+            "t": 634.0068,
+            "r": 54.2064,
+            "b": 628.93992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "118",
+      "text": "118"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.68,
+            "t": 612.8112000000001,
+            "r": 110.21760000000002,
+            "b": 606.52128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Search  method",
+      "text": "Search  method",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.44,
+            "t": 582.96,
+            "r": 397.4689999999999,
+            "b": 489.84,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            605
+          ]
+        }
+      ],
+      "orig": "A number  of trial XOi  composition  vectors  ('vertices') are generated and the model equations  are solved for each of these compositions,  and the objective  function (material  balance) is evaluated  for  each  set. The  values  of  the objective  functions  are compared  and the XOi vector  giving the 'worst'  value is rejected. A new XOi vector  is calculated using the remaining 'better'  points in a specified manner. The cycle is repeated, rejecting the XOi vector that gives the worst value of the objective  function  and progressively calculating a better one until convergence  is obtained.",
+      "text": "A number  of trial XOi  composition  vectors  ('vertices') are generated and the model equations  are solved for each of these compositions,  and the objective  function (material  balance) is evaluated  for  each  set. The  values  of  the objective  functions  are compared  and the XOi vector  giving the 'worst'  value is rejected. A new XOi vector  is calculated using the remaining 'better'  points in a specified manner. The cycle is repeated, rejecting the XOi vector that gives the worst value of the objective  function  and progressively calculating a better one until convergence  is obtained."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.68000000000001,
+            "t": 484.55999999999995,
+            "r": 396.5092999999996,
+            "b": 452.87999999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "The  reader is referred to the original paper by Box [ 12  ]  and to discussions of  this  method  in  textbooks [ 13,141 for  details  of  the  complex  method.  The features of a modified  version used in this study are presented below.",
+      "text": "The  reader is referred to the original paper by Box [ 12  ]  and to discussions of  this  method  in  textbooks [ 13,141 for  details  of  the  complex  method.  The features of a modified  version used in this study are presented below."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.44000000000011,
+            "t": 447.3599999999999,
+            "r": 398.1888,
+            "b": 428.1599999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "The  search  for  a solution (the  XOi  vector  that  results  in  convergence) is conducted  as follows:",
+      "text": "The  search  for  a solution (the  XOi  vector  that  results  in  convergence) is conducted  as follows:"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.44000000000011,
+            "t": 404.6399999999999,
+            "r": 166.10880000000012,
+            "b": 397.4399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "I. Initial complex generation",
+      "text": "I. Initial complex generation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.44000000000011,
+            "t": 392.39999999999986,
+            "r": 397.94880000000006,
+            "b": 348.47999999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "The search method requires that the number of vertices  (number  of XOi sets used in the search)  be no less than P=M+ 1, but it can be larger. For example, for a 4-component feed the number  of XOi vectors used in the search must be > 5.",
+      "text": "The search method requires that the number of vertices  (number  of XOi sets used in the search)  be no less than P=M+ 1, but it can be larger. For example, for a 4-component feed the number  of XOi vectors used in the search must be > 5."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.2000000000001,
+            "t": 342.9599999999998,
+            "r": 396.7488,
+            "b": 311.5199999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "(a)  An  initial  XOi  vector,  XOi  (l), is assumed together  with estimates of possible  high and low values for  each compound.  These  values are 'educated guesses'.",
+      "text": "(a)  An  initial  XOi  vector,  XOi  (l), is assumed together  with estimates of possible  high and low values for  each compound.  These  values are 'educated guesses'.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.44000000000011,
+            "t": 306.2399999999998,
+            "r": 396.50880000000024,
+            "b": 286.7999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "(b ) The  other (P 1) XOi vectors are generated randomly and sequentially using the equation",
+      "text": "(b ) The  other (P 1) XOi vectors are generated randomly and sequentially using the equation",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.44000000000012,
+            "t": 275.51999999999975,
+            "r": 394.58880000000005,
+            "b": 268.31999999999977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "XOi(K) =XOi(L) +ri(K) [XOi(H)-XOi(L)], K=2,...,P for i= l,...,M. (9)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.67999999999995,
+            "t": 257.27999999999975,
+            "r": 396.98879999999997,
+            "b": 225.60191999999972,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "Here  XOi (L)  and XOi (H) are the  high  and  low values  assumed in  (a),  and ri(K) is a random  number between 0 and 1. These X0;  vectors are normalized SO that CXOi=  1.",
+      "text": "Here  XOi (L)  and XOi (H) are the  high  and  low values  assumed in  (a),  and ri(K) is a random  number between 0 and 1. These X0;  vectors are normalized SO that CXOi=  1."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.199999999999946,
+            "t": 202.3199999999997,
+            "r": 171.14829999999984,
+            "b": 195.11999999999972,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "II. First objective evaluations",
+      "text": "II. First objective evaluations",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.480000000000075,
+            "t": 190.0799999999997,
+            "r": 397.94879999999995,
+            "b": 133.67999999999972,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            357
+          ]
+        }
+      ],
+      "orig": "The  model equations  are solved  sequentially  using the P different  XOi  sets and the objective  function  is evaluated for each set. The  magnitude of the objective  functions  are compared,  and the XOi vector  giving the 'worst'  value is rejected.  The  centroid  of  all  of  the  XOi  except  the  rejected  one,  XOi(R), is determined  for each i:",
+      "text": "The  model equations  are solved  sequentially  using the P different  XOi  sets and the objective  function  is evaluated for each set. The  magnitude of the objective  functions  are compared,  and the XOi vector  giving the 'worst'  value is rejected.  The  centroid  of  all  of  the  XOi  except  the  rejected  one,  XOi(R), is determined  for each i:"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 127.92000000000006,
+            "t": 116.52455999999972,
+            "r": 403.5976,
+            "b": 95.6999999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "$, (xoi(K)-Xoi(R) )]9 K=  l,...,P (10)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 382.8,
+            "t": 633.7668,
+            "r": 398.8464,
+            "b": 628.69992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "119",
+      "text": "119"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.960000000000036,
+            "t": 612.72,
+            "r": 173.0685,
+            "b": 605.52,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "III.  Expansion  of the complex",
+      "text": "III.  Expansion  of the complex",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.48000000000013,
+            "t": 600.24,
+            "r": 397.22880000000015,
+            "b": 580.8,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "(a)  A new XOi vector  to  replace XOi(R) is calculated  by  reflecting  the  rejected  XOi's  through  the centroid  a 'distance'  fi",
+      "text": "(a)  A new XOi vector  to  replace XOi(R) is calculated  by  reflecting  the  rejected  XOi's  through  the centroid  a 'distance'  fi",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.96000000000015,
+            "t": 569.04,
+            "r": 394.58880000000005,
+            "b": 542.82408,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "XOi(N) =p[XOi(C)-XOi(R)] +XOi(C) (11) = (l+P)xOi(C)(P)xoi(R)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.2000000000001,
+            "t": 533.28,
+            "r": 179.78910000000025,
+            "b": 526.3199999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "The  XOi are again normalized.",
+      "text": "The  XOi are again normalized."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.96000000000015,
+            "t": 520.8,
+            "r": 395.5488000000001,
+            "b": 501.35999999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "(b)  The  objective  function  is evaluated using the new XOi vector  and compared with the rejected value.",
+      "text": "(b)  The  objective  function  is evaluated using the new XOi vector  and compared with the rejected value.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.96000000000015,
+            "t": 496.0799999999999,
+            "r": 396.74910000000006,
+            "b": 489.11999999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "(b'  ) If the new value is 'better'  than the one rejected, the cycle is repeated.",
+      "text": "(b'  ) If the new value is 'better'  than the one rejected, the cycle is repeated.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.96000000000009,
+            "t": 483.8399999999999,
+            "r": 396.9888000000001,
+            "b": 452.1599999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "(c)  If the  new XOi  set gives an objective  function  value that is worse than the rejected one, a new XOi vector to try is found by contracting  the point  half the distance to the centroid:",
+      "text": "(c)  If the  new XOi  set gives an objective  function  value that is worse than the rejected one, a new XOi vector to try is found by contracting  the point  half the distance to the centroid:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.720000000000155,
+            "t": 440.1599999999999,
+            "r": 394.10880000000003,
+            "b": 431.75999999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "XOi(N' ) =  f [XOi(N) +XOi(C)] (12)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.720000000000084,
+            "t": 421.6799999999999,
+            "r": 396.50880000000006,
+            "b": 402.2399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "This  contraction  is repeated until the new objective  function  is 'better'  than the rejected one.",
+      "text": "This  contraction  is repeated until the new objective  function  is 'better'  than the rejected one."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.96000000000008,
+            "t": 383.27999999999986,
+            "r": 136.10880000000012,
+            "b": 376.07999999999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "IV.  Continued  search",
+      "text": "IV.  Continued  search",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.720000000000255,
+            "t": 370.55999999999983,
+            "r": 397.4688,
+            "b": 302.1599999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            467
+          ]
+        }
+      ],
+      "orig": "After  the  new XOi  set gives a value of  the  objective  function  that  is better than  the  rejected  one,  the  cycle  is repeated,  that  is, rejecting  the  XOi  vector that gives the current  'worst'  value of the objective  function,  calculate  a new set by  reflection  through  the  centroid  of  the  remaining  XOi  sets, contraction of the vector  (if necessary),  etc. until the value of the objective  function  is less than a specified  small value.",
+      "text": "After  the  new XOi  set gives a value of  the  objective  function  that  is better than  the  rejected  one,  the  cycle  is repeated,  that  is, rejecting  the  XOi  vector that gives the current  'worst'  value of the objective  function,  calculate  a new set by  reflection  through  the  centroid  of  the  remaining  XOi  sets, contraction of the vector  (if necessary),  etc. until the value of the objective  function  is less than a specified  small value."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 47.520000000000095,
+            "t": 296.63999999999976,
+            "r": 261.38880000000006,
+            "b": 289.6799999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "For this study the objective  function  used was",
+      "text": "For this study the objective  function  used was"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.44000000000011,
+            "t": 271.43999999999977,
+            "r": 394.34880000000015,
+            "b": 255.30407999999977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "OBJ =  5  ABS [ YOi (talc  ) -YOi  (material balance) ] i=l (13)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.20000000000016,
+            "t": 244.0799999999998,
+            "r": 396.74880000000024,
+            "b": 224.63999999999976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "Convergence  is assumed when OBJ was less than  some small specified value. Other objective functions could easily be defined that are equally valid, however.",
+      "text": "Convergence  is assumed when OBJ was less than  some small specified value. Other objective functions could easily be defined that are equally valid, however."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.200000000000216,
+            "t": 205.32359999999983,
+            "r": 84.05280000000023,
+            "b": 199.55783999999983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Discussion",
+      "text": "Discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.200000000000216,
+            "t": 180.7199999999998,
+            "r": 397.70880000000034,
+            "b": 99.7178399999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            569
+          ]
+        }
+      ],
+      "orig": "To test the method,  the calculations  of  Stern and Leone [lo] were repeated for the case of 20 o  C and dP=  3.45 x  lo5 N/ m2.  For these calculations  5 vertices were used with /3= 1.15. The  modified  Box  method  gave essentially the  same results as reported in Figs. 10 and 11 of that paper. Computer time for solution varied widely with stage cut and the initial estimate for the XOi vector:  from 58 to  217  cycles  with 100 to  318  evaluations  of  the  objective  junction  were required before  the convergence  criterion was met  (OBJ =  -  1.0 X 10m5).",
+      "text": "To test the method,  the calculations  of  Stern and Leone [lo] were repeated for the case of 20 o  C and dP=  3.45 x  lo5 N/ m2.  For these calculations  5 vertices were used with /3= 1.15. The  modified  Box  method  gave essentially the  same results as reported in Figs. 10 and 11 of that paper. Computer time for solution varied widely with stage cut and the initial estimate for the XOi vector:  from 58 to  217  cycles  with 100 to  318  evaluations  of  the  objective  junction  were required before  the convergence  criterion was met  (OBJ =  -  1.0 X 10m5)."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.00000000000023,
+            "t": 94.55999999999983,
+            "r": 396.7488000000002,
+            "b": 87.5999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "The  complex  method  is a heuristic direct search technique  designed to find",
+      "text": "The  complex  method  is a heuristic direct search technique  designed to find"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 39.12,
+            "t": 634.4868,
+            "r": 55.1664,
+            "b": 629.41992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "120",
+      "text": "120"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 38.16,
+            "t": 612.48,
+            "r": 400.1088,
+            "b": 543.8399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            423
+          ]
+        }
+      ],
+      "orig": "the  maximum  value of  a function (in  this case  a minimum  is desired and so the objective  function  is made negative).  There  is no guarantee of convergence for a given initial estimate. However,  the method is easy to implement because of the simple search logic and with 'good'  initial estimates for XOi (1) , XOi (~5) and  XOi(H), it usually  converges  to  the  solution  in  a reasonable  number  of iterations.",
+      "text": "the  maximum  value of  a function (in  this case  a minimum  is desired and so the objective  function  is made negative).  There  is no guarantee of convergence for a given initial estimate. However,  the method is easy to implement because of the simple search logic and with 'good'  initial estimates for XOi (1) , XOi (~5) and  XOi(H), it usually  converges  to  the  solution  in  a reasonable  number  of iterations."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 38.40000000000009,
+            "t": 538.3199999999999,
+            "r": 398.4287999999999,
+            "b": 482.3999999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            412
+          ]
+        }
+      ],
+      "orig": "P,  the  number  of  vertices  must be  greater than  or equal to  M+  1, but  the choice  of both  P and /3,  the reflection  parameter, is more or less arbitrary. Box in his original  paper  recommended  P1: 2M and p=  1.3  [  121. However,  in this work P= M+ 1 and p=  1.15 worked  satisfactorily,  but  it is certainly  possible that other combinations  would result in a solution using less computer  time.",
+      "text": "P,  the  number  of  vertices  must be  greater than  or equal to  M+  1, but  the choice  of both  P and /3,  the reflection  parameter, is more or less arbitrary. Box in his original  paper  recommended  P1: 2M and p=  1.3  [  121. However,  in this work P= M+ 1 and p=  1.15 worked  satisfactorily,  but  it is certainly  possible that other combinations  would result in a solution using less computer  time."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 38.879999999999995,
+            "t": 477.1199999999999,
+            "r": 399.14880000000005,
+            "b": 371.2799999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            677
+          ]
+        }
+      ],
+      "orig": "Occasionally  a 'better'  XOi (N'  ) vector  is not found  during the contraction step (s)  even after many contractions.  When  this happens the new vertex 'collapses' to the centroid  of the remaining XOi and under these conditions  progress toward the solution  cannot  be made. In this case the search is terminated and restarted using the 'best'  current set of XOi before  termination  together with new assumed high and low values. The  new search usually results in convergence,  but  occasionally  the  process  must be  repeated.  This  is similar to  a modification  suggested by Guin [ 151 which allows the search to continue when it would ordinarily be terminated.",
+      "text": "Occasionally  a 'better'  XOi (N'  ) vector  is not found  during the contraction step (s)  even after many contractions.  When  this happens the new vertex 'collapses' to the centroid  of the remaining XOi and under these conditions  progress toward the solution  cannot  be made. In this case the search is terminated and restarted using the 'best'  current set of XOi before  termination  together with new assumed high and low values. The  new search usually results in convergence,  but  occasionally  the  process  must be  repeated.  This  is similar to  a modification  suggested by Guin [ 151 which allows the search to continue when it would ordinarily be terminated."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 38.64000000000004,
+            "t": 365.75999999999976,
+            "r": 399.1488,
+            "b": 297.35999999999973,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            426
+          ]
+        }
+      ],
+      "orig": "It would  also be possible  to generate the P  initial trial XOi vectors  without resorting to the use of  random  numbers.  For example,  the XOi  for the 'key' compound  could be specified  at P values over a specified  range and the other XOi  values  estimated,  based  on  the  magnitude  of  the  ~ii. This  concept  was briefly  investigated but it did not appear to offer  any advantages over the random number method.",
+      "text": "It would  also be possible  to generate the P  initial trial XOi vectors  without resorting to the use of  random  numbers.  For example,  the XOi  for the 'key' compound  could be specified  at P values over a specified  range and the other XOi  values  estimated,  based  on  the  magnitude  of  the  ~ii. This  concept  was briefly  investigated but it did not appear to offer  any advantages over the random number method."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 38.88000000000006,
+            "t": 280.5599999999997,
+            "r": 110.4286000000001,
+            "b": 273.59999999999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "List of symbols",
+      "text": "List of symbols",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 381.6,
+            "t": 633.8712000000002,
+            "r": 394.1400000000001,
+            "b": 628.8043200000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "121",
+      "text": "121"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 37.44,
+            "t": 250.55999999999977,
+            "r": 88.34899999999999,
+            "b": 243.5999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.48,
+            "t": 227.75999999999976,
+            "r": 391.0201200000003,
+            "b": 210.00431999999978,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            175
+          ]
+        }
+      ],
+      "orig": "1 S.A. Stern and  S.C. Wang, Countercurrent and  cocurrent gas  separations in  a  permeation stage.  Comparison of  computation methods, J.  Membrane Sci., 4  (1978) 141-148.",
+      "text": "1 S.A. Stern and  S.C. Wang, Countercurrent and  cocurrent gas  separations in  a  permeation stage.  Comparison of  computation methods, J.  Membrane Sci., 4  (1978) 141-148.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.24000000000001,
+            "t": 204.5111999999998,
+            "r": 393.90018000000015,
+            "b": 189.3643199999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "2 W.P. Walawender and  S.A. Stern, Analysis of  membrane separation parameters. II.  Countercurrent and  cocurrent flow  in a  single  permeation stage, Sep.  Sci., 7  (1972) 553-584.",
+      "text": "2 W.P. Walawender and  S.A. Stern, Analysis of  membrane separation parameters. II.  Countercurrent and  cocurrent flow  in a  single  permeation stage, Sep.  Sci., 7  (1972) 553-584.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.24000000000001,
+            "t": 183.87119999999976,
+            "r": 395.8200000000001,
+            "b": 168.4843199999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "3 S.A. Stern, J.E. Perrin and  E.J. Naimon, Recycle and  multimembrane permeators for  gas separations, J.  Membrane Sci., 20 (1984) 25-43.",
+      "text": "3 S.A. Stern, J.E. Perrin and  E.J. Naimon, Recycle and  multimembrane permeators for  gas separations, J.  Membrane Sci., 20 (1984) 25-43.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.240000000000066,
+            "t": 163.23119999999977,
+            "r": 393.66012,
+            "b": 147.8443199999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "4 C.T. Blaisdell and  K.  Kammermeyer, Countercurrent and  cocurrent gas  separation, Chem. Eng. Sci., 28 (1973) 1249-1255.",
+      "text": "4 C.T. Blaisdell and  K.  Kammermeyer, Countercurrent and  cocurrent gas  separation, Chem. Eng. Sci., 28 (1973) 1249-1255.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.480000000000004,
+            "t": 142.35119999999984,
+            "r": 391.25975999999997,
+            "b": 126.96431999999982,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "5 S.T. Hwang  and  J.M. Thorman, The  continuous membrane column, AIChE J., 26 (1980) 558-566.",
+      "text": "5 S.T. Hwang  and  J.M. Thorman, The  continuous membrane column, AIChE J., 26 (1980) 558-566.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.48000000000002,
+            "t": 121.71119999999974,
+            "r": 394.86004000000014,
+            "b": 106.32431999999983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "6 ST. Hwang and S. Ghalchi, Methane separation by  a  continuous membrane column, J. Membrane Sci., 11  (1982) 187-198.",
+      "text": "6 ST. Hwang and S. Ghalchi, Methane separation by  a  continuous membrane column, J. Membrane Sci., 11  (1982) 187-198.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 42.720000000000084,
+            "t": 101.07119999999975,
+            "r": 390.29952,
+            "b": 85.68431999999984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "7 S.  Chen, Y.K. Kao  and  S.T. Hwang, A  continuous membrane column model  incorporating axial  diffusion terms, J.  Membrane Sci., 26  (1986) 143-164.",
+      "text": "7 S.  Chen, Y.K. Kao  and  S.T. Hwang, A  continuous membrane column model  incorporating axial  diffusion terms, J.  Membrane Sci., 26  (1986) 143-164.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 37.44,
+            "t": 633.972,
+            "r": 50.89475999999999,
+            "b": 628.926,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "122",
+      "text": "122"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 41.519999999999996,
+            "t": 611.652,
+            "r": 394.57504,
+            "b": 596.0460000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "8 Y.K. Kao, S.  Chen  and  S.T. Hwang,  Effect of  diffusion on  the  model  of  a capillary gas  permeator,  J.  Membrane Sci.,  32  (1987) 139-157.",
+      "text": "8 Y.K. Kao, S.  Chen  and  S.T. Hwang,  Effect of  diffusion on  the  model  of  a capillary gas  permeator,  J.  Membrane Sci.,  32  (1987) 139-157.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 41.279999999999994,
+            "t": 591.012,
+            "r": 390.97538000000014,
+            "b": 575.4060000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "9 M.  Ohno, H.  Heki, 0.  Ozaki  and  T.  Migauchi, Radioactive rare  gas  separation performance of  a two-unit series-type permeation cell,  J.  Nucl. Sci.  Technol., 15  (1978) 668-677.",
+      "text": "9 M.  Ohno, H.  Heki, 0.  Ozaki  and  T.  Migauchi, Radioactive rare  gas  separation performance of  a two-unit series-type permeation cell,  J.  Nucl. Sci.  Technol., 15  (1978) 668-677.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 37.44,
+            "t": 570.372,
+            "r": 392.65502000000015,
+            "b": 555.006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "10 S.A.  Stern  and  S.M.  Leone,  Separation of  krypton and  xenon  by selective  permeation, AIChE J.,  26  (1980) 881-890.",
+      "text": "10 S.A.  Stern  and  S.M.  Leone,  Separation of  krypton and  xenon  by selective  permeation, AIChE J.,  26  (1980) 881-890.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 37.44,
+            "t": 549.732,
+            "r": 394.09502000000015,
+            "b": 533.8860000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            162
+          ]
+        }
+      ],
+      "orig": "11 S.A. Stern and  S.-C. Wang, Permeation cascades for  the  separation of  krypton and  xenon from  nuclear  reactor  atmospheres, AIChE J.,  26  (1980) 891-901.",
+      "text": "11 S.A. Stern and  S.-C. Wang, Permeation cascades for  the  separation of  krypton and  xenon from  nuclear  reactor  atmospheres, AIChE J.,  26  (1980) 891-901.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 37.44,
+            "t": 529.092,
+            "r": 392.4147200000003,
+            "b": 513.246,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "12 M.J.  Box,  A  new  method of  constrained optimization and  a comparison with  other  methods, Comput. J.,  8  (1965) 42-52.",
+      "text": "12 M.J.  Box,  A  new  method of  constrained optimization and  a comparison with  other  methods, Comput. J.,  8  (1965) 42-52.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 37.44,
+            "t": 508.21200000000005,
+            "r": 395.05494,
+            "b": 492.606,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "13 G.V. Reklaitis, A.  Ravindran and  K.M. Ragsdell, Engineering Optimization, Methods and Application, John  Wiley & Sons,  New  York,  NY, 1983,  pp.  268-277.",
+      "text": "13 G.V. Reklaitis, A.  Ravindran and  K.M. Ragsdell, Engineering Optimization, Methods and Application, John  Wiley & Sons,  New  York,  NY, 1983,  pp.  268-277.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 37.44,
+            "t": 487.57200000000006,
+            "r": 393.37487999999996,
+            "b": 471.726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "14 G.S.G. Beveridge and  R.S.  Shechter, Optimization: Theory and  Practice, McGraw-Hill Book Co.,  New  York, NY,  1970,  pp.  453-460.",
+      "text": "14 G.S.G. Beveridge and  R.S.  Shechter, Optimization: Theory and  Practice, McGraw-Hill Book Co.,  New  York, NY,  1970,  pp.  453-460.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 37.44,
+            "t": 466.9320000000001,
+            "r": 396.2548399999999,
+            "b": 451.086,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            113
+          ]
+        }
+      ],
+      "orig": "15 J.A.  Guin,  Modification of  the  complex method of  constrained optimization, Comput. J.,  8 (1968) 416-417.",
+      "text": "15 J.A.  Guin,  Modification of  the  complex method of  constrained optimization, Comput. J.,  8 (1968) 416-417.",
+      "enumerated": false,
+      "marker": ""
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.518463134765625,
+            "t": 355.60528564453125,
+            "r": 283.4928894042969,
+            "b": 275.32196044921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.7617301940918,
+            "t": 255.486572265625,
+            "r": 398.1181640625,
+            "b": 82.8187255859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 38.640000000000065,
+              "t": 412.64000000000027,
+              "r": 45.398400000000066,
+              "b": 419.84000000000026,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "A",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.640000000000065,
+              "t": 425.1200000000003,
+              "r": 53.04000000000006,
+              "b": 432.3200000000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "LH",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.640000000000065,
+              "t": 437.3600000000003,
+              "r": 56.90240000000007,
+              "b": 444.5600000000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "LHI",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.640000000000065,
+              "t": 449.6000000000003,
+              "r": 60.48960000000007,
+              "b": 456.8000000000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "LHO",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.88000000000007,
+              "t": 461.8400000000003,
+              "r": 51.76320000000006,
+              "b": 469.0400000000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "LL",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.640000000000065,
+              "t": 474.0800000000003,
+              "r": 58.99840000000007,
+              "b": 481.2800000000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "LLO",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.640000000000065,
+              "t": 486.32000000000033,
+              "r": 47.02080000000006,
+              "b": 493.5200000000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "L'",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.640000000000065,
+              "t": 511.0400000000003,
+              "r": 47.70240000000006,
+              "b": 518.2400000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "M",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.640000000000065,
+              "t": 523.2800000000003,
+              "r": 45.04320000000006,
+              "b": 530.4800000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "P",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.640000000000065,
+              "t": 535.7600000000003,
+              "r": 53.04000000000006,
+              "b": 542.9600000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "PH",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.40000000000006,
+              "t": 549.9200000000003,
+              "r": 47.07360000000006,
+              "b": 557.1200000000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "pi",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.640000000000065,
+              "t": 563.3600000000004,
+              "r": 47.22720000000006,
+              "b": 570.5600000000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "pj",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.48000000000008,
+              "t": 413.12000000000035,
+              "r": 168.2544000000001,
+              "b": 420.0800000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "membrane area",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.48000000000006,
+              "t": 425.36000000000035,
+              "r": 306.47399999999993,
+              "b": 432.3200000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "molar rate on high pressure side of membrane",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.4800000000001,
+              "t": 437.60000000000036,
+              "r": 264.92880000000014,
+              "b": 444.5600000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "molar rate of fresh feed to permeator",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.2400000000001,
+              "t": 449.8400000000004,
+              "r": 373.1688,
+              "b": 461.12000000000035,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "molar rate of high-pressure (reject ) product from permeator",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.4800000000001,
+              "t": 462.0800000000004,
+              "r": 320.87399999999997,
+              "b": 469.0400000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "molar rate on low-pressure side of the membrane",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.48000000000013,
+              "t": 474.5600000000004,
+              "r": 386.1288,
+              "b": 481.5200000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "molar rate of low-pressure (permeate) product from permeator",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.24000000000012,
+              "t": 486.8000000000004,
+              "r": 395.76960000000025,
+              "b": 506.24000000000035,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "dimensionless rate on high pressure side of the membrane, defined in eqn. (4)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.4800000000001,
+              "t": 511.28000000000037,
+              "r": 340.29960000000005,
+              "b": 518.2400000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "number of components of a multicomponent mixture",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.48000000000008,
+              "t": 523.7600000000003,
+              "r": 271.4516,
+              "b": 530.7200000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "number of vertices in the search plane",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 96.00000000000006,
+              "t": 536.2400000000004,
+              "r": 297.1139999999999,
+              "b": 543.2000000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "pressure on high pressure side of membrane",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 95.76000000000008,
+              "t": 548.4800000000004,
+              "r": 396.9168000000002,
+              "b": 555.4400000000004,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "permeability coefficient of compound i in the membrane material",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.80000000000007,
+              "t": 560.9600000000004,
+              "r": 396.9247999999999,
+              "b": 580.4000000000003,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "permeability coefficient of compound j in the membrane material; j is the specified reference compound",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 12,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 38.640000000000065,
+                "t": 412.64000000000027,
+                "r": 45.398400000000066,
+                "b": 419.84000000000026,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "A",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 96.48000000000008,
+                "t": 413.12000000000035,
+                "r": 168.2544000000001,
+                "b": 420.0800000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "membrane area",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.640000000000065,
+                "t": 425.1200000000003,
+                "r": 53.04000000000006,
+                "b": 432.3200000000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "LH",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 96.48000000000006,
+                "t": 425.36000000000035,
+                "r": 306.47399999999993,
+                "b": 432.3200000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "molar rate on high pressure side of membrane",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.640000000000065,
+                "t": 437.3600000000003,
+                "r": 56.90240000000007,
+                "b": 444.5600000000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "LHI",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 96.4800000000001,
+                "t": 437.60000000000036,
+                "r": 264.92880000000014,
+                "b": 444.5600000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "molar rate of fresh feed to permeator",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.640000000000065,
+                "t": 449.6000000000003,
+                "r": 60.48960000000007,
+                "b": 456.8000000000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "LHO",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 96.2400000000001,
+                "t": 449.8400000000004,
+                "r": 373.1688,
+                "b": 461.12000000000035,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "molar rate of high-pressure (reject ) product from permeator",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.88000000000007,
+                "t": 461.8400000000003,
+                "r": 51.76320000000006,
+                "b": 469.0400000000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "LL",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 96.4800000000001,
+                "t": 462.0800000000004,
+                "r": 320.87399999999997,
+                "b": 469.0400000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "molar rate on low-pressure side of the membrane",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.640000000000065,
+                "t": 474.0800000000003,
+                "r": 58.99840000000007,
+                "b": 481.2800000000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "LLO",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 96.48000000000013,
+                "t": 474.5600000000004,
+                "r": 386.1288,
+                "b": 481.5200000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "molar rate of low-pressure (permeate) product from permeator",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.640000000000065,
+                "t": 486.32000000000033,
+                "r": 47.02080000000006,
+                "b": 493.5200000000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "L'",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 96.24000000000012,
+                "t": 486.8000000000004,
+                "r": 395.76960000000025,
+                "b": 506.24000000000035,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "dimensionless rate on high pressure side of the membrane, defined in eqn. (4)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.640000000000065,
+                "t": 511.0400000000003,
+                "r": 47.70240000000006,
+                "b": 518.2400000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "M",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 96.4800000000001,
+                "t": 511.28000000000037,
+                "r": 340.29960000000005,
+                "b": 518.2400000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "number of components of a multicomponent mixture",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.640000000000065,
+                "t": 523.2800000000003,
+                "r": 45.04320000000006,
+                "b": 530.4800000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "P",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 96.48000000000008,
+                "t": 523.7600000000003,
+                "r": 271.4516,
+                "b": 530.7200000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "number of vertices in the search plane",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.640000000000065,
+                "t": 535.7600000000003,
+                "r": 53.04000000000006,
+                "b": 542.9600000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "PH",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 96.00000000000006,
+                "t": 536.2400000000004,
+                "r": 297.1139999999999,
+                "b": 543.2000000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "pressure on high pressure side of membrane",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.40000000000006,
+                "t": 549.9200000000003,
+                "r": 47.07360000000006,
+                "b": 557.1200000000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "pi",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 95.76000000000008,
+                "t": 548.4800000000004,
+                "r": 396.9168000000002,
+                "b": 555.4400000000004,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "permeability coefficient of compound i in the membrane material",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.640000000000065,
+                "t": 563.3600000000004,
+                "r": 47.22720000000006,
+                "b": 570.5600000000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "pj",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.80000000000007,
+                "t": 560.9600000000004,
+                "r": 396.9247999999999,
+                "b": 580.4000000000003,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "permeability coefficient of compound j in the membrane material; j is the specified reference compound",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 35.60041427612305,
+            "t": 611.3187065124512,
+            "r": 396.4204406738281,
+            "b": 279.3999328613281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 36.48,
+              "t": 53.75999999999999,
+              "r": 49.36319999999999,
+              "b": 60.960000000000036,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "PL",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.48,
+              "t": 67.91999999999996,
+              "r": 45.57599999999999,
+              "b": 75.12,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "P,",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.959999999999994,
+              "t": 78.95999999999992,
+              "r": 57.857200000000006,
+              "b": 86.15999999999997,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "ri(K)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.71999999999999,
+              "t": 93.81599999999992,
+              "r": 43.91851999999999,
+              "b": 100.29599999999994,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "xi",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.71999999999999,
+              "t": 104.37599999999986,
+              "r": 48.505599999999994,
+              "b": 110.85599999999988,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Xii",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.71999999999999,
+              "t": 116.85599999999988,
+              "r": 52.34719999999999,
+              "b": 123.3359999999999,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "XOi",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.71999999999999,
+              "t": 130.53599999999983,
+              "r": 64.33241999999997,
+              "b": 137.01599999999985,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "XOi(C)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.71999999999999,
+              "t": 142.77599999999984,
+              "r": 69.59715999999999,
+              "b": 149.25599999999986,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "XOi (H)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.71999999999999,
+              "t": 167.49599999999987,
+              "r": 68.85208,
+              "b": 173.97599999999983,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "XOi (K)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.71999999999999,
+              "t": 179.97599999999989,
+              "r": 58.79919999999998,
+              "b": 186.45599999999985,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "x'i(L)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.71999999999999,
+              "t": 204.4559999999999,
+              "r": 69.38524,
+              "b": 210.93599999999986,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "XOi (N)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.71999999999999,
+              "t": 227.97599999999989,
+              "r": 66.75419999999998,
+              "b": 234.45599999999985,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "XOi(N')",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 36.71999999999999,
+              "t": 241.8959999999999,
+              "r": 64.55807999999999,
+              "b": 248.37599999999986,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 13,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "XOi(R)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.15999999999999,
+              "t": 266.8559999999999,
+              "r": 45.358519999999984,
+              "b": 273.33599999999984,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 13,
+            "end_row_offset_idx": 14,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "yi",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.39999999999999,
+              "t": 288.71999999999986,
+              "r": 55.00799999999999,
+              "b": 295.91999999999985,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 14,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "YEi",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 38.39999999999999,
+              "t": 313.4399999999998,
+              "r": 55.5072,
+              "b": 320.6399999999998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 15,
+            "end_row_offset_idx": 16,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "YOi",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 37.43999999999999,
+              "t": 328.5359999999999,
+              "r": 47.99807999999999,
+              "b": 335.01599999999985,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 16,
+            "end_row_offset_idx": 17,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "aij",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 93.84000000000003,
+              "t": 54.239999999999895,
+              "r": 326.63399999999984,
+              "b": 61.19999999999993,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "pressure on the low-pressure side of the membrane",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 93.84,
+              "t": 66.4799999999999,
+              "r": 201.10080000000005,
+              "b": 73.67999999999995,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "pressure ratio = PH/PL",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.32,
+              "t": 79.19999999999993,
+              "r": 392.8578000000001,
+              "b": 86.15999999999997,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "random number between 0 and 1, used to generate initial complex",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.32,
+              "t": 91.19999999999993,
+              "r": 394.3139999999999,
+              "b": 98.39999999999998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "mole fraction of compound i on high pressure side of the membrane",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.32000000000008,
+              "t": 103.67999999999995,
+              "r": 232.33680000000015,
+              "b": 110.88,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "mole fraction of i in fresh feed",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.32000000000009,
+              "t": 116.15999999999997,
+              "r": 297.0656000000001,
+              "b": 123.12,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "mole fraction of i in rejected product stream",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.3200000000001,
+              "t": 128.39999999999998,
+              "r": 384.5472000000001,
+              "b": 135.36,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "centroid of the XOi except the rejected one defined by eqn. (10)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.3200000000001,
+              "t": 140.64,
+              "r": 394.75320000000016,
+              "b": 160.07999999999998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "assumed high value of XOi used in the generation of the initial complex",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.08000000000011,
+              "t": 165.36,
+              "r": 337.9968000000001,
+              "b": 172.32,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "XOi vectors in initial complex, calculated by eqn. (9 )",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.3200000000001,
+              "t": 177.60000000000002,
+              "r": 394.75320000000016,
+              "b": 197.04000000000002,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "assumed low value of XOi used in the generation of the initial complex",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.3200000000001,
+              "t": 202.32000000000005,
+              "r": 394.60800000000006,
+              "b": 223.20000000000005,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "new XOi vector which replaces the rejected one, calculated by eqn. (II)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.3200000000001,
+              "t": 227.2800000000001,
+              "r": 378.7200000000001,
+              "b": 238.56000000000012,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "new XOi vector found by contracting XOi (N) using eqn. (12 )",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.3200000000001,
+              "t": 239.5200000000001,
+              "r": 393.34639999999996,
+              "b": 258.7200000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 12,
+            "end_row_offset_idx": 13,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "the XOi vector that gives the current worst value of the objective function. It is replaced by XOi (N)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.56000000000006,
+              "t": 264.0000000000001,
+              "r": 394.8,
+              "b": 283.4400000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 13,
+            "end_row_offset_idx": 14,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "mole fraction of compound i on the low pressure side of the membrane",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.32,
+              "t": 288.48000000000013,
+              "r": 394.04639999999995,
+              "b": 308.16000000000014,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 14,
+            "end_row_offset_idx": 15,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "mole fraction of compound i on the low pressure side of the mem- brane at the reject end for countercurrent flow",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.56,
+              "t": 313.20000000000016,
+              "r": 392.34559999999993,
+              "b": 320.40000000000015,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 15,
+            "end_row_offset_idx": 16,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "mole fraction of i in the low pressure (permeate) product stream",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.32,
+              "t": 325.6800000000002,
+              "r": 393.8352,
+              "b": 346.9800000000002,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 16,
+            "end_row_offset_idx": 17,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "ideal separation factor for component i relative to component j, Pi/Fj",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.32,
+              "t": 350.6400000000002,
+              "r": 359.01780000000014,
+              "b": 357.6000000000002,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 17,
+            "end_row_offset_idx": 18,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "the over-reflection parameter used to enlarge the complex",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.80000000000001,
+              "t": 363.12000000000023,
+              "r": 188.84159999999994,
+              "b": 370.0800000000002,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 18,
+            "end_row_offset_idx": 19,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "membrane thickness",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 94.56,
+              "t": 375.12000000000023,
+              "r": 224.39999999999998,
+              "b": 382.3200000000002,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 19,
+            "end_row_offset_idx": 20,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "overall stage cut = LLO/LHI",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 20,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 36.48,
+                "t": 53.75999999999999,
+                "r": 49.36319999999999,
+                "b": 60.960000000000036,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "PL",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 93.84000000000003,
+                "t": 54.239999999999895,
+                "r": 326.63399999999984,
+                "b": 61.19999999999993,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "pressure on the low-pressure side of the membrane",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.48,
+                "t": 67.91999999999996,
+                "r": 45.57599999999999,
+                "b": 75.12,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "P,",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 93.84,
+                "t": 66.4799999999999,
+                "r": 201.10080000000005,
+                "b": 73.67999999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "pressure ratio = PH/PL",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.959999999999994,
+                "t": 78.95999999999992,
+                "r": 57.857200000000006,
+                "b": 86.15999999999997,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "ri(K)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.32,
+                "t": 79.19999999999993,
+                "r": 392.8578000000001,
+                "b": 86.15999999999997,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "random number between 0 and 1, used to generate initial complex",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.71999999999999,
+                "t": 93.81599999999992,
+                "r": 43.91851999999999,
+                "b": 100.29599999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "xi",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.32,
+                "t": 91.19999999999993,
+                "r": 394.3139999999999,
+                "b": 98.39999999999998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "mole fraction of compound i on high pressure side of the membrane",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.71999999999999,
+                "t": 104.37599999999986,
+                "r": 48.505599999999994,
+                "b": 110.85599999999988,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Xii",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.32000000000008,
+                "t": 103.67999999999995,
+                "r": 232.33680000000015,
+                "b": 110.88,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "mole fraction of i in fresh feed",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.71999999999999,
+                "t": 116.85599999999988,
+                "r": 52.34719999999999,
+                "b": 123.3359999999999,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "XOi",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.32000000000009,
+                "t": 116.15999999999997,
+                "r": 297.0656000000001,
+                "b": 123.12,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "mole fraction of i in rejected product stream",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.71999999999999,
+                "t": 130.53599999999983,
+                "r": 64.33241999999997,
+                "b": 137.01599999999985,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "XOi(C)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.3200000000001,
+                "t": 128.39999999999998,
+                "r": 384.5472000000001,
+                "b": 135.36,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "centroid of the XOi except the rejected one defined by eqn. (10)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.71999999999999,
+                "t": 142.77599999999984,
+                "r": 69.59715999999999,
+                "b": 149.25599999999986,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "XOi (H)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.3200000000001,
+                "t": 140.64,
+                "r": 394.75320000000016,
+                "b": 160.07999999999998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "assumed high value of XOi used in the generation of the initial complex",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.71999999999999,
+                "t": 167.49599999999987,
+                "r": 68.85208,
+                "b": 173.97599999999983,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "XOi (K)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.08000000000011,
+                "t": 165.36,
+                "r": 337.9968000000001,
+                "b": 172.32,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "XOi vectors in initial complex, calculated by eqn. (9 )",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.71999999999999,
+                "t": 179.97599999999989,
+                "r": 58.79919999999998,
+                "b": 186.45599999999985,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "x'i(L)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.3200000000001,
+                "t": 177.60000000000002,
+                "r": 394.75320000000016,
+                "b": 197.04000000000002,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "assumed low value of XOi used in the generation of the initial complex",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.71999999999999,
+                "t": 204.4559999999999,
+                "r": 69.38524,
+                "b": 210.93599999999986,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "XOi (N)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.3200000000001,
+                "t": 202.32000000000005,
+                "r": 394.60800000000006,
+                "b": 223.20000000000005,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "new XOi vector which replaces the rejected one, calculated by eqn. (II)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.71999999999999,
+                "t": 227.97599999999989,
+                "r": 66.75419999999998,
+                "b": 234.45599999999985,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "XOi(N')",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.3200000000001,
+                "t": 227.2800000000001,
+                "r": 378.7200000000001,
+                "b": 238.56000000000012,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "new XOi vector found by contracting XOi (N) using eqn. (12 )",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 36.71999999999999,
+                "t": 241.8959999999999,
+                "r": 64.55807999999999,
+                "b": 248.37599999999986,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "XOi(R)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.3200000000001,
+                "t": 239.5200000000001,
+                "r": 393.34639999999996,
+                "b": 258.7200000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 12,
+              "end_row_offset_idx": 13,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "the XOi vector that gives the current worst value of the objective function. It is replaced by XOi (N)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.15999999999999,
+                "t": 266.8559999999999,
+                "r": 45.358519999999984,
+                "b": 273.33599999999984,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "yi",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.56000000000006,
+                "t": 264.0000000000001,
+                "r": 394.8,
+                "b": 283.4400000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 13,
+              "end_row_offset_idx": 14,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "mole fraction of compound i on the low pressure side of the membrane",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.39999999999999,
+                "t": 288.71999999999986,
+                "r": 55.00799999999999,
+                "b": 295.91999999999985,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "YEi",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.32,
+                "t": 288.48000000000013,
+                "r": 394.04639999999995,
+                "b": 308.16000000000014,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 14,
+              "end_row_offset_idx": 15,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "mole fraction of compound i on the low pressure side of the mem- brane at the reject end for countercurrent flow",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 38.39999999999999,
+                "t": 313.4399999999998,
+                "r": 55.5072,
+                "b": 320.6399999999998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 16,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "YOi",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.56,
+                "t": 313.20000000000016,
+                "r": 392.34559999999993,
+                "b": 320.40000000000015,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 15,
+              "end_row_offset_idx": 16,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "mole fraction of i in the low pressure (permeate) product stream",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 37.43999999999999,
+                "t": 328.5359999999999,
+                "r": 47.99807999999999,
+                "b": 335.01599999999985,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 16,
+              "end_row_offset_idx": 17,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "aij",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.32,
+                "t": 325.6800000000002,
+                "r": 393.8352,
+                "b": 346.9800000000002,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 16,
+              "end_row_offset_idx": 17,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "ideal separation factor for component i relative to component j, Pi/Fj",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 17,
+              "end_row_offset_idx": 18,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.32,
+                "t": 350.6400000000002,
+                "r": 359.01780000000014,
+                "b": 357.6000000000002,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 17,
+              "end_row_offset_idx": 18,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "the over-reflection parameter used to enlarge the complex",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 18,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.80000000000001,
+                "t": 363.12000000000023,
+                "r": 188.84159999999994,
+                "b": 370.0800000000002,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 18,
+              "end_row_offset_idx": 19,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "membrane thickness",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 20,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 94.56,
+                "t": 375.12000000000023,
+                "r": 224.39999999999998,
+                "b": 382.3200000000002,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 19,
+              "end_row_offset_idx": 20,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "overall stage cut = LLO/LHI",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 432.0,
+        "height": 666.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 432.0,
+        "height": 666.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 432.0,
+        "height": 666.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 432.0,
+        "height": 666.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 432.0,
+        "height": 666.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 436.0,
+        "height": 668.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 432.0,
+        "height": 666.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 432.0,
+        "height": 666.0
+      },
+      "page_no": 8
+    }
+  }
+}

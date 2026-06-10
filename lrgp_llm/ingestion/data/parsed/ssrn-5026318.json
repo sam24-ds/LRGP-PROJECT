@@ -1,0 +1,3959 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "ssrn-5026318",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9623967364457333324,
+    "filename": "ssrn-5026318.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/88"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.84,
+            "t": 403.1029877929688,
+            "r": 72.594,
+            "b": 395.53289688387787,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.84,
+            "t": 381.28698779296883,
+            "r": 506.97,
+            "b": 296.4979877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            948
+          ]
+        }
+      ],
+      "orig": "This study examines a Direct Air Capture (DAC) process that employs a monoethanolamine (MEA) absorption process, further optimized through the integration of heat pump modifications, including Lean Vapor Compression (LVC) and Stripper Overhead Compression  (SOC),  in  the  regeneration  stage  to  reduce  reboiler  requirements.  The  process  is  modeled  using  Aspen  Plus, incorporating the CCSI model, which has been validated to suit the specific environmental conditions associated with DAC. A techno-economic analysis was carried out to compare the performance of LVC and SOC with a conventional regeneration process. Heat pump modifications allow a global reduction of energy requirement, with a reboiler duty reduced by -27% for LVC and -57% for SOC compared to a conventional regeneration. Due to additional capital investment of LVC and SOC, the capture cost is similar to the conventional regeneration and remains high (>1000 \u20ac/tCO2)",
+      "text": "This study examines a Direct Air Capture (DAC) process that employs a monoethanolamine (MEA) absorption process, further optimized through the integration of heat pump modifications, including Lean Vapor Compression (LVC) and Stripper Overhead Compression  (SOC),  in  the  regeneration  stage  to  reduce  reboiler  requirements.  The  process  is  modeled  using  Aspen  Plus, incorporating the CCSI model, which has been validated to suit the specific environmental conditions associated with DAC. A techno-economic analysis was carried out to compare the performance of LVC and SOC with a conventional regeneration process. Heat pump modifications allow a global reduction of energy requirement, with a reboiler duty reduced by -27% for LVC and -57% for SOC compared to a conventional regeneration. Due to additional capital investment of LVC and SOC, the capture cost is similar to the conventional regeneration and remains high (>1000 \u20ac/tCO2)"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.84,
+            "t": 281.86974779296884,
+            "r": 363.07,
+            "b": 274.9373187020597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "Keywords: Direct Air Capture, amine-based absorption, monoethanolamine, carbon dioxide removal.",
+      "text": "Keywords: Direct Air Capture, amine-based absorption, monoethanolamine, carbon dioxide removal."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.84,
+            "t": 248.92290779296877,
+            "r": 104.14999999999999,
+            "b": 240.54534052024155,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.84,
+            "t": 225.44226779296878,
+            "r": 507.17256000000003,
+            "b": 113.28670779296874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1064
+          ]
+        }
+      ],
+      "orig": "Climate change has become a critical issue in recent decades and is attributed to increased levels of greenhouse gases (GHG), particularly CO2, in the atmosphere. Carbon dioxide removal (CDR) solutions, which remove CO2 from the  atmosphere  and  store  it  permanently,  have  recently  gained  interest  in  the  pursuit  of  carbon  neutrality.  The advantages of CDR over post-combustion capture are that the capture site is decoupled from the emission site, without the need to adapt the process that emits CO2, giving CDR a key role in the decarbonization of hard-to-abate sectors such as aviation, agriculture, and shipping. Among these CDR technologies, Direct Air Capture (DAC) is developing rapidly  and  could  represent  a  capture  capacity  of  1  GtCO2/yr  in  2050,  based  on  the  Net-Zero  Scenario  of  the International Energy Agency [1]. Today, development is mainly based on absorption and adsorption separation of CO2 from other air components, but new separation techniques based on electrochemistry and membranes are also emerging [2, 3].",
+      "text": "Climate change has become a critical issue in recent decades and is attributed to increased levels of greenhouse gases (GHG), particularly CO2, in the atmosphere. Carbon dioxide removal (CDR) solutions, which remove CO2 from the  atmosphere  and  store  it  permanently,  have  recently  gained  interest  in  the  pursuit  of  carbon  neutrality.  The advantages of CDR over post-combustion capture are that the capture site is decoupled from the emission site, without the need to adapt the process that emits CO2, giving CDR a key role in the decarbonization of hard-to-abate sectors such as aviation, agriculture, and shipping. Among these CDR technologies, Direct Air Capture (DAC) is developing rapidly  and  could  represent  a  capture  capacity  of  1  GtCO2/yr  in  2050,  based  on  the  Net-Zero  Scenario  of  the International Energy Agency [1]. Today, development is mainly based on absorption and adsorption separation of CO2 from other air components, but new separation techniques based on electrochemistry and membranes are also emerging [2, 3]."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.72,
+            "t": 98.46226779296876,
+            "r": 504.79668000000004,
+            "b": 89.88670779296876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "Among all the CO2 capture technologies developed for both DAC and industrial flue gases, post-combustion amine-",
+      "text": "Among all the CO2 capture technologies developed for both DAC and industrial flue gases, post-combustion amine-"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.84,
+            "t": 72.65062779296875,
+            "r": 347.8,
+            "b": 63.00429324751428,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "*  Corresponding author. E-mail address: paul.de-joannis-de-verclos@edf.fr",
+      "text": "*  Corresponding author. E-mail address: paul.de-joannis-de-verclos@edf.fr"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 72.384,
+            "t": 603.1359877929689,
+            "r": 479.04,
+            "b": 592.8039877929689,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "17th International Conference on Greenhouse Gas Control Technologies, GHGT-17",
+      "text": "17th International Conference on Greenhouse Gas Control Technologies, GHGT-17"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 173.57,
+            "t": 579.1359877929689,
+            "r": 377.86,
+            "b": 568.8039877929689,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "20th -24th October 2024 Calgary, Canada",
+      "text": "20th -24th October 2024 Calgary, Canada"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 52.344,
+            "t": 552.1487077929688,
+            "r": 493.254,
+            "b": 517.4072677929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Direct Air Capture by Monoethanolamine Absorption with Heat Pump Enhancements",
+      "text": "Direct Air Capture by Monoethanolamine Absorption with Heat Pump Enhancements",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.544,
+            "t": 502.8943477929688,
+            "r": 488.2528000000001,
+            "b": 475.2527077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 145.22,
+            "t": 464.84774779296885,
+            "r": 398.23,
+            "b": 447.0373187020597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            120,
+            240
+          ]
+        }
+      ],
+      "orig": "Paul de Joannis a,b,* , Christophe Castel b , Mohamed Kanniche a , Eric Favre b , Nicolas Jourdan a , Olivier Authier a a EDF R&D, 6 quai Watier, 78000 Chatou, France b LRGP-CNRS Universit\u00e9 de Lorraine, 1 rue Grandville, 54001 Nancy, France",
+      "text": "Paul de Joannis a,b,* , Christophe Castel b , Mohamed Kanniche a , Eric Favre b , Nicolas Jourdan a , Olivier Authier a a EDF R&D, 6 quai Watier, 78000 Chatou, France b LRGP-CNRS Universit\u00e9 de Lorraine, 1 rue Grandville, 54001 Nancy, France"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 131.955,
+            "t": 17.179987792968745,
+            "r": 412.3649999999997,
+            "b": 7.9299877929687455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Electronic copy available at: https://ssrn.com/abstract=5026318",
+      "text": "Electronic copy available at: https://ssrn.com/abstract=5026318"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 228.77,
+            "t": 694.7397477929687,
+            "r": 317.68,
+            "b": 687.8073187020597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "GHGT-17 de Joannis et al.",
+      "text": "GHGT-17 de Joannis et al."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 493.68,
+            "t": 694.7317077929688,
+            "r": 497.7,
+            "b": 687.8092677929687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.84,
+            "t": 673.0022677929688,
+            "r": 507.21000000000004,
+            "b": 606.9467077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            667
+          ]
+        }
+      ],
+      "orig": "based absorption is the most mature with an established commercial supply. In the electricity sector, these technologies have already been demonstrated at large scale (> 1 MtCO2/yr) at the Boundary Dam (Canada, since 2014) and Petra Nova (US, since 2017) coal-fired power plants. Based on the knowledge and experience of the amine-based CO2 capture process, this study investigates a DAC process using the well-known monoethanolamine (MEA) absorption process[4], further enhanced by integrating heat pump modifications such as Lean Vapor Compression (LVC) and Stripper Overhead Compression (SOC) in the regeneration stage to significantly reduce reboiler consumption.",
+      "text": "based absorption is the most mature with an established commercial supply. In the electricity sector, these technologies have already been demonstrated at large scale (> 1 MtCO2/yr) at the Boundary Dam (Canada, since 2014) and Petra Nova (US, since 2017) coal-fired power plants. Based on the knowledge and experience of the amine-based CO2 capture process, this study investigates a DAC process using the well-known monoethanolamine (MEA) absorption process[4], further enhanced by integrating heat pump modifications such as Lean Vapor Compression (LVC) and Stripper Overhead Compression (SOC) in the regeneration stage to significantly reduce reboiler consumption."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.84,
+            "t": 591.6029077929688,
+            "r": 105.83,
+            "b": 583.2253405202415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "2. Methodology",
+      "text": "2. Methodology",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.84,
+            "t": 567.7622677929688,
+            "r": 507.18528000000003,
+            "b": 523.1567077929689,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            436
+          ]
+        }
+      ],
+      "orig": "The question raised by this work is: what would be the effect of heat pump modifications on the regeneration energy and cost of capture for a Direct Air Capture process using 30%wt. MEA (called as MEA-DAC) as solvent? To do  this,  the  work  compares  the  conventional  regeneration  configuration  with  two  heat  pump-type  regeneration modifications: Lean Vapor Compression (LVC) and Stripper Overhead Compression (see Figure 1 ).",
+      "text": "The question raised by this work is: what would be the effect of heat pump modifications on the regeneration energy and cost of capture for a Direct Air Capture process using 30%wt. MEA (called as MEA-DAC) as solvent? To do  this,  the  work  compares  the  conventional  regeneration  configuration  with  two  heat  pump-type  regeneration modifications: Lean Vapor Compression (LVC) and Stripper Overhead Compression (see Figure 1 )."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.84,
+            "t": 507.7322677929688,
+            "r": 507.21000000000004,
+            "b": 379.1367077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1244
+          ]
+        }
+      ],
+      "orig": "The general principle of LVC is that the lean solvent at saturated liquid phase exiting the stripper is expanded, close to  atmospheric  pressure  in  our  case,  to  produce  vapor [5] .  The  process  involves  separating  the  liquid  and  vapor fractions  in  a  flash  vessel.  The  resulting  liquid  fraction  is  then  sent  to  the  economizer,  while  the  vapor  fraction, consisting mainly of H2O and CO2, is compressed to the stripper pressure, and then combined with a portion of the 30\u00b0C reflux (from the condenser) to limit the temperature to 121\u00b0C and is finally injected at the bottom of the stripper ( Fig. 1 b ). The general principle of SOC is that the gas stream leaving the top of the stripper is compressed without prior water condensation. The high-pressure gas stream is partially condensed at high pressure and the heat released by condensation is used to provide heat for the reboiler. The condensate is separated in a flash vessel ( Fig. 1 c ). A new SOC stage can be added downstream if the techno-economic analysis is favorable. This study investigates the number of 2 SOC stages in series. Finally, the gaseous stream is cooled to 30\u00b0C, purified and compressed to 150 bars in a Compression and Purification Unit.",
+      "text": "The general principle of LVC is that the lean solvent at saturated liquid phase exiting the stripper is expanded, close to  atmospheric  pressure  in  our  case,  to  produce  vapor [5] .  The  process  involves  separating  the  liquid  and  vapor fractions  in  a  flash  vessel.  The  resulting  liquid  fraction  is  then  sent  to  the  economizer,  while  the  vapor  fraction, consisting mainly of H2O and CO2, is compressed to the stripper pressure, and then combined with a portion of the 30\u00b0C reflux (from the condenser) to limit the temperature to 121\u00b0C and is finally injected at the bottom of the stripper ( Fig. 1 b ). The general principle of SOC is that the gas stream leaving the top of the stripper is compressed without prior water condensation. The high-pressure gas stream is partially condensed at high pressure and the heat released by condensation is used to provide heat for the reboiler. The condensate is separated in a flash vessel ( Fig. 1 c ). A new SOC stage can be added downstream if the techno-economic analysis is favorable. This study investigates the number of 2 SOC stages in series. Finally, the gaseous stream is cooled to 30\u00b0C, purified and compressed to 150 bars in a Compression and Purification Unit."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.584,
+            "t": 357.7122677929688,
+            "r": 69.11399999999999,
+            "b": 349.1367077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(a)",
+      "text": "(a)"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 296.59,
+            "t": 357.9522677929688,
+            "r": 310.72,
+            "b": 349.37670779296883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(b)",
+      "text": "(b)"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 131.955,
+            "t": 17.179987792968745,
+            "r": 412.3649999999997,
+            "b": 7.9299877929687455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Electronic copy available at: https://ssrn.com/abstract=5026318",
+      "text": "Electronic copy available at: https://ssrn.com/abstract=5026318"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 228.77,
+            "t": 694.7397477929687,
+            "r": 317.68,
+            "b": 687.8073187020597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "GHGT-17 de Joannis et al.",
+      "text": "GHGT-17 de Joannis et al."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 493.68,
+            "t": 694.7317077929688,
+            "r": 497.7,
+            "b": 687.8092677929687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.84,
+            "t": 493.80974779296884,
+            "r": 506.02179999999987,
+            "b": 477.47580597478697,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "Fig. 1.  Monoethanolamine Direct Air Capture absorption process (MEA-DAC) with (a) conventional regeneration, (b) Lean Vapor Compression (LVC), and (c) Stripper Overhead Compression (SOC).",
+      "text": "Fig. 1.  Monoethanolamine Direct Air Capture absorption process (MEA-DAC) with (a) conventional regeneration, (b) Lean Vapor Compression (LVC), and (c) Stripper Overhead Compression (SOC)."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 55.464,
+            "t": 658.9622677929688,
+            "r": 68.994,
+            "b": 650.3867077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(c)",
+      "text": "(c)"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.84,
+            "t": 465.37226779296884,
+            "r": 507.21000000000004,
+            "b": 368.6967077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            952
+          ]
+        }
+      ],
+      "orig": "The MEA-DAC process is modelled using Aspen Plus (V14) [6], which incorporates a newly validated DAC absorption model, and CAPEX are estimated with Aspen Process Economic Analyzer. The process model is based on the  MEA steady-state  model developed  by  the  National  Energy  Technology Laboratory's  (NETL)  project  called Carbon Capture Simulation for Industry Impact (CCSI 2 ) [7-9]. This model was previously developed for an aqueous monoethanolamine  solvent-based  (30%wt.)  CO2  capture  system  using  structured  MellapakPlus  252Y  (MP252Y) packing and was rigorously validated against a pilot system and industrial flue gas at the National Carbon Capture Center [10, 11]. The physicochemical properties were validated against experimental data under very low CO2 partial pressure conditions. As shown in Figure 2 , the model fits the experimental data well at 25\u00b0C and 40\u00b0C close to the atmospheric CO2 partial pressure (~40 Pa) [12, 13].",
+      "text": "The MEA-DAC process is modelled using Aspen Plus (V14) [6], which incorporates a newly validated DAC absorption model, and CAPEX are estimated with Aspen Process Economic Analyzer. The process model is based on the  MEA steady-state  model developed  by  the  National  Energy  Technology Laboratory's  (NETL)  project  called Carbon Capture Simulation for Industry Impact (CCSI 2 ) [7-9]. This model was previously developed for an aqueous monoethanolamine  solvent-based  (30%wt.)  CO2  capture  system  using  structured  MellapakPlus  252Y  (MP252Y) packing and was rigorously validated against a pilot system and industrial flue gas at the National Carbon Capture Center [10, 11]. The physicochemical properties were validated against experimental data under very low CO2 partial pressure conditions. As shown in Figure 2 , the model fits the experimental data well at 25\u00b0C and 40\u00b0C close to the atmospheric CO2 partial pressure (~40 Pa) [12, 13]."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.84,
+            "t": 175.75974779296882,
+            "r": 473.25,
+            "b": 168.82731870205976,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Fig. 2.  CO2 liquid-vapor equilibrium of the MEA steady-state model compared to experimental data, at 25\u00b0C and 40\u00b0C, 3O%wt. MEA.",
+      "text": "Fig. 2.  CO2 liquid-vapor equilibrium of the MEA steady-state model compared to experimental data, at 25\u00b0C and 40\u00b0C, 3O%wt. MEA."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 125.38,
+            "t": 262.3899877929688,
+            "r": 130.97728,
+            "b": 251.34998779296882,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 119.81,
+            "t": 279.97998779296876,
+            "r": 130.92726000000002,
+            "b": 268.9399877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "50",
+      "text": "50"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.24,
+            "t": 297.5799877929688,
+            "r": 130.98767999999998,
+            "b": 286.5399877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.24,
+            "t": 315.1879877929688,
+            "r": 130.979832,
+            "b": 304.12398779296876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "150",
+      "text": "150"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.24,
+            "t": 332.73998779296875,
+            "r": 130.98767999999998,
+            "b": 321.6999877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "200",
+      "text": "200"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 114.24,
+            "t": 350.3299877929688,
+            "r": 130.98767999999998,
+            "b": 339.2899877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "250",
+      "text": "250"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 138.38,
+            "t": 248.08998779296883,
+            "r": 143.97728,
+            "b": 237.0499877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 191.95,
+            "t": 248.08998779296883,
+            "r": 205.93768000000003,
+            "b": 237.0499877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.1",
+      "text": "0.1"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 249.7,
+            "t": 248.08998779296883,
+            "r": 263.68768,
+            "b": 237.0499877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.2",
+      "text": "0.2"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 307.46,
+            "t": 248.08998779296883,
+            "r": 321.44768000000005,
+            "b": 237.0499877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.3",
+      "text": "0.3"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 365.21,
+            "t": 248.08998779296883,
+            "r": 379.19768000000005,
+            "b": 237.0499877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.4",
+      "text": "0.4"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 422.95,
+            "t": 248.08998779296883,
+            "r": 436.93768000000006,
+            "b": 237.0499877929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.5",
+      "text": "0.5"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 98.97999587896001,
+            "t": 342.15998792496873,
+            "r": 110.98,
+            "b": 227.49998739696878,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "CO2 partial pressure, Pa",
+      "text": "CO2 partial pressure, Pa"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 218.09,
+            "t": 231.40998779296876,
+            "r": 352.96599999999995,
+            "b": 219.40998779296876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Loading, mol-CO2/mol-MEA",
+      "text": "Loading, mol-CO2/mol-MEA"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 113.14,
+            "t": 211.77998779296877,
+            "r": 220.20783999999995,
+            "b": 201.21998779296882,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "CCSI model, 40\u00b0C, 30%wt",
+      "text": "CCSI model, 40\u00b0C, 30%wt"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 246.17,
+            "t": 211.77998779296877,
+            "r": 319.65704,
+            "b": 201.21998779296882,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "Aronu et al. 2011",
+      "text": "Aronu et al. 2011"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 379.2,
+            "t": 211.77998779296877,
+            "r": 440.80704000000003,
+            "b": 201.21998779296882,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Jou et al. 1995",
+      "text": "Jou et al. 1995"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 113.14,
+            "t": 197.7599877929688,
+            "r": 220.20783999999995,
+            "b": 187.19998779296884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "CCSI model, 25\u00b0C, 30%wt",
+      "text": "CCSI model, 25\u00b0C, 30%wt"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 246.17,
+            "t": 197.7599877929688,
+            "r": 307.77704000000006,
+            "b": 187.19998779296884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Jou et al. 1995",
+      "text": "Jou et al. 1995"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.84,
+            "t": 156.56226779296878,
+            "r": 507.12556000000006,
+            "b": 93.00670779296877,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            617
+          ]
+        }
+      ],
+      "orig": "The technical and economic performances of the three MEA-DAC processes were investigated in a base case scenario that regroups the main operational parameters for the simulations (see Figure 3 ). Technical and operating points are based on conditions that are close to what is usually used in flue gas capture to ensure a robust used of the CCSI  model.  Moreover,  the  air  temperature  and  relative  humidity  considered  in  this  paper  are  15\u00b0C  and  80%, respectively. A wash-water section is added above the absorption column to ensure a limitation of the MEA outlet concentration lower than 1 ppm MEA [14].",
+      "text": "The technical and economic performances of the three MEA-DAC processes were investigated in a base case scenario that regroups the main operational parameters for the simulations (see Figure 3 ). Technical and operating points are based on conditions that are close to what is usually used in flue gas capture to ensure a robust used of the CCSI  model.  Moreover,  the  air  temperature  and  relative  humidity  considered  in  this  paper  are  15\u00b0C  and  80%, respectively. A wash-water section is added above the absorption column to ensure a limitation of the MEA outlet concentration lower than 1 ppm MEA [14]."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 131.955,
+            "t": 17.179987792968745,
+            "r": 412.3649999999997,
+            "b": 7.9299877929687455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Electronic copy available at: https://ssrn.com/abstract=5026318",
+      "text": "Electronic copy available at: https://ssrn.com/abstract=5026318"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 228.77,
+            "t": 694.7397477929687,
+            "r": 317.68,
+            "b": 687.8073187020597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "GHGT-17 de Joannis et al.",
+      "text": "GHGT-17 de Joannis et al."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 493.68,
+            "t": 694.7317077929688,
+            "r": 497.7,
+            "b": 687.8092677929687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.84,
+            "t": 516.3697477929688,
+            "r": 282.88,
+            "b": 509.4373187020597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Fig. 3. Operational parameter of the base case scenario for the simulations.",
+      "text": "Fig. 3. Operational parameter of the base case scenario for the simulations."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.84,
+            "t": 494.2529077929688,
+            "r": 145.31,
+            "b": 485.87534052024154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "3. Results and discussion",
+      "text": "3. Results and discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.84,
+            "t": 470.4122677929688,
+            "r": 507.17028000000005,
+            "b": 449.8367077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "The  results  of  mass  and  energy  balance,  and  cost  of  capture  of  the  simulations  for  the  three  MEA-DAC  are displayed in Table 1 .",
+      "text": "The  results  of  mass  and  energy  balance,  and  cost  of  capture  of  the  simulations  for  the  three  MEA-DAC  are displayed in Table 1 ."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.864,
+            "t": 436.68170779296884,
+            "r": 256.34000000000003,
+            "b": 429.7592677929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Table 1. Mass and energy balance, and cost of capture.",
+      "text": "Table 1. Mass and energy balance, and cost of capture."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.84,
+            "t": 304.9122677929688,
+            "r": 507.14236000000034,
+            "b": 272.3367077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "The water loss and MEA loss are similar for the three configurations since the difference is only in the regeneration part. The water loss is high almost five time more water loss per CO2 captured, this is expected to become even greater as air temperature rises and relative humidity falls.",
+      "text": "The water loss and MEA loss are similar for the three configurations since the difference is only in the regeneration part. The water loss is high almost five time more water loss per CO2 captured, this is expected to become even greater as air temperature rises and relative humidity falls."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.84,
+            "t": 268.88226779296883,
+            "r": 509.73,
+            "b": 224.30670779296884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            437
+          ]
+        }
+      ],
+      "orig": "The heat pump modifications allow a large reduction of the heat requirement of the reboiler duty, with -29% and -57% reduction for LVC and SOC, respectively, compared to conventional regeneration. The increase in electricity consumption linked to the use of compressors for LVC and SOC is low, which means that regeneration requires less energy (heat and electricity) for LVC and SOC. SOC shows the best reduction in regeneration energy.",
+      "text": "The heat pump modifications allow a large reduction of the heat requirement of the reboiler duty, with -29% and -57% reduction for LVC and SOC, respectively, compared to conventional regeneration. The increase in electricity consumption linked to the use of compressors for LVC and SOC is low, which means that regeneration requires less energy (heat and electricity) for LVC and SOC. SOC shows the best reduction in regeneration energy."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.84,
+            "t": 220.88226779296883,
+            "r": 507.1828800000001,
+            "b": 200.30670779296884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "Due to the large volume of air to be pushed through the absorption column and high pressure drop (2.9 kPa) using conventional packing (MP252Y), the electricity requirement is high.",
+      "text": "Due to the large volume of air to be pushed through the absorption column and high pressure drop (2.9 kPa) using conventional packing (MP252Y), the electricity requirement is high."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.84,
+            "t": 196.88226779296883,
+            "r": 507.21000000000004,
+            "b": 152.30670779296884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            369
+          ]
+        }
+      ],
+      "orig": "The cost of capture remains high for the three configurations (>1000 \u20ac/tCO2). The cost is only slightly lower for LVC and SOC configurations meaning that the energy gain is balanced by a CAPEX penalty due to LVC and SOC modifications in the regeneration process. The MEA-DAC is typically CAPEX intensive with about 60% of capture cost is capital-related (see Figure 4).",
+      "text": "The cost of capture remains high for the three configurations (>1000 \u20ac/tCO2). The cost is only slightly lower for LVC and SOC configurations meaning that the energy gain is balanced by a CAPEX penalty due to LVC and SOC modifications in the regeneration process. The MEA-DAC is typically CAPEX intensive with about 60% of capture cost is capital-related (see Figure 4)."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 131.955,
+            "t": 17.179987792968745,
+            "r": 412.3649999999997,
+            "b": 7.9299877929687455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Electronic copy available at: https://ssrn.com/abstract=5026318",
+      "text": "Electronic copy available at: https://ssrn.com/abstract=5026318"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 228.77,
+            "t": 694.7397477929687,
+            "r": 317.68,
+            "b": 687.8073187020597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "GHGT-17 de Joannis et al.",
+      "text": "GHGT-17 de Joannis et al."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 493.68,
+            "t": 694.7317077929688,
+            "r": 497.7,
+            "b": 687.8092677929687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 521.8897477929687,
+            "r": 277.0,
+            "b": 514.9573187020596,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Fig. 4. Typical distribution of the capture cost for the three configurations.",
+      "text": "Fig. 4. Typical distribution of the capture cost for the three configurations."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 499.7729077929688,
+            "r": 97.434,
+            "b": 491.3953405202415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "4. Conclusion",
+      "text": "4. Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 475.9322677929688,
+            "r": 507.0887200000003,
+            "b": 455.3567077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "Simulations, using the CCSI model for DAC conditions, have been performed to evaluate the performance of MEA absorption-based processes with heat pump integrations.",
+      "text": "Simulations, using the CCSI model for DAC conditions, have been performed to evaluate the performance of MEA absorption-based processes with heat pump integrations."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 48.72,
+            "t": 451.9322677929688,
+            "r": 204.26000000000002,
+            "b": 443.3567077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "The main results and perspectives are:",
+      "text": "The main results and perspectives are:"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.744,
+            "t": 439.9322677929688,
+            "r": 506.8693600000007,
+            "b": 407.3567077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            212
+          ]
+        }
+      ],
+      "orig": "\u00b7 High solvent (water and MEA) evaporation of the process in air condition could cause environmental concerns.  Replacing  MEA  with  an  environmentally  friendly  solvent  would  reduce  environmental concerns.",
+      "text": "High solvent (water and MEA) evaporation of the process in air condition could cause environmental concerns.  Replacing  MEA  with  an  environmentally  friendly  solvent  would  reduce  environmental concerns.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.744,
+            "t": 403.9122677929688,
+            "r": 507.0259600000003,
+            "b": 359.3367077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            380
+          ]
+        }
+      ],
+      "orig": "\u00b7 Heat pump modifications allow a reduction of the reboiler duty, especially for the SOC with 2 stages in series with a -57% reduction. Electricity requirement is only slightly impacted by the compression of the heat pumps modifications. Heat pump enhancements allow a global reduction of the energy requirement, especially with carbon-free, dispatchable and low-cost electricity.",
+      "text": "Heat pump modifications allow a reduction of the reboiler duty, especially for the SOC with 2 stages in series with a -57% reduction. Electricity requirement is only slightly impacted by the compression of the heat pumps modifications. Heat pump enhancements allow a global reduction of the energy requirement, especially with carbon-free, dispatchable and low-cost electricity.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.744,
+            "t": 355.9122677929688,
+            "r": 506.8789600000005,
+            "b": 323.3367077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "\u00b7 Electricity requirement is high due to the large volume of air to be pushed through the absorption column and high-pressure drop using conventional packing. Development of new packing with lower pressure drop would be beneficial.",
+      "text": "Electricity requirement is high due to the large volume of air to be pushed through the absorption column and high-pressure drop using conventional packing. Development of new packing with lower pressure drop would be beneficial.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.744,
+            "t": 319.9122677929688,
+            "r": 507.15364000000017,
+            "b": 299.3367077929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "\u00b7 Capture cost remains high, with a process being CAPEX intensive. New packing development and column structure with cheaper material would help to reduce the capital cost.",
+      "text": "Capture cost remains high, with a process being CAPEX intensive. New packing development and column structure with cheaper material would help to reduce the capital cost.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 283.7529077929688,
+            "r": 86.03399999999999,
+            "b": 275.37534052024154,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 260.5997477929688,
+            "r": 395.73087999999996,
+            "b": 243.1092677929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "[1] IEA. (2020). Net Zero Emissions by 2050 Scenario (NZE) - Global Energy and Climate Model - Analysis https://www.iea.org/reports/global-energy-and-climate-model/net-zero-emissions-by-2050-scenario-nze",
+      "text": "IEA. (2020). Net Zero Emissions by 2050 Scenario (NZE) - Global Energy and Climate Model - Analysis https://www.iea.org/reports/global-energy-and-climate-model/net-zero-emissions-by-2050-scenario-nze",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 395.74,
+            "t": 260.5917077929688,
+            "r": 450.36375999999984,
+            "b": 253.6692677929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": ". Retrieved from",
+      "text": ". Retrieved from",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 239.4797477929688,
+            "r": 506.2303199999999,
+            "b": 221.9892677929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "[2] Voskian, S., & Hatton, T. A. (2019). Faradaic electro-swing reactive adsorption for CO2 capture. Energy & Environmental Science , 12 (12), 3530-3547. https://doi.org/10.1039/C9EE02412C",
+      "text": "Voskian, S., & Hatton, T. A. (2019). Faradaic electro-swing reactive adsorption for CO2 capture. Energy & Environmental Science , 12 (12), 3530-3547. https://doi.org/10.1039/C9EE02412C",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 218.3517077929688,
+            "r": 479.49,
+            "b": 200.74731870205972,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "[3] Castel, C., Bounaceur, R., & Favre, E. (2021). Membrane Processes for Direct Carbon Dioxide Capture From Air: Possibilities and Limitations. Frontiers in Chemical Engineering , 3 . Retrieved from https://www.frontiersin.org/articles/10.3389/fceng.2021.668867",
+      "text": "Castel, C., Bounaceur, R., & Favre, E. (2021). Membrane Processes for Direct Carbon Dioxide Capture From Air: Possibilities and Limitations. Frontiers in Chemical Engineering , 3 . Retrieved from https://www.frontiersin.org/articles/10.3389/fceng.2021.668867",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 197.1117077929688,
+            "r": 493.03524,
+            "b": 179.6273187020597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            263
+          ]
+        }
+      ],
+      "orig": "[4] Kiani, A., Jiang, K., & Feron, P. (2020). Techno-Economic Assessment for CO2 Capture From Air Using a Conventional Liquid-Based Absorption Process. Frontiers in Energy Research , 8 . Retrieved from https://www.frontiersin.org/articles/10.3389/fenrg.2020.00092",
+      "text": "Kiani, A., Jiang, K., & Feron, P. (2020). Techno-Economic Assessment for CO2 Capture From Air Using a Conventional Liquid-Based Absorption Process. Frontiers in Energy Research , 8 . Retrieved from https://www.frontiersin.org/articles/10.3389/fenrg.2020.00092",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 175.99170779296878,
+            "r": 492.0921999999995,
+            "b": 158.50926779296879,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "[5] Woodhouse, S., & RUSHFELDT, P. (2008, May 29). Absorbent regeneration with flashed lean solution and heat integration. Retrieved from https://patents.google.com/patent/WO2008063079A2/fr?oq=WO2008%2f063079",
+      "text": "Woodhouse, S., & RUSHFELDT, P. (2008, May 29). Absorbent regeneration with flashed lean solution and heat integration. Retrieved from https://patents.google.com/patent/WO2008063079A2/fr?oq=WO2008%2f063079",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 154.87170779296878,
+            "r": 361.75,
+            "b": 147.94926779296884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "[6] Aspentech. (2014). Rate-Based Model of the CO2 Capture Process by MEA using Aspen Plus.",
+      "text": "Aspentech. (2014). Rate-Based Model of the CO2 Capture Process by MEA using Aspen Plus.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 144.19170779296883,
+            "r": 494.15455999999915,
+            "b": 126.68731870205966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "[7] Morgan, J. C., Bhattacharyya, D., Tong, C., & Miller, D. C. (2015). Uncertainty quantification of property models: Methodology and its application to CO 2 -loaded aqueous MEA solutions. AIChE Journal , 61 (6), 1822-1839. https://doi.org/10.1002/aic.14762",
+      "text": "Morgan, J. C., Bhattacharyya, D., Tong, C., & Miller, D. C. (2015). Uncertainty quantification of property models: Methodology and its application to CO 2 -loaded aqueous MEA solutions. AIChE Journal , 61 (6), 1822-1839. https://doi.org/10.1002/aic.14762",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 123.05170779296884,
+            "r": 495.81787999999915,
+            "b": 95.00926779296879,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            276
+          ]
+        }
+      ],
+      "orig": "[8] Morgan, J. C., Chinen, A. S., Omell, B., Bhattacharyya, D., Tong, C., & Miller, D. C. (2017). Thermodynamic modeling and uncertainty quantification of CO2-loaded aqueous MEA solutions. Chemical Engineering Science , 168 , 309-324. https://doi.org/10.1016/j.ces.2017.04.049",
+      "text": "Morgan, J. C., Chinen, A. S., Omell, B., Bhattacharyya, D., Tong, C., & Miller, D. C. (2017). Thermodynamic modeling and uncertainty quantification of CO2-loaded aqueous MEA solutions. Chemical Engineering Science , 168 , 309-324. https://doi.org/10.1016/j.ces.2017.04.049",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.84,
+            "t": 91.37170779296878,
+            "r": 495.96607999999935,
+            "b": 63.20731870205975,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            362
+          ]
+        }
+      ],
+      "orig": "[9] Soares Chinen, A., Morgan, J. C., Omell, B., Bhattacharyya, D., Tong, C., & Miller, D. C. (2018). Development of a Rigorous Modeling Framework for Solvent-Based CO2 Capture. 1. Hydraulic and Mass Transfer Models and Their Uncertainty Quantification. Industrial & Engineering Chemistry Research , 57 (31), 10448-10463. https://doi.org/10.1021/acs.iecr.8b01471",
+      "text": "Soares Chinen, A., Morgan, J. C., Omell, B., Bhattacharyya, D., Tong, C., & Miller, D. C. (2018). Development of a Rigorous Modeling Framework for Solvent-Based CO2 Capture. 1. Hydraulic and Mass Transfer Models and Their Uncertainty Quantification. Industrial & Engineering Chemistry Research , 57 (31), 10448-10463. https://doi.org/10.1021/acs.iecr.8b01471",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 131.955,
+            "t": 17.179987792968745,
+            "r": 412.3649999999997,
+            "b": 7.9299877929687455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Electronic copy available at: https://ssrn.com/abstract=5026318",
+      "text": "Electronic copy available at: https://ssrn.com/abstract=5026318"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 228.77,
+            "t": 694.7397477929687,
+            "r": 317.68,
+            "b": 687.8073187020597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "GHGT-17 de Joannis et al.",
+      "text": "GHGT-17 de Joannis et al."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 493.68,
+            "t": 694.7317077929688,
+            "r": 497.7,
+            "b": 687.8092677929687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.84,
+            "t": 673.4717077929688,
+            "r": 502.0554399999995,
+            "b": 645.3073187020597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            390
+          ]
+        }
+      ],
+      "orig": "[10]   Morgan, J. C., Soares Chinen, A., Omell, B., Bhattacharyya, D., Tong, C., Miller, D. C., \u2026 Lucquiaud, M. (2018). Development of a Rigorous Modeling Framework for Solvent-Based CO2 Capture. Part 2: Steady-State Validation and Uncertainty Quantification with Pilot Plant Data. Industrial & Engineering Chemistry Research , 57 (31), 10464-10481. https://doi.org/10.1021/acs.iecr.8b01472",
+      "text": "  Morgan, J. C., Soares Chinen, A., Omell, B., Bhattacharyya, D., Tong, C., Miller, D. C., \u2026 Lucquiaud, M. (2018). Development of a Rigorous Modeling Framework for Solvent-Based CO2 Capture. Part 2: Steady-State Validation and Uncertainty Quantification with Pilot Plant Data. Industrial & Engineering Chemistry Research , 57 (31), 10464-10481. https://doi.org/10.1021/acs.iecr.8b01472",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.84,
+            "t": 641.6717077929688,
+            "r": 502.5976399999992,
+            "b": 613.6292677929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            328
+          ]
+        }
+      ],
+      "orig": "[11]   Morgan, J. C., Chinen, A. S., Anderson-Cook, C., Tong, C., Carroll, J., Saha, C., \u2026 Miller, D. C. (2020). Development of a framework for sequential Bayesian design of experiments: Application to a pilot-scale solvent-based CO2 capture process. Applied Energy , 262 , 114533. https://doi.org/10.1016/j.apenergy.2020.114533",
+      "text": "  Morgan, J. C., Chinen, A. S., Anderson-Cook, C., Tong, C., Carroll, J., Saha, C., \u2026 Miller, D. C. (2020). Development of a framework for sequential Bayesian design of experiments: Application to a pilot-scale solvent-based CO2 capture process. Applied Energy , 262 , 114533. https://doi.org/10.1016/j.apenergy.2020.114533",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.84,
+            "t": 609.9997477929687,
+            "r": 490.9687599999998,
+            "b": 592.5073187020597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            230
+          ]
+        }
+      ],
+      "orig": "[12]   Jou, F.-Y., Mather, A. E., & Otto, F. D. (1995). The solubility of CO 2 in a 30 mass percent monoethanolamine solution. The Canadian Journal of Chemical Engineering , 73 (1), 140-147. https://doi.org/10.1002/cjce.5450730116",
+      "text": "  Jou, F.-Y., Mather, A. E., & Otto, F. D. (1995). The solubility of CO 2 in a 30 mass percent monoethanolamine solution. The Canadian Journal of Chemical Engineering , 73 (1), 140-147. https://doi.org/10.1002/cjce.5450730116",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.84,
+            "t": 588.7517077929688,
+            "r": 501.4931199999998,
+            "b": 560.7073187020596,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "[13]   Aronu, U. E., Gondal, S., Hessen, E. T., Haug-Warberg, T., Hartono, A., Hoff, K. A., & Svendsen, H. F. (2011). Solubility of CO2 in 15, 30, 45 and 60 mass% MEA from 40 to 120\u00b0C and model representation using the extended UNIQUAC framework. Chemical Engineering Science , 66 (24), 6393-6406. https://doi.org/10.1016/j.ces.2011.08.042",
+      "text": "  Aronu, U. E., Gondal, S., Hessen, E. T., Haug-Warberg, T., Hartono, A., Hoff, K. A., & Svendsen, H. F. (2011). Solubility of CO2 in 15, 30, 45 and 60 mass% MEA from 40 to 120\u00b0C and model representation using the extended UNIQUAC framework. Chemical Engineering Science , 66 (24), 6393-6406. https://doi.org/10.1016/j.ces.2011.08.042",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.84,
+            "t": 557.0797477929688,
+            "r": 372.90999999999997,
+            "b": 550.1473187020597,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "[14]   INRS. (2014). Fiche toxicolgique MEA . Retrieved from https://www.inrs.fr/header/recherche.html",
+      "text": "  INRS. (2014). Fiche toxicolgique MEA . Retrieved from https://www.inrs.fr/header/recherche.html",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 131.955,
+            "t": 17.179987792968745,
+            "r": 412.3649999999997,
+            "b": 7.9299877929687455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "Electronic copy available at: https://ssrn.com/abstract=5026318",
+      "text": "Electronic copy available at: https://ssrn.com/abstract=5026318"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 145.1347198486328,
+            "t": 694.7638359069824,
+            "r": 384.8055725097656,
+            "b": 620.4804306030273,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 285.86724853515625,
+            "t": 366.2252197265625,
+            "r": 493.7978515625,
+            "b": 200.30999755859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.3093376159668,
+            "t": 671.3473510742188,
+            "r": 420.5708312988281,
+            "b": 506.31248474121094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 90.44306182861328,
+            "t": 350.4732666015625,
+            "r": 440.54754638671875,
+            "b": 187.6214599609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 144.08895874023438,
+            "t": 672.1591567993164,
+            "r": 345.74310302734375,
+            "b": 522.7329254150391,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/50"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 177.71722412109375,
+            "t": 676.406608581543,
+            "r": 355.1689453125,
+            "b": 524.4999237060547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.7220458984375,
+            "t": 425.6380310058594,
+            "r": 462.3775634765625,
+            "b": 319.5312194824219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 249.65,
+              "t": 320.63828,
+              "r": 292.7765599999999,
+              "b": 337.64072,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Conventional regeneration",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 322.27,
+              "t": 320.63828,
+              "r": 364.52823999999987,
+              "b": 337.64072,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Lean Vapor Compression",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 394.78,
+              "t": 320.63828,
+              "r": 454.16343999999987,
+              "b": 347.62072,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Stripper Overhead Compression (n=2 stages)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 85.104,
+              "t": 355.21827999999994,
+              "r": 160.88732000000002,
+              "b": 362.59671999999995,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Water loss (tH 2 O/tCO 2 )",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 347.95,
+              "t": 355.21827999999994,
+              "r": 357.9598,
+              "b": 362.14072,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "4.9",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 85.104,
+              "t": 369.13828,
+              "r": 168.68732,
+              "b": 376.51671999999996,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "MEAloss (kgMEA/tCO 2 )",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 347.95,
+              "t": 369.13828,
+              "r": 357.9598,
+              "b": 376.06072,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1.5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 85.104,
+              "t": 383.17828,
+              "r": 134.57732000000001,
+              "b": 390.55672,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Heat (GJ/tCO 2 )",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 249.65,
+              "t": 383.17828,
+              "r": 263.73607999999996,
+              "b": 390.10071999999997,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "11.7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 322.27,
+              "t": 383.17828,
+              "r": 332.27979999999997,
+              "b": 390.10071999999997,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "8.2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 394.78,
+              "t": 383.17828,
+              "r": 404.78979999999996,
+              "b": 390.10071999999997,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "5.1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 85.104,
+              "t": 397.21827999999994,
+              "r": 162.68732,
+              "b": 404.59671999999995,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Electricity (MWh/tCO 2 )",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 249.65,
+              "t": 397.21827999999994,
+              "r": 259.6598,
+              "b": 404.14072,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2.6",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 322.27,
+              "t": 397.21827999999994,
+              "r": 332.27979999999997,
+              "b": 404.14072,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "2.7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 394.78,
+              "t": 397.21827999999994,
+              "r": 404.78979999999996,
+              "b": 404.14072,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "2.8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 85.104,
+              "t": 411.13828,
+              "r": 163.52732,
+              "b": 418.51671999999996,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Cost of capture (\u20ac/tCO 2 )",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 249.65,
+              "t": 411.13828,
+              "r": 265.66567999999995,
+              "b": 418.06072,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1150",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 322.27,
+              "t": 411.13828,
+              "r": 338.2856799999999,
+              "b": 418.06072,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1140",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 394.78,
+              "t": 411.13828,
+              "r": 410.7956799999999,
+              "b": 418.06072,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "1110",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 6,
+        "num_cols": 4,
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 249.65,
+                "t": 320.63828,
+                "r": 292.7765599999999,
+                "b": 337.64072,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Conventional regeneration",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 322.27,
+                "t": 320.63828,
+                "r": 364.52823999999987,
+                "b": 337.64072,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Lean Vapor Compression",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 394.78,
+                "t": 320.63828,
+                "r": 454.16343999999987,
+                "b": 347.62072,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Stripper Overhead Compression (n=2 stages)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 85.104,
+                "t": 355.21827999999994,
+                "r": 160.88732000000002,
+                "b": 362.59671999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Water loss (tH 2 O/tCO 2 )",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 347.95,
+                "t": 355.21827999999994,
+                "r": 357.9598,
+                "b": 362.14072,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "4.9",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 85.104,
+                "t": 369.13828,
+                "r": 168.68732,
+                "b": 376.51671999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "MEAloss (kgMEA/tCO 2 )",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 347.95,
+                "t": 369.13828,
+                "r": 357.9598,
+                "b": 376.06072,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1.5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 85.104,
+                "t": 383.17828,
+                "r": 134.57732000000001,
+                "b": 390.55672,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Heat (GJ/tCO 2 )",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 249.65,
+                "t": 383.17828,
+                "r": 263.73607999999996,
+                "b": 390.10071999999997,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "11.7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 322.27,
+                "t": 383.17828,
+                "r": 332.27979999999997,
+                "b": 390.10071999999997,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "8.2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 394.78,
+                "t": 383.17828,
+                "r": 404.78979999999996,
+                "b": 390.10071999999997,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "5.1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 85.104,
+                "t": 397.21827999999994,
+                "r": 162.68732,
+                "b": 404.59671999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Electricity (MWh/tCO 2 )",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 249.65,
+                "t": 397.21827999999994,
+                "r": 259.6598,
+                "b": 404.14072,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2.6",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 322.27,
+                "t": 397.21827999999994,
+                "r": 332.27979999999997,
+                "b": 404.14072,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "2.7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 394.78,
+                "t": 397.21827999999994,
+                "r": 404.78979999999996,
+                "b": 404.14072,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "2.8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 85.104,
+                "t": 411.13828,
+                "r": 163.52732,
+                "b": 418.51671999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Cost of capture (\u20ac/tCO 2 )",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 249.65,
+                "t": 411.13828,
+                "r": 265.66567999999995,
+                "b": 418.06072,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1150",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 322.27,
+                "t": 411.13828,
+                "r": 338.2856799999999,
+                "b": 418.06072,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1140",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 394.78,
+                "t": 411.13828,
+                "r": 410.7956799999999,
+                "b": 418.06072,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "1110",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 544.3200073242188,
+        "height": 742.7999877929688
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 544.3200073242188,
+        "height": 742.7999877929688
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 544.3200073242188,
+        "height": 742.7999877929688
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 544.3200073242188,
+        "height": 742.7999877929688
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 544.3200073242188,
+        "height": 742.7999877929688
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 544.3200073242188,
+        "height": 742.7999877929688
+      },
+      "page_no": 6
+    }
+  }
+}

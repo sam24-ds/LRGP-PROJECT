@@ -1,0 +1,5558 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "content",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 11140411050080915205,
+    "filename": "content.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/texts/136"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/texts/141"
+      },
+      {
+        "$ref": "#/texts/142"
+      },
+      {
+        "$ref": "#/texts/143"
+      },
+      {
+        "$ref": "#/texts/144"
+      },
+      {
+        "$ref": "#/texts/145"
+      },
+      {
+        "$ref": "#/texts/146"
+      },
+      {
+        "$ref": "#/texts/147"
+      },
+      {
+        "$ref": "#/texts/148"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/150"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/155"
+      },
+      {
+        "$ref": "#/texts/156"
+      },
+      {
+        "$ref": "#/texts/157"
+      },
+      {
+        "$ref": "#/texts/158"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/162"
+      },
+      {
+        "$ref": "#/texts/163"
+      },
+      {
+        "$ref": "#/texts/164"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/149"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/texts/161"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0,
+            "t": 837.744,
+            "r": 223.312,
+            "b": 830.344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Downloaded from orbit.dtu.dk on: Jun 05, 2020",
+      "text": "Downloaded from orbit.dtu.dk on: Jun 05, 2020"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0,
+            "t": 620.616,
+            "r": 403.0680000000002,
+            "b": 609.516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "CO2 Capture from Flue Gas using Amino Acid Salt Solutions",
+      "text": "CO2 Capture from Flue Gas using Amino Acid Salt Solutions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0,
+            "t": 575.18,
+            "r": 347.07000000000005,
+            "b": 565.93,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "Lerche, Benedicte Mai; Stenby, Erling Halfdan; Thomsen, Kaj",
+      "text": "Lerche, Benedicte Mai; Stenby, Erling Halfdan; Thomsen, Kaj"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0,
+            "t": 515.18,
+            "r": 114.25000000000001,
+            "b": 505.93,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Published in:",
+      "text": "Published in:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0,
+            "t": 505.18,
+            "r": 404.94000000000005,
+            "b": 495.93,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "Energy solutions for CO2 emission peak and subsequent decline. Proceedings",
+      "text": "Energy solutions for CO2 emission peak and subsequent decline. Proceedings"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0,
+            "t": 435.18,
+            "r": 130.93,
+            "b": 415.93,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Publication date: 2009",
+      "text": "Publication date: 2009"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0,
+            "t": 395.18,
+            "r": 276.52000000000004,
+            "b": 375.93,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Document Version Publisher's PDF, also known as Version of record",
+      "text": "Document Version Publisher's PDF, also known as Version of record"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0,
+            "t": 355.18,
+            "r": 158.14000000000004,
+            "b": 345.93,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Link back to DTU Orbit",
+      "text": "Link back to DTU Orbit"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0,
+            "t": 295.18000000000006,
+            "r": 123.13000000000001,
+            "b": 285.93000000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Citation (APA):",
+      "text": "Citation (APA):",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0,
+            "t": 285.18000000000006,
+            "r": 528.3399999999999,
+            "b": 245.93000000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "Lerche, B. M., Stenby, E. H., & Thomsen, K. (2009). CO2 Capture from Flue Gas using Amino Acid Salt Solutions. In Energy solutions for CO2 emission peak and subsequent decline. Proceedings (pp. 233-241). Danmarks Tekniske Universitet, Ris\u00f8 Nationallaboratoriet for B\u00e6redygtig Energi. http://www.risoe.dtu.dk/Knowledge_base/publications/Reports/ris-r-1712.aspx",
+      "text": "Lerche, B. M., Stenby, E. H., & Thomsen, K. (2009). CO2 Capture from Flue Gas using Amino Acid Salt Solutions. In Energy solutions for CO2 emission peak and subsequent decline. Proceedings (pp. 233-241). Danmarks Tekniske Universitet, Ris\u00f8 Nationallaboratoriet for B\u00e6redygtig Energi. http://www.risoe.dtu.dk/Knowledge_base/publications/Reports/ris-r-1712.aspx"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.76,
+            "t": 138.47273999999993,
+            "r": 107.13059999999997,
+            "b": 131.03574000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "General rights",
+      "text": "General rights",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.76,
+            "t": 129.23273999999992,
+            "r": 569.1596800000004,
+            "b": 112.55574000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other c pyright owners and it is a condition of accessing publications that users recognise  and abide by the legal requirements associated with these rights.",
+      "text": "Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other c pyright owners and it is a condition of accessing publications that users recognise  and abide by the legal requirements associated with these rights."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.944,
+            "t": 101.01274000000001,
+            "r": 557.553720000001,
+            "b": 93.57574,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "x Users may download and print one copy of any publication from the public portal for the purpose of private study or research.",
+      "text": "x Users may download and print one copy of any publication from the public portal for the purpose of private study or research.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.944,
+            "t": 91.29273999999998,
+            "r": 440.51420000000013,
+            "b": 83.85573999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "x You may not further distribute the material or use it for any profit -making activity or commercial gain",
+      "text": "x You may not further distribute the material or use it for any profit -making activity or commercial gain",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.944,
+            "t": 81.57273999999995,
+            "r": 367.5248000000004,
+            "b": 74.13573999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "x You may freely distribute the URL identifying the p ublication in the public portal",
+      "text": "x You may freely distribute the URL identifying the p ublication in the public portal",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.76,
+            "t": 63.09274000000005,
+            "r": 556.7746000000001,
+            "b": 46.53574000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "If you believe that this document breaches copyright please contact us providing details, and we will remove access to the wo rk im mediately and investigate your claim.",
+      "text": "If you believe that this document breaches copyright please contact us providing details, and we will remove access to the wo rk im mediately and investigate your claim."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.4,
+            "t": 759.8426599999999,
+            "r": 471.23663400000027,
+            "b": 727.2996142983425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "CO2 Capture From Flue Gas Using Amino Acid Salt Solutions",
+      "text": "CO2 Capture From Flue Gas Using Amino Acid Salt Solutions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.4,
+            "t": 717.6683,
+            "r": 362.68049999999965,
+            "b": 709.1104818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Benedicte Mai Lerche, Erling H. Stenby and Kaj Thomsen",
+      "text": "Benedicte Mai Lerche, Erling H. Stenby and Kaj Thomsen"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.4,
+            "t": 699.6083000000001,
+            "r": 257.46630000000016,
+            "b": 691.0504818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Technical University of Denmark",
+      "text": "Technical University of Denmark"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 113.39699999999999,
+            "t": 681.5483000000002,
+            "r": 491.5350000000004,
+            "b": 455.6089818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1577
+          ]
+        }
+      ],
+      "orig": "The reversible absorption of CO2 into a chemical solvent is currently the leading CO2 capture technology. Available solvents are almost exclusively based on aqueous alkanolamine solutions, which entail both economic and environmental complications, making the commercialization of the technology difficult. Amino acid salt solutions have emerged as an alternative to the alkanolamine solutions. A number of advantages make amino acid salt solutions attractive solvents for CO2 capture from flue gas. In the present study CO2 absorption in aqueous solutions of 0.5 M potassium glycinate and 0.5 M monoethanolamine (MEA) were performed, using a stirred cell reactor experimental setup. The absorption of gas containing 10 mol % CO2 and 90 mol % N2 was followed by measuring the percentage of CO2 in the outlet gas. Also the temperature and pH in the solutions were measured during the absorption. The results showed that the CO2 absorption curves of potassium glycinate and MEA are very similar indicating a potential for potassium glycinate as replacement for MEA in chemical absorption of CO2 from flue gas. For both the potassium glycinate and the MEA solutions the CO2 loading capacity was 0.8 mol CO2/mol amine and the pH dropped between 2 and 3 units during the absorption process. In both types of solutions the temperature increased as a result of the CO2 absorption, which is expected due to the exothermic nature of the absorption reaction. The increase in temperature for the potassium glycinate was lower than for MEA indicating a lower heat of absorption/desorption.",
+      "text": "The reversible absorption of CO2 into a chemical solvent is currently the leading CO2 capture technology. Available solvents are almost exclusively based on aqueous alkanolamine solutions, which entail both economic and environmental complications, making the commercialization of the technology difficult. Amino acid salt solutions have emerged as an alternative to the alkanolamine solutions. A number of advantages make amino acid salt solutions attractive solvents for CO2 capture from flue gas. In the present study CO2 absorption in aqueous solutions of 0.5 M potassium glycinate and 0.5 M monoethanolamine (MEA) were performed, using a stirred cell reactor experimental setup. The absorption of gas containing 10 mol % CO2 and 90 mol % N2 was followed by measuring the percentage of CO2 in the outlet gas. Also the temperature and pH in the solutions were measured during the absorption. The results showed that the CO2 absorption curves of potassium glycinate and MEA are very similar indicating a potential for potassium glycinate as replacement for MEA in chemical absorption of CO2 from flue gas. For both the potassium glycinate and the MEA solutions the CO2 loading capacity was 0.8 mol CO2/mol amine and the pH dropped between 2 and 3 units during the absorption process. In both types of solutions the temperature increased as a result of the CO2 absorption, which is expected due to the exothermic nature of the absorption reaction. The increase in temperature for the potassium glycinate was lower than for MEA indicating a lower heat of absorption/desorption."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.8547821,
+            "t": 35.26831819999995,
+            "r": 114.0747821,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Ris\u00f8-R-1712(EN)",
+      "text": "Ris\u00f8-R-1712(EN)"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 544.5153809,
+            "t": 35.26831819999995,
+            "r": 561.1953808999999,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "232",
+      "text": "232"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.32,
+            "t": 759.8426599999999,
+            "r": 250.76272799999992,
+            "b": 745.6585342983425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1  INTRODUCTION",
+      "text": "1  INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.31700000000001,
+            "t": 736.0883,
+            "r": 478.7003999999989,
+            "b": 679.2214818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            389
+          ]
+        }
+      ],
+      "orig": "There are a number of technologies available for capturing CO2 from flue gas, those based on capturing CO2 after a normal combustion process, are referred to as postcombustion CO2 capture technologies. The advantage of such technologies is that they don't interfere with the normal combustion process, and they can thus be retrofitted into existing power plants with relative ease. [1 - 2]",
+      "text": "There are a number of technologies available for capturing CO2 from flue gas, those based on capturing CO2 after a normal combustion process, are referred to as postcombustion CO2 capture technologies. The advantage of such technologies is that they don't interfere with the normal combustion process, and they can thus be retrofitted into existing power plants with relative ease. [1 - 2]"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.32,
+            "t": 665.7563,
+            "r": 253.5515999999998,
+            "b": 655.1314867403315,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "1.1  Chemical absorption",
+      "text": "1.1  Chemical absorption",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.31549999999999,
+            "t": 645.7283,
+            "r": 483.3822000000001,
+            "b": 528.4535818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            856
+          ]
+        }
+      ],
+      "orig": "Chemical absorption is the leading post combustion technique. CO2 capture by chemical absorption makes use of the temperature dependent reversibility of the chemical reaction between CO2 and a solvent. Available solvents are almost exclusively based on alkanolamines i.e. molecules that carry both hydroxyl (-OH) and amine (-NH2, -NHR, and -NR2) functional groups on an alkane backbone. [1,3 - 4] During contact with the flue gas, the alkanolamine solution chemically absorbs the CO2; the absorption occurs as a result of reaction with the amine groups. Heating of the CO2 rich alkanolamine solution leads to release of the CO2 whereby the alkanolamine solution is regenerated and ready for another round of CO2 absorption.[1,5] A typical commercial CO2 capture system using chemical absorption (with alkanolamines as the solvent) is presented in figure 1.",
+      "text": "Chemical absorption is the leading post combustion technique. CO2 capture by chemical absorption makes use of the temperature dependent reversibility of the chemical reaction between CO2 and a solvent. Available solvents are almost exclusively based on alkanolamines i.e. molecules that carry both hydroxyl (-OH) and amine (-NH2, -NHR, and -NR2) functional groups on an alkane backbone. [1,3 - 4] During contact with the flue gas, the alkanolamine solution chemically absorbs the CO2; the absorption occurs as a result of reaction with the amine groups. Heating of the CO2 rich alkanolamine solution leads to release of the CO2 whereby the alkanolamine solution is regenerated and ready for another round of CO2 absorption.[1,5] A typical commercial CO2 capture system using chemical absorption (with alkanolamines as the solvent) is presented in figure 1."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.32000000000005,
+            "t": 298.3298,
+            "r": 474.36240000000004,
+            "b": 289.7705818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "Figure 1: Process flow diagram for CO2 capture from flue gas by chemical absorption.",
+      "text": "Figure 1: Process flow diagram for CO2 capture from flue gas by chemical absorption."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.31850000000003,
+            "t": 262.73929999999996,
+            "r": 186.08610000000016,
+            "b": 253.43668839779002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "CO2 absorption",
+      "text": "CO2 absorption",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.31549999999999,
+            "t": 244.14380000000006,
+            "r": 484.61474999999984,
+            "b": 187.29348181818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            375
+          ]
+        }
+      ],
+      "orig": "The flue gas is cooled and led into the bottom of the absorber column; the flue gas rises through the column and is hereby contacted by the alkanolamine solution. At absorber temperatures typically between 40 and 60 \u00b0C, the alkanolamine solution chemically absorbs the CO2. At the top of the absorber column the clean gas with low CO2 content is released into the atmosphere.",
+      "text": "The flue gas is cooled and led into the bottom of the absorber column; the flue gas rises through the column and is hereby contacted by the alkanolamine solution. At absorber temperatures typically between 40 and 60 \u00b0C, the alkanolamine solution chemically absorbs the CO2. At the top of the absorber column the clean gas with low CO2 content is released into the atmosphere."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.31549999999999,
+            "t": 178.37930000000006,
+            "r": 186.08610000000016,
+            "b": 169.08258839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "CO2 desorption",
+      "text": "CO2 desorption",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.3155,
+            "t": 159.78829999999994,
+            "r": 477.04739999999885,
+            "b": 102.92598181818187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            431
+          ]
+        }
+      ],
+      "orig": "The rich alkanolamine solution, which contains the chemically bound CO2 is taken out from the bottom of the absorber column and pumped to the top of the stripper column (also called the desorber). In the stripper the temperature is elevated to about 120 \u00b0C, reversing the chemical equilibrium, CO2 is released and the alkanolamine solution is regenerated. A gas phase consisting only of CO2 and steam is taken out at the top of the",
+      "text": "The rich alkanolamine solution, which contains the chemically bound CO2 is taken out from the bottom of the absorber column and pumped to the top of the stripper column (also called the desorber). In the stripper the temperature is elevated to about 120 \u00b0C, reversing the chemical equilibrium, CO2 is released and the alkanolamine solution is regenerated. A gas phase consisting only of CO2 and steam is taken out at the top of the"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.8547821,
+            "t": 35.26831819999995,
+            "r": 114.0747821,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Ris\u00f8-R-1712(EN)",
+      "text": "Ris\u00f8-R-1712(EN)"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 544.5153809,
+            "t": 35.26831819999995,
+            "r": 561.1953808999999,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "233",
+      "text": "233"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 113.403,
+            "t": 782.4683,
+            "r": 487.18559999999985,
+            "b": 761.8459818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "stripper. The water is separated from the CO2 in the condenser and the pure CO2 gas can now be compressed and sent to storage.",
+      "text": "stripper. The water is separated from the CO2 in the condenser and the pure CO2 gas can now be compressed and sent to storage."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 113.40449999999998,
+            "t": 752.9318,
+            "r": 224.25195000000022,
+            "b": 743.63508839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Recycling the solvent",
+      "text": "Recycling the solvent",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 113.4,
+            "t": 734.3363,
+            "r": 481.12919999999906,
+            "b": 689.5459818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            323
+          ]
+        }
+      ],
+      "orig": "The lean alkanolamine solution at the bottom of the stripper has a low concentration of CO2 and is pumped back to the top of the absorber column for another round of CO2 absorption. This way the alkanolamine solution keeps recycling between the absorber and the stripper column transporting the CO2 between the columns. [1]",
+      "text": "The lean alkanolamine solution at the bottom of the stripper has a low concentration of CO2 and is pumped back to the top of the absorber column for another round of CO2 absorption. This way the alkanolamine solution keeps recycling between the absorber and the stripper column transporting the CO2 between the columns. [1]"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 113.39550000000003,
+            "t": 680.0483,
+            "r": 488.3924999999997,
+            "b": 538.6489818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            982
+          ]
+        }
+      ],
+      "orig": "CO2 capture in the described manner is very energy intensive, mostly due to the large amount of heat/energy needed to release the CO2 form the alkanolamine solution in the stripper. [6 - 7] It has been widely reported that alkanolamines undergo degradation in oxygen-rich atmospheres, such as those typically encountered in the treatment of flue gases, resulting in very toxic degradation products.[6] Besides the economical problem this creates with loss of solvent, there is an increasing environmental concern, due to the possible emission of small amounts of these toxic degradation products to the air.[8] Much research has been and still is centered on examining the various types of alkanolamine solvents with the purpose of optimizing the CO2 capture process. However the use of alkanolamine solvents for CO2 capture from flue gas still suffers serious economical and environmental complications and other types of solvents with more favorable characteristics are desirable.",
+      "text": "CO2 capture in the described manner is very energy intensive, mostly due to the large amount of heat/energy needed to release the CO2 form the alkanolamine solution in the stripper. [6 - 7] It has been widely reported that alkanolamines undergo degradation in oxygen-rich atmospheres, such as those typically encountered in the treatment of flue gases, resulting in very toxic degradation products.[6] Besides the economical problem this creates with loss of solvent, there is an increasing environmental concern, due to the possible emission of small amounts of these toxic degradation products to the air.[8] Much research has been and still is centered on examining the various types of alkanolamine solvents with the purpose of optimizing the CO2 capture process. However the use of alkanolamine solvents for CO2 capture from flue gas still suffers serious economical and environmental complications and other types of solvents with more favorable characteristics are desirable."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 113.40449999999996,
+            "t": 529.7393,
+            "r": 326.78715,
+            "b": 520.4380883977901,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Amino acid salt solutions for CO2 capture",
+      "text": "Amino acid salt solutions for CO2 capture",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 113.39550000000003,
+            "t": 511.14379999999994,
+            "r": 489.0797999999984,
+            "b": 345.6259818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1127
+          ]
+        }
+      ],
+      "orig": "Amino acid salt solutions are now being studied as possible alternatives to the alkanolamine solutions. CO2 absorption using amino acids is a bio-mimetic approach to CO2 capture, due to its similarity to CO2 binding by proteins in the blood, such as hemoglobin. Amino acids have the same amine functionality as alkanolamines, and alkaline amino acid salt solutions can be expected to behave similar towards CO2 in flue gas. But in comparison to alkanolamines amino acid salt solutions have several desirable properties including high stability towards oxidative degradation and low volatility; also they are non-toxic as they are naturally present in the environment. [3, 6] Despite the rising interest few studies have been performed so far on amino acids as absorbents in CO2 capture systems. The objective of this study was to evaluate the CO2 capturing ability of the amino acid glycine against that of monoethanolamine (MEA), which is the alkanolamine most widely used for CO2 capture. The study concentrates on the CO2 loading capacity (mol CO2/mol amine) of solutions of the potassium salt of glycine versus that of MEA.",
+      "text": "Amino acid salt solutions are now being studied as possible alternatives to the alkanolamine solutions. CO2 absorption using amino acids is a bio-mimetic approach to CO2 capture, due to its similarity to CO2 binding by proteins in the blood, such as hemoglobin. Amino acids have the same amine functionality as alkanolamines, and alkaline amino acid salt solutions can be expected to behave similar towards CO2 in flue gas. But in comparison to alkanolamines amino acid salt solutions have several desirable properties including high stability towards oxidative degradation and low volatility; also they are non-toxic as they are naturally present in the environment. [3, 6] Despite the rising interest few studies have been performed so far on amino acids as absorbents in CO2 capture systems. The objective of this study was to evaluate the CO2 capturing ability of the amino acid glycine against that of monoethanolamine (MEA), which is the alkanolamine most widely used for CO2 capture. The study concentrates on the CO2 loading capacity (mol CO2/mol amine) of solutions of the potassium salt of glycine versus that of MEA."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 113.40449999999998,
+            "t": 336.7118,
+            "r": 294.3909000000002,
+            "b": 327.41508839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "The chemical nature of amino acids",
+      "text": "The chemical nature of amino acids",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 113.40449999999998,
+            "t": 318.1162999999999,
+            "r": 488.9748000000002,
+            "b": 285.3769818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "Chemically amino acids are molecules having both amine and carboxylic acid functional groups. In biochemistry, the term amino acid most often refers to \u03b1 -amino acids with the general structure shown in figure 2 below.[9]",
+      "text": "Chemically amino acids are molecules having both amine and carboxylic acid functional groups. In biochemistry, the term amino acid most often refers to \u03b1 -amino acids with the general structure shown in figure 2 below.[9]"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 113.40450000000001,
+            "t": 164.82979999999998,
+            "r": 325.2818999999998,
+            "b": 156.27198181818176,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Figure 2: The general structure of a \u03b1 -amino acid.",
+      "text": "Figure 2: The general structure of a \u03b1 -amino acid."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 119.30550000000011,
+            "t": 193.62080000000003,
+            "r": 125.11200000000011,
+            "b": 185.0629818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\u03b1",
+      "text": "\u03b1"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 125.12250000000012,
+            "t": 193.62829999999997,
+            "r": 163.305,
+            "b": 185.0629818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "-carbon",
+      "text": "-carbon"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 113.40450000000007,
+            "t": 128.64679999999998,
+            "r": 484.0902000000001,
+            "b": 95.95998181818186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "In \u03b1 -amino acids, the amine and the carboxylic acid groups are attached to the same carbon, which is called the \u03b1 -carbon. The chemical variety of the \u03b1 -amino acids comes from the difference in the side chain R, which is an organic substituent also attached to",
+      "text": "In \u03b1 -amino acids, the amine and the carboxylic acid groups are attached to the same carbon, which is called the \u03b1 -carbon. The chemical variety of the \u03b1 -amino acids comes from the difference in the side chain R, which is an organic substituent also attached to"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.8547821,
+            "t": 35.26831819999995,
+            "r": 114.0747821,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Ris\u00f8-R-1712(EN)",
+      "text": "Ris\u00f8-R-1712(EN)"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 544.5153809,
+            "t": 35.26831819999995,
+            "r": 561.1953808999999,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "234",
+      "text": "234"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 106.32299999999994,
+            "t": 782.4653000000001,
+            "r": 477.4665000000005,
+            "b": 725.596981818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            420
+          ]
+        }
+      ],
+      "orig": "the \u03b1 -carbon. 20 different kinds of amino acids are coded for in the genes of all organisms and incorporated into proteins, these 20 amino acids are called standard or proteinogenic ( meaning protein building) amino acids . The 20 standard amino acids are all \u03b1 -amino acids. Glycine, which is presented in figure 3, is the simplest of all the standard amino acids as it has only a hydrogen atom as its side chain. [10]",
+      "text": "the \u03b1 -carbon. 20 different kinds of amino acids are coded for in the genes of all organisms and incorporated into proteins, these 20 amino acids are called standard or proteinogenic ( meaning protein building) amino acids . The 20 standard amino acids are all \u03b1 -amino acids. Glycine, which is presented in figure 3, is the simplest of all the standard amino acids as it has only a hydrogen atom as its side chain. [10]"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 106.32149999999999,
+            "t": 666.0668,
+            "r": 253.0505999999999,
+            "b": 657.5089818181817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Figure 3: The structure of glycine",
+      "text": "Figure 3: The structure of glycine"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 106.32149999999999,
+            "t": 630.5452999999999,
+            "r": 403.57124999999985,
+            "b": 621.2425883977901,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Chemistry of CO2 absorption into amino acid salt solutions",
+      "text": "Chemistry of CO2 absorption into amino acid salt solutions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 106.32,
+            "t": 611.9483,
+            "r": 477.6168,
+            "b": 591.2734818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "When a pure amino acid, with the overall formula HOOC-R-NH2, is dissolved in water, the following equilibria are established. [11]",
+      "text": "When a pure amino acid, with the overall formula HOOC-R-NH2, is dissolved in water, the following equilibria are established. [11]"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.12,
+            "t": 563.8327085000001,
+            "r": 446.10509999999994,
+            "b": 529.1105835545455,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "+ + -H -H + - + - 3 3 2 HOOC-R-NH OOC-R-NH OOC-R-NH I                                   II                                III \u23af\u23af\u2192 \u23af\u23af\u2192 \u2190\u23af\u23af \u2190\u23af\u23af (1)",
+      "text": "+ + -H -H + - + - 3 3 2 HOOC-R-NH OOC-R-NH OOC-R-NH I                                   II                                III \u23af\u23af\u2192 \u23af\u23af\u2192 \u2190\u23af\u23af \u2190\u23af\u23af (1)"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 106.32,
+            "t": 519.7268,
+            "r": 483.44624999999957,
+            "b": 402.5059818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            826
+          ]
+        }
+      ],
+      "orig": "The amino acid is predominantly on its zwitterionic form (II), where the carboxylic acid group has lost a proton while the amine group is protonated, and the pH of the solution is equivalent to the isoelectric point of the given amino acid. [11] As CO2 reacts only with deprotonated amines, the zwitterionic form of the amino acid is incapable of reaction with CO2. Hence it is necessary to add an equivalent amount of strong base to deprotonate the amine group and form the negatively charged form of the amino acid (III). The base which is used for this purpose is usually potassium hydroxide, with the potassium salt of the amino acid becoming the active component, which reacts with CO2. In the case of glycine the active component becomes the potassium salt of glycine (potassium glycinate), shown in figure 4. [3, 6, 12]",
+      "text": "The amino acid is predominantly on its zwitterionic form (II), where the carboxylic acid group has lost a proton while the amine group is protonated, and the pH of the solution is equivalent to the isoelectric point of the given amino acid. [11] As CO2 reacts only with deprotonated amines, the zwitterionic form of the amino acid is incapable of reaction with CO2. Hence it is necessary to add an equivalent amount of strong base to deprotonate the amine group and form the negatively charged form of the amino acid (III). The base which is used for this purpose is usually potassium hydroxide, with the potassium salt of the amino acid becoming the active component, which reacts with CO2. In the case of glycine the active component becomes the potassium salt of glycine (potassium glycinate), shown in figure 4. [3, 6, 12]"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 106.3185,
+            "t": 341.7098,
+            "r": 236.7180000000002,
+            "b": 333.1519818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Figure 4: Potassium glycinate",
+      "text": "Figure 4: Potassium glycinate"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 106.31700000000001,
+            "t": 305.5283999999999,
+            "r": 482.76599999999894,
+            "b": 236.6000818181817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            441
+          ]
+        }
+      ],
+      "orig": "It is generally agreed that alkaline salt solutions of amino acids react with CO2 similar to alkanolamines having primary or secondary amine functionalities. CO2 reacts with aqueous solutions of primary or secondary amines, reaching an equilibrium of carbamate and bicarbonate (and if pH is suitable also carbonate). The reactions that occur in the liquid phase are as follows (with the amino acid salt represented as AmA). [4, 6, 11, 13 14]",
+      "text": "It is generally agreed that alkaline salt solutions of amino acids react with CO2 similar to alkanolamines having primary or secondary amine functionalities. CO2 reacts with aqueous solutions of primary or secondary amines, reaching an equilibrium of carbamate and bicarbonate (and if pH is suitable also carbonate). The reactions that occur in the liquid phase are as follows (with the amino acid salt represented as AmA). [4, 6, 11, 13 14]"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 107.94,
+            "t": 229.40030000000002,
+            "r": 442.5822,
+            "b": 210.09230000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "-+ 2 CO + 2AmA AmACOO + AmAH \u23af\u23af \u2192 \u2190\u23af \u23af (Carbamate formation) (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 107.94,
+            "t": 199.40030000000002,
+            "r": 442.5789,
+            "b": 180.09230000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "--2 3 CO + OH HCO \u23af\u23af \u2192 \u2190\u23af \u23af (Bicarbonate formation) (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 106.5,
+            "t": 169.40030000000002,
+            "r": 442.58369999999996,
+            "b": 150.09230000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "2 H O H OH + -\u23af\u23af \u2192 + \u2190\u23af \u23af (Autoprotolysis of water) (4)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 106.323,
+            "t": 118.98829999999998,
+            "r": 484.7219999999998,
+            "b": 98.36598181818181,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "As  seen  CO2  absorption  can  either  take  place  by  carbamate  formation  or  bicarbonate formation. There have been conflicting chemical mechanisms proposed to describe the",
+      "text": "As  seen  CO2  absorption  can  either  take  place  by  carbamate  formation  or  bicarbonate formation. There have been conflicting chemical mechanisms proposed to describe the"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.8547821,
+            "t": 35.26831819999995,
+            "r": 114.0747821,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Ris\u00f8-R-1712(EN)",
+      "text": "Ris\u00f8-R-1712(EN)"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 544.5153809,
+            "t": 35.26831819999995,
+            "r": 561.1953808999999,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "235",
+      "text": "235"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 113.40299999999999,
+            "t": 782.4653000000001,
+            "r": 491.7495000000005,
+            "b": 761.8429818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "absorption process. However, it is clear from the reaction rates that the initial absorption reaction is the formation of the carbamate. [3, 5, 11, 13, 14, 15]",
+      "text": "absorption process. However, it is clear from the reaction rates that the initial absorption reaction is the formation of the carbamate. [3, 5, 11, 13, 14, 15]"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 113.4,
+            "t": 717.6026599999999,
+            "r": 352.1284380000001,
+            "b": 703.4185342983425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "2  MATERIALS AND METHODS",
+      "text": "2  MATERIALS AND METHODS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 113.4,
+            "t": 671.8163,
+            "r": 201.90480000000014,
+            "b": 661.1914867403315,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "2.1  Chemicals",
+      "text": "2.1  Chemicals",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 113.4,
+            "t": 651.7883,
+            "r": 480.05580000000043,
+            "b": 594.919981818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            395
+          ]
+        }
+      ],
+      "orig": "The 0,5M potassium glycinate solutions were prepared by adding to glycine (>99.9% pure) an equimolar quantity of potassium hydroxide (>85% pure) in a volumetric flask and filling it to the mark with deionized water. The MEA solutions were prepared by adding MEA (>99.5% pure) to a volumetric flask and filling it to the mark with deionized water. All chemicals were purchased from Sigma Aldrich.",
+      "text": "The 0,5M potassium glycinate solutions were prepared by adding to glycine (>99.9% pure) an equimolar quantity of potassium hydroxide (>85% pure) in a volumetric flask and filling it to the mark with deionized water. The MEA solutions were prepared by adding MEA (>99.5% pure) to a volumetric flask and filling it to the mark with deionized water. All chemicals were purchased from Sigma Aldrich."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 113.4,
+            "t": 563.3362999999999,
+            "r": 261.3419999999998,
+            "b": 552.7114867403315,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "2.2  Experimental Set-up",
+      "text": "2.2  Experimental Set-up",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 113.39699999999996,
+            "t": 543.3083,
+            "r": 491.2969500000001,
+            "b": 422.68390727272725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            858
+          ]
+        }
+      ],
+      "orig": "The experimental setup used in this study is shown in figure 5a and 5b. It is a stirred cell experimental set-up with a magnetic stirrer (MS). The Analytic cell (AC) is a 1 litter sixnecked round-bottom flask. In each CO2 absorption experiment 0.5L of the prepared 0.5M amine solution (potassium glycinate or MEA) was transferred to the cell. Trough one of the inlets a tube connected to a gas cylinder containing synthetic flue gas (SFG) (10 mol% CO2 and 90 mol% N2) was brought into contact with the amine solution. A gas distributor (GD) at the end of the tube insured a high mass transfer area between gas and solution. A flow controller (FC) (Bronkhorst High-Tech) controlled the flow rate of the gas from the gas cylinder to the solution. The gas flow rate in the experiments was 1L gas/min which equals 0.0041mol CO 2 /min or 6.83\u00b710 -5 mol CO 2 /sec.",
+      "text": "The experimental setup used in this study is shown in figure 5a and 5b. It is a stirred cell experimental set-up with a magnetic stirrer (MS). The Analytic cell (AC) is a 1 litter sixnecked round-bottom flask. In each CO2 absorption experiment 0.5L of the prepared 0.5M amine solution (potassium glycinate or MEA) was transferred to the cell. Trough one of the inlets a tube connected to a gas cylinder containing synthetic flue gas (SFG) (10 mol% CO2 and 90 mol% N2) was brought into contact with the amine solution. A gas distributor (GD) at the end of the tube insured a high mass transfer area between gas and solution. A flow controller (FC) (Bronkhorst High-Tech) controlled the flow rate of the gas from the gas cylinder to the solution. The gas flow rate in the experiments was 1L gas/min which equals 0.0041mol CO 2 /min or 6.83\u00b710 -5 mol CO 2 /sec."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 113.39699999999999,
+            "t": 414.0652999999999,
+            "r": 491.54400000000004,
+            "b": 260.66148181818176,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1079
+          ]
+        }
+      ],
+      "orig": "During the experiment the pH and the temperature of the solution was measured using a pH meter (phM) (Metrohn 691 pH Meter) and a Pt100 placed in contact with the solution through 2 separate inlets. A CO2 analyzer (CA) (Vaisala CARBOCAP, Carbon dioxide Transmitter series GMT220) placed in another inlet measured the percentage of CO2 in the outlet gas throughout the experiment. One inlet was used as a vent, and the last inlet to the cell was closed off. The pH meter, the Pt100, and the CO2 analyzer were connected to a computer and data from the 3 instruments were collected during the experiment. Each absorption experiment was started by turning on the gas flow and at the same time starting the data collection (DC) program. Data were collected every fifth second resulting in data points of pH, temperature, and percentage CO2 (in the outlet gas) as a function of time. When the percentage of CO2 and the pH had been constant (and temperature had been almost constant) for 15 minutes, the system was assumed to be very near equilibrium, and the experiment was terminated.",
+      "text": "During the experiment the pH and the temperature of the solution was measured using a pH meter (phM) (Metrohn 691 pH Meter) and a Pt100 placed in contact with the solution through 2 separate inlets. A CO2 analyzer (CA) (Vaisala CARBOCAP, Carbon dioxide Transmitter series GMT220) placed in another inlet measured the percentage of CO2 in the outlet gas throughout the experiment. One inlet was used as a vent, and the last inlet to the cell was closed off. The pH meter, the Pt100, and the CO2 analyzer were connected to a computer and data from the 3 instruments were collected during the experiment. Each absorption experiment was started by turning on the gas flow and at the same time starting the data collection (DC) program. Data were collected every fifth second resulting in data points of pH, temperature, and percentage CO2 (in the outlet gas) as a function of time. When the percentage of CO2 and the pH had been constant (and temperature had been almost constant) for 15 minutes, the system was assumed to be very near equilibrium, and the experiment was terminated."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.8547821,
+            "t": 35.26831819999995,
+            "r": 114.0747821,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Ris\u00f8-R-1712(EN)",
+      "text": "Ris\u00f8-R-1712(EN)"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 544.5153809,
+            "t": 35.26831819999995,
+            "r": 561.1953808999999,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "236",
+      "text": "236"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 106.323,
+            "t": 558.5423000000001,
+            "r": 283.3635000000001,
+            "b": 549.9844818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Figure 5a: photo of the stirred cell set-up",
+      "text": "Figure 5a: photo of the stirred cell set-up"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 106.323,
+            "t": 251.27030000000002,
+            "r": 360.7348500000005,
+            "b": 242.7124818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "Figure 5b: Schematic representation of the stirred cell set-up",
+      "text": "Figure 5b: Schematic representation of the stirred cell set-up"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 106.32,
+            "t": 216.54266000000007,
+            "r": 346.014444,
+            "b": 202.35853429834253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "3  RESULTS AND DISCUSSION",
+      "text": "3  RESULTS AND DISCUSSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 106.32,
+            "t": 192.78829999999994,
+            "r": 477.84885000000025,
+            "b": 99.6934818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            692
+          ]
+        }
+      ],
+      "orig": "In this study the CO2 loading capacity of solutions of 0.5M potassium glycinate were evaluated against that of 0.5M MEA solutions. Figure 6a, 6b and 6c show three curves which are representatives of the obtained results. Figure 6a is a control experiment and shows absorption of synthetic flue gas containing 10 mol % CO2 and 90 mol % N2 into 0.5 L deionized water. Figure 6b and 6c show absorption of the same synthetic flue gas into 0.5L 0.5M MEA and potassium glycinate respectively. The curves (6a, 6b and 6c) present the variation of percentage of CO2 (in the outlet gas) as well as the temperature and the pH of the solutions as a function of time. The curves are shown with a time axis",
+      "text": "In this study the CO2 loading capacity of solutions of 0.5M potassium glycinate were evaluated against that of 0.5M MEA solutions. Figure 6a, 6b and 6c show three curves which are representatives of the obtained results. Figure 6a is a control experiment and shows absorption of synthetic flue gas containing 10 mol % CO2 and 90 mol % N2 into 0.5 L deionized water. Figure 6b and 6c show absorption of the same synthetic flue gas into 0.5L 0.5M MEA and potassium glycinate respectively. The curves (6a, 6b and 6c) present the variation of percentage of CO2 (in the outlet gas) as well as the temperature and the pH of the solutions as a function of time. The curves are shown with a time axis"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 36.8547821,
+            "t": 35.26831819999995,
+            "r": 114.0747821,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Ris\u00f8-R-1712(EN)",
+      "text": "Ris\u00f8-R-1712(EN)"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 544.5153809,
+            "t": 35.26831819999995,
+            "r": 561.1953808999999,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "237",
+      "text": "237"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 113.403,
+            "t": 782.4653000000001,
+            "r": 476.9802000000004,
+            "b": 761.8429818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "of 8000 seconds even though the experiments with MEA and potassium glycinate had longer duration.",
+      "text": "of 8000 seconds even though the experiments with MEA and potassium glycinate had longer duration."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 148.74,
+            "t": 639.5739964,
+            "r": 153.7394408,
+            "b": 630.826410563094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 148.74,
+            "t": 656.6166514,
+            "r": 153.7394408,
+            "b": 647.869065563094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 143.884428,
+            "t": 673.7185852,
+            "r": 153.74213834000003,
+            "b": 664.9709993630939,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 143.884428,
+            "t": 690.7612402,
+            "r": 153.74213834000003,
+            "b": 682.0136543630939,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 143.884428,
+            "t": 707.863174,
+            "r": 153.74213834000003,
+            "b": 699.1155881630939,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 143.884428,
+            "t": 724.9058289999999,
+            "r": 153.74213834000003,
+            "b": 716.1582431630939,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "25",
+      "text": "25"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 160.3214384,
+            "t": 623.7465567999999,
+            "r": 165.3208792,
+            "b": 614.9989709630938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 182.45925000000003,
+            "t": 623.7465567999999,
+            "r": 202.15129200000004,
+            "b": 614.9989709630938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1000",
+      "text": "1000"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 211.90739500000004,
+            "t": 623.7465567999999,
+            "r": 231.59943700000005,
+            "b": 614.9989709630938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2000",
+      "text": "2000"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 241.35554000000005,
+            "t": 623.7465567999999,
+            "r": 261.1105246,
+            "b": 614.9989709630938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "3000",
+      "text": "3000"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 270.8666276,
+            "t": 623.7465567999999,
+            "r": 290.5586696,
+            "b": 614.9989709630938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "4000",
+      "text": "4000"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 300.31477259999997,
+            "t": 623.7465567999999,
+            "r": 320.0068145999999,
+            "b": 614.9989709630938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "5000",
+      "text": "5000"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 329.7629175999999,
+            "t": 623.7465567999999,
+            "r": 349.4549595999999,
+            "b": 614.9989709630938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "6000",
+      "text": "6000"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 359.2110625999999,
+            "t": 623.7465567999999,
+            "r": 378.9660471999998,
+            "b": 614.9989709630938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "7000",
+      "text": "7000"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 388.7221501999998,
+            "t": 623.7465567999999,
+            "r": 408.4141921999998,
+            "b": 614.9989709630938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "8000",
+      "text": "8000"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 122.5438876,
+            "t": 738.4149798800007,
+            "r": 130.50523725569062,
+            "b": 617.4803,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "CO2(mol%), pH, Temp(\u00b0C)",
+      "text": "CO2(mol%), pH, Temp(\u00b0C)"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 278.4,
+            "t": 607.8939964,
+            "r": 294.79924484000003,
+            "b": 599.1464105630939,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Sec",
+      "text": "Sec"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 428.7,
+            "t": 721.1291606,
+            "r": 452.8621871,
+            "b": 713.1767534954696,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "%CO2",
+      "text": "%CO2"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 428.7,
+            "t": 703.1891606,
+            "r": 439.52058565000004,
+            "b": 695.2367534954697,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "pH",
+      "text": "pH"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 428.7,
+            "t": 685.3091606,
+            "r": 451.24854079999994,
+            "b": 677.3567534954697,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Temp",
+      "text": "Temp"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 113.39850000000001,
+            "t": 568.5683,
+            "r": 314.0944500000003,
+            "b": 560.0089818181817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Figure 6a: CO2 absorption into deionized water",
+      "text": "Figure 6a: CO2 absorption into deionized water"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 106.32,
+            "t": 351.2484,
+            "r": 313.94910000000027,
+            "b": 342.69058181818184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Figure 6b: CO2 absorption into 0.5L 0.5M MEA.",
+      "text": "Figure 6b: CO2 absorption into 0.5L 0.5M MEA."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 158.64,
+            "t": 369.7477784,
+            "r": 165.1691636,
+            "b": 358.56622492552486,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 158.64,
+            "t": 393.93193039999994,
+            "r": 165.1691636,
+            "b": 382.75037692552485,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 152.0403778,
+            "t": 418.16659759999993,
+            "r": 165.16798929,
+            "b": 406.98504412552484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 152.0403778,
+            "t": 442.4012647999999,
+            "r": 165.16798929,
+            "b": 431.2197113255248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 152.0403778,
+            "t": 466.58541679999996,
+            "r": 165.16798929,
+            "b": 455.4038633255248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 152.0403778,
+            "t": 490.82008399999995,
+            "r": 165.16798929,
+            "b": 479.6385305255248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "25",
+      "text": "25"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 152.0403778,
+            "t": 515.0547511999999,
+            "r": 165.16798929,
+            "b": 503.8731977255248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "30",
+      "text": "30"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 117.8605646,
+            "t": 505.06819135999996,
+            "r": 128.39340532135307,
+            "b": 353.7203,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "O2(mol %), pH, Temp( o C)",
+      "text": "O2(mol %), pH, Temp( o C)"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 113.40450000000004,
+            "t": 123.66830000000004,
+            "r": 378.7545000000002,
+            "b": 115.10898181818186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Figure 6c: CO2 absorption into 0.5L 0.5M Potassium glycinate",
+      "text": "Figure 6c: CO2 absorption into 0.5L 0.5M Potassium glycinate"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 142.02,
+            "t": 193.29337239999995,
+            "r": 146.71669880000002,
+            "b": 184.69453394872926,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 142.02,
+            "t": 211.47386200000005,
+            "r": 146.71669880000002,
+            "b": 202.87502354872936,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 137.3993269,
+            "t": 229.65435160000004,
+            "r": 146.71500934000002,
+            "b": 221.05551314872923,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 137.3993269,
+            "t": 247.83484120000003,
+            "r": 146.71500934000002,
+            "b": 239.23600274872933,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "15",
+      "text": "15"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 137.3993269,
+            "t": 266.07360159999996,
+            "r": 146.71500934000002,
+            "b": 257.47476314872927,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 137.3993269,
+            "t": 284.25409119999995,
+            "r": 146.71500934000002,
+            "b": 275.65525274872925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "25",
+      "text": "25"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 137.3993269,
+            "t": 302.43458079999994,
+            "r": 146.71500934000002,
+            "b": 293.83574234872924,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "30",
+      "text": "30"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 153.0606211,
+            "t": 177.45342659999994,
+            "r": 157.7573199,
+            "b": 168.85458814872925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 176.75952125,
+            "t": 177.45342659999994,
+            "r": 195.42383060000006,
+            "b": 168.85458814872925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1000",
+      "text": "1000"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 207.46545675000007,
+            "t": 177.45342659999994,
+            "r": 226.07063500000012,
+            "b": 168.85458814872925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2000",
+      "text": "2000"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 238.11226115000014,
+            "t": 177.45342659999994,
+            "r": 256.77657050000016,
+            "b": 168.85458814872925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "3000",
+      "text": "3000"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 268.8181966500002,
+            "t": 177.45342659999994,
+            "r": 287.42337490000017,
+            "b": 168.85458814872925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "4000",
+      "text": "4000"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 299.4650010500002,
+            "t": 177.45342659999994,
+            "r": 318.1293104000002,
+            "b": 168.85458814872925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "5000",
+      "text": "5000"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 330.1709365500002,
+            "t": 177.45342659999994,
+            "r": 348.7761148000002,
+            "b": 168.85458814872925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "6000",
+      "text": "6000"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 360.8177409500002,
+            "t": 177.45342659999994,
+            "r": 379.4820503000002,
+            "b": 168.85458814872925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "7000",
+      "text": "7000"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 391.5236764500002,
+            "t": 177.45342659999994,
+            "r": 410.1288547000002,
+            "b": 168.85458814872925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "8000",
+      "text": "8000"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 118.7348386,
+            "t": 302.35127248000003,
+            "r": 126.21408735403314,
+            "b": 186.26030000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "CO2(mol %),pH,Temp(\u00b0C)",
+      "text": "CO2(mol %),pH,Temp(\u00b0C)"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 266.76,
+            "t": 160.59337240000002,
+            "r": 281.71509991999994,
+            "b": 151.9945339487292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Sec",
+      "text": "Sec"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 431.28,
+            "t": 296.9670214,
+            "r": 453.94329152,
+            "b": 289.1159041818785,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "%CO2",
+      "text": "%CO2"
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 431.28,
+            "t": 279.68702140000005,
+            "r": 441.10764975999996,
+            "b": 271.8359041818785,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "pH",
+      "text": "pH"
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 431.28,
+            "t": 262.3470214,
+            "r": 450.99083168,
+            "b": 254.49590418187847,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Temp",
+      "text": "Temp"
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 36.8547821,
+            "t": 35.26831819999995,
+            "r": 114.0747821,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Ris\u00f8-R-1712(EN)",
+      "text": "Ris\u00f8-R-1712(EN)"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 544.5153809,
+            "t": 35.26831819999995,
+            "r": 561.1953808999999,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "238",
+      "text": "238"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 106.323,
+            "t": 781.0793,
+            "r": 195.04485000000008,
+            "b": 771.78258839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Loading capacity",
+      "text": "Loading capacity",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 106.31549999999999,
+            "t": 762.4883,
+            "r": 483.16064999999986,
+            "b": 524.479981818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1667
+          ]
+        }
+      ],
+      "orig": "The CO2 loading capacity of the solution was obtained by integrating the CO2 signal (CO2 in the inlet gas minus the CO2 in the outlet gas) over time. The CO2 loading capacity was found to be 0.8 mol CO2/mol amine in the case of both the potassium glycinate and MEA solutions indicating that potassium glycinate has the potential for the replacement of MEA in chemical absorption of CO2 from flue gas. If the reaction was solely due to carbamate formation the maximal loading would be 0.5mol CO2/mol amine as 2 mol amine are used to absorb 1 mol of CO2 in carbamate formation. The extra loading of 0.3 mol CO2/mol amine is due to the fact that bicarbonate formation is also contributing to the absorption. It shall be noted that any physical CO2 absorption can be ruled out. Physical CO2 absorption is the absorption of CO2 in the liquid phase that is not due to chemical reaction. Comparing figure 6a with 6b and 6c it is seen that physical absorption is negligible compared to chemical absorption due to reaction. The loading capacity found for the MEA solution is in very god agreement with what was observed by Mason and Dodge,[16] who did an extensive investigation of the loading capacity of CO2 in the range of MEA concentrations from 0.5N to 12.5N at temperatures between 0 and 75 \u00b0C, partial pressures of CO2 ranging from 1 to 100 Kpa and total pressure of 1 atm. For the potassium glycinate solution we were not able to find data in literature with which we could directly compare our result, but the good agreement between the literature data and our obtained loading for the MEA solution point to a good reliability of our stirred cell experimental set-up.",
+      "text": "The CO2 loading capacity of the solution was obtained by integrating the CO2 signal (CO2 in the inlet gas minus the CO2 in the outlet gas) over time. The CO2 loading capacity was found to be 0.8 mol CO2/mol amine in the case of both the potassium glycinate and MEA solutions indicating that potassium glycinate has the potential for the replacement of MEA in chemical absorption of CO2 from flue gas. If the reaction was solely due to carbamate formation the maximal loading would be 0.5mol CO2/mol amine as 2 mol amine are used to absorb 1 mol of CO2 in carbamate formation. The extra loading of 0.3 mol CO2/mol amine is due to the fact that bicarbonate formation is also contributing to the absorption. It shall be noted that any physical CO2 absorption can be ruled out. Physical CO2 absorption is the absorption of CO2 in the liquid phase that is not due to chemical reaction. Comparing figure 6a with 6b and 6c it is seen that physical absorption is negligible compared to chemical absorption due to reaction. The loading capacity found for the MEA solution is in very god agreement with what was observed by Mason and Dodge,[16] who did an extensive investigation of the loading capacity of CO2 in the range of MEA concentrations from 0.5N to 12.5N at temperatures between 0 and 75 \u00b0C, partial pressures of CO2 ranging from 1 to 100 Kpa and total pressure of 1 atm. For the potassium glycinate solution we were not able to find data in literature with which we could directly compare our result, but the good agreement between the literature data and our obtained loading for the MEA solution point to a good reliability of our stirred cell experimental set-up."
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 106.32150000000001,
+            "t": 515.5658000000002,
+            "r": 183.85875000000001,
+            "b": 506.2690883977902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Variation of pH",
+      "text": "Variation of pH",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 106.31549999999999,
+            "t": 496.9883,
+            "r": 483.14384999999976,
+            "b": 367.69698181818177,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            929
+          ]
+        }
+      ],
+      "orig": "There is a decrease in pH during the absorption process with CO2 absorption into both potassium glycinate and MEA solutions. In the case of potassium glycinate the pH declines from 10.6 to 8, and in the case of MEA the pH declines from 11.5 to 9.3. The general decrease in pH coincides with the absorbed amount of CO2. This result is expected since CO2 is an acidic component. This phenomenon is explained by reaction (3) to (4). Apart from carbamate formation in reaction (2), the CO2 is also being absorbed by bicarbonate formation (3). Bicarbonate formation uses OH -, which shifts the autoprotolysis of water (4) to the right producing H + coursing a decrease in pH. It is seen that the operational pH range for potassium glycinate is lower than for MEA, this is benificial, since high alkalinity may create steel corrosion problems. The lower pH is preferable having the potential to decrease the CAPEX of the capture plant.",
+      "text": "There is a decrease in pH during the absorption process with CO2 absorption into both potassium glycinate and MEA solutions. In the case of potassium glycinate the pH declines from 10.6 to 8, and in the case of MEA the pH declines from 11.5 to 9.3. The general decrease in pH coincides with the absorbed amount of CO2. This result is expected since CO2 is an acidic component. This phenomenon is explained by reaction (3) to (4). Apart from carbamate formation in reaction (2), the CO2 is also being absorbed by bicarbonate formation (3). Bicarbonate formation uses OH -, which shifts the autoprotolysis of water (4) to the right producing H + coursing a decrease in pH. It is seen that the operational pH range for potassium glycinate is lower than for MEA, this is benificial, since high alkalinity may create steel corrosion problems. The lower pH is preferable having the potential to decrease the CAPEX of the capture plant."
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 106.32449999999999,
+            "t": 340.65979999999996,
+            "r": 230.56260000000015,
+            "b": 331.36308839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Variation of temperature",
+      "text": "Variation of temperature",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 106.31549999999996,
+            "t": 322.0643,
+            "r": 484.2926999999998,
+            "b": 168.61848181818186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1077
+          ]
+        }
+      ],
+      "orig": "As the temperature is not held constant during the experiment the exothermic nature of the CO2 absorption results in a temperature increase of the potassium glycinate and MEA solutions. The rise in temperature coincides with the amount of absorbed CO2. It shall be noted that the incoming gas is cold and dry. This will affect the temperature. Both the heat capacity of the gas and the evaporation of water may contribute to the cooling of the liquid. Additionally there is a heat loss to the surroundings. These effects are also clearly seen in the control experiment with water, which does not absorb much CO2, but the drop in temperature is observed. In the MEA experiment there is a temperature increase of 3.1 \u00b0C (from the starting temperature of 24.1\u00b0C to the maximal temperature of 27.2 \u00b0C). In the case of potassium glycinate the temperature increase is 2.9 \u00b0C (from the starting temperature of 23.0 \u00b0C to the maximal temperature of 25.9 \u00b0C). The results indicate a decrease in the heat of desorption of 6.45% in the case of potassium glycinate compared to that of MEA.",
+      "text": "As the temperature is not held constant during the experiment the exothermic nature of the CO2 absorption results in a temperature increase of the potassium glycinate and MEA solutions. The rise in temperature coincides with the amount of absorbed CO2. It shall be noted that the incoming gas is cold and dry. This will affect the temperature. Both the heat capacity of the gas and the evaporation of water may contribute to the cooling of the liquid. Additionally there is a heat loss to the surroundings. These effects are also clearly seen in the control experiment with water, which does not absorb much CO2, but the drop in temperature is observed. In the MEA experiment there is a temperature increase of 3.1 \u00b0C (from the starting temperature of 24.1\u00b0C to the maximal temperature of 27.2 \u00b0C). In the case of potassium glycinate the temperature increase is 2.9 \u00b0C (from the starting temperature of 23.0 \u00b0C to the maximal temperature of 25.9 \u00b0C). The results indicate a decrease in the heat of desorption of 6.45% in the case of potassium glycinate compared to that of MEA."
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 106.32,
+            "t": 142.50266,
+            "r": 235.67829599999993,
+            "b": 128.31853429834257,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "4  CONCLUSION",
+      "text": "4  CONCLUSION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 106.31699999999998,
+            "t": 118.74839999999995,
+            "r": 480.58949999999874,
+            "b": 86.00908181818181,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "The objective of this study was to evaluate the CO2 loading capacity of aqueous solutions containing 0.5M potassium glycinate against that of 0.5M MEA using a stirred cell reactor experimental set-up. The results presented in this paper show that the CO2",
+      "text": "The objective of this study was to evaluate the CO2 loading capacity of aqueous solutions containing 0.5M potassium glycinate against that of 0.5M MEA using a stirred cell reactor experimental set-up. The results presented in this paper show that the CO2"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 36.8547821,
+            "t": 35.26831819999995,
+            "r": 114.0747821,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Ris\u00f8-R-1712(EN)",
+      "text": "Ris\u00f8-R-1712(EN)"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 544.5153809,
+            "t": 35.26831819999995,
+            "r": 561.1953808999999,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "239",
+      "text": "239"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.39850000000001,
+            "t": 782.4653000000001,
+            "r": 491.53950000000043,
+            "b": 701.4769818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            549
+          ]
+        }
+      ],
+      "orig": "absorption curves of potassium glycinate and MEA are very similar indicating a potential for potassium glycinate as replacement for MEA in chemical absorption of CO2 from flue gas. Solutions of 0.5M potassium glycinate and 0.5M MEA both have a CO2 loading capacity of 0.8 mol CO2/mol amine for the given synthetic gas of 10 mol% CO2. In addition the results show a lower operational pH area as well as a lower heat of desorption for potassium glycinate compared with MEA, both of which have the potential for a cost reduction of the capture process.",
+      "text": "absorption curves of potassium glycinate and MEA are very similar indicating a potential for potassium glycinate as replacement for MEA in chemical absorption of CO2 from flue gas. Solutions of 0.5M potassium glycinate and 0.5M MEA both have a CO2 loading capacity of 0.8 mol CO2/mol amine for the given synthetic gas of 10 mol% CO2. In addition the results show a lower operational pH area as well as a lower heat of desorption for potassium glycinate compared with MEA, both of which have the potential for a cost reduction of the capture process."
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.40450000000001,
+            "t": 692.5103000000001,
+            "r": 212.0121,
+            "b": 683.2135883977902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Acknowledgments",
+      "text": "Acknowledgments",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.40450000000001,
+            "t": 673.9148000000002,
+            "r": 485.2252500000006,
+            "b": 629.1634818181822,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "This research is part of a project which is sponsored by DONG Energy and Vattenfall A/S Heat Nordic. The authors would like to thank these companies for their economical support as well as helpful discussions on power plant technology and post combustion CO2 capture.",
+      "text": "This research is part of a project which is sponsored by DONG Energy and Vattenfall A/S Heat Nordic. The authors would like to thank these companies for their economical support as well as helpful discussions on power plant technology and post combustion CO2 capture."
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.40299999999996,
+            "t": 602.1563,
+            "r": 175.8590999999999,
+            "b": 592.85958839779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.40299999999996,
+            "t": 583.5608000000001,
+            "r": 487.3279500000007,
+            "b": 550.873981818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "1. IPCC: Intergovernmental Panel on Climate Change, 'IPCC Special Report on Carbon Dioxide Capture and Storage', America by Cambridge University Press, New York, 2005.",
+      "text": "1. IPCC: Intergovernmental Panel on Climate Change, 'IPCC Special Report on Carbon Dioxide Capture and Storage', America by Cambridge University Press, New York, 2005."
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.39700000000002,
+            "t": 541.3883000000001,
+            "r": 470.72354999999914,
+            "b": 520.7134818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "2. A. Garg , L. R. Appelquist, E. H. Stenby, 'CO2 capture and storage', Ris\u00f8 Energy Report 6.",
+      "text": "2. A. Garg , L. R. Appelquist, E. H. Stenby, 'CO2 capture and storage', Ris\u00f8 Energy Report 6."
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.39699999999999,
+            "t": 511.21130000000005,
+            "r": 489.66869999999994,
+            "b": 490.5859818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            141
+          ]
+        }
+      ],
+      "orig": "3. J. van Holst, P.P. Politiek, J.P.M. Niederer, G.F. Versteeg, 'CO2 capture from flue gas using amino acid salt solutions',.GHGT8 Trondheim.",
+      "text": "3. J. van Holst, P.P. Politiek, J.P.M. Niederer, G.F. Versteeg, 'CO2 capture from flue gas using amino acid salt solutions',.GHGT8 Trondheim."
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.39550000000003,
+            "t": 481.0883,
+            "r": 481.3018500000012,
+            "b": 448.3489818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "4. P.S. Kumar, J.A. Hogendoorn, G.F. Versteeg, 'Kinetics of the Reaction of CO2 with Aqueous Potassium Salt of Taurine and Glycine', AIChE Journal, 2003, vol. 49, no. 1, pp. 203-213.",
+      "text": "4. P.S. Kumar, J.A. Hogendoorn, G.F. Versteeg, 'Kinetics of the Reaction of CO2 with Aqueous Potassium Salt of Taurine and Glycine', AIChE Journal, 2003, vol. 49, no. 1, pp. 203-213."
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.39550000000003,
+            "t": 425.7113,
+            "r": 460.8320999999989,
+            "b": 393.0244818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "5. R.J. Hook, 'An Investigation of Some Sterically Hindered Amines as Potential Carbon Dioxide Scrubbing Compounds', Ind. Eng. Chem. Res., 1997, vol. 36, pp.1779-1790.",
+      "text": "R.J. Hook, 'An Investigation of Some Sterically Hindered Amines as Potential Carbon Dioxide Scrubbing Compounds', Ind. Eng. Chem. Res., 1997, vol. 36, pp.1779-1790.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.39550000000003,
+            "t": 384.66679999999997,
+            "r": 484.2135000000012,
+            "b": 339.8689818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "6. P.S. Kumar, J.A. Hogendoorn, P.H.M. Feron, G.F. Versteeg, 'Equilibrium Solubility of CO2 in Aqueous Potassium Taurate Solutions: Part 1. Crystallization in Carbon Dioxide Loaded Aqueous Salt Solution of Amino Acids', Ind. Eng. Chem. Res., 2003, vol. 42, pp. 2832-2840.",
+      "text": "6. P.S. Kumar, J.A. Hogendoorn, P.H.M. Feron, G.F. Versteeg, 'Equilibrium Solubility of CO2 in Aqueous Potassium Taurate Solutions: Part 1. Crystallization in Carbon Dioxide Loaded Aqueous Salt Solution of Amino Acids', Ind. Eng. Chem. Res., 2003, vol. 42, pp. 2832-2840."
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.4,
+            "t": 330.36679999999996,
+            "r": 490.4528999999995,
+            "b": 297.63348181818174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "7. J. Gabrielsen, H. F. Svendsen, M. L. Michelsen, E. H. Stenby,G. M. Kontogeorgis , 'Experimental validation of a rate-based model for CO2 capture using an AMP solution', Chemical Engineering Science, 2007, vol. 62, pp. 2397 - 2413.",
+      "text": "J. Gabrielsen, H. F. Svendsen, M. L. Michelsen, E. H. Stenby,G. M. Kontogeorgis , 'Experimental validation of a rate-based model for CO2 capture using an AMP solution', Chemical Engineering Science, 2007, vol. 62, pp. 2397 - 2413.",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.394,
+            "t": 288.1313,
+            "r": 481.9608000000002,
+            "b": 255.44158181818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "8. J. Gabrielsen, 'CO2 Capture from Coal Fired Power Plants', Ph.D. Thesis, IVC-SEP Department of Chemical and Biochemical Engineering ,Technical University of Denmark, 2007.",
+      "text": "J. Gabrielsen, 'CO2 Capture from Coal Fired Power Plants', Ph.D. Thesis, IVC-SEP Department of Chemical and Biochemical Engineering ,Technical University of Denmark, 2007.",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.39399999999998,
+            "t": 245.8764,
+            "r": 484.99005000000085,
+            "b": 219.25858181818182,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "9. C.K. Mathews, K.E. van Holde, K.G. Ahern, 'Biochemistry', Third edition, Addison Wesley Longman, Inc., 2000, Ch.5.",
+      "text": "C.K. Mathews, K.E. van Holde, K.G. Ahern, 'Biochemistry', Third edition, Addison Wesley Longman, Inc., 2000, Ch.5.",
+      "enumerated": true,
+      "marker": "9."
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.39399999999998,
+            "t": 209.75639999999999,
+            "r": 490.85325000000086,
+            "b": 189.1340818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "10. B. Alberts, A. Johnsen, J. Lewis, M. Raff, K. Roberts, P. Walter, 'Molecular Biology THE CELL', Fourth edition, Garland Science Taylor & Francis Group, 2002, Chap. 2.",
+      "text": "B. Alberts, A. Johnsen, J. Lewis, M. Raff, K. Roberts, P. Walter, 'Molecular Biology THE CELL', Fourth edition, Garland Science Taylor & Francis Group, 2002, Chap. 2.",
+      "enumerated": true,
+      "marker": "10."
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.39399999999995,
+            "t": 179.63189999999997,
+            "r": 487.4039999999997,
+            "b": 146.90608181818175,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "11. P.S. Kumar, J.A Hogendoorn, P.H.M. Feron, G.F Versteeg, 'New absorption liquids for the removal of CO2 from dilute gas streams using membrane contactors', Chemical Engineering Science, 2002, vol. 57, pp. 1639-1651.",
+      "text": "11. P.S. Kumar, J.A Hogendoorn, P.H.M. Feron, G.F Versteeg, 'New absorption liquids for the removal of CO2 from dilute gas streams using membrane contactors', Chemical Engineering Science, 2002, vol. 57, pp. 1639-1651."
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 113.3985,
+            "t": 137.40390000000002,
+            "r": 480.1477500000004,
+            "b": 116.78158181818185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "12. A.F. Portugal, F.D. Magalh\u00e3es, A. Mendes, 'Carbon dioxide absorption kinetics in potassium threonate', Chemical Engineering Science, 2008, vol. 63 pp. 3493-3503.",
+      "text": "12. A.F. Portugal, F.D. Magalh\u00e3es, A. Mendes, 'Carbon dioxide absorption kinetics in potassium threonate', Chemical Engineering Science, 2008, vol. 63 pp. 3493-3503."
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 36.8547821,
+            "t": 35.26831819999995,
+            "r": 114.0747821,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Ris\u00f8-R-1712(EN)",
+      "text": "Ris\u00f8-R-1712(EN)"
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 544.5153809,
+            "t": 35.26831819999995,
+            "r": 561.1953808999999,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "240",
+      "text": "240"
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 106.32150000000001,
+            "t": 758.4083,
+            "r": 454.9152000000004,
+            "b": 725.6689818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "13. A.F. Portugal, P.W.J. Derks, G.F. Versteeg, F.D. Magalh\u00e3es, A. Mendes , 'Characterization of potassium glycinate for carbon dioxide absorption purposes', Chemical Engineering Science, 2007, vol. 62, pp. 6534-6547.",
+      "text": "A.F. Portugal, P.W.J. Derks, G.F. Versteeg, F.D. Magalh\u00e3es, A. Mendes , 'Characterization of potassium glycinate for carbon dioxide absorption purposes', Chemical Engineering Science, 2007, vol. 62, pp. 6534-6547.",
+      "enumerated": true,
+      "marker": "13."
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 106.32,
+            "t": 716.1683,
+            "r": 484.09889999999996,
+            "b": 671.3704818181818,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "14. J.P. Brouwer, P.H.M. Feron, N.A.M. ten Asbroek, 'Amino-acid salts for CO2 capture from flue gases' TNO Science & Industry Department of Separation Technology. The Netherlands. http://www.netl.doe.gov/publications/proceedings/05/carbonseq/Poster%20147.pdf, (19/11/2008).",
+      "text": "J.P. Brouwer, P.H.M. Feron, N.A.M. ten Asbroek, 'Amino-acid salts for CO2 capture from flue gases' TNO Science & Industry Department of Separation Technology. The Netherlands. http://www.netl.doe.gov/publications/proceedings/05/carbonseq/Poster%20147.pdf, (19/11/2008).",
+      "enumerated": true,
+      "marker": "14."
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 106.32300000000001,
+            "t": 661.8683000000001,
+            "r": 444.72900000000044,
+            "b": 629.1859818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "15. E.F. da Silva, H. F. Svendsen, 'Computational chemistry study of reactions, equilibrium and kinetics of chemical CO2 absorption', International Journal of Greenhouse Gas Control, 2007, vol.1, no.2, pp. 151-157.",
+      "text": "E.F. da Silva, H. F. Svendsen, 'Computational chemistry study of reactions, equilibrium and kinetics of chemical CO2 absorption', International Journal of Greenhouse Gas Control, 2007, vol.1, no.2, pp. 151-157.",
+      "enumerated": true,
+      "marker": "15."
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 106.32300000000001,
+            "t": 619.6208,
+            "r": 471.20325000000037,
+            "b": 586.9339818181819,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "16.  Jesse W. Mason, Barnett F. Dodge, 'Equilibrium absorption of carbon dioxide by solutions of the ethanolamines', American institute of Chemical Engineers, 1936, vol. 32, no. 27, pp. 27-47.",
+      "text": "16.  Jesse W. Mason, Barnett F. Dodge, 'Equilibrium absorption of carbon dioxide by solutions of the ethanolamines', American institute of Chemical Engineers, 1936, vol. 32, no. 27, pp. 27-47."
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 36.8547821,
+            "t": 35.26831819999995,
+            "r": 114.0747821,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Ris\u00f8-R-1712(EN)",
+      "text": "Ris\u00f8-R-1712(EN)"
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 11,
+          "bbox": {
+            "l": 544.5153809,
+            "t": 35.26831819999995,
+            "r": 561.1953808999999,
+            "b": 25.79519692763415,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "241",
+      "text": "241"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.64181900024414,
+            "t": 790.6968078613281,
+            "r": 91.21328735351562,
+            "b": 739.5680618286133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 105.27656555175781,
+            "t": 521.9727172851562,
+            "r": 479.3812561035156,
+            "b": 306.6318359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 117.94874572753906,
+            "t": 274.78240966796875,
+            "r": 228.37648010253906,
+            "b": 183.88201904296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 108.81087493896484,
+            "t": 715.9056777954102,
+            "r": 184.9193115234375,
+            "b": 678.8286590576172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 107.12387084960938,
+            "t": 563.5451049804688,
+            "r": 442.8050842285156,
+            "b": 530.7839660644531,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 104.52782440185547,
+            "t": 395.7900085449219,
+            "r": 193.7372589111328,
+            "b": 357.060302734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/70"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 105.11148071289062,
+            "t": 784.8390998840332,
+            "r": 457.9750671386719,
+            "b": 567.0326538085938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/70"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 112.84199523925781,
+            "t": 483.5216369628906,
+            "r": 457.0877685546875,
+            "b": 280.49713134765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 120.06519317626953,
+            "t": 738.8359069824219,
+            "r": 457.00482177734375,
+            "b": 598.9028930664062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 114.9029769897461,
+            "t": 516.7176208496094,
+            "r": 488.8741760253906,
+            "b": 356.5645751953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/98"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 116.33492279052734,
+            "t": 303.9727783203125,
+            "r": 460.21630859375,
+            "b": 151.36871337890625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/107"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.0,
+        "height": 842.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 595.219970703125,
+        "height": 842.0
+      },
+      "page_no": 11
+    }
+  }
+}

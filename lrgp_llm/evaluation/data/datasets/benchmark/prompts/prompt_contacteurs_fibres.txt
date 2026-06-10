@@ -1,0 +1,81 @@
+Tu es un expert en génie des procédés et séparation membranaire au LRGP Nancy.
+À partir du contexte scientifique ci-dessous extrait du corpus du laboratoire,
+génère exactement 10 questions de benchmark de qualité scientifique.
+
+Contraintes strictes :
+- Baser les questions UNIQUEMENT sur les informations présentes dans le contexte
+- Types demandés : CALCUL, FACTUEL
+- Pour les CALCUL : inclure toutes les données numériques nécessaires dans la question
+- Pour les FACTUEL : question précise avec réponse vérifiable dans le contexte
+- Priorité aux niveaux N2 et N3, quelques N4
+- Réponses complètes avec valeurs numériques et unités
+
+Réponds UNIQUEMENT avec un tableau JSON valide sans texte avant ni après :
+[
+  {
+    "question": "...",
+    "answer": "...",
+    "type": "CALCUL|FACTUEL|COMPARAISON",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N1|N2|N3|N4"
+  }
+]
+
+Contexte scientifique :
+[Doc 1 — Source: 2022 TU DElft GAS CONTACTOR LANDSCAPE]
+Keywords: CO2 capture; microporous membrane; membrane contactor; gas separation; hollow fiber
+
+---
+
+[Doc 2 — Source: processes-10-02103-v2]
+Keywords: CO2 capture; microporous membrane; membrane contactor; gas separation; hollow fiber
+
+---
+
+[Doc 3 — Source: Modelling of Hollow Fibre Membrane Contactors - Application to Post-combustion Carbon Dioxide Capture, David Albarracin]
+This thesis addresses the feasibility of CO 2 capture using hollow fibre membrane contactors  through modelling and process simulation. To do this, the following objectives needed to be met to allow for both the absorption and desorption steps:
+
+---
+
+[Doc 4 — Source: 2021 IONADA Piasenta ssrn-4612453_240625_154649-1]
+Hollow fibre membrane contactors; CO2 capture; CO2 mass flux; CO2 loading; modelling and simulation; polytetrafluoroethylene (PTFE).
+
+---
+
+[Doc 5 — Source: 1-s2.0-S0045653523005672-main]
+Keywords: Membrane contactor Gas separation Carbon dioxide capture Hollow fiber
+
+---
+
+[Doc 6 — Source: 6_272_AMSTVOL27NO2AUGUST2023]
+Figure 2 Schematic diagram of CO2 absorption/stripping in a hollow fiber membrane contactor system [3]
+
+---
+
+[Doc 7 — Source: OGST CESAR_revised manuscript Final version]
+2 9 Dindore V.Y., Brilman D.W.F., Feron P.H.M., Versteeg G.F. (2004) CO 2 absorption at elevated pressures using a hollow fiber membrane contactor, Journal of Membrane Science **235** , 99–109.
+
+---
+
+[Doc 8 — Source: 1-s2.0-S0009250917302105-main]
+Dindore, V.Y., Brilman, D.W.F., Feron, P.H.M., Versteeg, G.F., 2004. CO2 absorption at elevated pressures using a hollow fiber membrane contactor. J. Membr. Sci. 235, 99-109. http://dx.doi.org/10.1016/j.memsci.2003.12.029.
+
+---
+
+[Doc 9 — Source: Lee_2022_JMS]
+Keywords: Hollow fiber membrane contactor Membrane separation CO2 stripping Theoretical modeling
+
+---
+
+[Doc 10 — Source: koonaphapdeelert_2009_CES]
+Dindore, V.Y., Brilman, D.W.F., Feron, P.H.M., Versteeg, G.F., 2004. CO2 absorption at elevated pressures using a hollow fiber membrane contactor. Journal of Membrane Science 235 (1-2), 99-109.
+
+---
+
+[Doc 11 — Source: Rode_model 1D]
+Keywords: Absorption Carbon dioxide capture Hollow-fiber membrane Gas-liquid contactor
+
+---
+
+[Doc 12 — Source: DDOC_T_2013_0318_MAKHLOUFI]
+A large number of studies dealing with CO2 absorption by membrane contactors involve hydrophobic microporous hollow fi bers for which impressive intensi fi cation factors have been reported [10,11]. Nevertheless, membrane wetting usually takes place after long term use decreasing thus the overall mass transfer coef fi cient [12]. While many studies have shown that the long term use of MEA for CO2 absorption results in the membrane wetting for several membrane materials, no study discusses the use of microporous hollow fi ber for CO 2 absorption in ammonia. In this work, the potential of microporous hollow fi bers as gas/liquid contactor for an ammonia based CO2 absorption process will be evaluated and discussed.

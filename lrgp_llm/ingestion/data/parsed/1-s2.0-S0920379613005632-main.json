@@ -1,0 +1,4984 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1-s2.0-S0920379613005632-main",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 2073165213755608029,
+    "filename": "1-s2.0-S0920379613005632-main.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/texts/127"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/texts/133"
+      },
+      {
+        "$ref": "#/texts/134"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/groups/3"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 211.90841,
+            "t": 756.2931696070312,
+            "r": 373.26035879999995,
+            "b": 750.3658887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Fusion Engineering and Design 88 (2013) 29562959",
+      "text": "Fusion Engineering and Design 88 (2013) 29562959"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 219.97760999999997,
+            "t": 730.3687244070312,
+            "r": 369.5157726000001,
+            "b": 723.0760829070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Contents lists available at ScienceDirect",
+      "text": "Contents lists available at ScienceDirect"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.64441,
+            "t": 705.9603240070312,
+            "r": 398.84685509999997,
+            "b": 692.9944146461175,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Fusion Engineering and Design",
+      "text": "Fusion Engineering and Design",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 165.76491,
+            "t": 674.6776244070312,
+            "r": 253.00262950000007,
+            "b": 667.3849829070311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "j o ur n al hom epa ge:",
+      "text": "j o ur n al hom epa ge:"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 256.21401,
+            "t": 674.6776244070312,
+            "r": 424.04837580000043,
+            "b": 667.3849829070311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "www.elsevier.com/locate/fusengdes",
+      "text": "www.elsevier.com/locate/fusengdes"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.73039719999997,
+            "t": 626.3170186070313,
+            "r": 471.7253412,
+            "b": 596.578385157285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Development of technology for recovering lithium from seawater by electrodialysis using ionic liquid membrane",
+      "text": "Development of technology for recovering lithium from seawater by electrodialysis using ionic liquid membrane",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.731809999999996,
+            "t": 586.4548034070312,
+            "r": 127.4429462,
+            "b": 573.5184534070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Tsuyoshi Hoshino \u2217",
+      "text": "Tsuyoshi Hoshino \u2217",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.730688240000006,
+            "t": 566.3735696070312,
+            "r": 482.02640039999994,
+            "b": 551.8780856082495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "Breeding Functional Materials Development Group, Fusion Research and Development Directorate, Japan Atomic Energy Agency, 2-166 Obuchi, Omotedate, Rokkasho-mura, Kamikita-gun, Aomori 039-3212, Japan",
+      "text": "Breeding Functional Materials Development Group, Fusion Research and Development Directorate, Japan Atomic Energy Agency, 2-166 Obuchi, Omotedate, Rokkasho-mura, Kamikita-gun, Aomori 039-3212, Japan"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.731809999999996,
+            "t": 519.9500122070312,
+            "r": 115.43011960000001,
+            "b": 519.8962138070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "h i g h l i g h t s",
+      "text": "h i g h l i g h t s",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.33331,
+            "t": 507.7138118070312,
+            "r": 360.0162492,
+            "b": 493.7661368070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "\u00b7 I propose a new method for Li recovery from seawater by electrodialysis using an ionic liquid.",
+      "text": "I propose a new method for Li recovery from seawater by electrodialysis using an ionic liquid.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.33331,
+            "t": 488.5856118070312,
+            "r": 553.7828128000001,
+            "b": 470.12838830601606,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "\u00b7 Almost all Li ions remain on the anode side, whereas the other ions in the concentrated seawater permeate to the cathode side through the ionic liquid with an applied electric voltage of 2-3 V.",
+      "text": "Almost all Li ions remain on the anode side, whereas the other ions in the concentrated seawater permeate to the cathode side through the ionic liquid with an applied electric voltage of 2-3 V.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.33331,
+            "t": 498.1497118070313,
+            "r": 280.25071970000005,
+            "b": 484.2020368070313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "\u00b7 The divalent ions were removed for producing concentrated seawater.",
+      "text": "The divalent ions were removed for producing concentrated seawater.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.33331,
+            "t": 469.4572118070312,
+            "r": 275.54489020000005,
+            "b": 455.5095368070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "\u00b7 The Li survival ratio remained high and was 63% after electrodialysis.",
+      "text": "The Li survival ratio remained high and was 63% after electrodialysis.",
+      "enumerated": false,
+      "marker": "\u00b7"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.731809999999996,
+            "t": 428.6921122070312,
+            "r": 127.72208039999998,
+            "b": 428.6382138070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "a r t i c l e i n f o",
+      "text": "a r t i c l e i n f o",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.73146894000001,
+            "t": 414.34346960703124,
+            "r": 149.53660659999997,
+            "b": 374.14428560824945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "Article history: Received 4 February 2013 Received in revised form 17 June 2013 Accepted 18 June 2013 Available online 23 July 2013",
+      "text": "Article history: Received 4 February 2013 Received in revised form 17 June 2013 Accepted 18 June 2013 Available online 23 July 2013"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.731624219999986,
+            "t": 360.3458696070312,
+            "r": 84.58717029999998,
+            "b": 311.5783824282494,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Keywords: Tritium breeder Lithium resource Fusion reactor Seawater Ionic liquid",
+      "text": "Keywords: Tritium breeder Lithium resource Fusion reactor Seawater Ionic liquid"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.731809999999996,
+            "t": 272.7421656070312,
+            "r": 96.05388490000004,
+            "b": 265.33308782378253,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.731809999999996,
+            "t": 251.82066560703117,
+            "r": 284.27901360000004,
+            "b": 171.1860878237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            485
+          ]
+        }
+      ],
+      "orig": "Tritium fuel for fusion reactors is produced by the neutron capture reaction of lithium-6 ( 6 Li) in tritium breeders. Natural Li contains approximately 7.6 at.% 6 Li and, consequently, large amounts of lithium (Li) are needed to obtain the required 30-90% enrichment of 6 Li for tritium breeding material in fusion reactors [1-3]. In addition, concerning global warming, the use of Li-ion batteries in electric vehicles and houses is increasing; therefore, the need for Li is growing.",
+      "text": "Tritium fuel for fusion reactors is produced by the neutron capture reaction of lithium-6 ( 6 Li) in tritium breeders. Natural Li contains approximately 7.6 at.% 6 Li and, consequently, large amounts of lithium (Li) are needed to obtain the required 30-90% enrichment of 6 Li for tritium breeding material in fusion reactors [1-3]. In addition, concerning global warming, the use of Li-ion batteries in electric vehicles and houses is increasing; therefore, the need for Li is growing."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.73184339000002,
+            "t": 168.1344656070312,
+            "r": 284.27881210000004,
+            "b": 118.88223157378252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "Li, one of the 31 rare metal elements among the 112 known elements, is rapidly becoming a valuable commodity. In South America, Li is recovered from salt lakes and is currently being produced at the Atacama Salt Lake in Chile and the Hombre Muerto Salt Lake in Argentina. The production in these two lakes accounts",
+      "text": "Li, one of the 31 rare metal elements among the 112 known elements, is rapidly becoming a valuable commodity. In South America, Li is recovered from salt lakes and is currently being produced at the Atacama Salt Lake in Chile and the Hombre Muerto Salt Lake in Argentina. The production in these two lakes accounts"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 38.37621,
+            "t": 93.35608780703114,
+            "r": 275.6186874000001,
+            "b": 76.4928887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "\u2217 Tel.: +81 175 71 6703; fax: +81 175 71 6502. E-mail addresses: hoshino.tsuyoshi@jaea.go.jp, hoshino.tsuyoshi@gmail.com",
+      "text": "\u2217 Tel.: +81 175 71 6703; fax: +81 175 71 6502. E-mail addresses: hoshino.tsuyoshi@jaea.go.jp, hoshino.tsuyoshi@gmail.com"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 201.51941,
+            "t": 428.6920122070312,
+            "r": 266.6533156,
+            "b": 428.6382138070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "a b s t r a c t",
+      "text": "a b s t r a c t",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 199.44671313999999,
+            "t": 414.9271864070312,
+            "r": 553.7815128000001,
+            "b": 359.44318830601594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            527
+          ]
+        }
+      ],
+      "orig": "Tritium fuel for fusion reactors is produced by reacting lithium-6 ( 6 Li) with neutrons in tritium breeders. This study demonstrates a method for Li recovery from seawater, wherein Li does not permeate from the anode side to the cathode side through an ionic liquid N,N,N-trimethyl-Npropylammonium-bis(trifluoromethanesulfonyl) imide. Almost all Li ions remain on the anode side (seawater), whereas the other ions in the seawater permeate to the cathode side through the ionic liquid with an applied electric voltage of 2-3 V.",
+      "text": "Tritium fuel for fusion reactors is produced by reacting lithium-6 ( 6 Li) with neutrons in tritium breeders. This study demonstrates a method for Li recovery from seawater, wherein Li does not permeate from the anode side to the cathode side through an ionic liquid N,N,N-trimethyl-Npropylammonium-bis(trifluoromethanesulfonyl) imide. Almost all Li ions remain on the anode side (seawater), whereas the other ions in the seawater permeate to the cathode side through the ionic liquid with an applied electric voltage of 2-3 V."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 418.71581,
+            "t": 356.5207676070312,
+            "r": 553.7782217000001,
+            "b": 349.85258830601595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "\u00a9 2013 Elsevier B.V. All rights reserved.",
+      "text": "\u00a9 2013 Elsevier B.V. All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 302.22121,
+            "t": 272.74206560703124,
+            "r": 553.7671631000001,
+            "b": 150.26418782378255,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            778
+          ]
+        }
+      ],
+      "orig": "for approximately 70% of the global Li production [4,5]. In addition, there are more than 100 salt lakes in the Puna plateau, which is surrounded by the Andes, located at an altitude more than or equal to 3500 m. Areas such as the Uyuni Salt Lake, Rincon Salt Lake, and Olaroz Salt Lake are expected to be developed for Li production. South American countries such as Chile, Bolivia, and Argentina have abundant Li resources (brine water). And Li reserves in these countries account for more than half of the global Li reserves. Although Li extraction from chloride brine water is easy, the quantity of natural resources is limited. On the other hand, the quantity of natural resources in sulfate brine water is large, but the processing technology has not yet been established.",
+      "text": "for approximately 70% of the global Li production [4,5]. In addition, there are more than 100 salt lakes in the Puna plateau, which is surrounded by the Andes, located at an altitude more than or equal to 3500 m. Areas such as the Uyuni Salt Lake, Rincon Salt Lake, and Olaroz Salt Lake are expected to be developed for Li production. South American countries such as Chile, Bolivia, and Argentina have abundant Li resources (brine water). And Li reserves in these countries account for more than half of the global Li reserves. Although Li extraction from chloride brine water is easy, the quantity of natural resources is limited. On the other hand, the quantity of natural resources in sulfate brine water is large, but the processing technology has not yet been established."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 302.22126058000003,
+            "t": 147.2125093570312,
+            "r": 553.7671807,
+            "b": 77.03878782378251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            450
+          ]
+        }
+      ],
+      "orig": "In contrast, there are virtually inexhaustible Li resources in seawater, totalling approximately 230 billion tons, although the Li concentration is low. Therefore, Li recovery from seawater using Li adsorbents has been studied [6-8]. However, the efficiency of Li absorption must be improved to enable cost-effective production. In addition, Li-ion selective membranes using crown ethers have been developed [9-13]. These membranes are unsuitable for",
+      "text": "In contrast, there are virtually inexhaustible Li resources in seawater, totalling approximately 230 billion tons, although the Li concentration is low. Therefore, Li recovery from seawater using Li adsorbents has been studied [6-8]. However, the efficiency of Li absorption must be improved to enable cost-effective production. In addition, Li-ion selective membranes using crown ethers have been developed [9-13]. These membranes are unsuitable for"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.731809999999996,
+            "t": 64.38796960703121,
+            "r": 249.9727426999999,
+            "b": 49.892788788249504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "0920-3796/$ -see front matter \u00a9 2013 Elsevier B.V. All rights reserved. http://dx.doi.org/10.1016/j.fusengdes.2013.06.009",
+      "text": "0920-3796/$ -see front matter \u00a9 2013 Elsevier B.V. All rights reserved. http://dx.doi.org/10.1016/j.fusengdes.2013.06.009"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 206.89341,
+            "t": 756.8479696070312,
+            "r": 397.3252399999999,
+            "b": 750.9206887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "T. Hoshino / Fusion Engineering and Design 88 (2013) 29562959",
+      "text": "T. Hoshino / Fusion Engineering and Design 88 (2013) 29562959"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 548.1136289,
+            "t": 756.8479696070312,
+            "r": 563.4672777,
+            "b": 750.9206887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2957",
+      "text": "2957"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.92182059000001,
+            "t": 737.1393656070312,
+            "r": 293.4669437,
+            "b": 719.2694878237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "continuous Li recovery from seawater because the chemical reaction rate depends on the absorption and desorption of Li.",
+      "text": "continuous Li recovery from seawater because the chemical reaction rate depends on the absorption and desorption of Li."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.92184327999996,
+            "t": 716.2178093570311,
+            "r": 293.46800759999996,
+            "b": 635.5832878237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            492
+          ]
+        }
+      ],
+      "orig": "At present, Japan solely relies on Li imports. However, Li is abundant in seawater. Therefore, efficient methods for its stable recovery from seawater are highly desirable. Hoshino and Terai developed a novel Li isotope separation technique using organic membranes impregnated with an ionic liquid [14,15]. This technique can also be used to recover Li from seawater. On the basis of this study, a new method for Li recovery from seawater by electrodialysis using an ionic liquid is reported.",
+      "text": "At present, Japan solely relies on Li imports. However, Li is abundant in seawater. Therefore, efficient methods for its stable recovery from seawater are highly desirable. Hoshino and Terai developed a novel Li isotope separation technique using organic membranes impregnated with an ionic liquid [14,15]. This technique can also be used to recover Li from seawater. On the basis of this study, a new method for Li recovery from seawater by electrodialysis using an ionic liquid is reported."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.92191,
+            "t": 618.3076656070311,
+            "r": 108.09728070000006,
+            "b": 610.8985878237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "2. Experimental",
+      "text": "2. Experimental",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.92191,
+            "t": 597.3860656070311,
+            "r": 279.16677710000005,
+            "b": 579.5162315737824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "2.1. Removal of divalent ions and the production of concentrated seawater",
+      "text": "2.1. Removal of divalent ions and the production of concentrated seawater",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.92228448999995,
+            "t": 566.0037656070311,
+            "r": 293.4674613,
+            "b": 537.6730878237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "Many ions exist in seawater, and the concentration of Li ion is very low. For high-efficiency Li recovery, the divalent ions were removed for producing concentrated seawater.",
+      "text": "Many ions exist in seawater, and the concentration of Li ion is very low. For high-efficiency Li recovery, the divalent ions were removed for producing concentrated seawater."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.922044090000014,
+            "t": 534.6214656070312,
+            "r": 293.4711641999999,
+            "b": 443.5261315737825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            528
+          ]
+        }
+      ],
+      "orig": "Fig. 1 shows the experimental setup for electrodialysis. SELEMION TM CSO was used as the separation membrane for the divalent ions. The monovalent ions (Na, K, and Li) in seawater permeated from the anode side to the cathode side through SELEMION TM CSO, and the divalent ions (Ca and Mg) remained on the anode side. Furthermore, 15 L seawater in the anode side was concentrated to a 3.8 L solution in the cathode side. This concentrated solution was used in recovering Li from seawater by electrodialysis using an ionic liquid.",
+      "text": "Fig. 1 shows the experimental setup for electrodialysis. SELEMION TM CSO was used as the separation membrane for the divalent ions. The monovalent ions (Na, K, and Li) in seawater permeated from the anode side to the cathode side through SELEMION TM CSO, and the divalent ions (Ca and Mg) remained on the anode side. Furthermore, 15 L seawater in the anode side was concentrated to a 3.8 L solution in the cathode side. This concentrated solution was used in recovering Li from seawater by electrodialysis using an ionic liquid."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.92191,
+            "t": 426.74866560703117,
+            "r": 175.1448916,
+            "b": 419.33948782378246,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "2.2. Li recovery using an ionic liquid",
+      "text": "2.2. Li recovery using an ionic liquid",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.92186357999998,
+            "t": 405.82706560703116,
+            "r": 293.4684011000001,
+            "b": 304.27098782378243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            638
+          ]
+        }
+      ],
+      "orig": "Fig. 2 shows the proposed method for Li recovery from seawater. The ions in seawater permeate from the anode side to the cathode side during electrodialysis. The permeation speed of the major ions, including Na, Mg, Ca, and K, is faster than that of Li. Therefore, Li ions remain on the anode side and can be recovered. N,N,Ntrimethyl-N-propylammonium-bis(trifluoromethanesulfonyl) imide (TMPA-TFSI) was selected as the ionic liquid because it exhibits low Li conductivity. For accurately measuring the Li residual characteristics, seawater was added to the anode side, and a solution without major elements was added to the cathode side.",
+      "text": "Fig. 2 shows the proposed method for Li recovery from seawater. The ions in seawater permeate from the anode side to the cathode side during electrodialysis. The permeation speed of the major ions, including Na, Mg, Ca, and K, is faster than that of Li. Therefore, Li ions remain on the anode side and can be recovered. N,N,Ntrimethyl-N-propylammonium-bis(trifluoromethanesulfonyl) imide (TMPA-TFSI) was selected as the ionic liquid because it exhibits low Li conductivity. For accurately measuring the Li residual characteristics, seawater was added to the anode side, and a solution without major elements was added to the cathode side."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.92184476999998,
+            "t": 301.2193093570312,
+            "r": 293.46856189999994,
+            "b": 231.0455878237824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            424
+          ]
+        }
+      ],
+      "orig": "The SELEMION TM CMV membrane was installed on both ends of the ionic liquid flow. It is possible to prevent the outflow of the ionic liquid by SELEMION TM CMV because both water and ionic liquid cannot permeate through SELEMION TM CMV. This membrane is permeable to all cations (Na, Mg, Ca, and K) present in seawater, enabling the major ions in seawater to permeate the membrane and become concentrated on the cathode side.",
+      "text": "The SELEMION TM CMV membrane was installed on both ends of the ionic liquid flow. It is possible to prevent the outflow of the ionic liquid by SELEMION TM CMV because both water and ionic liquid cannot permeate through SELEMION TM CMV. This membrane is permeable to all cations (Na, Mg, Ca, and K) present in seawater, enabling the major ions in seawater to permeate the membrane and become concentrated on the cathode side."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.92191,
+            "t": 214.2680656070312,
+            "r": 148.06432420000002,
+            "b": 206.8589878237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "2.3. Experimental conditions",
+      "text": "2.3. Experimental conditions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.92200367000001,
+            "t": 193.34646560703118,
+            "r": 293.46872079999997,
+            "b": 144.09418782378248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            301
+          ]
+        }
+      ],
+      "orig": "Fig. 3 shows the Li recovery system using TMPA-TFSI (Koei Chemical Co. Ltd) consisting of an electrodialysis setup and a potentiostat (1470E of Solartron CellTest System). The latter was used to supply electric potential between the cathode (working electrode (WE)) and anode (counter electrode (CE)).",
+      "text": "Fig. 3 shows the Li recovery system using TMPA-TFSI (Koei Chemical Co. Ltd) consisting of an electrodialysis setup and a potentiostat (1470E of Solartron CellTest System). The latter was used to supply electric potential between the cathode (working electrode (WE)) and anode (counter electrode (CE))."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.92181218999994,
+            "t": 141.04250935703124,
+            "r": 293.46815300000003,
+            "b": 81.32943157378247,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "The concentrations of the concentrated seawater on the anode side and the 0.1 M HCl solution on the cathode side were measured by inductively coupled plasma atomic emission spectrometry (Optima7000DV of PerkinElmer Co., Ltd) and inductively coupled plasma mass spectrometry (ELAN DRC-e of PerkinElmer Co., Ltd), respectively.",
+      "text": "The concentrations of the concentrated seawater on the anode side and the 0.1 M HCl solution on the cathode side were measured by inductively coupled plasma atomic emission spectrometry (Optima7000DV of PerkinElmer Co., Ltd) and inductively coupled plasma mass spectrometry (ELAN DRC-e of PerkinElmer Co., Ltd), respectively."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.92197067999999,
+            "t": 78.27776560703114,
+            "r": 293.46791959999996,
+            "b": 49.947087823782454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "The applied dialysis voltage was 2-3 V, and the duration of dialysis was up to 15 h. The area of the Pt-covered Ti electrode was 21 cm 2 .",
+      "text": "The applied dialysis voltage was 2-3 V, and the duration of dialysis was up to 15 h. The area of the Pt-covered Ti electrode was 21 cm 2 ."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.41038815999997,
+            "t": 225.30186960703122,
+            "r": 562.9564597,
+            "b": 210.8069232182495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Fig. 1. Electrodialysis for removing divalent ions and producing concentrated seawater.",
+      "text": "Fig. 1. Electrodialysis for removing divalent ions and producing concentrated seawater."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.41131,
+            "t": 193.1792656070312,
+            "r": 413.322235,
+            "b": 185.77008782378243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "3. Results and discussion",
+      "text": "3. Results and discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.41131,
+            "t": 172.25766560703119,
+            "r": 531.1061549,
+            "b": 164.8485878237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "3.1. Removal of divalent ions and concentration of seawater",
+      "text": "3.1. Removal of divalent ions and concentration of seawater",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.41141446999995,
+            "t": 151.33606560703117,
+            "r": 562.9581316,
+            "b": 102.08388782378245,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "The stabilized electrical potential for electrodialysis was supplied from cathode into anode with a potentiostat. A Ag-AgCl/KCl electrode (silver-silver chloride electrode: SSE) was used as the reference electrode (RE). The limit value of the electrical potential was 3 V to prevent the resolution of TMPA-TFSI.",
+      "text": "The stabilized electrical potential for electrodialysis was supplied from cathode into anode with a potentiostat. A Ag-AgCl/KCl electrode (silver-silver chloride electrode: SSE) was used as the reference electrode (RE). The limit value of the electrical potential was 3 V to prevent the resolution of TMPA-TFSI."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 311.41152908999993,
+            "t": 99.03226560703115,
+            "r": 562.958301,
+            "b": 49.780087823782424,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            314
+          ]
+        }
+      ],
+      "orig": "Table 1 shows the results of the removal of seawater divalent ions (Ca and Mg) and the concentration of seawater by electrodialysis. The applied dialysis voltage was 3 V, and the duration of dialysis was approximately 5 h. SELEMION TM CSO essentially prevents permeation of Ca and Mg ions from anode to the cathode",
+      "text": "Table 1 shows the results of the removal of seawater divalent ions (Ca and Mg) and the concentration of seawater by electrodialysis. The applied dialysis voltage was 3 V, and the duration of dialysis was approximately 5 h. SELEMION TM CSO essentially prevents permeation of Ca and Mg ions from anode to the cathode"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 32.731809999999996,
+            "t": 756.8479696070312,
+            "r": 48.08545879999997,
+            "b": 750.9206887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2958",
+      "text": "2958"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 198.5040339,
+            "t": 756.8479696070312,
+            "r": 388.9351399999999,
+            "b": 750.9206887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "T. Hoshino / Fusion Engineering and Design 88 (2013) 29562959",
+      "text": "T. Hoshino / Fusion Engineering and Design 88 (2013) 29562959"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 32.731063430000034,
+            "t": 69.8739696070312,
+            "r": 284.27904780000006,
+            "b": 55.378485608249434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "Fig. 3. Li recovery system using an ionic liquid and consisting of an electrodialysis setup and a potentiostat.",
+      "text": "Fig. 3. Li recovery system using an ionic liquid and consisting of an electrodialysis setup and a potentiostat."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 85.61811,
+            "t": 299.3018696070312,
+            "r": 231.3962452,
+            "b": 293.37458878824947,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Fig. 2. Li recovery method using an ionic liquid.",
+      "text": "Fig. 2. Li recovery method using an ionic liquid."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.22121,
+            "t": 737.8192696070312,
+            "r": 446.3715306,
+            "b": 723.3237856082495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Table 1 Ion concentrations in seawater before and after",
+      "text": "Table 1 Ion concentrations in seawater before and after"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 448.02851,
+            "t": 729.2513696070312,
+            "r": 493.5666162,
+            "b": 723.3240887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "electrodialysis.",
+      "text": "electrodialysis."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.22121,
+            "t": 578.3323656070312,
+            "r": 553.7675543,
+            "b": 529.0799315737825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "side. The concentration of Na, K, and Li ions on the cathode side was two times the initial concentration. The volume of seawater decreased from 15 to 3.8 L. These observations suggest that the separation of Ca and Mg ions is easily achieved by electrodialysis using SELEMION TM CSO.",
+      "text": "side. The concentration of Na, K, and Li ions on the cathode side was two times the initial concentration. The volume of seawater decreased from 15 to 3.8 L. These observations suggest that the separation of Ca and Mg ions is easily achieved by electrodialysis using SELEMION TM CSO."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.22131,
+            "t": 513.4622656070312,
+            "r": 519.9159549,
+            "b": 506.05318782378254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "3.2. Survival ratio of Na, K, and Li in concentrated seawater",
+      "text": "3.2. Survival ratio of Na, K, and Li in concentrated seawater",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.22132867999994,
+            "t": 492.5407656070312,
+            "r": 553.7672488000001,
+            "b": 464.2098315737824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "The Li recovery test was performed using an ionic liquid, and the ion survival ratio on the anode side was calculated from the following formula:",
+      "text": "The Li recovery test was performed using an ionic liquid, and the ion survival ratio on the anode side was calculated from the following formula:"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.22131,
+            "t": 454.17576560703117,
+            "r": 366.5426417,
+            "b": 446.76668782378243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "survival ratio (%)",
+      "text": "survival ratio (%)"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 302.22063833999994,
+            "t": 63.02716960703117,
+            "r": 553.7679850999999,
+            "b": 48.53168560824952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "Fig. 4. Li, Na, and K ion concentrations on the anode side as a function of dialysis time.",
+      "text": "Fig. 4. Li, Na, and K ion concentrations on the anode side as a function of dialysis time."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 427.44561,
+            "t": 261.2600962070312,
+            "r": 445.857646,
+            "b": 251.77391220703112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "(a) 2V",
+      "text": "(a) 2V"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 429.9607904,
+            "t": 83.37441620703112,
+            "r": 449.0594304,
+            "b": 73.88823220703114,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "(b) 3V",
+      "text": "(b) 3V"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 505.77261,
+            "t": 406.7756122070312,
+            "r": 514.68097668,
+            "b": 404.3831056070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Li",
+      "text": "Li"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 506.55461,
+            "t": 394.1799122070312,
+            "r": 521.18667668,
+            "b": 391.7874056070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Na",
+      "text": "Na"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 506.55461,
+            "t": 381.5852122070312,
+            "r": 514.1900258000001,
+            "b": 379.1927056070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "K",
+      "text": "K"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 346.37701,
+            "t": 282.7479122070312,
+            "r": 350.25966919999996,
+            "b": 281.28842340703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 368.63491,
+            "t": 282.7479122070312,
+            "r": 372.51756919999997,
+            "b": 281.28842340703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 390.91121,
+            "t": 282.7479122070312,
+            "r": 394.79386919999996,
+            "b": 281.28842340703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 413.16901,
+            "t": 282.7479122070312,
+            "r": 417.0516692,
+            "b": 281.28842340703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 435.44561,
+            "t": 282.7479122070312,
+            "r": 439.32826919999997,
+            "b": 281.28842340703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 455.93561,
+            "t": 282.7479122070312,
+            "r": 463.3542692,
+            "b": 281.28842340703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 478.19260999999995,
+            "t": 282.7479122070312,
+            "r": 485.61126920000004,
+            "b": 281.28842340703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 500.46861,
+            "t": 282.7479122070312,
+            "r": 507.8872692,
+            "b": 281.28842340703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "14",
+      "text": "14"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 522.72761,
+            "t": 282.7479122070312,
+            "r": 530.1452692,
+            "b": 281.28842340703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "16",
+      "text": "16"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 341.81801,
+            "t": 289.3609122070312,
+            "r": 345.7006692,
+            "b": 287.90142340703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 338.28181,
+            "t": 315.7368122070312,
+            "r": 345.70016919999995,
+            "b": 314.27732340703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 338.28181,
+            "t": 342.1125122070312,
+            "r": 345.70016919999995,
+            "b": 340.65302340703124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 338.28181,
+            "t": 368.5081122070312,
+            "r": 345.70016919999995,
+            "b": 367.04862340703124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "60",
+      "text": "60"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 338.28181,
+            "t": 394.8840122070312,
+            "r": 345.70016919999995,
+            "b": 393.42452340703124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "80",
+      "text": "80"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 334.74671,
+            "t": 421.2600122070312,
+            "r": 345.70016919999995,
+            "b": 419.8005234070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 421.81891,
+            "t": 268.9668122070311,
+            "r": 451.5949099999999,
+            "b": 267.2948122070311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Time (h)",
+      "text": "Time (h)"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 412.37801,
+            "t": 328.7971122070312,
+            "r": 501.29800999999986,
+            "b": 326.70711220703123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Approximately 50 %",
+      "text": "Approximately 50 %"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 504.28261,
+            "t": 225.76281220703117,
+            "r": 513.22871938,
+            "b": 223.3601691070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Li",
+      "text": "Li"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 505.06561,
+            "t": 213.11491220703124,
+            "r": 519.75851979,
+            "b": 210.71226910703126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Na",
+      "text": "Na"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 505.06561,
+            "t": 200.46481220703117,
+            "r": 512.7333753,
+            "b": 198.0621691070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "K",
+      "text": "K"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 345.93031,
+            "t": 102.21281220703122,
+            "r": 349.8294824,
+            "b": 100.74711610703116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 368.22711,
+            "t": 102.21281220703122,
+            "r": 372.1262824,
+            "b": 100.74711610703116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 390.54211,
+            "t": 102.21281220703122,
+            "r": 394.4412824,
+            "b": 100.74711610703116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 412.83991,
+            "t": 102.21281220703122,
+            "r": 416.7390824,
+            "b": 100.74711610703116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 435.15561,
+            "t": 102.21281220703122,
+            "r": 439.0547824,
+            "b": 100.74711610703116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 455.68161,
+            "t": 102.21281220703122,
+            "r": 463.1217824,
+            "b": 100.74711610703116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 477.97761,
+            "t": 102.21281220703122,
+            "r": 485.41878239999994,
+            "b": 100.74711610703116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 500.29260999999997,
+            "t": 102.21281220703122,
+            "r": 507.7347824,
+            "b": 100.74711610703116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "14",
+      "text": "14"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 522.58961,
+            "t": 102.21281220703122,
+            "r": 530.0307824,
+            "b": 100.74711610703116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "16",
+      "text": "16"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 341.36291,
+            "t": 108.85391220703127,
+            "r": 345.2620824,
+            "b": 107.38821610703121,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 337.82090999999997,
+            "t": 135.34281220703122,
+            "r": 345.2615824,
+            "b": 133.87711610703127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 337.82090999999997,
+            "t": 161.83081220703116,
+            "r": 345.2615824,
+            "b": 160.3651161070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 337.82090999999997,
+            "t": 188.33691220703122,
+            "r": 345.2615824,
+            "b": 186.87121610703116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "60",
+      "text": "60"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 337.82090999999997,
+            "t": 214.82591220703125,
+            "r": 345.2615824,
+            "b": 213.3602161070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "80",
+      "text": "80"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 334.27841,
+            "t": 241.3139122070312,
+            "r": 345.2615824,
+            "b": 239.84821610703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 413.67781,
+            "t": 88.37381220703116,
+            "r": 443.4538099999999,
+            "b": 86.70181220703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Time (h)",
+      "text": "Time (h)"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 411.45811,
+            "t": 174.5059122070312,
+            "r": 500.3781099999999,
+            "b": 172.41591220703117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Approximately 38 %",
+      "text": "Approximately 38 %"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 206.89341,
+            "t": 756.8479696070312,
+            "r": 397.3252399999999,
+            "b": 750.9206887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "T. Hoshino / Fusion Engineering and Design 88 (2013) 29562959",
+      "text": "T. Hoshino / Fusion Engineering and Design 88 (2013) 29562959"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 548.1136289,
+            "t": 756.8479696070312,
+            "r": 563.4672777,
+            "b": 750.9206887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2959",
+      "text": "2959"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 41.92117594999996,
+            "t": 563.3018696070312,
+            "r": 293.46788510000005,
+            "b": 548.8067232182495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "Fig. 5. Li, Na, Mg, and K ion concentrations on the anode side as a function of dialysis time.",
+      "text": "Fig. 5. Li, Na, Mg, and K ion concentrations on the anode side as a function of dialysis time."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 248.05721,
+            "t": 716.3859122070312,
+            "r": 254.60492964000002,
+            "b": 714.7139122070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Li",
+      "text": "Li"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 245.64321,
+            "t": 703.5329122070312,
+            "r": 251.4352384,
+            "b": 701.8609122070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 252.55921,
+            "t": 703.5329122070312,
+            "r": 257.0195532,
+            "b": 701.8609122070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "a",
+      "text": "a"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 247.99121000000002,
+            "t": 690.6808122070312,
+            "r": 261.18708280000004,
+            "b": 688.2394205070311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Mg",
+      "text": "Mg"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 248.65731,
+            "t": 677.8278122070312,
+            "r": 254.0081174,
+            "b": 676.1558122070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "K",
+      "text": "K"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 85.54791,
+            "t": 589.8235122070312,
+            "r": 89.5209748,
+            "b": 588.3341782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.21581,
+            "t": 589.8235122070312,
+            "r": 112.18887480000001,
+            "b": 588.3341782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 130.90331,
+            "t": 589.8235122070312,
+            "r": 134.8763748,
+            "b": 588.3341782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 153.56931,
+            "t": 589.8235122070312,
+            "r": 157.5423748,
+            "b": 588.3341782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 176.25731,
+            "t": 589.8235122070312,
+            "r": 180.2303748,
+            "b": 588.3341782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "8",
+      "text": "8"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 197.12621,
+            "t": 589.8235122070312,
+            "r": 204.6982748,
+            "b": 588.3341782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 219.79421000000002,
+            "t": 589.8235122070312,
+            "r": 227.36637479999996,
+            "b": 588.3341782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "12",
+      "text": "12"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 242.47931,
+            "t": 589.8235122070312,
+            "r": 250.05437479999995,
+            "b": 588.3341782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "14",
+      "text": "14"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 265.14731,
+            "t": 589.8235122070312,
+            "r": 272.72237479999995,
+            "b": 588.3341782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "16",
+      "text": "16"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 80.90541,
+            "t": 596.5706122070312,
+            "r": 84.8784748,
+            "b": 595.0812782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.30371,
+            "t": 623.4865122070312,
+            "r": 84.8763748,
+            "b": 621.9971782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.30371,
+            "t": 650.4020122070312,
+            "r": 84.8763748,
+            "b": 648.9126782070313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.30371,
+            "t": 677.3361122070312,
+            "r": 84.8763748,
+            "b": 675.8467782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "60",
+      "text": "60"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.30371,
+            "t": 704.2507122070313,
+            "r": 84.8763748,
+            "b": 702.7613782070313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "80",
+      "text": "80"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 73.70231,
+            "t": 731.1667122070312,
+            "r": 84.8763748,
+            "b": 729.6773782070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 169.85431,
+            "t": 576.7615122070312,
+            "r": 199.71300556,
+            "b": 575.0895122070311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Time (h)",
+      "text": "Time (h)"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 178.03731,
+            "t": 658.9577122070312,
+            "r": 260.5071435599999,
+            "b": 657.0767122070313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Approximately 63 %",
+      "text": "Approximately 63 %"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 49.89201,
+            "t": 535.2431656070312,
+            "r": 293.4785171,
+            "b": 516.2025368070313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "= anode ion concentration after electrodialysis anode ion concentration before electrodialysis \u00d7 100 . (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 41.921980090000005,
+            "t": 503.15546560703115,
+            "r": 293.4698405,
+            "b": 391.13863157378245,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            648
+          ]
+        }
+      ],
+      "orig": "Fig. 4 shows the Li, Na, and K ion concentrations on the anode side as a function of dialysis time. At 2 and 3 V, the Na and K ions selectively permeated from the anode side to the cathode side through the ionic liquid. The Li survival ratio was high for 3 h; however, it decreased as the survival ratios of Na and K reached 0%. Finally, the Li survival ratio was approximately 50% and 38% at 2 and 3 V, respectively. Although the permeation of Na and K ions at 3 V is faster than that at 2 V, the Li survival ratio is lower at 3 V. Therefore, it was considered that another ion needs to be added to the anode side to improve the Li survival ratio.",
+      "text": "Fig. 4 shows the Li, Na, and K ion concentrations on the anode side as a function of dialysis time. At 2 and 3 V, the Na and K ions selectively permeated from the anode side to the cathode side through the ionic liquid. The Li survival ratio was high for 3 h; however, it decreased as the survival ratios of Na and K reached 0%. Finally, the Li survival ratio was approximately 50% and 38% at 2 and 3 V, respectively. Although the permeation of Na and K ions at 3 V is faster than that at 2 V, the Li survival ratio is lower at 3 V. Therefore, it was considered that another ion needs to be added to the anode side to improve the Li survival ratio."
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 41.92191,
+            "t": 377.62616560703117,
+            "r": 176.96164860000002,
+            "b": 370.21708782378244,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "3.3. Improvement of Li survival ratio",
+      "text": "3.3. Improvement of Li survival ratio",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 41.922022870000006,
+            "t": 356.7046656070312,
+            "r": 293.46874,
+            "b": 276.0701315737824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            441
+          ]
+        }
+      ],
+      "orig": "Mg was selected as another ion because a large amount of Mg was already recovered by concentrating seawater, and it can remove Li from the recovery solution by chemical precipitation. Therefore, Li recovery was performed by using concentrated seawater having approximately 9000 ppm Mg and an ionic liquid. A dialysis voltage of 2 V was applied on the basis of the results in Fig. 4 because the Li survival ratio at 2 V is higher than at 3 V.",
+      "text": "Mg was selected as another ion because a large amount of Mg was already recovered by concentrating seawater, and it can remove Li from the recovery solution by chemical precipitation. Therefore, Li recovery was performed by using concentrated seawater having approximately 9000 ppm Mg and an ionic liquid. A dialysis voltage of 2 V was applied on the basis of the results in Fig. 4 because the Li survival ratio at 2 V is higher than at 3 V."
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 41.92183238000001,
+            "t": 273.0184656070312,
+            "r": 293.46806799999996,
+            "b": 181.92318782378243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            548
+          ]
+        }
+      ],
+      "orig": "Fig. 5 shows the Li, Na, Mg, and K ion concentrations on the anode side as a function of dialysis time. Na, Mg, and K ions permeate from the anode side to the cathode side with time. Furthermore, the Li survival ratio remained high and was 63% after 11 h. These results show that the Li survival ratio can be controlled, and the concentration of ions on the anode side can be changed. Subsequently, Li becomes selectively concentrated on the anode side because the other ions (Na, Mg, and K) in the concentrated seawater permeate through TMPA-TFSI.",
+      "text": "Fig. 5 shows the Li, Na, Mg, and K ion concentrations on the anode side as a function of dialysis time. Na, Mg, and K ions permeate from the anode side to the cathode side with time. Furthermore, the Li survival ratio remained high and was 63% after 11 h. These results show that the Li survival ratio can be controlled, and the concentration of ions on the anode side can be changed. Subsequently, Li becomes selectively concentrated on the anode side because the other ions (Na, Mg, and K) in the concentrated seawater permeate through TMPA-TFSI."
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 41.922135079999975,
+            "t": 178.87156560703124,
+            "r": 293.4680552,
+            "b": 150.5408315737825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "In the future, the evaluation of the optimization of the Li recovery system configuration for high efficiency will be performed using multistage electrodialysis and an ionic liquid.",
+      "text": "In the future, the evaluation of the optimization of the Li recovery system configuration for high efficiency will be performed using multistage electrodialysis and an ionic liquid."
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.41131,
+            "t": 737.1394656070312,
+            "r": 371.64895619999993,
+            "b": 729.7303878237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "4. Conclusions",
+      "text": "4. Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.41138518,
+            "t": 716.2178656070312,
+            "r": 562.9576618,
+            "b": 572.8186878237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            879
+          ]
+        }
+      ],
+      "orig": "In this study, a method for Li recovery from seawater has been proposed. The method involves the use of an ionic liquid through which only major seawater ions, including Na, Mg, Ca, and K but not Li, permeate from the anode side to the cathode side during electrodialysis. Therefore, the Li ions become concentrated on the anode side and can be recovered. TMPA-TFSI was selected as the ionic liquid because it exhibits lower Li conductivity than other ionic liquids. For accurately measuring the Li recovery characteristics, concentrated seawater without Mg and Ca ions was added to the anode side, and a solution without major ions was added to the cathode side. With both ends of the ionic liquid covered with SELEMION TM CMV to prevent the outflow of the ionic liquid, the Li survival ratio increased from 38% to 63% after adding Mg to the anode side to control Li permeation.",
+      "text": "In this study, a method for Li recovery from seawater has been proposed. The method involves the use of an ionic liquid through which only major seawater ions, including Na, Mg, Ca, and K but not Li, permeate from the anode side to the cathode side during electrodialysis. Therefore, the Li ions become concentrated on the anode side and can be recovered. TMPA-TFSI was selected as the ionic liquid because it exhibits lower Li conductivity than other ionic liquids. For accurately measuring the Li recovery characteristics, concentrated seawater without Mg and Ca ions was added to the anode side, and a solution without major ions was added to the cathode side. With both ends of the ionic liquid covered with SELEMION TM CMV to prevent the outflow of the ionic liquid, the Li survival ratio increased from 38% to 63% after adding Mg to the anode side to control Li permeation."
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.41136968,
+            "t": 569.7670093570312,
+            "r": 562.9578664,
+            "b": 520.5146315737825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            309
+          ]
+        }
+      ],
+      "orig": "Electrodialysis is already used in seawater desalination plants. Thus, this new recovery method is easily scalable. The recovered Li could then be used in applications such as in fusion reactors for fuel production. In addition, this method may also be suitable for recovering other rare metals from seawater.",
+      "text": "Electrodialysis is already used in seawater desalination plants. Thus, this new recovery method is easily scalable. The recovered Li could then be used in applications such as in fusion reactors for fuel production. In addition, this method may also be suitable for recovering other rare metals from seawater."
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.41119987999997,
+            "t": 504.51159685703124,
+            "r": 386.0193059799999,
+            "b": 497.10251907378256,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Acknowledgments",
+      "text": "Acknowledgments",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.41130548999996,
+            "t": 483.5900843570313,
+            "r": 562.9577537,
+            "b": 423.87708782378246,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            335
+          ]
+        }
+      ],
+      "orig": "The author is indebted to Professor Takayuki Terai for helpful discussions. The technical assistance of Mr. Fumiaki Oikawa, Tatsuya Suzuki, and Makiko Sekiya are greatly appreciated. This study was supported by the Funding Program for Next Generation World-Leading Researchers (NEXT Program) of the Cabinet Office, Government of Japan.",
+      "text": "The author is indebted to Professor Takayuki Terai for helpful discussions. The technical assistance of Mr. Fumiaki Oikawa, Tatsuya Suzuki, and Makiko Sekiya are greatly appreciated. This study was supported by the Funding Program for Next Generation World-Leading Researchers (NEXT Program) of the Cabinet Office, Government of Japan."
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.41147064,
+            "t": 407.8739968570312,
+            "r": 355.06370834000006,
+            "b": 400.4649190737825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.57860999999997,
+            "t": 388.37266960703124,
+            "r": 562.9574341,
+            "b": 366.5051637882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "[1] K. Tobita, S. Nishio, H. Tanigawa, M. Enoeda, T. Isono, H. Nakamura, D. Tsuru, S. Suzuki, T. Hayashi, K. Tsuchiya, T. Hayashi, T. Nishitani, The DEMO design team, J. Nucl. Mater. 386-388 (2009) 888-892.",
+      "text": "K. Tobita, S. Nishio, H. Tanigawa, M. Enoeda, T. Isono, H. Nakamura, D. Tsuru, S. Suzuki, T. Hayashi, K. Tsuchiya, T. Hayashi, T. Nishitani, The DEMO design team, J. Nucl. Mater. 386-388 (2009) 888-892.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.57860999999997,
+            "t": 364.46236960703123,
+            "r": 562.9577727,
+            "b": 342.59476378824945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "[2] S. Nishio, J. Ohmori, T. Kuroda, K. Tobita, M. Enoeda, D. Tsuru, T. Hirose, S. Sato, Y. Kawamura, H. Nakamura, M. Sato, The DEMO Plant Design Team, Fusion Eng. Des. 81 (2006) 1271-1276.",
+      "text": "S. Nishio, J. Ohmori, T. Kuroda, K. Tobita, M. Enoeda, D. Tsuru, T. Hirose, S. Sato, Y. Kawamura, H. Nakamura, M. Sato, The DEMO Plant Design Team, Fusion Eng. Des. 81 (2006) 1271-1276.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.57860999999997,
+            "t": 340.5519696070312,
+            "r": 562.9603758999999,
+            "b": 318.68446378824945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[3] T. Hoshino, K. Kato, Y. Natori, F. Oikawa, N. Nakano, M. Nakamura, K. Sasaki, A. Suzuki, T. Terai, K. Tatenuma, J. Nucl. Mater. 417 (2011) 684-687.",
+      "text": "T. Hoshino, K. Kato, Y. Natori, F. Oikawa, N. Nakano, M. Nakamura, K. Sasaki, A. Suzuki, T. Terai, K. Tatenuma, J. Nucl. Mater. 417 (2011) 684-687.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.57860999999997,
+            "t": 316.6415696070312,
+            "r": 562.9582557999998,
+            "b": 302.74416378824947,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "[4] P.W. Gruber, P.A. Medina, G.A. Keoleian, S.E. Kesler, M.P. Everson, T.J. Wallington, J. Ind. Ecol. 15 (2011) 760-775.",
+      "text": "P.W. Gruber, P.A. Medina, G.A. Keoleian, S.E. Kesler, M.P. Everson, T.J. Wallington, J. Ind. Ecol. 15 (2011) 760-775.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.57860999999997,
+            "t": 300.7013696070312,
+            "r": 562.9576466999999,
+            "b": 286.8038637882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            90
+          ]
+        }
+      ],
+      "orig": "[5] W. Tahil, The Trouble with Lithium, \u00a9 Meridian International Research, 2007, pp. 1-22.",
+      "text": "W. Tahil, The Trouble with Lithium, \u00a9 Meridian International Research, 2007, pp. 1-22.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.57860999999997,
+            "t": 284.76106960703123,
+            "r": 562.9591753,
+            "b": 270.8636637882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "[6] R. Chitrakar, H. Kanoh, Y. Miyai, K. Ooi, Ind. Eng. Chem. Res. 40 (2001) 2054-2058.",
+      "text": "R. Chitrakar, H. Kanoh, Y. Miyai, K. Ooi, Ind. Eng. Chem. Res. 40 (2001) 2054-2058.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.57860999999997,
+            "t": 268.8208696070312,
+            "r": 516.4033638,
+            "b": 262.89348878824944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "[7] K. Ooi, Y. Miyai, S. Katoh, Sep. Sci. Technol. 21 (1986) 755-766.",
+      "text": "K. Ooi, Y. Miyai, S. Katoh, Sep. Sci. Technol. 21 (1986) 755-766.",
+      "hyperlink": "http://refhub.elsevier.com/S0920-3796(13)00563-2/sbref0050",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.57860999999997,
+            "t": 260.85066960703125,
+            "r": 562.9583471000001,
+            "b": 246.9531637882494,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "[8] A. Umeno, Y. Miyai, N. Takagi, R. Chitrakar, K. Sakane, K. Ooi, Ind. Eng. Chem. Res. 41 (2002) 4281-4287.",
+      "text": "A. Umeno, Y. Miyai, N. Takagi, R. Chitrakar, K. Sakane, K. Ooi, Ind. Eng. Chem. Res. 41 (2002) 4281-4287.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 314.57860999999997,
+            "t": 244.91046960703125,
+            "r": 562.9603797000001,
+            "b": 231.0129637882494,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "[9] S. Kitazawa, K. Kimura, H. Yano, T. Shono, Analyst 110 (1985) 295-299.",
+      "text": "S. Kitazawa, K. Kimura, H. Yano, T. Shono, Analyst 110 (1985) 295-299.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 310.75301,
+            "t": 228.97016960703127,
+            "r": 562.9585413,
+            "b": 215.07266378824943,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "[10] R.A. Bartsch, B.P. Czech, S.I. Kang, L.E. Stewart, W. Walkowiak, W.A. Charewicz, G.S. Heo, B. Son, J. Am. Chem. Soc. 107 (1985) 4997-4998.",
+      "text": "R.A. Bartsch, B.P. Czech, S.I. Kang, L.E. Stewart, W. Walkowiak, W.A. Charewicz, G.S. Heo, B. Son, J. Am. Chem. Soc. 107 (1985) 4997-4998.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 310.74031,
+            "t": 213.02986960703117,
+            "r": 535.7220881999999,
+            "b": 207.10258878824948,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "[11] H. Sakamoto, K. Kimura, T. Shono, Anal. Chem. 59 (1987) 1513-1517.",
+      "text": "H. Sakamoto, K. Kimura, T. Shono, Anal. Chem. 59 (1987) 1513-1517.",
+      "hyperlink": "http://refhub.elsevier.com/S0920-3796(13)00563-2/sbref0070",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 310.74031,
+            "t": 205.05976960703128,
+            "r": 562.9583657000001,
+            "b": 191.16226378824945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "[12] K. Suzuki, H. Yamada, K. Sato, K. Watanabe, H. Hisamoto, Y. Tobe, K. Kobiro, Anal. Chem. 65 (1993) 3404-3410.",
+      "text": "K. Suzuki, H. Yamada, K. Sato, K. Watanabe, H. Hisamoto, Y. Tobe, K. Kobiro, Anal. Chem. 65 (1993) 3404-3410.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 310.74031,
+            "t": 189.1194696070312,
+            "r": 562.9589963000001,
+            "b": 167.25196378824944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "[13] A. Casnati, A. Pochini, R. Ungaro, F. Ugozzoli, F. Arnaud, S. Fanni, M.J. Schwing, R.J.M. Egberink, F. Jong, D.N. Reinhoudt, J. Am. Chem. Soc. 117 (1995) 2767-2777.",
+      "text": "A. Casnati, A. Pochini, R. Ungaro, F. Ugozzoli, F. Arnaud, S. Fanni, M.J. Schwing, R.J.M. Egberink, F. Jong, D.N. Reinhoudt, J. Am. Chem. Soc. 117 (1995) 2767-2777.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 310.74031,
+            "t": 165.20916960703119,
+            "r": 495.03806380000003,
+            "b": 159.28178878824951,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "[14] T. Hoshino, T. Terai, J. Nucl. Mater. 417 (2011) 696-699.",
+      "text": "T. Hoshino, T. Terai, J. Nucl. Mater. 417 (2011) 696-699.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 310.74031,
+            "t": 157.2389696070312,
+            "r": 505.56488820000004,
+            "b": 151.3116887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "[15] T. Hoshino, T. Terai, Fusion Eng. Des. 86 (2011) 2168-2171.",
+      "text": "T. Hoshino, T. Terai, Fusion Eng. Des. 86 (2011) 2168-2171.",
+      "enumerated": true,
+      "marker": "[15]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.0161247253418,
+            "t": 731.5798377990723,
+            "r": 92.40594482421875,
+            "b": 664.02099609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 496.2887268066406,
+            "t": 738.9210815429688,
+            "r": 553.9940185546875,
+            "b": 665.1984252929688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 494.9831237792969,
+            "t": 628.6620941162109,
+            "r": 554.0101928710938,
+            "b": 604.4665374755859,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 324.90570068359375,
+            "t": 722.2822723388672,
+            "r": 548.8920288085938,
+            "b": 234.6024169921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 35.607696533203125,
+            "t": 737.9744186401367,
+            "r": 278.6280212402344,
+            "b": 78.6131591796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.4584045410156,
+            "t": 720.7115783691406,
+            "r": 553.7095947265625,
+            "b": 603.6076507568359,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 324.05267333984375,
+            "t": 426.5878601074219,
+            "r": 532.0580444335938,
+            "b": 74.34033203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 61.223026275634766,
+            "t": 737.84228515625,
+            "r": 273.6274719238281,
+            "b": 574.0005340576172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/101"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.300048828125,
+        "height": 793.7000122070312
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.300048828125,
+        "height": 793.7000122070312
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.300048828125,
+        "height": 793.7000122070312
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.300048828125,
+        "height": 793.7000122070312
+      },
+      "page_no": 4
+    }
+  }
+}

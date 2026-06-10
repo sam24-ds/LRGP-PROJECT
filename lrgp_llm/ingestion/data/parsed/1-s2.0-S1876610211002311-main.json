@@ -1,0 +1,6020 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1-s2.0-S1876610211002311-main",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18041182337554093958,
+    "filename": "1-s2.0-S1876610211002311-main.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/126"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.49032218000001,
+            "t": 393.48725326571747,
+            "r": 91.73397555927664,
+            "b": 386.3498484817437,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.48982011375125,
+            "t": 373.5533636857175,
+            "r": 484.5340757256559,
+            "b": 276.99218076736116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1233
+          ]
+        }
+      ],
+      "orig": "A study on thermal and chemical stability of amines has been performed for eleven chemicals, including ethanolamine (MEA), 2amino-2-methylpropanol (AMP) and diethanolamine (DEA), trying to identify the impact of parameters such as amine function, alcohol group and steric hindrance. The chemicals were studied for 5 weeks at 135 /g113 C, both with and without the presence of CO2 (0.5 mol/mol amine) and in contact with metal (316 SS) as well as in glass containers. In general, the presence of metal did not make an impact on the degree of degradation. As for thermal degradation without CO2, most of the compounds were relatively stable. For thermal degradation in the presence of CO2, the sterically hindered amine AMP had the highest stability, while the secondary amines had the lowest. Increasing chain length gave slightly higher stability. In comparison with biodegradation, most of the compounds showed higher thermal degradation in the presence of CO2 than for biodegradation, and compounds stable at process conditions are likely also resilient with regards to biodegradation. None of the tested chemicals has the combined desired stability under process conditions while at the same time being sufficiently biodegradable.",
+      "text": "A study on thermal and chemical stability of amines has been performed for eleven chemicals, including ethanolamine (MEA), 2amino-2-methylpropanol (AMP) and diethanolamine (DEA), trying to identify the impact of parameters such as amine function, alcohol group and steric hindrance. The chemicals were studied for 5 weeks at 135 /g113 C, both with and without the presence of CO2 (0.5 mol/mol amine) and in contact with metal (316 SS) as well as in glass containers. In general, the presence of metal did not make an impact on the degree of degradation. As for thermal degradation without CO2, most of the compounds were relatively stable. For thermal degradation in the presence of CO2, the sterically hindered amine AMP had the highest stability, while the secondary amines had the lowest. Increasing chain length gave slightly higher stability. In comparison with biodegradation, most of the compounds showed higher thermal degradation in the presence of CO2 than for biodegradation, and compounds stable at process conditions are likely also resilient with regards to biodegradation. None of the tested chemicals has the combined desired stability under process conditions while at the same time being sufficiently biodegradable."
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 58.78,
+            "t": 264.472511953125,
+            "r": 295.41399999999993,
+            "b": 256.6618997600034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "\u00a9 2010 Elsevier Ltd. All rights reserved c \u20dd 2011 Published by Elsevier Ltd. Open access under CC BY-NC-ND license.",
+      "text": "\u00a9 2010 Elsevier Ltd. All rights reserved c \u20dd 2011 Published by Elsevier Ltd. Open access under CC BY-NC-ND license.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.49032218000001,
+            "t": 243.86840518698125,
+            "r": 410.6468425918251,
+            "b": 237.61147900320964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "Keywords: Biodegradation; thermal degradation; amine degradation; solvent development; carbon dioxide; CO2 capture",
+      "text": "Keywords: Biodegradation; thermal degradation; amine degradation; solvent development; carbon dioxide; CO2 capture"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.49032218000001,
+            "t": 194.8591455879606,
+            "r": 120.34898716704609,
+            "b": 186.91294364750684,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.489361320241244,
+            "t": 173.1896626224086,
+            "r": 484.790502553939,
+            "b": 111.03591527201672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            695
+          ]
+        }
+      ],
+      "orig": "In  CO2-capture  absorption  processes,  degradation  is  a  general  problem  which  should  be  minimized.  Partly because  of  amine  loss  and  subsequent  reduction  in  absorption  capacity,  but  also  due  to  the  properties  of  the degradation products formed. These can promote corrosion as well as cause viscosity changes and foaming. The solvents should be thermally stable at the temperatures experienced in the stripper; around 118-120\u00b0C in the case of ethanolamine with surface temperatures up to 135-140 o C. At these temperatures thermal degradation may already take place. The chemical stability in presence of carbon dioxide and oxygen is usually of even greater concern. On",
+      "text": "In  CO2-capture  absorption  processes,  degradation  is  a  general  problem  which  should  be  minimized.  Partly because  of  amine  loss  and  subsequent  reduction  in  absorption  capacity,  but  also  due  to  the  properties  of  the degradation products formed. These can promote corrosion as well as cause viscosity changes and foaming. The solvents should be thermally stable at the temperatures experienced in the stripper; around 118-120\u00b0C in the case of ethanolamine with surface temperatures up to 135-140 o C. At these temperatures thermal degradation may already take place. The chemical stability in presence of carbon dioxide and oxygen is usually of even greater concern. On"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.34982919,
+            "t": 89.05304135100323,
+            "r": 270.9868703422728,
+            "b": 70.6027884814556,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "* Corresponding author. Tel.:+47 73 59 41 00; fax: +47 73 59 40 80. E-mail address : Hallvard.Svendsen@chemeng.ntnu.no",
+      "text": "* Corresponding author. Tel.:+47 73 59 41 00; fax: +47 73 59 40 80. E-mail address : Hallvard.Svendsen@chemeng.ntnu.no"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 191.73829110999998,
+            "t": 646.765116252102,
+            "r": 345.1634565279887,
+            "b": 641.0042238163749,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Available online at www.sciencedirect.com",
+      "text": "Available online at www.sciencedirect.com"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 195.681,
+            "t": 624.659471953125,
+            "r": 315.50995000000034,
+            "b": 617.8180380593196,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Energy Procedia 4 (2011) 1631-1636",
+      "text": "Energy Procedia 4 (2011) 1631-1636"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 214.10193339999998,
+            "t": 599.2568464723312,
+            "r": 324.77281852942895,
+            "b": 592.9999202885596,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Energy  Procedia  00 (2010) 000-000",
+      "text": "Energy  Procedia  00 (2010) 000-000"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 248.61433924,
+            "t": 558.1756843461566,
+            "r": 296.0219717286392,
+            "b": 548.7667905719278,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "GHGT-10",
+      "text": "GHGT-10",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 73.37462338,
+            "t": 533.2395107959237,
+            "r": 472.3703696097125,
+            "b": 501.8766847203499,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Chemical stability and biodegradability of new solvents for CO2 capture",
+      "text": "Chemical stability and biodegradability of new solvents for CO2 capture",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 63.25891822,
+            "t": 490.1916736031258,
+            "r": 481.5966611455887,
+            "b": 463.68503497337156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Ingvild Eide-Haugmo a , H\u00e9l\u00e8ne Lepaumier a , Aslak Einbu b , Kai Vernstad b , Eirik Falck da Silva b , Hallvard F. Svendsen a* .",
+      "text": "Ingvild Eide-Haugmo a , H\u00e9l\u00e8ne Lepaumier a , Aslak Einbu b , Kai Vernstad b , Eirik Falck da Silva b , Hallvard F. Svendsen a* ."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 158.01927390999998,
+            "t": 455.09723703037537,
+            "r": 385.7176530599719,
+            "b": 438.4484817743935,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "a Norwegian University of Science and Technology, 7491 Trondheim, Norway b SINTEF Materials and Chemistry, 7465 Trondheim, Norway",
+      "text": "a Norwegian University of Science and Technology, 7491 Trondheim, Norway b SINTEF Materials and Chemistry, 7465 Trondheim, Norway"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 216.4825004771311,
+            "t": 430.2151262713286,
+            "r": 383.45216883978304,
+            "b": 423.95820008755703,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Received date here; revised date here; accepted date here",
+      "text": "Received date here; revised date here; accepted date here"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 160.3994766895139,
+            "t": 430.2151262713286,
+            "r": 216.48971651210104,
+            "b": 423.88666360255087,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Elsevier use only:",
+      "text": "Elsevier use only:"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 419.68876474,
+            "t": 638.7461447055873,
+            "r": 468.67886945791156,
+            "b": 623.7063225382174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Energy",
+      "text": "Energy",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 377.144,
+            "t": 620.0521666111886,
+            "r": 486.65180000000026,
+            "b": 605.0123444438186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 391.52346802,
+            "t": 587.4056036623311,
+            "r": 482.64322800144043,
+            "b": 581.1486774785595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            42,
+            69
+          ]
+        }
+      ],
+      "orig": "Procedia www.elsevier.com/locate/procedia www.elsevier.com/locate/XXX",
+      "text": "Procedia www.elsevier.com/locate/procedia www.elsevier.com/locate/XXX"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.60000000000002,
+            "t": 50.49147195312503,
+            "r": 166.18328000000017,
+            "b": 43.65003805931963,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "doi:10.1016/j.egypro.2011.02.034",
+      "text": "doi:10.1016/j.egypro.2011.02.034",
+      "hyperlink": "http://dx.doi.org/10.1016/j.egypro.2011.02.034"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.6,
+            "t": 680.110471953125,
+            "r": 73.54,
+            "b": 673.2690380593197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1632",
+      "text": "1632"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 182.692,
+            "t": 680.2459619531251,
+            "r": 377.49473000000046,
+            "b": 673.383791953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "I. Eide-Haugmo et al. / Energy Procedia 4 (2011) 1631-1636",
+      "text": "I. Eide-Haugmo et al. / Energy Procedia 4 (2011) 1631-1636"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.691986476,
+            "t": 671.8190984595582,
+            "r": 40.68683903351,
+            "b": 664.8913333722322,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 189.43277710086036,
+            "t": 671.8190984595582,
+            "r": 357.24774436622937,
+            "b": 664.9030542613681,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Author name / Energy Procedia 00 (2010) 000-000",
+      "text": "Author name / Energy Procedia 00 (2010) 000-000"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.691986476,
+            "t": 649.5627671123694,
+            "r": 507.65022053257763,
+            "b": 628.8405841945768,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "the other hand, while the solvents should have chemical and thermal stability in the process, they should preferably degrade when released to the environment.",
+      "text": "the other hand, while the solvents should have chemical and thermal stability in the process, they should preferably degrade when released to the environment."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.691986476000004,
+            "t": 625.5158082810193,
+            "r": 507.59705036911964,
+            "b": 556.753669221243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            705
+          ]
+        }
+      ],
+      "orig": "Emissions might occur through accidental spills or through the cleaned exhaust gas as volatile solvent or in the form  of  an  aerosol.  If  the  solvent  is  not  naturally  degradable,  there  might  be  a  build  up  of  the  chemical  in  the environment. In order to identify the molecules which are both biodegradable and stable chemically under process conditions,  the  thermal  degradation  (with  and  without  CO2)  is  investigated  and  compared.  One  might  initially assume that the readily biodegradable amines are less stable at process conditions. The compounds which have been studied in this work are presented in table 1, with abbreviations used, full name, CAS number and structure.",
+      "text": "Emissions might occur through accidental spills or through the cleaned exhaust gas as volatile solvent or in the form  of  an  aerosol.  If  the  solvent  is  not  naturally  degradable,  there  might  be  a  build  up  of  the  chemical  in  the environment. In order to identify the molecules which are both biodegradable and stable chemically under process conditions,  the  thermal  degradation  (with  and  without  CO2)  is  investigated  and  compared.  One  might  initially assume that the readily biodegradable amines are less stable at process conditions. The compounds which have been studied in this work are presented in table 1, with abbreviations used, full name, CAS number and structure."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.69224098920313,
+            "t": 553.4288933076854,
+            "r": 507.76383784711277,
+            "b": 460.67518385464984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            811
+          ]
+        }
+      ],
+      "orig": "Previous work has established the biodegradability of a significant number of compounds (43) [1]. Other studies have been performed on wastewater treatment of ethanolamine (MEA)[2, 3] and methyldiethanolamine (MDEA)[4], finding that MEA was degradable under the right conditions, while MDEA was found to have no degradation. A study of the biodegradation of amines in seawater as well as freshwater was performed by Price et al .[5], finding that the rate of degradation in seawater was lower than in freshwater, even though the bacterial content in the tests was higher than that expected in the ocean. Diethylenetriamine (DETA) did not degrade, ethylenediamine (EDA) degraded in freshwater but not seawater, while diethanolamine (DEA) and triethanolamine (TEA) were degradable both in seawater and freshwater.",
+      "text": "Previous work has established the biodegradability of a significant number of compounds (43) [1]. Other studies have been performed on wastewater treatment of ethanolamine (MEA)[2, 3] and methyldiethanolamine (MDEA)[4], finding that MEA was degradable under the right conditions, while MDEA was found to have no degradation. A study of the biodegradation of amines in seawater as well as freshwater was performed by Price et al .[5], finding that the rate of degradation in seawater was lower than in freshwater, even though the bacterial content in the tests was higher than that expected in the ocean. Diethylenetriamine (DETA) did not degrade, ethylenediamine (EDA) degraded in freshwater but not seawater, while diethanolamine (DEA) and triethanolamine (TEA) were degradable both in seawater and freshwater."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.691133352575065,
+            "t": 457.3514111517236,
+            "r": 507.57111697991394,
+            "b": 340.48940187291805,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1059
+          ]
+        }
+      ],
+      "orig": "Several  studies  have  been  made  investigating  the  thermal  degradation  of  MEA  with  CO2[6-8],  identifying degradation compounds and mechanisms of degradation. In the study of Davis and Rochelle[8] it was shown that the degradation of MEA increased when increasing temperature and loading. Degradation of DEA was investigated by Kim and Sartori[9] as well as by Meisen and Kennard[10]. Several degradation compounds were identified in the presence of CO2, whereas without CO2 present, no significant degradation was found below 205 /g113 C. The degradation of  MDEA was studied by Chakma and Meisen[11], who found that MDEA degraded in the presence of carbon dioxide. The pure thermal degradation of MDEA was in the same work found to be negligible up to temperatures of 240  \u00baC.  The  degradation  of  several  aqueous  solutions  of  MDEA-DEA-AMP  blends  was  studied  by  Reza  and Trejo[12] in the presence of CO2 and H2S at about 200 \u00baC. DEA was found to be the most degradable, while 2amino-2-methylpropanol (AMP) was the most stable compound.",
+      "text": "Several  studies  have  been  made  investigating  the  thermal  degradation  of  MEA  with  CO2[6-8],  identifying degradation compounds and mechanisms of degradation. In the study of Davis and Rochelle[8] it was shown that the degradation of MEA increased when increasing temperature and loading. Degradation of DEA was investigated by Kim and Sartori[9] as well as by Meisen and Kennard[10]. Several degradation compounds were identified in the presence of CO2, whereas without CO2 present, no significant degradation was found below 205 /g113 C. The degradation of  MDEA was studied by Chakma and Meisen[11], who found that MDEA degraded in the presence of carbon dioxide. The pure thermal degradation of MDEA was in the same work found to be negligible up to temperatures of 240  \u00baC.  The  degradation  of  several  aqueous  solutions  of  MDEA-DEA-AMP  blends  was  studied  by  Reza  and Trejo[12] in the presence of CO2 and H2S at about 200 \u00baC. DEA was found to be the most degradable, while 2amino-2-methylpropanol (AMP) was the most stable compound."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.69122875613633,
+            "t": 337.1646259593606,
+            "r": 507.882220965756,
+            "b": 172.32333550156852,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1522
+          ]
+        }
+      ],
+      "orig": "In a recent study Lepaumier et. al.[13] investigated the degradation mechanisms of several ethanolamines and ethylenediamines during thermal degradation, both with and without CO2. The solutions had a concentration of 4 mol amine/kg, and were kept at 140 \u00baC for 15 days in a batch reactor. For experiments with CO2, the pressure was 2MPa. The thermal degradation without CO2 was found to be insignificant, while adding CO2 gave degradation. For the  ethanolamines,  the  secondary  amines  were  found  to  be  the  most  degradable,  while  the  tertiary  amines  were found to be the most stable, followed by the sterically hindered amine. MEA was found to have a degradation of approximately 40%. For the ethylenediamines, the overall trends were found to be the same as for ethanolamines. In the  work of Davis[14], several amines including MEA, MDEA and AMP were screened for thermal degradation with CO2. The solutions were at 7m alkalinity with a loading of 0.4 mol CO2 /mol alkalinity and were kept at 135 \u00baC for 4 weeks,. The secondary alkanolamine N-(2-hydroxyethyl)-ethylenediamine (AEEA) and the polyamine DETA were found to be the least resistant to degradation, while the cyclic amines without side chains were the most stable, followed by the sterically hindered amine AMP and the longer chained alkanolamines. MEA was found to have a degradation  of  33%.  Piperazine  (PZ)  was  also  studied  by  Freeman  et  al  [15],  confirming  the  stability  of  this compound compared to the other amines studied.",
+      "text": "In a recent study Lepaumier et. al.[13] investigated the degradation mechanisms of several ethanolamines and ethylenediamines during thermal degradation, both with and without CO2. The solutions had a concentration of 4 mol amine/kg, and were kept at 140 \u00baC for 15 days in a batch reactor. For experiments with CO2, the pressure was 2MPa. The thermal degradation without CO2 was found to be insignificant, while adding CO2 gave degradation. For the  ethanolamines,  the  secondary  amines  were  found  to  be  the  most  degradable,  while  the  tertiary  amines  were found to be the most stable, followed by the sterically hindered amine. MEA was found to have a degradation of approximately 40%. For the ethylenediamines, the overall trends were found to be the same as for ethanolamines. In the  work of Davis[14], several amines including MEA, MDEA and AMP were screened for thermal degradation with CO2. The solutions were at 7m alkalinity with a loading of 0.4 mol CO2 /mol alkalinity and were kept at 135 \u00baC for 4 weeks,. The secondary alkanolamine N-(2-hydroxyethyl)-ethylenediamine (AEEA) and the polyamine DETA were found to be the least resistant to degradation, while the cyclic amines without side chains were the most stable, followed by the sterically hindered amine AMP and the longer chained alkanolamines. MEA was found to have a degradation  of  33%.  Piperazine  (PZ)  was  also  studied  by  Freeman  et  al  [15],  confirming  the  stability  of  this compound compared to the other amines studied."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 166.752,
+            "t": 680.2459619531251,
+            "r": 361.5547300000005,
+            "b": 673.383791953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "I. Eide-Haugmo et al. / Energy Procedia 4 (2011) 1631-1636",
+      "text": "I. Eide-Haugmo et al. / Energy Procedia 4 (2011) 1631-1636"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 470.712,
+            "t": 680.110471953125,
+            "r": 486.65200000000004,
+            "b": 673.2690380593197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1633",
+      "text": "1633"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 189.43357607137187,
+            "t": 671.8190984595582,
+            "r": 357.19181643042424,
+            "b": 664.9030542613681,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Author name / Energy Procedia 00 (2010) 000-000",
+      "text": "Author name / Energy Procedia 00 (2010) 000-000"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 36.69198647600005,
+            "t": 649.8577960099027,
+            "r": 299.04102365550455,
+            "b": 642.9300301722323,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Table 1: Compounds tested for thermal degradation and degradation with CO2.",
+      "text": "Table 1: Compounds tested for thermal degradation and degradation with CO2."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 501.0648333481235,
+            "t": 671.8190984595582,
+            "r": 505.05968590563344,
+            "b": 664.8913333722322,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 57.6,
+            "t": 680.110471953125,
+            "r": 73.54,
+            "b": 673.2690380593197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1634",
+      "text": "1634"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 182.692,
+            "t": 680.2459619531251,
+            "r": 377.49473000000046,
+            "b": 673.383791953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "I. Eide-Haugmo et al. / Energy Procedia 4 (2011) 1631-1636",
+      "text": "I. Eide-Haugmo et al. / Energy Procedia 4 (2011) 1631-1636"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.691986476,
+            "t": 671.8190984595582,
+            "r": 40.68683903351,
+            "b": 664.8913333722322,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.691986476,
+            "t": 649.5627671123694,
+            "r": 107.78149822848779,
+            "b": 640.7646098762017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "2. Experimental",
+      "text": "2. Experimental",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.69169016311656,
+            "t": 625.5148050703881,
+            "r": 507.782348023021,
+            "b": 520.7397448558933,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            929
+          ]
+        }
+      ],
+      "orig": "All absorbents were tested at the same concentration level (30 wt%) in deionised water and were degassed with nitrogen  before  the  experiment  started.  For  each  compound  a  pure  solution  (30  wt%)  was  tested  as  well  as  one containing CO2 at a level of 0.5 moles CO2/mole amine.Closed metal cylinders (316 SS) with room for glass tubes were used. The unloaded and loaded solutions were tested both in contact with metal and without, using the glass tubes.  The  cylinders  were  stored  at  135\u00b0C  for  5  weeks.  Each  week,  one  cylinder  was  selected  and  analyzed  to determine the amount of the starting amine. Samples were collected every week and metal cylinders opened for sampling were not returned for further testing. To check for leakage, the cylinders including solution were weighed before and after incubation. The degradation rate was determined by Liquid Chromatography-Mass Spectrometry (LC-MS).",
+      "text": "All absorbents were tested at the same concentration level (30 wt%) in deionised water and were degassed with nitrogen  before  the  experiment  started.  For  each  compound  a  pure  solution  (30  wt%)  was  tested  as  well  as  one containing CO2 at a level of 0.5 moles CO2/mole amine.Closed metal cylinders (316 SS) with room for glass tubes were used. The unloaded and loaded solutions were tested both in contact with metal and without, using the glass tubes.  The  cylinders  were  stored  at  135\u00b0C  for  5  weeks.  Each  week,  one  cylinder  was  selected  and  analyzed  to determine the amount of the starting amine. Samples were collected every week and metal cylinders opened for sampling were not returned for further testing. To check for leakage, the cylinders including solution were weighed before and after incubation. The degradation rate was determined by Liquid Chromatography-Mass Spectrometry (LC-MS)."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.69169016311656,
+            "t": 517.4149689423357,
+            "r": 507.5967540562376,
+            "b": 496.6927860245431,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "Biodegradability  was  in  previous  work  determined  by  a  marine  biodegradation  test,  conducted  according  to OECD guideline 306, 'biodegradability in seawater' [1].",
+      "text": "Biodegradability  was  in  previous  work  determined  by  a  marine  biodegradation  test,  conducted  according  to OECD guideline 306, 'biodegradability in seawater' [1]."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.69169016311656,
+            "t": 469.37622786435486,
+            "r": 145.30428915669705,
+            "b": 460.5780706281871,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "3. Results and discussion",
+      "text": "3. Results and discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.690843701286894,
+            "t": 445.3272626117422,
+            "r": 507.5507631160006,
+            "b": 376.5607806676561,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            680
+          ]
+        }
+      ],
+      "orig": "The degree of degradation is presented as percentage loss of amine. The results from the thermal degradation without CO2 are compared with the biodegradation results in Figure 1, while the results from thermal degradation in the presence of CO2 are compared with biodegradation in Figure 2. The choice of container, whether metal or glass, did not seem to have an impact on the degree of degradation. One exception was MMEA for which the unloaded solution  showed  a  significantly  higher  degradation  rate  in  the  presence  of  metal.  This  has  not  been  investigated further in this work. With an exception for MMEA, only the results from the metal samples are presented.",
+      "text": "The degree of degradation is presented as percentage loss of amine. The results from the thermal degradation without CO2 are compared with the biodegradation results in Figure 1, while the results from thermal degradation in the presence of CO2 are compared with biodegradation in Figure 2. The choice of container, whether metal or glass, did not seem to have an impact on the degree of degradation. One exception was MMEA for which the unloaded solution  showed  a  significantly  higher  degradation  rate  in  the  presence  of  metal.  This  has  not  been  investigated further in this work. With an exception for MMEA, only the results from the metal samples are presented."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.6908437012869,
+            "t": 373.2360047540986,
+            "r": 507.7042543425835,
+            "b": 232.38977854989406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1250
+          ]
+        }
+      ],
+      "orig": "Often, pure thermal degradation is considered negligible under process conditions. Still, AP and MMEA (metal sample) showed significant degradation at the chosen temperature, which should be representative of the steam coil surface  temperature  in  a  reboiler.  For  the  compounds  EDA,  MAPA,  DMMEA  and  DEA  there  was  some degradation, while the rest of the tested amines showed no degradation. For degradation with CO2 present, MMEA and DEA were completely degraded within 5 weeks, while AEEA had degradation above 60%, closely followed by MEA at 55%.  When relating the structures of the amines to  the degradation rate, the sterically hindered  amine (AMP) showed the highest stability, while the secondary amines (DEA, MMEA and AEEA) showed the highest degradability. When comparing the tertiary amines with the primary amine MEA, both MDEA and DMMEA had higher stability. However, the primary amine AP showed less degradation which might suggest that longer carbon chains give higher stability. Comparing DETA with DEA and EDA with MEA, the alkanolamines seemed to have lower stability. However, the loading might play a significant role on the degree of degradation, so the results could change with higher loadings for the polyamines.",
+      "text": "Often, pure thermal degradation is considered negligible under process conditions. Still, AP and MMEA (metal sample) showed significant degradation at the chosen temperature, which should be representative of the steam coil surface  temperature  in  a  reboiler.  For  the  compounds  EDA,  MAPA,  DMMEA  and  DEA  there  was  some degradation, while the rest of the tested amines showed no degradation. For degradation with CO2 present, MMEA and DEA were completely degraded within 5 weeks, while AEEA had degradation above 60%, closely followed by MEA at 55%.  When relating the structures of the amines to  the degradation rate, the sterically hindered  amine (AMP) showed the highest stability, while the secondary amines (DEA, MMEA and AEEA) showed the highest degradability. When comparing the tertiary amines with the primary amine MEA, both MDEA and DMMEA had higher stability. However, the primary amine AP showed less degradation which might suggest that longer carbon chains give higher stability. Comparing DETA with DEA and EDA with MEA, the alkanolamines seemed to have lower stability. However, the loading might play a significant role on the degree of degradation, so the results could change with higher loadings for the polyamines."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.691177110471656,
+            "t": 229.06500263633666,
+            "r": 507.6897144774775,
+            "b": 148.27318712034798,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            735
+          ]
+        }
+      ],
+      "orig": "The  work  of  Lepaumier  et.al.[13]  agree  well  with  the  results  and  structural  trends  in  this  work  for  the alkanolamine degradation with CO2, with the exception of AMP and MDEA where their study showed higher and lower  degradation  respectively  compared  to  this  work.  In  the  work  presented  by  Davis  [14],  AMP  showed comparable  results  to  this  study,  and  the  trends  with  regards  to  amine  functionality,  chain  length  and  steric hindrance are the same. However there is a difference for AEEA, EDA and DETA which have higher degradation in the Davis[14] study. This can be explained by the concentrations of CO2, which were significantly different for these compounds when comparing the studies.",
+      "text": "The  work  of  Lepaumier  et.al.[13]  agree  well  with  the  results  and  structural  trends  in  this  work  for  the alkanolamine degradation with CO2, with the exception of AMP and MDEA where their study showed higher and lower  degradation  respectively  compared  to  this  work.  In  the  work  presented  by  Davis  [14],  AMP  showed comparable  results  to  this  study,  and  the  trends  with  regards  to  amine  functionality,  chain  length  and  steric hindrance are the same. However there is a difference for AEEA, EDA and DETA which have higher degradation in the Davis[14] study. This can be explained by the concentrations of CO2, which were significantly different for these compounds when comparing the studies."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 36.691177110471656,
+            "t": 144.94841120679052,
+            "r": 507.63335979694915,
+            "b": 28.144705399656004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1138
+          ]
+        }
+      ],
+      "orig": "The biodegradation results  presented  in  previous  work  showed  large  variation,  especially  for  the  primary  and secondary amines. In general the sterically hindered, tertiary and cyclic amines tested showed low biodegradability. However, some exceptions were DMMEA and piperidine which were biodegradable - both of these are found in nature.  For  thermal  degradation  without  CO2,  most  of  the  compounds  with  no  biodegradation  were  stable.  The thermal degradation of AP was found to be higher than the biodegradation, while for the remaining compounds the biodegradation rates were higher. When comparing the biodegradation rates with the thermal degradation rates with CO2 present, most  of  the  amines  showed  similar  or  higher  degradability  at  process  conditions  than  obtained  for biodegradation in seawater. The exceptions were the compounds with the highest biodegradability, DMMEA and MAPA. DMMEA still showed a thermal degradation of almost 30 wt%, while MAPA had 50%. The thermal and chemical stability of piperazine and morpholine was not studied in this work. However, Davis [14] found them to be",
+      "text": "The biodegradation results  presented  in  previous  work  showed  large  variation,  especially  for  the  primary  and secondary amines. In general the sterically hindered, tertiary and cyclic amines tested showed low biodegradability. However, some exceptions were DMMEA and piperidine which were biodegradable - both of these are found in nature.  For  thermal  degradation  without  CO2,  most  of  the  compounds  with  no  biodegradation  were  stable.  The thermal degradation of AP was found to be higher than the biodegradation, while for the remaining compounds the biodegradation rates were higher. When comparing the biodegradation rates with the thermal degradation rates with CO2 present, most  of  the  amines  showed  similar  or  higher  degradability  at  process  conditions  than  obtained  for biodegradation in seawater. The exceptions were the compounds with the highest biodegradability, DMMEA and MAPA. DMMEA still showed a thermal degradation of almost 30 wt%, while MAPA had 50%. The thermal and chemical stability of piperazine and morpholine was not studied in this work. However, Davis [14] found them to be"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 189.43277710086036,
+            "t": 671.8190984595582,
+            "r": 357.24774436622937,
+            "b": 664.9030542613681,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Author name / Energy Procedia 00 (2010) 000-000",
+      "text": "Author name / Energy Procedia 00 (2010) 000-000"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 166.752,
+            "t": 680.2459619531251,
+            "r": 361.5547300000005,
+            "b": 673.383791953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "I. Eide-Haugmo et al. / Energy Procedia 4 (2011) 1631-1636",
+      "text": "I. Eide-Haugmo et al. / Energy Procedia 4 (2011) 1631-1636"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 470.712,
+            "t": 680.110471953125,
+            "r": 486.65200000000004,
+            "b": 673.2690380593197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1635",
+      "text": "1635"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 189.43357607137187,
+            "t": 671.8190984595582,
+            "r": 357.19181643042424,
+            "b": 664.9030542613681,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Author name / Energy Procedia 00 (2010) 000-000",
+      "text": "Author name / Energy Procedia 00 (2010) 000-000"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 501.0648333481235,
+            "t": 671.8190984595582,
+            "r": 505.05968590563344,
+            "b": 664.8913333722322,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.691986476,
+            "t": 649.5627671123694,
+            "r": 507.6472109006844,
+            "b": 616.8171047789017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            328
+          ]
+        }
+      ],
+      "orig": "the most stable compounds screened in his study. The same is the case for biodegradation of the compounds.  In general,  compounds  stable  at  process  conditions  are  likely  to  also  be  resilient  with  regards  to  biodegradation; however natural compounds might be stable at process conditions while being biodegradable.",
+      "text": "the most stable compounds screened in his study. The same is the case for biodegradation of the compounds.  In general,  compounds  stable  at  process  conditions  are  likely  to  also  be  resilient  with  regards  to  biodegradation; however natural compounds might be stable at process conditions while being biodegradable."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.691986476,
+            "t": 328.3440418952682,
+            "r": 294.4541235356531,
+            "b": 321.41627680794227,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "Figure 1: Comparison of thermal degradation without CO2 with biodegradation.",
+      "text": "Figure 1: Comparison of thermal degradation without CO2 with biodegradation."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 223.363063676,
+            "t": 447.57544625312494,
+            "r": 271.76497639095487,
+            "b": 445.8925931323742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "MMEA, metal",
+      "text": "MMEA, metal"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 92.08906202069889,
+            "t": 400.9628303869706,
+            "r": 109.48440536815895,
+            "b": 399.2799772662198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "AMP",
+      "text": "AMP"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 162.9146280623527,
+            "t": 426.87715806077114,
+            "r": 179.42977557263973,
+            "b": 425.19430494002034,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "EDA",
+      "text": "EDA"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 101.86221543326197,
+            "t": 442.5244713122304,
+            "r": 112.61381161084353,
+            "b": 440.8416181914796,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "AP",
+      "text": "AP"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 267.83590457982297,
+            "t": 409.8569909476467,
+            "r": 297.582175241759,
+            "b": 408.1741378268959,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "DMMEA",
+      "text": "DMMEA"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.61492211466656,
+            "t": 397.3378520378701,
+            "r": 88.0730175193432,
+            "b": 395.6549989171193,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "DETA",
+      "text": "DETA"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 273.3272636042353,
+            "t": 421.38574261411065,
+            "r": 296.15759478799964,
+            "b": 419.70288949335986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "MAPA",
+      "text": "MAPA"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 140.29609148533729,
+            "t": 394.7024557392015,
+            "r": 157.69143483279734,
+            "b": 393.01960261845073,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "MEA",
+      "text": "MEA"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 185.37129879922932,
+            "t": 410.8989105353268,
+            "r": 201.9420121949372,
+            "b": 409.2160574145761,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "DEA",
+      "text": "DEA"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 97.25185754870995,
+            "t": 378.45124782718574,
+            "r": 118.8750400042745,
+            "b": 376.76839470643495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "AEEA",
+      "text": "AEEA"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 210.62800697970195,
+            "t": 416.06019690088306,
+            "r": 258.0200701248355,
+            "b": 414.37734378013226,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "MMEA, glass",
+      "text": "MMEA, glass"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 102.57812952223435,
+            "t": 392.17817605807534,
+            "r": 125.73702420239991,
+            "b": 390.49532293732454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "MDEA",
+      "text": "MDEA"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 78.143946266,
+            "t": 386.413216841125,
+            "r": 83.15609580066621,
+            "b": 384.52942118179516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 73.09303370435707,
+            "t": 425.01029709175833,
+            "r": 83.15519433492256,
+            "b": 423.1265014324285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 73.09303370435707,
+            "t": 463.552395746593,
+            "r": 83.15519433492256,
+            "b": 461.6686000872631,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 73.09303370435707,
+            "t": 502.15037733486236,
+            "r": 83.15519433492256,
+            "b": 500.2665816755325,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "60",
+      "text": "60"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 73.09303370435707,
+            "t": 540.7483589231318,
+            "r": 83.15519433492256,
+            "b": 538.8645632638019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "80",
+      "text": "80"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 68.04212114271412,
+            "t": 579.2904575779665,
+            "r": 83.1542928691789,
+            "b": 577.4066619186366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 87.53271198606267,
+            "t": 373.4573896606429,
+            "r": 92.54486152072887,
+            "b": 371.57359400131304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 134.9128500063002,
+            "t": 373.4573896606429,
+            "r": 144.92002122650334,
+            "b": 371.57359400131304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 184.87208151910608,
+            "t": 373.4573896606429,
+            "r": 194.93424214967155,
+            "b": 371.57359400131304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 234.77722508729323,
+            "t": 373.4573896606429,
+            "r": 244.83938571785876,
+            "b": 371.57359400131304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "60",
+      "text": "60"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 284.7364566000992,
+            "t": 373.4573896606429,
+            "r": 294.7986172306647,
+            "b": 371.57359400131304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "80",
+      "text": "80"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 332.1156931545932,
+            "t": 373.4573896606429,
+            "r": 347.22786488105805,
+            "b": 371.57359400131304,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 172.63288111763796,
+            "t": 364.3646955882411,
+            "r": 256.979424887526,
+            "b": 356.0363358312038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "BOD28 (% of ThOD)",
+      "text": "BOD28 (% of ThOD)"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.67937218829254,
+            "t": 548.2163734270438,
+            "r": 63.00773194532986,
+            "b": 423.19839970112497,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Degradation without CO2 (%)",
+      "text": "Degradation without CO2 (%)"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 36.691986476,
+            "t": 39.93722762126822,
+            "r": 282.0553352576727,
+            "b": 33.00946253394227,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "Figure 2: Comparison of thermal degradation with CO2 with biodegradation.",
+      "text": "Figure 2: Comparison of thermal degradation with CO2 with biodegradation."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 162.749866844,
+            "t": 162.18831116912497,
+            "r": 179.31979473879565,
+            "b": 160.50545804837418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "EDA",
+      "text": "EDA"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 159.0163996113388,
+            "t": 201.82956707381504,
+            "r": 176.4107981652341,
+            "b": 200.14671395306436,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "MEA",
+      "text": "MEA"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 220.1785960447818,
+            "t": 276.4427653677726,
+            "r": 244.16151354732204,
+            "b": 274.7599122470218,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "MMEA",
+      "text": "MMEA"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 99.06192386993627,
+            "t": 215.66519634360498,
+            "r": 120.62939998839552,
+            "b": 213.98234322285418,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "AEEA",
+      "text": "AEEA"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 97.52489800253272,
+            "t": 167.3504027275619,
+            "r": 120.62778969413947,
+            "b": 165.66754960681124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "MDEA",
+      "text": "MDEA"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 97.52489800253272,
+            "t": 106.62678162640407,
+            "r": 114.86454655172219,
+            "b": 104.94392850565328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "AMP",
+      "text": "AMP"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 100.98381006453673,
+            "t": 138.3610434422078,
+            "r": 111.73493966508126,
+            "b": 136.6781903214569,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "AP",
+      "text": "AP"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 264.04703731533294,
+            "t": 157.74284127454848,
+            "r": 293.79239281316245,
+            "b": 156.05998815379758,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "DMMEA",
+      "text": "DMMEA"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 97.36064798841521,
+            "t": 176.84926314167535,
+            "r": 118.87256895504059,
+            "b": 175.16641002092456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "DETA",
+      "text": "DETA"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 269.9213907614179,
+            "t": 196.55957966935875,
+            "r": 292.7513375766234,
+            "b": 194.87672654860808,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "MAPA",
+      "text": "MAPA"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 198.9315684832773,
+            "t": 283.3070346760982,
+            "r": 215.4459412262391,
+            "b": 281.62418155534743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "DEA",
+      "text": "DEA"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 76.93607458999999,
+            "t": 99.43388727512502,
+            "r": 81.94725746130368,
+            "b": 97.55009161579505,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.88523487582988,
+            "t": 136.22018021494796,
+            "r": 81.94635616942035,
+            "b": 134.336384555618,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.88523487582988,
+            "t": 173.00557181713475,
+            "r": 81.94635616942035,
+            "b": 171.12177615780502,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.88523487582988,
+            "t": 209.79096341932177,
+            "r": 81.94635616942035,
+            "b": 207.9071677599918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "60",
+      "text": "60"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.88523487582988,
+            "t": 246.57635502150868,
+            "r": 81.94635616942035,
+            "b": 244.69255936217883,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "80",
+      "text": "80"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 66.83439516165977,
+            "t": 283.306765027897,
+            "r": 81.94545487753703,
+            "b": 281.4229693685671,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 86.32483213862777,
+            "t": 86.478961432279,
+            "r": 91.33601500993146,
+            "b": 84.59516577294903,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 132.93604317681863,
+            "t": 86.478961432279,
+            "r": 142.99716447040913,
+            "b": 84.59516577294903,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "20",
+      "text": "20"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 182.07177278021123,
+            "t": 86.478961432279,
+            "r": 192.13289407380174,
+            "b": 84.59516577294903,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "40",
+      "text": "40"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 231.3724387982529,
+            "t": 86.478961432279,
+            "r": 241.43356009184333,
+            "b": 84.59516577294903,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "60",
+      "text": "60"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 280.50816840164543,
+            "t": 86.478961432279,
+            "r": 290.56928969523585,
+            "b": 84.59516577294903,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "80",
+      "text": "80"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 327.1184781479529,
+            "t": 86.478961432279,
+            "r": 342.22953786383005,
+            "b": 84.59516577294903,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 167.416643774,
+            "t": 77.17844353060718,
+            "r": 256.226487637522,
+            "b": 68.40576817755323,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "BOD28 (% of ThOD)",
+      "text": "BOD28 (% of ThOD)"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.962975098517795,
+            "t": 252.27790085651202,
+            "r": 61.735650451571715,
+            "b": 135.99954860855496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Degradation with CO2 (%)",
+      "text": "Degradation with CO2 (%)"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 57.6,
+            "t": 680.110471953125,
+            "r": 73.54,
+            "b": 673.2690380593197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1636",
+      "text": "1636"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 182.692,
+            "t": 680.2459619531251,
+            "r": 377.49473000000046,
+            "b": 673.383791953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "I. Eide-Haugmo et al. / Energy Procedia 4 (2011) 1631-1636",
+      "text": "I. Eide-Haugmo et al. / Energy Procedia 4 (2011) 1631-1636"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.691986476,
+            "t": 671.8190984595582,
+            "r": 40.68683903351,
+            "b": 664.8913333722322,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.691986476,
+            "t": 626.0639277466345,
+            "r": 97.39425535240112,
+            "b": 617.2657705104667,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "4. Conclusion",
+      "text": "4. Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.690912037542,
+            "t": 602.0711744260794,
+            "r": 507.7544790377546,
+            "b": 473.1909105452429,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1161
+          ]
+        }
+      ],
+      "orig": "A study on thermal and chemical stability of amines with and without the presence of CO2 has been performed for eleven chemicals, including MEA, AMP and DEA. The chemicals were tested both in contact with metal (316 SS) and in glass containers. The presence of metal did not have any impact on the degree of degradation, with an exception for MMEA. MMEA and AP were susceptible to thermal degradation, while the rest of the compounds were relatively stable. For degradation in presence of CO2, the sterically hindered amine (AMP) had the highest stability, while the secondary amines (DEA, MMEA and AEEA) had the lowest. Most of the compounds showed thermal degradation in the presence of CO2 higher than the biodegradation. MAPA and DMMEA, which were the compounds  with  highest  biodegradability  of  the  amines  tested  for  thermal  degradation,  were  relatively  stable without  CO2.  However,  in  the  presence  of  CO2  the  degradation  of  MAPA  was  50%,  while  for  DMMEA  it  was almost 30%. None of the tested chemicals have the desired combination of stability under process conditions while at the same time being sufficiently biodegradable.",
+      "text": "A study on thermal and chemical stability of amines with and without the presence of CO2 has been performed for eleven chemicals, including MEA, AMP and DEA. The chemicals were tested both in contact with metal (316 SS) and in glass containers. The presence of metal did not have any impact on the degree of degradation, with an exception for MMEA. MMEA and AP were susceptible to thermal degradation, while the rest of the compounds were relatively stable. For degradation in presence of CO2, the sterically hindered amine (AMP) had the highest stability, while the secondary amines (DEA, MMEA and AEEA) had the lowest. Most of the compounds showed thermal degradation in the presence of CO2 higher than the biodegradation. MAPA and DMMEA, which were the compounds  with  highest  biodegradability  of  the  amines  tested  for  thermal  degradation,  were  relatively  stable without  CO2.  However,  in  the  presence  of  CO2  the  degradation  of  MAPA  was  50%,  while  for  DMMEA  it  was almost 30%. None of the tested chemicals have the desired combination of stability under process conditions while at the same time being sufficiently biodegradable."
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69380291368877,
+            "t": 445.87134275316095,
+            "r": 118.28492355422729,
+            "b": 437.07318551699325,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Acknowledgement",
+      "text": "Acknowledgement",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69380291368877,
+            "t": 410.62353722377054,
+            "r": 506.04489353898464,
+            "b": 379.7547460998389,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "This publication forms a part of the REACT project, performed under the strategic Norwegian research program Petromaks. The authors acknowledge the partners: StatoilHydro, Shell and the Research Council of Norway (175918/S30) for their support.",
+      "text": "This publication forms a part of the REACT project, performed under the strategic Norwegian research program Petromaks. The authors acknowledge the partners: StatoilHydro, Shell and the Research Council of Norway (175918/S30) for their support."
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69380291368876,
+            "t": 353.5248009348626,
+            "r": 85.91332290466502,
+            "b": 344.7266436986949,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.691986476,
+            "t": 331.96765692326824,
+            "r": 496.28539174831843,
+            "b": 314.9679613500401,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "[1] I. Eide-Haugmo, Brakstad, O.G., Hoff, K.A., S\u00f8rheim, K.R., da Silva, E.F., and Svendsen, H.F., Environmental impact of amines, Energy Procedia, 2009; 1 : 1297-1304.",
+      "text": "I. Eide-Haugmo, Brakstad, O.G., Hoff, K.A., S\u00f8rheim, K.R., da Silva, E.F., and Svendsen, H.F., Environmental impact of amines, Energy Procedia, 2009; 1 : 1297-1304.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69118750548857,
+            "t": 311.98287101126823,
+            "r": 468.40399649737014,
+            "b": 294.92964441376955,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "[2] K. Ohtaguchi, Koide, K., and Yokoyam, T., An ecotechnology-integrated MEA process for CO2-removal, Energy conversion and management, 1995; 36 : 401-404.",
+      "text": "K. Ohtaguchi, Koide, K., and Yokoyam, T., An ecotechnology-integrated MEA process for CO2-removal, Energy conversion and management, 1995; 36 : 401-404.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.692265164937574,
+            "t": 291.9430926417751,
+            "r": 502.72697070098445,
+            "b": 274.94339706854703,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "[3] O. Mrklas, Chu, A., Lunn, S., and Bentley, L.R., Biodegradation of monoethanolamine, ethylene glycol and triethylene glycol in laboratory bioreactors, Water, Air and Soil Pollution, 2004; 159 : 249-263.",
+      "text": "O. Mrklas, Chu, A., Lunn, S., and Bentley, L.R., Biodegradation of monoethanolamine, ethylene glycol and triethylene glycol in laboratory bioreactors, Water, Air and Soil Pollution, 2004; 159 : 249-263.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69386310596056,
+            "t": 271.90331427228193,
+            "r": 489.56073564194304,
+            "b": 254.90361869905382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "[4] M. F\u00fcrhacker, Pressl, A., and Allabashi, R., Aerobic biodegradability of methyldiethanolamine (MDEA) used in natural gas sweetening plants in batch tests and continuous flow experiments, Chemosphere, 2003; 52 : 1743-1748.",
+      "text": "M. F\u00fcrhacker, Pressl, A., and Allabashi, R., Aerobic biodegradability of methyldiethanolamine (MDEA) used in natural gas sweetening plants in batch tests and continuous flow experiments, Chemosphere, 2003; 52 : 1743-1748.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69386310596053,
+            "t": 251.9170669270594,
+            "r": 505.4618467618565,
+            "b": 234.86384032956067,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            168
+          ]
+        }
+      ],
+      "orig": "[5] K.S. Price, Waggy, G.T., and Conway, R.A., Brine Shrimp bioassay and seawater BOD of petrochemicals, Journal (Water Pollution Control Federation), 1974; 46 : 63-77.",
+      "text": "K.S. Price, Waggy, G.T., and Conway, R.A., Brine Shrimp bioassay and seawater BOD of petrochemicals, Journal (Water Pollution Control Federation), 1974; 46 : 63-77.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.693064135449035,
+            "t": 231.82375753329558,
+            "r": 491.425532815789,
+            "b": 214.87919092536117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[6] L.D. Polderman, Dillon, C.P., and Steel, A.B., Why monoethanolamine solution breaks down in gas-treating service, Oil & Gas Journal, 1955; 54 : 180-3.",
+      "text": "L.D. Polderman, Dillon, C.P., and Steel, A.B., Why monoethanolamine solution breaks down in gas-treating service, Oil & Gas Journal, 1955; 54 : 180-3.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.692265164937545,
+            "t": 211.83910812909608,
+            "r": 486.14353876424946,
+            "b": 194.7850825610858,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "[7] B.R. Strazisar, Anderson, R.R., and White, C.M., Degradation Pathways for Monoethanolamine in a CO2 Capture Facility, Energy & Fuels, 2003; 17 : 1034-1039.",
+      "text": "B.R. Strazisar, Anderson, R.R., and White, C.M., Degradation Pathways for Monoethanolamine in a CO2 Capture Facility, Energy & Fuels, 2003; 17 : 1034-1039.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.6922651649375,
+            "t": 191.85445872489652,
+            "r": 469.2780702369537,
+            "b": 184.84748733902393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "[8] J. Davis and Rochelle, G., Thermal degradation of monoethanolamine at stripper conditions, Energy Procedia, 2009; 1 : 327-333.",
+      "text": "J. Davis and Rochelle, G., Thermal degradation of monoethanolamine at stripper conditions, Energy Procedia, 2009; 1 : 327-333.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69226516493746,
+            "t": 181.80820351327043,
+            "r": 484.0022977934246,
+            "b": 164.75417794526015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            195
+          ]
+        }
+      ],
+      "orig": "[9] C.J. Kim and Sartori, G., Kinetics and mechanisms of Diethanolamine Degradation in Aqueous Solutions Containing Carbon Dioxide International Journal of Chemical Kinetics 1984; 16 : 1257-1266.",
+      "text": "C.J. Kim and Sartori, G., Kinetics and mechanisms of Diethanolamine Degradation in Aqueous Solutions Containing Carbon Dioxide International Journal of Chemical Kinetics 1984; 16 : 1257-1266.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69306413544894,
+            "t": 161.82355410907076,
+            "r": 494.1723934343332,
+            "b": 154.81658272319828,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "[10] A. Meisen and Kennard, M.L., Mechanisms and Kinetics of Diethanolamine Degradation, Ind. Eng. Chem. Fundam., 1985; 24 : 129-140.",
+      "text": "A. Meisen and Kennard, M.L., Mechanisms and Kinetics of Diethanolamine Degradation, Ind. Eng. Chem. Fundam., 1985; 24 : 129-140.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69386310596038,
+            "t": 151.77649992693318,
+            "r": 495.5130659526331,
+            "b": 134.7224743589229,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "[11] A. Chakma and Meisen, A., Methyl-Diethanolamine Degradation - Mechanism and Kinetics, Canadian Journal of Chemical Engineering, 1997; 75 : 861-871.",
+      "text": "A. Chakma and Meisen, A., Methyl-Diethanolamine Degradation - Mechanism and Kinetics, Canadian Journal of Chemical Engineering, 1997; 75 : 861-871.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69546104698343,
+            "t": 131.79185052273363,
+            "r": 502.95096914901904,
+            "b": 114.73715165776946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "[12] J. Reza and Trejo, A., Degradation of Aqueous Solutions of Alkanolamine Blends at High Temperature, under the Presence of CO2 and H2S, Chem. Eng. Comm., 2006; 193 : 129-138.",
+      "text": "J. Reza and Trejo, A., Degradation of Aqueous Solutions of Alkanolamine Blends at High Temperature, under the Presence of CO2 and H2S, Chem. Eng. Comm., 2006; 193 : 129-138.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.690953928727794,
+            "t": 111.69706886150436,
+            "r": 493.9433756023431,
+            "b": 94.75250225357001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "[13] H. Lepaumier, Picq, D., and Carrette, P.-L., New Amines for CO2 Capture. I. Mechanisms of Amine Degradation in the Presence of CO2, Industrial & Engineering Chemistry Research, 2009; 48 : 9061-9067.",
+      "text": "H. Lepaumier, Picq, D., and Carrette, P.-L., New Amines for CO2 Capture. I. Mechanisms of Amine Degradation in the Presence of CO2, Industrial & Engineering Chemistry Research, 2009; 48 : 9061-9067.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69095392872782,
+            "t": 91.71241945730492,
+            "r": 484.18954359792747,
+            "b": 74.73760018784128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "[14] J. Davis, Thermal degradation of aqueous amines used for carbon dioxide capture , PhD dissertation. 2009, The university of Texas at Austin: Austin, TX.",
+      "text": "J. Davis, Thermal degradation of aqueous amines used for carbon dioxide capture , PhD dissertation. 2009, The university of Texas at Austin: Austin, TX.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69095392872778,
+            "t": 71.67264108781171,
+            "r": 476.89094797535796,
+            "b": 54.672945514583716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "[15] S.A. Freeman, Davis, J., and Rochelle, G.T., Degradation of aqueous piperazine in carbon dioxide capture, International Journal of Greenhouse Gas Control, 4 : 756-761.",
+      "text": "S.A. Freeman, Davis, J., and Rochelle, G.T., Degradation of aqueous piperazine in carbon dioxide capture, International Journal of Greenhouse Gas Control, 4 : 756-761.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 189.43277710086036,
+            "t": 671.8190984595582,
+            "r": 357.24774436622937,
+            "b": 664.9030542613681,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Author name / Energy Procedia 00 (2010) 000-000",
+      "text": "Author name / Energy Procedia 00 (2010) 000-000"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.52566909790039,
+            "t": 679.7834625244141,
+            "r": 111.52544403076172,
+            "b": 618.7442779541016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 184.8536376953125,
+            "t": 668.6242752075195,
+            "r": 325.4050598144531,
+            "b": 644.4010620117188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 41.55309295654297,
+            "t": 591.0739898681641,
+            "r": 354.53436279296875,
+            "b": 344.23883056640625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/50"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 39.12933349609375,
+            "t": 294.8144836425781,
+            "r": 351.1236267089844,
+            "b": 55.7701416015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 35.332305908203125,
+            "t": 639.547119140625,
+            "r": 493.98638916015625,
+            "b": 89.96441650390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 48.551090204,
+              "t": 108.37761508104552,
+              "r": 101.45339642233903,
+              "b": 117.07631858316313,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Abbreviation",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 118.43674919897342,
+              "t": 108.37761508104552,
+              "r": 158.75578446939323,
+              "b": 117.07631858316313,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Full name",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.11356081779388,
+              "t": 108.37761508104552,
+              "r": 266.59189843437696,
+              "b": 117.07631858316313,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "CAS",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 319.17016761881825,
+              "t": 107.6091557374989,
+              "r": 355.93984367583306,
+              "b": 116.30785923961639,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Structure",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 56.951688556729096,
+              "t": 132.8644681490456,
+              "r": 97.57971270157759,
+              "b": 153.58564785620706,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "AEEA (HEEDA)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 135.40877918520505,
+              "t": 132.8644681490456,
+              "r": 217.7081665314143,
+              "b": 153.58564785620706,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "N-(2-hydroxyethyl)- ethylenediamine",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.08217381476587,
+              "t": 138.9037961492429,
+              "r": 283.7585512830734,
+              "b": 147.60249965136052,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "111-41-1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.339745796,
+              "t": 187.4383066010456,
+              "r": 88.11041970501665,
+              "b": 196.13701010316322,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "AMP",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 122.29080912274424,
+              "t": 187.4383066010456,
+              "r": 230.80108063193572,
+              "b": 196.13701010316322,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2-amino-2-methylpropanol",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.12030797067465,
+              "t": 187.4383066010456,
+              "r": 283.7966854389822,
+              "b": 196.13701010316322,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "124-68-5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 55.359094195999994,
+              "t": 235.97278667304556,
+              "r": 99.00678234094708,
+              "b": 244.67149017516317,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "AP (MPA)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 141.9040689337102,
+              "t": 235.97278667304556,
+              "r": 211.00622042566803,
+              "b": 244.67149017516317,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "3-aminopropanol",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.09571967468725,
+              "t": 235.97278667304556,
+              "r": 283.84232188718306,
+              "b": 244.67149017516317,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "156-87-6",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.88877837599999,
+              "t": 284.5621700030456,
+              "r": 87.5278306929531,
+              "b": 293.26087350516315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "DEA",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 144.57440002903544,
+              "t": 284.5621700030456,
+              "r": 208.53108419325054,
+              "b": 293.26087350516315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Diethanolamine",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.1075425971682,
+              "t": 284.5621700030456,
+              "r": 283.7959585930506,
+              "b": 293.26087350516315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "111-42-2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 63.924002443999996,
+              "t": 333.09665007504555,
+              "r": 90.64552081829463,
+              "b": 341.79535357716316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "DETA",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 137.8947351294723,
+              "t": 333.09665007504555,
+              "r": 215.21117527020343,
+              "b": 341.79535357716316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Diethylenetriamine",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.14236645264162,
+              "t": 333.09665007504555,
+              "r": 283.833792080418,
+              "b": 341.79535357716316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "111-40-0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 57.99445058,
+              "t": 381.6311301470456,
+              "r": 96.40537922975946,
+              "b": 390.32983364916316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "DMMEA",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 121.53279591097878,
+              "t": 381.6311301470456,
+              "r": 231.45458477835584,
+              "b": 390.32983364916316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "N,N-dimethylethanolamine",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.09664494099292,
+              "t": 381.6311301470456,
+              "r": 283.8231829408636,
+              "b": 390.32983364916316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "108-01-0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.88877837599999,
+              "t": 430.22051347704553,
+              "r": 87.46864126570867,
+              "b": 438.91921697916314,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "EDA",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 142.5388856582049,
+              "t": 430.22051347704553,
+              "r": 210.4331715501231,
+              "b": 438.91921697916314,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Ethylenediamine",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.03531143171713,
+              "t": 430.22051347704553,
+              "r": 283.7357659551749,
+              "b": 438.91921697916314,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "107-15-3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 62.77103402599999,
+              "t": 478.7549935490456,
+              "r": 91.74175063558404,
+              "b": 487.45369705116315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "MAPA",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 127.99577642813017,
+              "t": 472.7708421335677,
+              "r": 213.10415354187302,
+              "b": 493.49302505136035,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "3-amino-1- methylaminopropane",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.08089120145462,
+              "t": 478.75499354904554,
+              "r": 288.7723186154409,
+              "b": 487.4536970511631,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "6291-84-5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 62.44161447799999,
+              "t": 527.2893821156156,
+              "r": 92.00924141318491,
+              "b": 535.9880856177331,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "MDEA",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 126.44444633125305,
+              "t": 527.2893821156156,
+              "r": 226.6702044474833,
+              "b": 535.9880856177331,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "N-methyldiethanolamine",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.15977838037838,
+              "t": 527.2893821156156,
+              "r": 283.8712682207799,
+              "b": 535.9880856177331,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "105-59-9",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.120132764,
+              "t": 575.9337602090457,
+              "r": 88.4094665693791,
+              "b": 584.6324637111632,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "MEA",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 148.63721681719326,
+              "t": 575.9337602090457,
+              "r": 204.4237536004105,
+              "b": 584.6324637111632,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Ethanolamine",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.13745264765265,
+              "t": 575.9337602090457,
+              "r": 283.8338943285853,
+              "b": 584.6324637111632,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "141-43-5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 61.618065608,
+              "t": 624.4682402810456,
+              "r": 92.79684881699168,
+              "b": 633.1669437831631,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "MMEA",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 130.6279217218817,
+              "t": 624.4682402810456,
+              "r": 222.41667842919824,
+              "b": 633.1669437831631,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2-Methylaminoethanol",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 247.09064390508715,
+              "t": 624.4682402810456,
+              "r": 283.8573103302083,
+              "b": 633.1669437831631,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "109-83-1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 320.37712056199996,
+              "t": 133.85068695400003,
+              "r": 477.8831702136609,
+              "b": 157.2796266211351,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "H N NH2 HO",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 336.024549092,
+              "t": 251.28875581600005,
+              "r": 452.9265440069749,
+              "b": 254.67353471728734,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "NH2 HO",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 318.180990242,
+              "t": 282.63851613400004,
+              "r": 471.3695571341858,
+              "b": 304.3735695046676,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "HO H N OH",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 312.19653511999996,
+              "t": 337.9798565082326,
+              "r": 477.8687581084358,
+              "b": 354.74760107951636,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "H 2N N NH2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 428.86595837,
+              "t": 433.347959344,
+              "r": 447.52100238013054,
+              "b": 437.0667739677145,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "NH2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 351.1778483,
+              "t": 475.129338682,
+              "r": 465.1304691109308,
+              "b": 486.35744594570235,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "H N NH 2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 425.90118243800003,
+              "t": 579.884754946,
+              "r": 444.14443700623997,
+              "b": 583.5176120224301,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 10,
+            "end_row_offset_idx": 11,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "NH2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 339.42790277202846,
+              "t": 621.77584929457,
+              "r": 428.4299651928419,
+              "b": 646.0771273831633,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 11,
+            "end_row_offset_idx": 12,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "H N HO",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 12,
+        "num_cols": 4,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 48.551090204,
+                "t": 108.37761508104552,
+                "r": 101.45339642233903,
+                "b": 117.07631858316313,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Abbreviation",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 118.43674919897342,
+                "t": 108.37761508104552,
+                "r": 158.75578446939323,
+                "b": 117.07631858316313,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Full name",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.11356081779388,
+                "t": 108.37761508104552,
+                "r": 266.59189843437696,
+                "b": 117.07631858316313,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "CAS",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 319.17016761881825,
+                "t": 107.6091557374989,
+                "r": 355.93984367583306,
+                "b": 116.30785923961639,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Structure",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 56.951688556729096,
+                "t": 132.8644681490456,
+                "r": 97.57971270157759,
+                "b": 153.58564785620706,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "AEEA (HEEDA)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 135.40877918520505,
+                "t": 132.8644681490456,
+                "r": 217.7081665314143,
+                "b": 153.58564785620706,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "N-(2-hydroxyethyl)- ethylenediamine",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.08217381476587,
+                "t": 138.9037961492429,
+                "r": 283.7585512830734,
+                "b": 147.60249965136052,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "111-41-1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 320.37712056199996,
+                "t": 133.85068695400003,
+                "r": 477.8831702136609,
+                "b": 157.2796266211351,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "H N NH2 HO",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.339745796,
+                "t": 187.4383066010456,
+                "r": 88.11041970501665,
+                "b": 196.13701010316322,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "AMP",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 122.29080912274424,
+                "t": 187.4383066010456,
+                "r": 230.80108063193572,
+                "b": 196.13701010316322,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2-amino-2-methylpropanol",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.12030797067465,
+                "t": 187.4383066010456,
+                "r": 283.7966854389822,
+                "b": 196.13701010316322,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "124-68-5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 55.359094195999994,
+                "t": 235.97278667304556,
+                "r": 99.00678234094708,
+                "b": 244.67149017516317,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "AP (MPA)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 141.9040689337102,
+                "t": 235.97278667304556,
+                "r": 211.00622042566803,
+                "b": 244.67149017516317,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "3-aminopropanol",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.09571967468725,
+                "t": 235.97278667304556,
+                "r": 283.84232188718306,
+                "b": 244.67149017516317,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "156-87-6",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 336.024549092,
+                "t": 251.28875581600005,
+                "r": 452.9265440069749,
+                "b": 254.67353471728734,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "NH2 HO",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.88877837599999,
+                "t": 284.5621700030456,
+                "r": 87.5278306929531,
+                "b": 293.26087350516315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "DEA",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 144.57440002903544,
+                "t": 284.5621700030456,
+                "r": 208.53108419325054,
+                "b": 293.26087350516315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Diethanolamine",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.1075425971682,
+                "t": 284.5621700030456,
+                "r": 283.7959585930506,
+                "b": 293.26087350516315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "111-42-2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 318.180990242,
+                "t": 282.63851613400004,
+                "r": 471.3695571341858,
+                "b": 304.3735695046676,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "HO H N OH",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 63.924002443999996,
+                "t": 333.09665007504555,
+                "r": 90.64552081829463,
+                "b": 341.79535357716316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "DETA",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 137.8947351294723,
+                "t": 333.09665007504555,
+                "r": 215.21117527020343,
+                "b": 341.79535357716316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Diethylenetriamine",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.14236645264162,
+                "t": 333.09665007504555,
+                "r": 283.833792080418,
+                "b": 341.79535357716316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "111-40-0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 312.19653511999996,
+                "t": 337.9798565082326,
+                "r": 477.8687581084358,
+                "b": 354.74760107951636,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "H 2N N NH2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 57.99445058,
+                "t": 381.6311301470456,
+                "r": 96.40537922975946,
+                "b": 390.32983364916316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "DMMEA",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 121.53279591097878,
+                "t": 381.6311301470456,
+                "r": 231.45458477835584,
+                "b": 390.32983364916316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "N,N-dimethylethanolamine",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.09664494099292,
+                "t": 381.6311301470456,
+                "r": 283.8231829408636,
+                "b": 390.32983364916316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "108-01-0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.88877837599999,
+                "t": 430.22051347704553,
+                "r": 87.46864126570867,
+                "b": 438.91921697916314,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "EDA",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 142.5388856582049,
+                "t": 430.22051347704553,
+                "r": 210.4331715501231,
+                "b": 438.91921697916314,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Ethylenediamine",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.03531143171713,
+                "t": 430.22051347704553,
+                "r": 283.7357659551749,
+                "b": 438.91921697916314,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "107-15-3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 428.86595837,
+                "t": 433.347959344,
+                "r": 447.52100238013054,
+                "b": 437.0667739677145,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "NH2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 62.77103402599999,
+                "t": 478.7549935490456,
+                "r": 91.74175063558404,
+                "b": 487.45369705116315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "MAPA",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 127.99577642813017,
+                "t": 472.7708421335677,
+                "r": 213.10415354187302,
+                "b": 493.49302505136035,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "3-amino-1- methylaminopropane",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.08089120145462,
+                "t": 478.75499354904554,
+                "r": 288.7723186154409,
+                "b": 487.4536970511631,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "6291-84-5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 351.1778483,
+                "t": 475.129338682,
+                "r": 465.1304691109308,
+                "b": 486.35744594570235,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "H N NH 2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 62.44161447799999,
+                "t": 527.2893821156156,
+                "r": 92.00924141318491,
+                "b": 535.9880856177331,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "MDEA",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 126.44444633125305,
+                "t": 527.2893821156156,
+                "r": 226.6702044474833,
+                "b": 535.9880856177331,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "N-methyldiethanolamine",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.15977838037838,
+                "t": 527.2893821156156,
+                "r": 283.8712682207799,
+                "b": 535.9880856177331,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "105-59-9",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.120132764,
+                "t": 575.9337602090457,
+                "r": 88.4094665693791,
+                "b": 584.6324637111632,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "MEA",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 148.63721681719326,
+                "t": 575.9337602090457,
+                "r": 204.4237536004105,
+                "b": 584.6324637111632,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Ethanolamine",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.13745264765265,
+                "t": 575.9337602090457,
+                "r": 283.8338943285853,
+                "b": 584.6324637111632,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "141-43-5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 425.90118243800003,
+                "t": 579.884754946,
+                "r": 444.14443700623997,
+                "b": 583.5176120224301,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 10,
+              "end_row_offset_idx": 11,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "NH2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 61.618065608,
+                "t": 624.4682402810456,
+                "r": 92.79684881699168,
+                "b": 633.1669437831631,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "MMEA",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 130.6279217218817,
+                "t": 624.4682402810456,
+                "r": 222.41667842919824,
+                "b": 633.1669437831631,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2-Methylaminoethanol",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 247.09064390508715,
+                "t": 624.4682402810456,
+                "r": 283.8573103302083,
+                "b": 633.1669437831631,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "109-83-1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 339.42790277202846,
+                "t": 621.77584929457,
+                "r": 428.4299651928419,
+                "b": 646.0771273831633,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 11,
+              "end_row_offset_idx": 12,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "H N HO",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 6
+    }
+  }
+}

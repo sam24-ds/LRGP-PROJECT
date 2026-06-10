@@ -1,0 +1,4970 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "39000",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16100445166967782315,
+    "filename": "39000.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/texts/109"
+      },
+      {
+        "$ref": "#/texts/110"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/122"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.76,
+            "t": 803.7569926757812,
+            "r": 234.38,
+            "b": 796.0079926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "Proceedings World Geothermal Congress 2015",
+      "text": "Proceedings World Geothermal Congress 2015"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.76,
+            "t": 793.4369926757813,
+            "r": 206.06,
+            "b": 785.6879926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Melbourne, Australia, 19-25 April 2015",
+      "text": "Melbourne, Australia, 19-25 April 2015"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 106.58,
+            "t": 761.1039926757813,
+            "r": 491.86,
+            "b": 751.0105381303267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Lithium Extraction from Wairakei Geothermal Fluid using Electrodialysis",
+      "text": "Lithium Extraction from Wairakei Geothermal Fluid using Electrodialysis",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 140.42,
+            "t": 736.1222726757813,
+            "r": 457.39,
+            "b": 694.5879926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "Ed Mroczek, Gaetano Dedual, Duncan Graham and Lew Bacon GNS Science, Wairakei Research Centre, Private Bag 2000, Taupo 3352, New Zealand e.mroczek@gns.cri.nz",
+      "text": "Ed Mroczek, Gaetano Dedual, Duncan Graham and Lew Bacon GNS Science, Wairakei Research Centre, Private Bag 2000, Taupo 3352, New Zealand e.mroczek@gns.cri.nz"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.76,
+            "t": 666.6969926757813,
+            "r": 349.36,
+            "b": 658.9479926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Keywords: lithium, mineral extraction, electrodialysis, Wairakei, New Zealand",
+      "text": "Keywords: lithium, mineral extraction, electrodialysis, Wairakei, New Zealand"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.76,
+            "t": 646.9929926757812,
+            "r": 110.99,
+            "b": 639.4229017666904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "ABSTRACT",
+      "text": "ABSTRACT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.76,
+            "t": 633.9369926757813,
+            "r": 538.0360000000001,
+            "b": 553.7979926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1006
+          ]
+        }
+      ],
+      "orig": "Fluid sourced from the Wairakei geothermal power station was treated at small laboratory scale by electrodialysis. The fluid was first desilicated using electrocoagulation with aluminium electrodes. The influence that the voltage, current, fluid temperature, and acidification  had  on  lithium  extraction  was  explored.  It  was  determined  that  the  power  supplied  to  the  system  determined  the extraction rate while also severely degrading the membranes. Acid dosing was found to be essential to the electrodialysis process due to  the  alkalinity  of  geothermal  desilicated  brine.  The  greatest  extraction  rates  were  obtained  at  a  pH  of  about  2-4,  and  the highest  extraction  rate  achieved  was  0.28  mg/hour.cm 2 of  active  membrane  using  a  three  membrane  stack  in  the  laboratory electrodialysis unit. It was determined that the process had sufficient potential to be taken into the pilot plant stage which would produce an understanding of the economic viability.",
+      "text": "Fluid sourced from the Wairakei geothermal power station was treated at small laboratory scale by electrodialysis. The fluid was first desilicated using electrocoagulation with aluminium electrodes. The influence that the voltage, current, fluid temperature, and acidification  had  on  lithium  extraction  was  explored.  It  was  determined  that  the  power  supplied  to  the  system  determined  the extraction rate while also severely degrading the membranes. Acid dosing was found to be essential to the electrodialysis process due to  the  alkalinity  of  geothermal  desilicated  brine.  The  greatest  extraction  rates  were  obtained  at  a  pH  of  about  2-4,  and  the highest  extraction  rate  achieved  was  0.28  mg/hour.cm 2 of  active  membrane  using  a  three  membrane  stack  in  the  laboratory electrodialysis unit. It was determined that the process had sufficient potential to be taken into the pilot plant stage which would produce an understanding of the economic viability."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.76,
+            "t": 541.8429926757813,
+            "r": 143.03,
+            "b": 534.2729017666904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. INTRODUCTION",
+      "text": "1. INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.76,
+            "t": 528.7869926757812,
+            "r": 538.0239999999999,
+            "b": 469.3179926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            738
+          ]
+        }
+      ],
+      "orig": "The economic viability and the future prospects of mineral extraction from geothermal brines, especially lithium, were recognized by Kennedy as early as 1957 at the commencement of production from the Wairakei Field (Kennedy; 1957; 1961). However it is only in recent times that increasing demand has spurred interest in recovery of lithium from non-traditional sources.  Lithium is a valuable metal (~ $US5000/tonne lithium carbonate) as it has a number of desirable characteristics and uses. The expected annual growth  rate  between  2011  and  2025  from  existing  market  applications  is  7%,  with  an  annual  maximum  rate  as  high  as  10%, depending on the demand of the electronic and transportation sectors (Roskill, 2009).",
+      "text": "The economic viability and the future prospects of mineral extraction from geothermal brines, especially lithium, were recognized by Kennedy as early as 1957 at the commencement of production from the Wairakei Field (Kennedy; 1957; 1961). However it is only in recent times that increasing demand has spurred interest in recovery of lithium from non-traditional sources.  Lithium is a valuable metal (~ $US5000/tonne lithium carbonate) as it has a number of desirable characteristics and uses. The expected annual growth  rate  between  2011  and  2025  from  existing  market  applications  is  7%,  with  an  annual  maximum  rate  as  high  as  10%, depending on the demand of the electronic and transportation sectors (Roskill, 2009)."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.76,
+            "t": 457.7469926757813,
+            "r": 540.31,
+            "b": 408.5979926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            654
+          ]
+        }
+      ],
+      "orig": "This study investigated the potential for extraction of lithium by electrodialysis from the brines at the Wairakei Geothermal Field. Wairakei fluids have a high lithium/magnesium ratio, and the concentration of lithium of ~ 13 mg/L is high compared to other New Zealand  geothermal  fields,  while  the  silica  concentration  is  low  (600-700  mg/L).  These  characteristics  are  beneficial  for  the extraction  process;    in  particular,  lower  silica  concentrations  may  decrease  pre-treatment  costs.  Treatment  costs  are  further decreased by the low buffering capacity of the fluid, decreasing the amount of acid required to lower the pH.",
+      "text": "This study investigated the potential for extraction of lithium by electrodialysis from the brines at the Wairakei Geothermal Field. Wairakei fluids have a high lithium/magnesium ratio, and the concentration of lithium of ~ 13 mg/L is high compared to other New Zealand  geothermal  fields,  while  the  silica  concentration  is  low  (600-700  mg/L).  These  characteristics  are  beneficial  for  the extraction  process;    in  particular,  lower  silica  concentrations  may  decrease  pre-treatment  costs.  Treatment  costs  are  further decreased by the low buffering capacity of the fluid, decreasing the amount of acid required to lower the pH."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.76,
+            "t": 396.6229926757813,
+            "r": 157.55,
+            "b": 389.05290176669035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "2. ELECTRODIALYSIS",
+      "text": "2. ELECTRODIALYSIS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.76,
+            "t": 383.1829926757813,
+            "r": 124.55,
+            "b": 375.61290176669036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "2.1 Introduction",
+      "text": "2.1 Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.76,
+            "t": 370.2469926757813,
+            "r": 538.027,
+            "b": 300.45799267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            821
+          ]
+        }
+      ],
+      "orig": "The  electrodialysis  system  is  comprised  of  alternating  anion  and  cation  specific  membranes  and  three  fluid  streams,  diluate, concentrate and catholyte and anolyte electrolyte (Figure 1). The diluate stream contains the source of lithium to be extracted, the concentrate becomes enriched with lithium and the electrolyte provides a conducting medium. The membranes are configured in such a way that the cations are separated from the anions in the feed stream. Depending on the application, the concentrate can either be rich in anions or cations. A voltage is applied across the membrane stack, and this determines the movement of cations and anions through the electrodialysis stack. Depending on the layering of cationic and anionic membranes, anions or cations can be extracted from the diluate stream.",
+      "text": "The  electrodialysis  system  is  comprised  of  alternating  anion  and  cation  specific  membranes  and  three  fluid  streams,  diluate, concentrate and catholyte and anolyte electrolyte (Figure 1). The diluate stream contains the source of lithium to be extracted, the concentrate becomes enriched with lithium and the electrolyte provides a conducting medium. The membranes are configured in such a way that the cations are separated from the anions in the feed stream. Depending on the application, the concentrate can either be rich in anions or cations. A voltage is applied across the membrane stack, and this determines the movement of cations and anions through the electrodialysis stack. Depending on the layering of cationic and anionic membranes, anions or cations can be extracted from the diluate stream."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 59.76,
+            "t": 66.11699267578126,
+            "r": 412.24,
+            "b": 58.54690176669044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "Figure 1: Electrodialysis membrane configuration with movement of ions within the system",
+      "text": "Figure 1: Electrodialysis membrane configuration with movement of ions within the system"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 180.545505694368,
+            "t": 179.0325745932813,
+            "r": 201.278483597976,
+            "b": 171.23485984328136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Anode",
+      "text": "Anode"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 379.68370796327997,
+            "t": 180.42316705703138,
+            "r": 406.34708225632806,
+            "b": 172.6254523070313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Cathode",
+      "text": "Cathode"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 222.50652821772,
+            "t": 185.5393343457813,
+            "r": 246.20470431604798,
+            "b": 177.74161959578123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "anolyte",
+      "text": "anolyte"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 222.55854923868,
+            "t": 176.1820766457813,
+            "r": 229.760859590592,
+            "b": 168.38436189578124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "(H",
+      "text": "(H"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 229.73745013116002,
+            "t": 172.3092116532813,
+            "r": 232.374915893832,
+            "b": 167.11073515328133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 232.39052220012,
+            "t": 176.1820766457813,
+            "r": 243.77618965423198,
+            "b": 167.11073515328133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "SO4",
+      "text": "SO4"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 243.79179596052,
+            "t": 176.1820766457813,
+            "r": 246.156151363152,
+            "b": 168.38436189578124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 328.21324280844,
+            "t": 184.57328412953132,
+            "r": 357.67794908018396,
+            "b": 176.77556937953136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "catholyte",
+      "text": "catholyte"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 331.17844100316,
+            "t": 175.21602642953133,
+            "r": 338.380751355072,
+            "b": 167.41831167953137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "(H",
+      "text": "(H"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 338.35734189564,
+            "t": 171.3431614370313,
+            "r": 340.99480765831197,
+            "b": 166.14468493703134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 341.0104139646,
+            "t": 175.21602642953133,
+            "r": 352.387411248552,
+            "b": 166.14468493703134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "SO4",
+      "text": "SO4"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 352.40301755484,
+            "t": 175.21602642953133,
+            "r": 354.76737295747205,
+            "b": 167.41831167953137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ")",
+      "text": ")"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 240.5881680864,
+            "t": 245.52975315578124,
+            "r": 246.54457498632001,
+            "b": 237.73203840578128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Cl",
+      "text": "Cl"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 246.51856447583998,
+            "t": 245.91963889328122,
+            "r": 248.110407717216,
+            "b": 240.72116239328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 225.38935979592,
+            "t": 138.12922866578128,
+            "r": 236.766357079872,
+            "b": 129.0578871732813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "SO4",
+      "text": "SO4"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 337.51200030504003,
+            "t": 231.2859275457813,
+            "r": 348.88899758899197,
+            "b": 222.20592192578124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "SO4",
+      "text": "SO4"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 291.18294605508,
+            "t": 212.72736644078122,
+            "r": 296.25499559868,
+            "b": 204.92965169078127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Li",
+      "text": "Li"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 296.2289850882,
+            "t": 213.1172521782812,
+            "r": 298.819631932008,
+            "b": 207.91877567828124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "+",
+      "text": "+"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 298.83003613619996,
+            "t": 213.1172521782812,
+            "r": 312.137013297768,
+            "b": 204.92965169078127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": ",Na +",
+      "text": ",Na +"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 312.14741750196004,
+            "t": 213.1172521782812,
+            "r": 320.720481756168,
+            "b": 204.92965169078127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": ",K +",
+      "text": ",K +"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 270.62597260572,
+            "t": 232.92777970703128,
+            "r": 276.58237950564,
+            "b": 225.1300649570312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "Cl",
+      "text": "Cl"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 276.55636899516,
+            "t": 233.31766544453126,
+            "r": 278.148212236536,
+            "b": 228.1191889445313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 273.43510773756,
+            "t": 169.21178607203126,
+            "r": 280.863709530648,
+            "b": 161.02418558453132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "H +",
+      "text": "H +"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 178.44385644758398,
+            "t": 278.5357468670313,
+            "r": 227.520487621248,
+            "b": 268.13879386703127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "PCCell MVA",
+      "text": "PCCell MVA"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 254.78990680848,
+            "t": 275.22605016203124,
+            "r": 415.01551838229597,
+            "b": 267.4283354120313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Anion membrane (will pass  monovalent ions only)",
+      "text": "Anion membrane (will pass  monovalent ions only)"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 257.80712602415997,
+            "t": 90.03379050053127,
+            "r": 419.845670178432,
+            "b": 82.23607575053131,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Cation membrane (will pass  monovalent ions only)",
+      "text": "Cation membrane (will pass  monovalent ions only)"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 213.963809559072,
+            "t": 120.23433972728128,
+            "r": 236.48248183656136,
+            "b": 112.42622802428127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Diluate",
+      "text": "Diluate"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 327.03843475176,
+            "t": 121.74449715053129,
+            "r": 365.882531102592,
+            "b": 113.94678240053133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Concentrate",
+      "text": "Concentrate"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 295.49,
+            "t": 53.276992675781344,
+            "r": 302.3,
+            "b": 45.52799267578132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.76,
+            "t": 803.7569926757812,
+            "r": 113.75,
+            "b": 796.0079926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Mroczek et al.",
+      "text": "Mroczek et al."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.76,
+            "t": 763.1729926757813,
+            "r": 134.27,
+            "b": 755.6029017666905,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "2.2 Wairakei Fluid",
+      "text": "2.2 Wairakei Fluid",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.76,
+            "t": 750.0969926757813,
+            "r": 538.015,
+            "b": 711.3879926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            454
+          ]
+        }
+      ],
+      "orig": "All fluid used for the experiment was reinjection fluid from the Wairakei Geothermal Field. The fluid was collected at the exit of a heat exchanger which was situated at the Huka Prawn Park (a tourism operator). The fluid temperature varies greatly as the heat demand for the Prawn Park varies throughout the day, with temperature ranges of 60-80\u00b0C for the collection of the geothermal brine. A partial chemical analysis of the fluid is shown in Table 1.",
+      "text": "All fluid used for the experiment was reinjection fluid from the Wairakei Geothermal Field. The fluid was collected at the exit of a heat exchanger which was situated at the Huka Prawn Park (a tourism operator). The fluid temperature varies greatly as the heat demand for the Prawn Park varies throughout the day, with temperature ranges of 60-80\u00b0C for the collection of the geothermal brine. A partial chemical analysis of the fluid is shown in Table 1."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.76,
+            "t": 699.3129926757813,
+            "r": 370.0,
+            "b": 691.7429017666905,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        }
+      ],
+      "orig": "Table 1: Typical chemical composition of Wairakei geothermal reinjection fluid.",
+      "text": "Table 1: Typical chemical composition of Wairakei geothermal reinjection fluid."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.76,
+            "t": 632.1129926757812,
+            "r": 155.99,
+            "b": 624.5429017666904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "2.3 Cell and Membranes",
+      "text": "2.3 Cell and Membranes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.76,
+            "t": 619.1769926757813,
+            "r": 537.9849999999999,
+            "b": 601.1079926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            252
+          ]
+        }
+      ],
+      "orig": "The electrodialysis unit which was used for all of the trials was a two chamber bench top electrodialysis cell unit, PCCell 64002, capable of holding 20 anion and cation membrane pairs (PCCell GmbH). The experimental configuration is shown in Figure 2.",
+      "text": "The electrodialysis unit which was used for all of the trials was a two chamber bench top electrodialysis cell unit, PCCell 64002, capable of holding 20 anion and cation membrane pairs (PCCell GmbH). The experimental configuration is shown in Figure 2."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.76,
+            "t": 230.39299267578133,
+            "r": 210.38,
+            "b": 222.8229017666904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Figure 2: Electrodialysis configuration",
+      "text": "Figure 2: Electrodialysis configuration"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 229.3328583165,
+            "t": 453.40465905674125,
+            "r": 251.70629439290002,
+            "b": 446.2989740167413,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "-",
+      "text": "-"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 322.97,
+            "t": 456.4568726757813,
+            "r": 328.40488000000005,
+            "b": 450.214252565284,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "s",
+      "text": "s"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.76,
+            "t": 195.13699267578136,
+            "r": 537.9939999999998,
+            "b": 166.62799267578134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            370
+          ]
+        }
+      ],
+      "orig": "The electrodialysis experiments were conducted as a batch process, typically using 2-5 litres per batch. The concentrate, diluate and electrolyte were cycled throughout the system until the diluate was significantly depleted of lithium ions. Usually only one pair of membranes was used but was increased to three pairs at times, when removal efficiency was investigated.",
+      "text": "The electrodialysis experiments were conducted as a batch process, typically using 2-5 litres per batch. The concentrate, diluate and electrolyte were cycled throughout the system until the diluate was significantly depleted of lithium ions. Usually only one pair of membranes was used but was increased to three pairs at times, when removal efficiency was investigated."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.76,
+            "t": 155.05699267578132,
+            "r": 538.03,
+            "b": 126.6679926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            330
+          ]
+        }
+      ],
+      "orig": "The  voltage  applied  to  the  electrodialysis  unit  was  supplied  by  a  regulated  power  supply  which  allowed  for  a  constant  current setting  with  varying  voltage.  The  power supply  maximum  was 30 V, above which the current would begin to decrease. For all experiments, the current was fixed with varying voltage.",
+      "text": "The  voltage  applied  to  the  electrodialysis  unit  was  supplied  by  a  regulated  power  supply  which  allowed  for  a  constant  current setting  with  varying  voltage.  The  power supply  maximum  was 30 V, above which the current would begin to decrease. For all experiments, the current was fixed with varying voltage."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 59.76,
+            "t": 114.97699267578128,
+            "r": 537.9010000000001,
+            "b": 76.27199267578135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            408
+          ]
+        }
+      ],
+      "orig": "During  the  course  of  the  experiments,  several  different  membranes  were  used,  with  dimensions  of  110x110  mm.  DuPont membranes (Nafion) were claimed to be lithium specific and required pre-soaking and cutting before being fitted. However, it was very difficult to cut and orient the membranes correctly within the cell and a complete trial of these lithium specific membranes was not conducted.",
+      "text": "During  the  course  of  the  experiments,  several  different  membranes  were  used,  with  dimensions  of  110x110  mm.  DuPont membranes (Nafion) were claimed to be lithium specific and required pre-soaking and cutting before being fitted. However, it was very difficult to cut and orient the membranes correctly within the cell and a complete trial of these lithium specific membranes was not conducted."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 295.49,
+            "t": 53.276992675781344,
+            "r": 302.3,
+            "b": 45.52799267578132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 484.06,
+            "t": 803.7569926757812,
+            "r": 538.03,
+            "b": 796.0079926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Mroczek et al.",
+      "text": "Mroczek et al."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 782.8769926757813,
+            "r": 537.994,
+            "b": 744.0279926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            452
+          ]
+        }
+      ],
+      "orig": "The PCCell electrodialysis system was supplied with membranes which required no cutting, as they were specific for the unit. For each membrane pair that was added to the system, an effective membrane surface area of 64 cm 2 was available for ionic separation. The anode was titanium coated with platinum and the cathode stainless steel to prevent corrosion of the electrodes. The fluids were transported to and from the unit using polypropylene tubing.",
+      "text": "The PCCell electrodialysis system was supplied with membranes which required no cutting, as they were specific for the unit. For each membrane pair that was added to the system, an effective membrane surface area of 64 cm 2 was available for ionic separation. The anode was titanium coated with platinum and the cathode stainless steel to prevent corrosion of the electrodes. The fluids were transported to and from the unit using polypropylene tubing."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 732.0729926757813,
+            "r": 132.83,
+            "b": 724.5029017666905,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "2.4 Silica Removal",
+      "text": "2.4 Silica Removal",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 719.1369926757812,
+            "r": 538.0059999999999,
+            "b": 669.9879926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            532
+          ]
+        }
+      ],
+      "orig": "The colloidal and dissolved silica can cause significant blocking within electrodialysis cells and can damage the membranes. This necessitated removal of silica prior to extraction of lithium. Any silica removal technology could have been used, but the silica was removed by electrocoagulation using aluminium electrodes in the work reported here.  Electrocoagulation is an efficient and cheap process to remove silica from the brine (Mroczek et al, 2006). The electrocoagulation time was minimized to avoid lithium coprecipitation.",
+      "text": "The colloidal and dissolved silica can cause significant blocking within electrodialysis cells and can damage the membranes. This necessitated removal of silica prior to extraction of lithium. Any silica removal technology could have been used, but the silica was removed by electrocoagulation using aluminium electrodes in the work reported here.  Electrocoagulation is an efficient and cheap process to remove silica from the brine (Mroczek et al, 2006). The electrocoagulation time was minimized to avoid lithium coprecipitation."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 657.9129926757813,
+            "r": 144.23,
+            "b": 650.3429017666905,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "2.5 Calcium Removal",
+      "text": "2.5 Calcium Removal",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 644.9769926757813,
+            "r": 538.0240000000001,
+            "b": 606.1479926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            503
+          ]
+        }
+      ],
+      "orig": "The production of calcium sulphate can be severely detrimental to the performance of the membranes, as precipitation blocks active ion exchange sites. This interference can be easily removed by addition of either sodium polymetaphosphate or sodium oxalate. The chemical was typically added at the end of the electrocoagulation process where the suspended silica floc would efficiently sweep down the insoluble calcium salts. Both chemicals were effective and caused no decrease in lithium concentration.",
+      "text": "The production of calcium sulphate can be severely detrimental to the performance of the membranes, as precipitation blocks active ion exchange sites. This interference can be easily removed by addition of either sodium polymetaphosphate or sodium oxalate. The chemical was typically added at the end of the electrocoagulation process where the suspended silica floc would efficiently sweep down the insoluble calcium salts. Both chemicals were effective and caused no decrease in lithium concentration."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 594.5769926757813,
+            "r": 538.0210000000001,
+            "b": 535.0779926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            798
+          ]
+        }
+      ],
+      "orig": "Fluid  with  385  mg/L  of  calcium  (the  highest  recorded  calcium  concentration  that  was  measured  within  geothermal  fluid)  was recirculated  through  the  electrodialysis  system  without  calcium  removal.  This  value  is  relatively  low  when  compared  to electrodialysis  in  whey  treatment  but  large  compared  to  electrodialysis  acid  recovery  systems  (e.g.  Daufin  et  al.,  2001;  Mart\u00edCalatayuda  et  al.,  2014).    At  this  high  concentration  no  crystals  were  microscopically  seen  depositing  on  the  surface  of  the membranes. It was concluded that the concentrations at which the experiments were operated were acceptable, and the removal of the calcium was later discontinued.  However, at higher concentrations, calcium removal may still be necessary.",
+      "text": "Fluid  with  385  mg/L  of  calcium  (the  highest  recorded  calcium  concentration  that  was  measured  within  geothermal  fluid)  was recirculated  through  the  electrodialysis  system  without  calcium  removal.  This  value  is  relatively  low  when  compared  to electrodialysis  in  whey  treatment  but  large  compared  to  electrodialysis  acid  recovery  systems  (e.g.  Daufin  et  al.,  2001;  Mart\u00edCalatayuda  et  al.,  2014).    At  this  high  concentration  no  crystals  were  microscopically  seen  depositing  on  the  surface  of  the membranes. It was concluded that the concentrations at which the experiments were operated were acceptable, and the removal of the calcium was later discontinued.  However, at higher concentrations, calcium removal may still be necessary."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 523.1229926757812,
+            "r": 157.07,
+            "b": 515.5529017666904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "2.6 Chlorine Production",
+      "text": "2.6 Chlorine Production",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 510.0669926757813,
+            "r": 538.0329999999999,
+            "b": 461.0379926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            611
+          ]
+        }
+      ],
+      "orig": "The main detrimental reaction is the formation of chlorine in the anode compartment by oxidation of chloride ion, which can result in destruction of membranes near the anode. At high current densities the overvoltage for oxygen evolution may raise the electrode potential into the region of chlorine production. At times chlorine was evident and accompanied by a strong smell which occurred when the electrodialysis unit was operating. This effect was more pronounced at higher voltages, so the voltage of the system was kept at a minimum to produce less chlorine gas and increase the efficiency of the process.",
+      "text": "The main detrimental reaction is the formation of chlorine in the anode compartment by oxidation of chloride ion, which can result in destruction of membranes near the anode. At high current densities the overvoltage for oxygen evolution may raise the electrode potential into the region of chlorine production. At times chlorine was evident and accompanied by a strong smell which occurred when the electrodialysis unit was operating. This effect was more pronounced at higher voltages, so the voltage of the system was kept at a minimum to produce less chlorine gas and increase the efficiency of the process."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 448.9629926757813,
+            "r": 119.75,
+            "b": 441.3929017666904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "2.7 pH Control",
+      "text": "2.7 pH Control",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 436.02699267578134,
+            "r": 537.5069999999997,
+            "b": 417.9579926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            243
+          ]
+        }
+      ],
+      "orig": "One of the problems that hindered the success of the experiments and was detrimental to the membranes was high voltage. The power supply controlled the current by varying the voltage and the voltage could increase significantly during a trial.",
+      "text": "One of the problems that hindered the success of the experiments and was detrimental to the membranes was high voltage. The power supply controlled the current by varying the voltage and the voltage could increase significantly during a trial."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 406.3669926757813,
+            "r": 537.97,
+            "b": 357.2179926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            589
+          ]
+        }
+      ],
+      "orig": "Figure 1 shows that the flow of diluate at the anode side of a cation membrane allows the transport of protons, as they are small enough to pass through the anion membrane. As a consequence, this progressively decreases the pH of the concentrate. Overall an exchange in the pH between the diluate and concentrate is observed, which is proportional to the volume of each respective stream. The pH increase is caused by reduction of the hydrogen ions at the cathode. Hence the pH of the electrolyte increases and the fluid becomes less conductive; as a consequence voltage increases further.",
+      "text": "Figure 1 shows that the flow of diluate at the anode side of a cation membrane allows the transport of protons, as they are small enough to pass through the anion membrane. As a consequence, this progressively decreases the pH of the concentrate. Overall an exchange in the pH between the diluate and concentrate is observed, which is proportional to the volume of each respective stream. The pH increase is caused by reduction of the hydrogen ions at the cathode. Hence the pH of the electrolyte increases and the fluid becomes less conductive; as a consequence voltage increases further."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 345.52699267578134,
+            "r": 537.9759999999999,
+            "b": 317.13799267578133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            302
+          ]
+        }
+      ],
+      "orig": "To counteract the increase in voltage across the system, the conductivity of the fluids must be high. This was achieved by acid dosing with 1 M H2SO4. A target between pH 2 and 4 was chosen because this produced sufficient conductivity. However, too low a pH appeared to reduce the mobility of lithium.",
+      "text": "To counteract the increase in voltage across the system, the conductivity of the fluids must be high. This was achieved by acid dosing with 1 M H2SO4. A target between pH 2 and 4 was chosen because this produced sufficient conductivity. However, too low a pH appeared to reduce the mobility of lithium."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 305.5669926757813,
+            "r": 537.6139999999994,
+            "b": 287.37799267578134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "The  pH  of  all  three  fluids  within  the  system  changed  as  the  trial  progressed.  Generally  the  pH  of  the  diluate  and  electrolyte increased and the pH of the concentrate decreased to become strongly acidic.",
+      "text": "The  pH  of  all  three  fluids  within  the  system  changed  as  the  trial  progressed.  Generally  the  pH  of  the  diluate  and  electrolyte increased and the pH of the concentrate decreased to become strongly acidic."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 275.4229926757813,
+            "r": 187.79,
+            "b": 267.85290176669037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "3. EXPERIMENTAL RESULTS",
+      "text": "3. EXPERIMENTAL RESULTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 262.48699267578127,
+            "r": 537.8379999999994,
+            "b": 223.62799267578134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            422
+          ]
+        }
+      ],
+      "orig": "The  experiments  were  conducted  at  laboratory  scale  (<10  L)  to  discover  the  experimental  limitations  and  ideal  experimental conditions.  Minimizing  the  number  of  variables  reduced  variations  during  the  experiments  and  assisted  in  producing  more meaningful and reliable data. All experiments utilizing 1 membrane pair were conducted at constant diluate and concentrate flow rates of 100 mL/min.",
+      "text": "The  experiments  were  conducted  at  laboratory  scale  (<10  L)  to  discover  the  experimental  limitations  and  ideal  experimental conditions.  Minimizing  the  number  of  variables  reduced  variations  during  the  experiments  and  assisted  in  producing  more meaningful and reliable data. All experiments utilizing 1 membrane pair were conducted at constant diluate and concentrate flow rates of 100 mL/min."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 211.6729926757813,
+            "r": 157.31,
+            "b": 204.10290176669037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "3.1 Extraction Efficiency",
+      "text": "3.1 Extraction Efficiency",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 198.73699267578127,
+            "r": 537.5959999999995,
+            "b": 170.22799267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            317
+          ]
+        }
+      ],
+      "orig": "A typical diluate-concentrate lithium concentration plot is shown in Figure 3 using a large volume of diluate (~10L) and a small volume of concentrate (~1L). The lithium concentration within the diluate decreased to 1.6 ppm which corresponded to an increase in the lithium concentration of the concentrate to 130 ppm.",
+      "text": "A typical diluate-concentrate lithium concentration plot is shown in Figure 3 using a large volume of diluate (~10L) and a small volume of concentrate (~1L). The lithium concentration within the diluate decreased to 1.6 ppm which corresponded to an increase in the lithium concentration of the concentrate to 130 ppm."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 158.65699267578134,
+            "r": 538.03,
+            "b": 119.82799267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            438
+          ]
+        }
+      ],
+      "orig": "This  showed  that  the  lithium  can  be  almost  completely  extracted,  although  complete  extraction  is  not  recommended  due  to decreasing efficiency of extraction. The final concentrations of the streams also surpassed the x20 concentration ratio limit between the concentrate and diluate (PCCell membrane manual). For this solution, the theoretical maximum concentration ratio of diluate to concentrate was about 4.8 to 96 ppm.",
+      "text": "This  showed  that  the  lithium  can  be  almost  completely  extracted,  although  complete  extraction  is  not  recommended  due  to decreasing efficiency of extraction. The final concentrations of the streams also surpassed the x20 concentration ratio limit between the concentrate and diluate (PCCell membrane manual). For this solution, the theoretical maximum concentration ratio of diluate to concentrate was about 4.8 to 96 ppm."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.76,
+            "t": 108.25699267578125,
+            "r": 538.021,
+            "b": 69.43199267578132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            411
+          ]
+        }
+      ],
+      "orig": "Figure 3 also shows that the rate of extraction is fastest when the system has the highest concentration differential. This is seen by the  exponential  trend  with  time  with  the  concentrate  and  diluate  reaching  equilibrium.  Because  of  this  the  use  of  higher concentration diluate fluids was required to ensure that the extraction rate was fast, when initial concentrate concentrations were high.",
+      "text": "Figure 3 also shows that the rate of extraction is fastest when the system has the highest concentration differential. This is seen by the  exponential  trend  with  time  with  the  concentrate  and  diluate  reaching  equilibrium.  Because  of  this  the  use  of  higher concentration diluate fluids was required to ensure that the extraction rate was fast, when initial concentrate concentrations were high."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 295.49,
+            "t": 53.276992675781344,
+            "r": 302.3,
+            "b": 45.52799267578132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.76,
+            "t": 803.7569926757812,
+            "r": 113.75,
+            "b": 796.0079926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Mroczek et al.",
+      "text": "Mroczek et al."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.76,
+            "t": 782.4929926757812,
+            "r": 108.23,
+            "b": 774.9229017666904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "3.2 Heating",
+      "text": "3.2 Heating",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.76,
+            "t": 769.5569926757813,
+            "r": 538.0,
+            "b": 709.9479926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            716
+          ]
+        }
+      ],
+      "orig": "Another aspect which was investigated to increase the extraction efficiency was the preheating of the diluate. This was heated using an electrical coil to 30-40\u00b0C. The evidence for a change in the lithium extraction rate at this temperature was inconclusive, although the  voltage  dropped  with  increasing  temperature.  Preheating  the  fluid  decreased  the  power  for  the  electrodialysis  extraction. Although heating of the diluate may appear to be a simple means of increasing process efficiency, care must be taken to prevent any  membrane degradation. An upper limit of 60\u00b0C is typically  given by  membrane  manufactures before degradation becomes significant and the life of the membranes is decreased.",
+      "text": "Another aspect which was investigated to increase the extraction efficiency was the preheating of the diluate. This was heated using an electrical coil to 30-40\u00b0C. The evidence for a change in the lithium extraction rate at this temperature was inconclusive, although the  voltage  dropped  with  increasing  temperature.  Preheating  the  fluid  decreased  the  power  for  the  electrodialysis  extraction. Although heating of the diluate may appear to be a simple means of increasing process efficiency, care must be taken to prevent any  membrane degradation. An upper limit of 60\u00b0C is typically  given by  membrane  manufactures before degradation becomes significant and the life of the membranes is decreased."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.76,
+            "t": 456.76299267578133,
+            "r": 537.9999999999999,
+            "b": 438.8729017666904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "Figure 3: Concentrate and diluate lithium concentrations for an electrodialysis system with one membrane pair and varying voltage.",
+      "text": "Figure 3: Concentrate and diluate lithium concentrations for an electrodialysis system with one membrane pair and varying voltage."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.76,
+            "t": 430.1229926757813,
+            "r": 163.79,
+            "b": 422.55290176669035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "3.3 Electrodialysis Voltage",
+      "text": "3.3 Electrodialysis Voltage",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.76,
+            "t": 417.0669926757813,
+            "r": 538.03,
+            "b": 378.3379926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            482
+          ]
+        }
+      ],
+      "orig": "The  most  important  characteristic  of  the  electrodialysis  cell  is  the  dependence  of  voltage  and  current  throughout  the  unit  to maximize efficiency.  Although  larger  voltages  increase  the  extraction  of  the  lithium  significantly  from  the  brine,  a  trade-off  is encountered with membrane lifetime. Trials were conducted to determine the effective single-pass extraction rate for a given range of currents where the voltage did not exceed 25 V (Figure 4).",
+      "text": "The  most  important  characteristic  of  the  electrodialysis  cell  is  the  dependence  of  voltage  and  current  throughout  the  unit  to maximize efficiency.  Although  larger  voltages  increase  the  extraction  of  the  lithium  significantly  from  the  brine,  a  trade-off  is encountered with membrane lifetime. Trials were conducted to determine the effective single-pass extraction rate for a given range of currents where the voltage did not exceed 25 V (Figure 4)."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.76,
+            "t": 366.64699267578135,
+            "r": 538.03,
+            "b": 317.49799267578123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            611
+          ]
+        }
+      ],
+      "orig": "This experiment showed that the single pass extraction rate increased significantly with increasing current. Although the extraction values are large for the system at high current, the voltage also needs to be considered. At a current of 0.1 A, the system was still above the recommended 2 V threshold for a single membrane pair configuration. But at this low current setting, the extraction was reduced to less than 0.1 ppm/pass. Strong extraction rates were found at high current and voltage. For example, at a current of 3.7 A and 25 V, a single pass extraction of 2.9 ppm was obtained (at 100 mL/min flow).",
+      "text": "This experiment showed that the single pass extraction rate increased significantly with increasing current. Although the extraction values are large for the system at high current, the voltage also needs to be considered. At a current of 0.1 A, the system was still above the recommended 2 V threshold for a single membrane pair configuration. But at this low current setting, the extraction was reduced to less than 0.1 ppm/pass. Strong extraction rates were found at high current and voltage. For example, at a current of 3.7 A and 25 V, a single pass extraction of 2.9 ppm was obtained (at 100 mL/min flow)."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 59.76,
+            "t": 101.51699267578135,
+            "r": 457.99,
+            "b": 93.94690176669042,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "Figure 4: Effect of current/voltage for the single pass extraction of lithium from the electrodialysis unit.",
+      "text": "Figure 4: Effect of current/voltage for the single pass extraction of lithium from the electrodialysis unit."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 295.49,
+            "t": 53.276992675781344,
+            "r": 302.3,
+            "b": 45.52799267578132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 484.06,
+            "t": 803.7569926757812,
+            "r": 538.03,
+            "b": 796.0079926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Mroczek et al.",
+      "text": "Mroczek et al."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.76,
+            "t": 782.4929926757812,
+            "r": 168.23,
+            "b": 774.9229017666904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "3.6 Membrane Degradation",
+      "text": "3.6 Membrane Degradation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.76,
+            "t": 769.5569926757813,
+            "r": 538.03,
+            "b": 720.3879926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            570
+          ]
+        }
+      ],
+      "orig": "A major problem which was encountered in the operation of the unit was determining the quality of the membranes. The lifetime of the membrane pairs was expected to be years; however, all membranes used had a significantly lower lifetime (usually less than a month).  It  is  uncertain  what  the  main  cause  of  the  decrease  in  lifetime  of  the  membranes  was,  but  the  high  voltage  trials  are suspected to be a leading cause. High voltages also decrease the process efficiency due to electrolysis and chlorine production, which further damage the membranes.",
+      "text": "A major problem which was encountered in the operation of the unit was determining the quality of the membranes. The lifetime of the membrane pairs was expected to be years; however, all membranes used had a significantly lower lifetime (usually less than a month).  It  is  uncertain  what  the  main  cause  of  the  decrease  in  lifetime  of  the  membranes  was,  but  the  high  voltage  trials  are suspected to be a leading cause. High voltages also decrease the process efficiency due to electrolysis and chlorine production, which further damage the membranes."
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.76,
+            "t": 708.6969926757813,
+            "r": 537.8019999999997,
+            "b": 690.6279926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "It is also important not to allow the membranes to dry out when not in use. This led to tears within the membranes and caused the flux of lithium and fluid into the electrolyte stream in some experiments.",
+      "text": "It is also important not to allow the membranes to dry out when not in use. This led to tears within the membranes and caused the flux of lithium and fluid into the electrolyte stream in some experiments."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.76,
+            "t": 678.6729926757813,
+            "r": 255.02,
+            "b": 671.1029017666905,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "3.7 Multiple Membrane Stack Electrodialysis Unit",
+      "text": "3.7 Multiple Membrane Stack Electrodialysis Unit",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.76,
+            "t": 665.7369926757813,
+            "r": 538.03,
+            "b": 616.5879926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            589
+          ]
+        }
+      ],
+      "orig": "The simplest way to increase the absolute extraction rate was to increase the number of  membranes. The unit was filled with 3 membrane pairs each identical supplied by PCCell, (Cation membrane PC MVA-ED 64004-0G00). During these trials the flow rate of the system increased three fold, to 320 mL/min. To increase the efficiency even further, partially evaporated geothermal fluid was used as the diluate for the trials. The evaporation increased the concentrations of dissolved solids and produced a fluid which was highly conductive. This would reduce the operating costs of the process.",
+      "text": "The simplest way to increase the absolute extraction rate was to increase the number of  membranes. The unit was filled with 3 membrane pairs each identical supplied by PCCell, (Cation membrane PC MVA-ED 64004-0G00). During these trials the flow rate of the system increased three fold, to 320 mL/min. To increase the efficiency even further, partially evaporated geothermal fluid was used as the diluate for the trials. The evaporation increased the concentrations of dissolved solids and produced a fluid which was highly conductive. This would reduce the operating costs of the process."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.76,
+            "t": 604.8969926757812,
+            "r": 537.9639999999999,
+            "b": 545.3979926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            775
+          ]
+        }
+      ],
+      "orig": "The results (Figure 5) show that the efficiency of the process increased with a three membrane pair stack. A total extraction of 180 mg/L of lithium was achieved in less than eight hours with an overall concentrate to dilute ratio of greater than x50. The rate of 0.28 mg/hour.cm 2 was higher than any previous extraction. The decrease in diluate translated to an increase in concentration of the lithium in the concentrate to 120 ppm, (volumes of diluate and concentrate, 2.5 L and 1.5 L respectively). The discrepancies which arise  in  the  mass  balance  of  lithium  ions  are  due  to  lithium  movement  into  the  electrolyte  due  to  microscopic  tears  within  the membranes. This transferred lithium into the electrolyte stream rather than the concentrate stream.",
+      "text": "The results (Figure 5) show that the efficiency of the process increased with a three membrane pair stack. A total extraction of 180 mg/L of lithium was achieved in less than eight hours with an overall concentrate to dilute ratio of greater than x50. The rate of 0.28 mg/hour.cm 2 was higher than any previous extraction. The decrease in diluate translated to an increase in concentration of the lithium in the concentrate to 120 ppm, (volumes of diluate and concentrate, 2.5 L and 1.5 L respectively). The discrepancies which arise  in  the  mass  balance  of  lithium  ions  are  due  to  lithium  movement  into  the  electrolyte  due  to  microscopic  tears  within  the membranes. This transferred lithium into the electrolyte stream rather than the concentrate stream."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.76,
+            "t": 533.8269926757813,
+            "r": 538.03,
+            "b": 505.3179926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            368
+          ]
+        }
+      ],
+      "orig": "In  previous  experiments  the  extraction  of  lithium  was  observed  to  be  highest  during  the  initial  stages,  when  the  concentration differential  was  the  lowest.  This  experiment  shows  the  opposite  behaviour.  This  is  believed  to  have  been  caused  by  increasing voltages (>15V) across the electrodialysis membrane stack after the four hours.",
+      "text": "In  previous  experiments  the  extraction  of  lithium  was  observed  to  be  highest  during  the  initial  stages,  when  the  concentration differential  was  the  lowest.  This  experiment  shows  the  opposite  behaviour.  This  is  believed  to  have  been  caused  by  increasing voltages (>15V) across the electrodialysis membrane stack after the four hours."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.76,
+            "t": 289.34299267578126,
+            "r": 507.31,
+            "b": 281.77290176669044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "Figure 5: Lithium extraction for a three membrane pair configuration (transfer from diluate to electrolyte evident).",
+      "text": "Figure 5: Lithium extraction for a three membrane pair configuration (transfer from diluate to electrolyte evident)."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.76,
+            "t": 273.0229926757813,
+            "r": 113.51,
+            "b": 265.4529017666904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "3.8 Summary",
+      "text": "3.8 Summary",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.76,
+            "t": 260.0869926757813,
+            "r": 478.27,
+            "b": 252.33799267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "A large number of experiments were conducted with the electrodialysis unit, resulting in the following conclusions.",
+      "text": "A large number of experiments were conducted with the electrodialysis unit, resulting in the following conclusions."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 77.784,
+            "t": 240.16699267578133,
+            "r": 537.4679999999998,
+            "b": 221.94799267578128,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            233
+          ]
+        }
+      ],
+      "orig": "\uf0b7 The acidification of the diluate and concentrate was found to be very beneficial for the extraction of lithium; however, excess acidification reduced extraction efficiency. A pH range of 2-4 was determined to be the most effective.",
+      "text": "\uf0b7 The acidification of the diluate and concentrate was found to be very beneficial for the extraction of lithium; however, excess acidification reduced extraction efficiency. A pH range of 2-4 was determined to be the most effective.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 77.784,
+            "t": 209.77699267578123,
+            "r": 537.7279999999996,
+            "b": 191.58799267578127,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "\uf0b7 Diluate  heating  did  not  appear  to  increase  in  extraction  efficiency.  An  increase  was  expected  from  work  reported  in literature.",
+      "text": "\uf0b7 Diluate  heating  did  not  appear  to  increase  in  extraction  efficiency.  An  increase  was  expected  from  work  reported  in literature.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 77.784,
+            "t": 179.41699267578133,
+            "r": 537.7689999999998,
+            "b": 161.22799267578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "\uf0b7 Large increases in extraction occurred with increased current, but this seemed to drastically degrade the lifetime of the membranes.",
+      "text": "\uf0b7 Large increases in extraction occurred with increased current, but this seemed to drastically degrade the lifetime of the membranes.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 77.784,
+            "t": 149.05699267578132,
+            "r": 537.6349999999995,
+            "b": 130.86799267578135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "\uf0b7 The potential of multi-stack systems was also investigated with higher extraction rates and high lithium concentrations. Of all the trials conducted, the highest lithium flux obtained was 0.28 mg/hour.cm 2 .",
+      "text": "\uf0b7 The potential of multi-stack systems was also investigated with higher extraction rates and high lithium concentrations. Of all the trials conducted, the highest lithium flux obtained was 0.28 mg/hour.cm 2 .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.76,
+            "t": 118.91299267578131,
+            "r": 238.34,
+            "b": 111.34290176669037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "4. FURTHER AREAS OF INVESTIGATION",
+      "text": "4. FURTHER AREAS OF INVESTIGATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 59.76,
+            "t": 105.9809926757813,
+            "r": 538.03,
+            "b": 67.15199267578134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            546
+          ]
+        }
+      ],
+      "orig": "A number of questions remain unanswered in characterizing the electrodialysis of geothermal brines. The effect of heating should be revaluated as a free source of geothermal heat may increase the efficiency at little additional cost. It has been assumed that the flow rate  of  the  system  is  believed  to  only  have  a  small  influence,  needing  only  to  be  turbulent  to  ensure  high  diffusion  rates. However  the effect of flow rate was not investigated and was essentially constant for the duration of the trials. The most difficult",
+      "text": "A number of questions remain unanswered in characterizing the electrodialysis of geothermal brines. The effect of heating should be revaluated as a free source of geothermal heat may increase the efficiency at little additional cost. It has been assumed that the flow rate  of  the  system  is  believed  to  only  have  a  small  influence,  needing  only  to  be  turbulent  to  ensure  high  diffusion  rates. However  the effect of flow rate was not investigated and was essentially constant for the duration of the trials. The most difficult"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 295.49,
+            "t": 53.276992675781344,
+            "r": 302.3,
+            "b": 45.52799267578132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 803.7569926757812,
+            "r": 113.75,
+            "b": 796.0079926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Mroczek et al.",
+      "text": "Mroczek et al.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 782.8769926757813,
+            "r": 540.31,
+            "b": 764.8079926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "characteristic  was  determining  the  ideal  voltage  and  current  values  for  the  system.  The  membranes  appeared  to  quickly  suffer irreversible damage, which was probably caused by large current/voltage densities.",
+      "text": "characteristic  was  determining  the  ideal  voltage  and  current  values  for  the  system.  The  membranes  appeared  to  quickly  suffer irreversible damage, which was probably caused by large current/voltage densities."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 753.0969926757813,
+            "r": 538.03,
+            "b": 724.7079926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "Given that the Nafion (Du Pont) lithium specific membranes are commercially available, if these are shown to be effective and reliable  then  this  would  avoid  the  concentrating  of  other  unwanted  cations.  For  most  experiments  the  PCCell  membrane  used, which were not lithium specific.",
+      "text": "Given that the Nafion (Du Pont) lithium specific membranes are commercially available, if these are shown to be effective and reliable  then  this  would  avoid  the  concentrating  of  other  unwanted  cations.  For  most  experiments  the  PCCell  membrane  used, which were not lithium specific."
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 712.7529926757812,
+            "r": 137.03,
+            "b": 705.1829017666904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "5. CONCLUSIONS",
+      "text": "5. CONCLUSIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 701.5779926757813,
+            "r": 537.9399999999998,
+            "b": 671.3079926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            364
+          ]
+        }
+      ],
+      "orig": "Considering the trial results which produced the highest extraction rates, a lithium flux of 0.28 mg/hour.cm 2 shows that scaling up to  a  relatively  small  1  m 2 transfer  surface  area,  assuming  that  the  concentration  flux  is  constant  throughout  the  membrane,  is equivalent to extracting all of the lithium out of 250 kg of Wairakei brine per hour.",
+      "text": "Considering the trial results which produced the highest extraction rates, a lithium flux of 0.28 mg/hour.cm 2 shows that scaling up to  a  relatively  small  1  m 2 transfer  surface  area,  assuming  that  the  concentration  flux  is  constant  throughout  the  membrane,  is equivalent to extracting all of the lithium out of 250 kg of Wairakei brine per hour."
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 659.7369926757813,
+            "r": 538.021,
+            "b": 620.9079926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            414
+          ]
+        }
+      ],
+      "orig": "The laboratory experiments showed that after the removal of silica it was possible to extract all of the lithium out of the brine. However, the potential of the overall system as an industrial process cannot be gauged with the small scale laboratory data. To test and understand if concentrating lithium from Wairakei fluid is economically viable, larger scale field pilot plant trials would have to be undertaken.",
+      "text": "The laboratory experiments showed that after the removal of silica it was possible to extract all of the lithium out of the brine. However, the potential of the overall system as an industrial process cannot be gauged with the small scale laboratory data. To test and understand if concentrating lithium from Wairakei fluid is economically viable, larger scale field pilot plant trials would have to be undertaken."
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 609.3369926757813,
+            "r": 538.0119999999998,
+            "b": 591.1479926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "The  potential  of  heating  and  evaporation  of  a  primary  concentrating  unit  will  also  need  to  be  further  investigated,  which  may improve the extraction of lithium.",
+      "text": "The  potential  of  heating  and  evaporation  of  a  primary  concentrating  unit  will  also  need  to  be  further  investigated,  which  may improve the extraction of lithium."
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 579.5469926757812,
+            "r": 537.9789999999998,
+            "b": 540.7179926757814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            465
+          ]
+        }
+      ],
+      "orig": "Electrodialysis is a mature technology that is used extensively in the dairy, food, and potable water industries for the desalination of aqueous streams and the production of edible salt from seawater in Japan. For scaling up to a field pilot plant, expertise from these industries  will  be  sought  out  to  assist  optimization  of  the  process  so  the  correct  operating  procedures  are  used  to  provide  both sufficient extraction and membrane longevity.",
+      "text": "Electrodialysis is a mature technology that is used extensively in the dairy, food, and potable water industries for the desalination of aqueous streams and the production of edible salt from seawater in Japan. For scaling up to a field pilot plant, expertise from these industries  will  be  sought  out  to  assist  optimization  of  the  process  so  the  correct  operating  procedures  are  used  to  provide  both sufficient extraction and membrane longevity."
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 528.7629926757812,
+            "r": 163.07,
+            "b": 521.1929017666904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "ACKNOWLEDGEMENT",
+      "text": "ACKNOWLEDGEMENT",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 515.8269926757813,
+            "r": 538.021,
+            "b": 487.3179926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            267
+          ]
+        }
+      ],
+      "orig": "This work was funded and prepared with the support of GNS Science, New Zealand, Core Science Area, Geothermal Research Programme.  The authors would like to thank the Huka Prawn Park for permission take samples at their site and to Mel Climo for reviewing this paper.",
+      "text": "This work was funded and prepared with the support of GNS Science, New Zealand, Core Science Area, Geothermal Research Programme.  The authors would like to thank the Huka Prawn Park for permission take samples at their site and to Mel Climo for reviewing this paper."
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 475.3629926757813,
+            "r": 122.51,
+            "b": 467.79290176669036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 462.4359926757813,
+            "r": 537.9909999999996,
+            "b": 444.35581085759947,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "Ball,  D.L.,  and  Boateng,  D.A.D.:  1987  Method  for  the  Recovery  of  Lithium  from  Solutions  by  Electrodialysis. United  States Patent, Patent Number: 4636295 (1987).",
+      "text": "Ball,  D.L.,  and  Boateng,  D.A.D.:  1987  Method  for  the  Recovery  of  Lithium  from  Solutions  by  Electrodialysis. United  States Patent, Patent Number: 4636295 (1987).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 435.78699267578133,
+            "r": 537.4849999999992,
+            "b": 417.5958108575995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "Daufin, G., Escudier, J.-P., Carr\u00e8re, H., B\u00e9rot, S., Fillaudeau, L. and Decloux, M.: Recent and Emerging Applications of Membrane Processes in the Food and Dairy Industry. Food and Bioproducts Processing , 79 , (2001), 89-102.",
+      "text": "Daufin, G., Escudier, J.-P., Carr\u00e8re, H., B\u00e9rot, S., Fillaudeau, L. and Decloux, M.: Recent and Emerging Applications of Membrane Processes in the Food and Dairy Industry. Food and Bioproducts Processing , 79 , (2001), 89-102.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 409.01599267578126,
+            "r": 537.961,
+            "b": 390.9379926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "Kennedy, A.M.: An assessment of the economics of lithium recovery from geothermal water . Dominion Laboratory CE 180 35 p., figs (1957).",
+      "text": "Kennedy, A.M.: An assessment of the economics of lithium recovery from geothermal water . Dominion Laboratory CE 180 35 p., figs (1957).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 382.3759926757813,
+            "r": 537.9909999999999,
+            "b": 364.1779926757813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "Kennedy,  M.:  The  recovery  of  lithium  and  other  minerals  from  geothermal  water  at  Wairakei.  A.  In: Proceedings of  United Nations Conference on New Sources of Energy.   New York: United Nations (1961).",
+      "text": "Kennedy,  M.:  The  recovery  of  lithium  and  other  minerals  from  geothermal  water  at  Wairakei.  A.  In: Proceedings of  United Nations Conference on New Sources of Energy.   New York: United Nations (1961).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 355.6069926757813,
+            "r": 538.0269999999999,
+            "b": 337.5358108575995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            243
+          ]
+        }
+      ],
+      "orig": "Mart\u00ed-Calatayuda, M.C., Buzzia,D.C., Garc\u00eda-Gabald\u00f3na,M.,  Ortegaa,E.,  Bernardesc, AM., Ten\u00f3riob, J.A.S. and P\u00e9rez-Herranza, V.: Sulfuric acid recovery from acid mine drainage by means of electrodialysis. Desalination , 343 , (2014), 120-127.",
+      "text": "Mart\u00ed-Calatayuda, M.C., Buzzia,D.C., Garc\u00eda-Gabald\u00f3na,M.,  Ortegaa,E.,  Bernardesc, AM., Ten\u00f3riob, J.A.S. and P\u00e9rez-Herranza, V.: Sulfuric acid recovery from acid mine drainage by means of electrodialysis. Desalination , 343 , (2014), 120-127.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 328.9669926757813,
+            "r": 537.4439999999996,
+            "b": 310.7758108575995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "Mroczek  E.,  Graham,  D.  and  Bacon,  L.:  The  Removal  of  Arsenic  and  Silica  from  Geothermal  Fluids  by  Electrocoagulation. International Mineral Extraction Conference (2006).",
+      "text": "Mroczek  E.,  Graham,  D.  and  Bacon,  L.:  The  Removal  of  Arsenic  and  Silica  from  Geothermal  Fluids  by  Electrocoagulation. International Mineral Extraction Conference (2006).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 59.76,
+            "t": 302.2069926757813,
+            "r": 538.03,
+            "b": 284.13799267578133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "Roskill Information Services Ltd Report: Estimates. Roskill information cited by: http://www.orocobre.com.au/Lithium_ Market.htm (See also http://www.roskill.com/reports/ minor-and-light-metals/lithium (2009).",
+      "text": "Roskill Information Services Ltd Report: Estimates. Roskill information cited by: http://www.orocobre.com.au/Lithium_ Market.htm (See also http://www.roskill.com/reports/ minor-and-light-metals/lithium (2009).",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 295.49,
+            "t": 53.276992675781344,
+            "r": 302.3,
+            "b": 45.52799267578132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 169.8782501220703,
+            "t": 291.90362548828125,
+            "r": 419.9286193847656,
+            "b": 80.243896484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 157.5033721923828,
+            "t": 589.3014068603516,
+            "r": 435.3846130371094,
+            "b": 242.00146484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/80"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 162.85870361328125,
+            "t": 661.8218383789062,
+            "r": 431.72174072265625,
+            "b": 468.02386474609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/80"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 159.3255157470703,
+            "t": 308.3577880859375,
+            "r": 434.7881164550781,
+            "b": 113.7823486328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/94"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 146.49229431152344,
+            "t": 496.0550842285156,
+            "r": 449.90924072265625,
+            "b": 301.64080810546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/94"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.30790328979492,
+            "t": 686.4365539550781,
+            "r": 534.5762939453125,
+            "b": 657.0123291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 98.22941329540001,
+              "t": 161.25872899557805,
+              "r": 128.9007780665471,
+              "b": 168.27170273097715,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Element",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 181.3152393494,
+              "t": 160.5800852308281,
+              "r": 189.81004560515117,
+              "b": 167.75880132925,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Al",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 217.00965288880002,
+              "t": 160.5800852308281,
+              "r": 226.44989693671928,
+              "b": 167.75880132925,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "As",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 256.0460661354,
+              "t": 160.5800852308281,
+              "r": 261.7272103459957,
+              "b": 167.75880132925,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "B",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 290.6264797724,
+              "t": 160.5800852308281,
+              "r": 299.97797516142805,
+              "b": 167.75880132925,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Ca",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 327.96404316784003,
+              "t": 160.5800852308281,
+              "r": 336.202072446088,
+              "b": 167.75880132925,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "Fe",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 365.88645651204,
+              "t": 160.5800852308281,
+              "r": 372.0360608899262,
+              "b": 167.75880132925,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "K",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 402.69486995384005,
+              "t": 160.5800852308281,
+              "r": 410.07565309885996,
+              "b": 167.75880132925,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 7,
+            "end_col_offset_idx": 8,
+            "text": "Li",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 437.27528359084005,
+              "t": 160.5800852308281,
+              "r": 448.7746172083579,
+              "b": 167.75880132925,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 8,
+            "end_col_offset_idx": 9,
+            "text": "Mg",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 474.64069698384003,
+              "t": 160.5800852308281,
+              "r": 484.5494011990498,
+              "b": 167.75880132925,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 9,
+            "end_col_offset_idx": 10,
+            "text": "Na",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 508.6455440046,
+              "t": 160.5800852308281,
+              "r": 523.76113018029,
+              "b": 168.9516077106249,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 10,
+            "end_col_offset_idx": 11,
+            "text": "SiO 2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 74.2552070625,
+              "t": 175.16274755232803,
+              "r": 152.8032009307362,
+              "b": 182.17572128772724,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Concentration (mg/L)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 180.201239447,
+              "t": 174.46138539695312,
+              "r": 190.5840202456749,
+              "b": 181.6401014953749,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1.5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 217.00965288880002,
+              "t": 174.46138539695312,
+              "r": 227.39243368747492,
+              "b": 181.6401014953749,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "6.4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 254.932066233,
+              "t": 174.46138539695312,
+              "r": 263.089330518324,
+              "b": 181.6401014953749,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "28",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 291.7404796748,
+              "t": 174.46138539695312,
+              "r": 299.897743960124,
+              "b": 181.6401014953749,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "18",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 327.41632654916,
+              "t": 174.46138539695312,
+              "r": 337.7991073478349,
+              "b": 181.6401014953749,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "0.8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 363.10145675604,
+              "t": 174.46138539695312,
+              "r": 375.15725653313797,
+              "b": 181.6401014953749,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "165",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 402.14715333516,
+              "t": 174.46138539695312,
+              "r": 410.304417620484,
+              "b": 181.6401014953749,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 7,
+            "end_col_offset_idx": 8,
+            "text": "11",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 437.83228354204,
+              "t": 174.46138539695312,
+              "r": 448.21506434071483,
+              "b": 181.6401014953749,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 8,
+            "end_col_offset_idx": 9,
+            "text": "0.1",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 473.53598041396003,
+              "t": 174.46138539695312,
+              "r": 485.59178019105804,
+              "b": 181.6401014953749,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 9,
+            "end_col_offset_idx": 10,
+            "text": "111",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 510.3165438582,
+              "t": 174.46138539695312,
+              "r": 522.372343635298,
+              "b": 181.6401014953749,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 10,
+            "end_col_offset_idx": 11,
+            "text": "530",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 2,
+        "num_cols": 11,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 98.22941329540001,
+                "t": 161.25872899557805,
+                "r": 128.9007780665471,
+                "b": 168.27170273097715,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Element",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 181.3152393494,
+                "t": 160.5800852308281,
+                "r": 189.81004560515117,
+                "b": 167.75880132925,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Al",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 217.00965288880002,
+                "t": 160.5800852308281,
+                "r": 226.44989693671928,
+                "b": 167.75880132925,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "As",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 256.0460661354,
+                "t": 160.5800852308281,
+                "r": 261.7272103459957,
+                "b": 167.75880132925,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "B",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 290.6264797724,
+                "t": 160.5800852308281,
+                "r": 299.97797516142805,
+                "b": 167.75880132925,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Ca",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 327.96404316784003,
+                "t": 160.5800852308281,
+                "r": 336.202072446088,
+                "b": 167.75880132925,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "Fe",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 365.88645651204,
+                "t": 160.5800852308281,
+                "r": 372.0360608899262,
+                "b": 167.75880132925,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "K",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 402.69486995384005,
+                "t": 160.5800852308281,
+                "r": 410.07565309885996,
+                "b": 167.75880132925,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 7,
+              "end_col_offset_idx": 8,
+              "text": "Li",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 437.27528359084005,
+                "t": 160.5800852308281,
+                "r": 448.7746172083579,
+                "b": 167.75880132925,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 8,
+              "end_col_offset_idx": 9,
+              "text": "Mg",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 474.64069698384003,
+                "t": 160.5800852308281,
+                "r": 484.5494011990498,
+                "b": 167.75880132925,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 9,
+              "end_col_offset_idx": 10,
+              "text": "Na",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 508.6455440046,
+                "t": 160.5800852308281,
+                "r": 523.76113018029,
+                "b": 168.9516077106249,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 10,
+              "end_col_offset_idx": 11,
+              "text": "SiO 2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 74.2552070625,
+                "t": 175.16274755232803,
+                "r": 152.8032009307362,
+                "b": 182.17572128772724,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Concentration (mg/L)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 180.201239447,
+                "t": 174.46138539695312,
+                "r": 190.5840202456749,
+                "b": 181.6401014953749,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1.5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 217.00965288880002,
+                "t": 174.46138539695312,
+                "r": 227.39243368747492,
+                "b": 181.6401014953749,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "6.4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 254.932066233,
+                "t": 174.46138539695312,
+                "r": 263.089330518324,
+                "b": 181.6401014953749,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "28",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 291.7404796748,
+                "t": 174.46138539695312,
+                "r": 299.897743960124,
+                "b": 181.6401014953749,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "18",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 327.41632654916,
+                "t": 174.46138539695312,
+                "r": 337.7991073478349,
+                "b": 181.6401014953749,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "0.8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 363.10145675604,
+                "t": 174.46138539695312,
+                "r": 375.15725653313797,
+                "b": 181.6401014953749,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "165",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 402.14715333516,
+                "t": 174.46138539695312,
+                "r": 410.304417620484,
+                "b": 181.6401014953749,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 7,
+              "end_col_offset_idx": 8,
+              "text": "11",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 437.83228354204,
+                "t": 174.46138539695312,
+                "r": 448.21506434071483,
+                "b": 181.6401014953749,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 8,
+              "end_col_offset_idx": 9,
+              "text": "0.1",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 473.53598041396003,
+                "t": 174.46138539695312,
+                "r": 485.59178019105804,
+                "b": 181.6401014953749,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 9,
+              "end_col_offset_idx": 10,
+              "text": "111",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 510.3165438582,
+                "t": 174.46138539695312,
+                "r": 522.372343635298,
+                "b": 181.6401014953749,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 10,
+              "end_col_offset_idx": 11,
+              "text": "530",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 841.6799926757812
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 841.6799926757812
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 841.6799926757812
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 841.6799926757812
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 841.6799926757812
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.4400024414062,
+        "height": 841.6799926757812
+      },
+      "page_no": 6
+    }
+  }
+}

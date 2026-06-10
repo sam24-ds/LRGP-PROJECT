@@ -1,0 +1,3174 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1-s2.0-S0376738800821675-main",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 10197630767791162833,
+    "filename": "1-s2.0-S0376738800821675-main.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/groups/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.52,
+            "t": 642.0024000000001,
+            "r": 223.48183999999992,
+            "b": 635.99904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Journal of  Membrane Science, 6 (1980) 259-263",
+      "text": "Journal of  Membrane Science, 6 (1980) 259-263"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.71999999999997,
+            "t": 631.9224,
+            "r": 372.0416199999996,
+            "b": 625.91904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "o  Elsevier  Scientific Publishing  Company, Amsterdam  Printed  in  The  Netherlands",
+      "text": "o  Elsevier  Scientific Publishing  Company, Amsterdam  Printed  in  The  Netherlands"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 379.91999999999996,
+            "t": 641.7624000000001,
+            "r": 395.08181999999994,
+            "b": 635.75904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "259",
+      "text": "259"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.239999999999952,
+            "t": 607.8720000000001,
+            "r": 132.9889999999999,
+            "b": 600.5952000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Short  Communication",
+      "text": "Short  Communication",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.999999999999943,
+            "t": 583.6320000000001,
+            "r": 379.4687999999998,
+            "b": 564.3552000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "CONCENTRATION  OF METHANE  FROM  MIXTURES  WITH CARBON DIOXIDE  BY  PERMEATION  THROUGH  POLYMERIC  FILMS",
+      "text": "CONCENTRATION  OF METHANE  FROM  MIXTURES  WITH CARBON DIOXIDE  BY  PERMEATION  THROUGH  POLYMERIC  FILMS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.999999999999943,
+            "t": 533.5224000000001,
+            "r": 312.7618399999997,
+            "b": 527.51904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "DANIAL L.  ELLIG,  JOSEPH  B.  ALTHOUSE and  F.P.  McCANDLESS",
+      "text": "DANIAL L.  ELLIG,  JOSEPH  B.  ALTHOUSE and  F.P.  McCANDLESS"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.279999999999916,
+            "t": 518.87928,
+            "r": 375.89999999999986,
+            "b": 503.76216,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Department of  Chemical Engineering, Montana State University,  Bozeman, MT  59717 (U.S.A.)",
+      "text": "Department of  Chemical Engineering, Montana State University,  Bozeman, MT  59717 (U.S.A.)"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.999999999999904,
+            "t": 495.12239999999997,
+            "r": 309.40169999999983,
+            "b": 489.11904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "(Received July  6th,  1979; accepted in revised  form  August  20,  1979)",
+      "text": "(Received July  6th,  1979; accepted in revised  form  August  20,  1979)"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.999999999999886,
+            "t": 460.752,
+            "r": 76.34899999999986,
+            "b": 453.4752,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Summary",
+      "text": "Summary",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.039999999999736,
+            "t": 434.88239999999996,
+            "r": 403.0017599999998,
+            "b": 368.39904000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            629
+          ]
+        }
+      ],
+      "orig": "A  number  of  commercially available  polymeric films  and  several  modified poly(vinylidene  fluoride) films  were  tested  for  the  removal  of  CO, from  a synthetic biogas  containing 60%  CO, and  40%  CH,.  Total  flux  and  separation  factors  were  determined at temperatures varying  from  25  to  100\u00b0C  at an operating  pressure  of  2068 kPa.  Observed  separation factors  ranged  from  less  than  0.1  to  40.2  with  fluxes  up  to  4.4 x lo--' cm3  (STP)/cma sec. All  films  tested  selectively passed  CO,. The  best  separations  were  obtained with  polyethersulfone, polysulfone, and  cellulose acetate.",
+      "text": "A  number  of  commercially available  polymeric films  and  several  modified poly(vinylidene  fluoride) films  were  tested  for  the  removal  of  CO, from  a synthetic biogas  containing 60%  CO, and  40%  CH,.  Total  flux  and  separation  factors  were  determined at temperatures varying  from  25  to  100\u00b0C  at an operating  pressure  of  2068 kPa.  Observed  separation factors  ranged  from  less  than  0.1  to  40.2  with  fluxes  up  to  4.4 x lo--' cm3  (STP)/cma sec. All  films  tested  selectively passed  CO,. The  best  separations  were  obtained with  polyethersulfone, polysulfone, and  cellulose acetate."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 29.279999999999717,
+            "t": 340.0320000000001,
+            "r": 87.62879999999973,
+            "b": 332.75520000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Introduction",
+      "text": "Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.799999999999727,
+            "t": 315.5520000000001,
+            "r": 398.9087999999997,
+            "b": 200.51520000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            743
+          ]
+        }
+      ],
+      "orig": "An efficient, cheap  process  for  the concentration of  methane  from  gases produced  from  sewage treatment  plants and from  the  anaerobic  digestion  of manure and other  agricultural wastes would  be desirable.  Typically, biogas is from  40  to  60%  methane  and 40  to  60%  carbon  dioxide  and contains  trace amounts  of  other  gases, most  notably  hydrogen  sulfide  [  11. A  membrane  process which  selectively  passes CO,,  thus concentrating  the  CH,  on  the high pressure side of  the  membrane,  is estimated  to  cost  about  one-third  that of other  processes  [  21.  This study  investigated  a number  of  commercially available polymeric films and several modified  poly(vinylidene fluoride) films for this use.",
+      "text": "An efficient, cheap  process  for  the concentration of  methane  from  gases produced  from  sewage treatment  plants and from  the  anaerobic  digestion  of manure and other  agricultural wastes would  be desirable.  Typically, biogas is from  40  to  60%  methane  and 40  to  60%  carbon  dioxide  and contains  trace amounts  of  other  gases, most  notably  hydrogen  sulfide  [  11. A  membrane  process which  selectively  passes CO,,  thus concentrating  the  CH,  on  the high pressure side of  the  membrane,  is estimated  to  cost  about  one-third  that of other  processes  [  21.  This study  investigated  a number  of  commercially available polymeric films and several modified  poly(vinylidene fluoride) films for this use."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.79999999999978,
+            "t": 183.79200000000003,
+            "r": 92.66879999999976,
+            "b": 176.51520000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Experimental",
+      "text": "Experimental",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.0799999999997,
+            "t": 159.79200000000003,
+            "r": 399.1487999999997,
+            "b": 68.03520000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            625
+          ]
+        }
+      ],
+      "orig": "The  experimental  permeation  cell has been  described  in detail  [3].  This apparatus was modified only  slightly  for  the present  study  by  including  a 6-port sampling valve with  a l-cc  sample loop  which  could  be switched  between  the permeate  and feed  streams to  facilitate  the  introduction of  samples into  the chromatograph  without  the use of  a syringe.  Analysis was by  means of  a lowvolume  thermal conductivity gas chromatograph using a Porapak  Q-S column (Waters Associates).  The recorder  incorporated a disc integrator.  The chromatograph was previously  calibrated  using known  mixtures.",
+      "text": "The  experimental  permeation  cell has been  described  in detail  [3].  This apparatus was modified only  slightly  for  the present  study  by  including  a 6-port sampling valve with  a l-cc  sample loop  which  could  be switched  between  the permeate  and feed  streams to  facilitate  the  introduction of  samples into  the chromatograph  without  the use of  a syringe.  Analysis was by  means of  a lowvolume  thermal conductivity gas chromatograph using a Porapak  Q-S column (Waters Associates).  The recorder  incorporated a disc integrator.  The chromatograph was previously  calibrated  using known  mixtures."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.64,
+            "t": 639.1224000000001,
+            "r": 46.85999999999999,
+            "b": 633.3566400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "260",
+      "text": "260"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.64000000000004,
+            "t": 615.552,
+            "r": 406.3487999999999,
+            "b": 571.7952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            288
+          ]
+        }
+      ],
+      "orig": "A pressure of  2068  kPa on  the high pressure side of  the membrane  was used for  all films tested  with  the exception of  the two  silicones.  For  these the  pressure had to  be reduced  to  690  kPa to  reduce  the permeation  rate so that it could  be measured  in a bubble  meter.",
+      "text": "A pressure of  2068  kPa on  the high pressure side of  the membrane  was used for  all films tested  with  the exception of  the two  silicones.  For  these the  pressure had to  be reduced  to  690  kPa to  reduce  the permeation  rate so that it could  be measured  in a bubble  meter."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.879999999999995,
+            "t": 567.072,
+            "r": 406.1087999999999,
+            "b": 523.5552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            279
+          ]
+        }
+      ],
+      "orig": "The  test gas contained  60%  CO, and 40%  CH,.  The flow  of  feed  gas through  the high pressure side of  the  cell was maintained  at a high rate in comparison with the permeation  rate so that it was essentially constant  everywhere  on  the high pressure side of  the film.",
+      "text": "The  test gas contained  60%  CO, and 40%  CH,.  The flow  of  feed  gas through  the high pressure side of  the  cell was maintained  at a high rate in comparison with the permeation  rate so that it was essentially constant  everywhere  on  the high pressure side of  the film."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.12000000000003,
+            "t": 506.592,
+            "r": 79.22910000000006,
+            "b": 499.31519999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Materials",
+      "text": "Materials",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.120000000000005,
+            "t": 482.592,
+            "r": 407.0688,
+            "b": 438.5951999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            292
+          ]
+        }
+      ],
+      "orig": "A total  of  16  membranes  were  tested,  13  of  which  were  obtained  from  commercial sources.  These films are further  identified  in Table  1. The three modified  poly(vinylidene fluoride) films were  made as previously  described [3] and contained  12%  by  weight  of  the modifier.",
+      "text": "A total  of  16  membranes  were  tested,  13  of  which  were  obtained  from  commercial sources.  These films are further  identified  in Table  1. The three modified  poly(vinylidene fluoride) films were  made as previously  described [3] and contained  12%  by  weight  of  the modifier."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.12000000000003,
+            "t": 420.0023999999999,
+            "r": 73.50000000000003,
+            "b": 414.2366399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "TABLE 1",
+      "text": "TABLE 1",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.120000000000026,
+            "t": 400.0823999999999,
+            "r": 198.54012000000012,
+            "b": 394.3166399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Identification of  commercial films  tested",
+      "text": "Identification of  commercial films  tested",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.640000000000015,
+            "t": 380.1623999999999,
+            "r": 341.0999399999999,
+            "b": 374.15663999999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "1. Polyethersulfone, Grade  3OOP, ICI  United  States, Inc., .025 mm  thick",
+      "text": "Polyethersulfone, Grade  3OOP, ICI  United  States, Inc., .025 mm  thick",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.639999999999986,
+            "t": 370.3223999999999,
+            "r": 283.2599399999999,
+            "b": 364.0766399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "2. Polyimide, 'KAPTON'*lOOH, DuPont, .025 mm  thick",
+      "text": "Polyimide, 'KAPTON'*lOOH, DuPont, .025 mm  thick",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.880000000000024,
+            "t": 360.2423999999999,
+            "r": 294.0599399999999,
+            "b": 354.2366399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "3. Polysulfone, P-1700, Union  Carbide  Corp., .050 mm  thick",
+      "text": "Polysulfone, P-1700, Union  Carbide  Corp., .050 mm  thick",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.640000000000015,
+            "t": 350.16239999999993,
+            "r": 329.5799399999999,
+            "b": 344.1566399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "4. Polyester, 'MYLAR'*, Gauge  50,  Type  S,  DuPont, .013 mm  thick",
+      "text": "Polyester, 'MYLAR'*, Gauge  50,  Type  S,  DuPont, .013 mm  thick",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.639999999999986,
+            "t": 340.08239999999995,
+            "r": 299.5799399999999,
+            "b": 333.83663999999993,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "5. PVF, 'TEDLAR'*, 100  AGSOUT, DuPont, .025 mm  thick",
+      "text": "PVF, 'TEDLAR'*, 100  AGSOUT, DuPont, .025 mm  thick",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.640000000000015,
+            "t": 330.00239999999997,
+            "r": 279.65993999999995,
+            "b": 323.75663999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "6. Cellulose  Acetate, 100  CA-43, DuPont, .025 mm  thick",
+      "text": "Cellulose  Acetate, 100  CA-43, DuPont, .025 mm  thick",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.88000000000005,
+            "t": 319.9224,
+            "r": 255.6599400000001,
+            "b": 313.91664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "7. Parylene  C,  Union  Carbide  Corp., .013 mm  thick",
+      "text": "Parylene  C,  Union  Carbide  Corp., .013 mm  thick",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.640000000000015,
+            "t": 310.0824,
+            "r": 342.53993999999994,
+            "b": 304.07664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "8. Polypropylene, 'CLYSAR'*, P,  Type  P-lA3, DuPont, .022 mm  thick",
+      "text": "Polypropylene, 'CLYSAR'*, P,  Type  P-lA3, DuPont, .022 mm  thick",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.400000000000034,
+            "t": 300.24240000000003,
+            "r": 267.65994,
+            "b": 294.23664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "9. Silicone  MEM  213, General  Electric, .025 mm  thick",
+      "text": "Silicone  MEM  213, General  Electric, .025 mm  thick",
+      "enumerated": true,
+      "marker": "9."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.84,
+            "t": 290.16240000000005,
+            "r": 268.37994,
+            "b": 284.15664000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "10. Silicone  Unbacked, General  Electric, .025 mm  thick",
+      "text": "Silicone  Unbacked, General  Electric, .025 mm  thick",
+      "enumerated": true,
+      "marker": "10."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.360000000000014,
+            "t": 280.3224000000001,
+            "r": 256.13994000000014,
+            "b": 274.31664000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "11. Parylene  N.  Union  Carbide  Corp., ,013 mm  thick",
+      "text": "Parylene  N.  Union  Carbide  Corp., ,013 mm  thick",
+      "enumerated": true,
+      "marker": "11."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.84000000000003,
+            "t": 270.2424000000001,
+            "r": 297.89993999999996,
+            "b": 264.4766400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "12. Nylon,  Experimental Caprolactam, DuPont, .025 mm  thick",
+      "text": "Nylon,  Experimental Caprolactam, DuPont, .025 mm  thick",
+      "enumerated": true,
+      "marker": "12."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.60000000000005,
+            "t": 250.32240000000013,
+            "r": 114.29992000000004,
+            "b": 244.55664000000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "*Reg. U.S.  Pat.  Off.",
+      "text": "*Reg. U.S.  Pat.  Off."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.60000000000005,
+            "t": 228.19200000000012,
+            "r": 139.4692000000001,
+            "b": 220.91520000000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Results and discussion",
+      "text": "Results and discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.12000000000006,
+            "t": 204.19200000000012,
+            "r": 391.70880000000005,
+            "b": 172.67520000000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "The results of  the  experiments  are presented  in Figs. 1 and 2 which  show the separation  factor  and flux  as a function of  temperature  for  the various films  tested.  The  separation  factor  is defined  as",
+      "text": "The results of  the  experiments  are presented  in Figs. 1 and 2 which  show the separation  factor  and flux  as a function of  temperature  for  the various films  tested.  The  separation  factor  is defined  as"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.88000000000014,
+            "t": 161.7120000000001,
+            "r": 134.66880000000012,
+            "b": 149.7600000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "a = y (1  -  X)/X (1  y)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.88000000000005,
+            "t": 143.9520000000001,
+            "r": 399.14880000000005,
+            "b": 124.43520000000012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "where x  and y  are the mole  fraction  of  CO2  in the high pressure feed  gas and permeate  respectively.",
+      "text": "where x  and y  are the mole  fraction  of  CO2  in the high pressure feed  gas and permeate  respectively."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.64000000000004,
+            "t": 119.7120000000001,
+            "r": 388.1088,
+            "b": 75.9552000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            301
+          ]
+        }
+      ],
+      "orig": "As can be  seen from  the figures, the best separation  factor  was obtained using polyethersulfone, followed by  polysulfone, sulfolene  modified poly(vinylidene  fluoride), cellulose  acetate  and  3-methylsulfolene and monoisopropanolamine  modified  poly(vinylidene fluoride).  The two  commercial",
+      "text": "As can be  seen from  the figures, the best separation  factor  was obtained using polyethersulfone, followed by  polysulfone, sulfolene  modified poly(vinylidene  fluoride), cellulose  acetate  and  3-methylsulfolene and monoisopropanolamine  modified  poly(vinylidene fluoride).  The two  commercial"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 140.8799999999999,
+            "t": 199.76232000000016,
+            "r": 153.52039999999994,
+            "b": 195.06000000000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "CELL",
+      "text": "CELL"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 93.84,
+            "t": 597.44232,
+            "r": 98.95779999999999,
+            "b": 592.74,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 105.36,
+            "t": 597.44232,
+            "r": 144.55649999999994,
+            "b": 592.74,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "POLYETHERSULFON",
+      "text": "POLYETHERSULFON"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 176.88,
+            "t": 597.44232,
+            "r": 181.91830000000002,
+            "b": 592.74,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "E",
+      "text": "E"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 93.6,
+            "t": 586.40232,
+            "r": 101.16339999999998,
+            "b": 581.7,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "()",
+      "text": "()"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 105.11999999999999,
+            "t": 586.40232,
+            "r": 129.4748999999999,
+            "b": 581.7,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "POLYIMIDE",
+      "text": "POLYIMIDE"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 93.6,
+            "t": 575.6023200000001,
+            "r": 98.67889999999998,
+            "b": 570.9000000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 104.39999999999999,
+            "t": 575.6023200000001,
+            "r": 133.79519999999994,
+            "b": 570.9000000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "POLYSULFONE",
+      "text": "POLYSULFONE"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 94.32,
+            "t": 565.0423200000001,
+            "r": 99.43779999999998,
+            "b": 560.3400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 105.11999999999999,
+            "t": 565.0423200000001,
+            "r": 119.84299999999993,
+            "b": 560.3400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "MYLAR",
+      "text": "MYLAR"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 95.52,
+            "t": 553.2823200000001,
+            "r": 100.59889999999999,
+            "b": 548.5800000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 105.36,
+            "t": 553.2823200000001,
+            "r": 115.79669999999997,
+            "b": 548.5800000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "PvF",
+      "text": "PvF"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 93.6,
+            "t": 540.8023200000001,
+            "r": 98.71779999999998,
+            "b": 536.1000000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 104.88,
+            "t": 540.8023200000001,
+            "r": 129.5579999999999,
+            "b": 536.1000000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "SULFOLENE",
+      "text": "SULFOLENE"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 93.6,
+            "t": 530.7223200000001,
+            "r": 98.67889999999998,
+            "b": 526.0200000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 105.11999999999999,
+            "t": 530.7223200000001,
+            "r": 130.0373999999999,
+            "b": 526.0200000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "CELLULOSE",
+      "text": "CELLULOSE"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 146.64,
+            "t": 530.7223200000001,
+            "r": 166.76080000000016,
+            "b": 526.0200000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "ACETATE",
+      "text": "ACETATE"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 214.56,
+            "t": 596.2423200000001,
+            "r": 219.5611,
+            "b": 591.5400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "A",
+      "text": "A"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.08,
+            "t": 596.2423200000001,
+            "r": 249.1608000000001,
+            "b": 591.5400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "3  METHYL",
+      "text": "3  METHYL"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 262.32,
+            "t": 596.2423200000001,
+            "r": 286.9979999999999,
+            "b": 591.5400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "SULFOLENE",
+      "text": "SULFOLENE"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.04,
+            "t": 584.2423200000001,
+            "r": 220.1578,
+            "b": 579.5400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.56,
+            "t": 584.2423200000001,
+            "r": 277.5159999999999,
+            "b": 579.5400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "MONOISOPROPANOLAMINE",
+      "text": "MONOISOPROPANOLAMINE"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.28,
+            "t": 573.6823200000001,
+            "r": 220.39780000000002,
+            "b": 568.9800000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.56,
+            "t": 573.6823200000001,
+            "r": 248.67760000000007,
+            "b": 568.9800000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "PARYLENE",
+      "text": "PARYLENE"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 262.8,
+            "t": 573.6823200000001,
+            "r": 267.80109999999996,
+            "b": 568.9800000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "C",
+      "text": "C"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 216.0,
+            "t": 562.4023200000001,
+            "r": 221.11780000000002,
+            "b": 557.7000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.56,
+            "t": 562.4023200000001,
+            "r": 260.9495000000001,
+            "b": 557.7000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "POLYPROPYLENE",
+      "text": "POLYPROPYLENE"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 216.0,
+            "t": 552.0823200000001,
+            "r": 221.11780000000002,
+            "b": 547.3800000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.32,
+            "t": 552.0823200000001,
+            "r": 248.2360000000002,
+            "b": 547.3800000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SILICONE",
+      "text": "SILICONE"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 258.24,
+            "t": 552.0823200000001,
+            "r": 268.0817999999999,
+            "b": 547.3800000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "MEM",
+      "text": "MEM"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 276.48,
+            "t": 552.0823200000001,
+            "r": 286.7934,
+            "b": 547.3800000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "213",
+      "text": "213"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 216.24,
+            "t": 541.0423200000001,
+            "r": 221.24110000000002,
+            "b": 536.3400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "A",
+      "text": "A"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.8,
+            "t": 541.0423200000001,
+            "r": 248.7160000000002,
+            "b": 536.3400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "SILICONE",
+      "text": "SILICONE"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 258.48,
+            "t": 541.0423200000001,
+            "r": 280.40639999999985,
+            "b": 536.3400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "UNBACKED",
+      "text": "UNBACKED"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.76000000000002,
+            "t": 529.5223200000001,
+            "r": 220.83890000000005,
+            "b": 524.8200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.8,
+            "t": 529.5223200000001,
+            "r": 248.91760000000008,
+            "b": 524.8200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "PARYLENE",
+      "text": "PARYLENE"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 265.68,
+            "t": 529.5223200000001,
+            "r": 270.44109999999995,
+            "b": 524.8200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "N",
+      "text": "N"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.76,
+            "t": 518.9623200000002,
+            "r": 220.7611,
+            "b": 514.2600000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "D",
+      "text": "D"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.79999999999998,
+            "t": 518.9623200000002,
+            "r": 241.08,
+            "b": 514.2600000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "NYLON",
+      "text": "NYLON"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.23999999999998,
+            "t": 456.0823200000002,
+            "r": 113.35779999999997,
+            "b": 451.3800000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 166.07999999999998,
+            "t": 456.0823200000002,
+            "r": 171.1978,
+            "b": 451.3800000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 271.91999999999996,
+            "t": 455.6023200000002,
+            "r": 277.03779999999995,
+            "b": 450.9000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 69.11999999999995,
+            "t": 215.22192000000018,
+            "r": 81.33269999999996,
+            "b": 209.4000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "I-.",
+      "text": "I-."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 172.79999999999995,
+            "t": 215.4619200000002,
+            "r": 178.93059999999997,
+            "b": 209.6400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 228.23999999999995,
+            "t": 214.6423200000002,
+            "r": 233.31889999999999,
+            "b": 209.94000000000023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 283.43999999999994,
+            "t": 213.9105600000002,
+            "r": 287.519,
+            "b": 209.88000000000022,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 114.95999999999992,
+            "t": 208.4023200000002,
+            "r": 122.6755999999999,
+            "b": 203.70000000000022,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "25",
+      "text": "25"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 169.19999999999993,
+            "t": 208.1623200000002,
+            "r": 176.91559999999996,
+            "b": 203.4600000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "50",
+      "text": "50"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 225.11999999999995,
+            "t": 207.92232000000018,
+            "r": 232.83559999999997,
+            "b": 203.2200000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "75",
+      "text": "75"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 279.8399999999999,
+            "t": 207.68232000000017,
+            "r": 290.1533999999999,
+            "b": 202.9800000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 166.7999999999999,
+            "t": 199.76232000000016,
+            "r": 199.15920000000003,
+            "b": 195.06000000000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "TEMPERATURE.",
+      "text": "TEMPERATURE."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 226.5599999999999,
+            "t": 199.76232000000016,
+            "r": 234.11999999999992,
+            "b": 195.06000000000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "'C",
+      "text": "'C"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.55999999999989,
+            "t": 175.92240000000015,
+            "r": 253.25999999999976,
+            "b": 170.15664000000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "Fig.  2.  Permeate flux  as a function of  cell  temperature.",
+      "text": "Fig.  2.  Permeate flux  as a function of  cell  temperature."
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 34.55999999999989,
+            "t": 141.07200000000023,
+            "r": 405.6287999999997,
+            "b": 72.83520000000021,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            425
+          ]
+        }
+      ],
+      "orig": "from  this study  that  a membrane  system to  up-grade  biogas  by  selectively  removing  the CO2  is technically  feasible.  Of  the materials tested,  polyethersulfone,  polysulfone and cellulose  acetate appear to  be the  best.  However,  the success using the modified  poly(vinylidene fluoride)  films indicate  that it may be possible  to  tailor  a film  with  superior  properties  for  use in the  C02-CH4 system.",
+      "text": "from  this study  that  a membrane  system to  up-grade  biogas  by  selectively  removing  the CO2  is technically  feasible.  Of  the materials tested,  polyethersulfone,  polysulfone and cellulose  acetate appear to  be the  best.  However,  the success using the modified  poly(vinylidene fluoride)  films indicate  that it may be possible  to  tailor  a film  with  superior  properties  for  use in the  C02-CH4 system."
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 350.63999999999993,
+            "t": 217.51680000000022,
+            "r": 360.1824,
+            "b": 208.56000000000017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 382.8,
+            "t": 636.9624,
+            "r": 397.96182,
+            "b": 630.95904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "263",
+      "text": "263"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 31.439999999999998,
+            "t": 613.632,
+            "r": 82.0804,
+            "b": 606.6432,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 31.679999999999996,
+            "t": 588.0024,
+            "r": 396.5216799999999,
+            "b": 572.1590399999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "1 T.  Thorton, An  assessment  of  anaerobic digestion in  U.S.  agriculture,  PB-278  999, U.S. Dept.  of  Commerce.",
+      "text": "1 T.  Thorton, An  assessment  of  anaerobic digestion in  U.S.  agriculture,  PB-278  999, U.S. Dept.  of  Commerce.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 31.679999999999993,
+            "t": 567.8423999999999,
+            "r": 203.80175999999994,
+            "b": 561.8390399999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "2 Chem.  Eng.  News,  (May  21)  (1979) 13.",
+      "text": "2 Chem.  Eng.  News,  (May  21)  (1979) 13.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 31.43999999999997,
+            "t": 557.7623999999998,
+            "r": 395.8020800000003,
+            "b": 541.4390399999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "3  R.  Zavaleta  and  F.P.  McCandless, Selective  permeation through  modified polyvinylidene fluoride  membranes, J. Membrane Sci.,  1 (1976) 333-353.",
+      "text": "3  R.  Zavaleta  and  F.P.  McCandless, Selective  permeation through  modified polyvinylidene fluoride  membranes, J. Membrane Sci.,  1 (1976) 333-353.",
+      "enumerated": false,
+      "marker": ""
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.10955047607422,
+            "t": 636.1757164001465,
+            "r": 346.7276611328125,
+            "b": 201.18698120117188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 29.400598526000977,
+            "t": 619.3147048950195,
+            "r": 353.7843017578125,
+            "b": 196.07489013671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 432.0,
+        "height": 666.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 432.0,
+        "height": 666.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 432.0,
+        "height": 666.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 435.0,
+        "height": 667.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 432.0,
+        "height": 666.0
+      },
+      "page_no": 5
+    }
+  }
+}

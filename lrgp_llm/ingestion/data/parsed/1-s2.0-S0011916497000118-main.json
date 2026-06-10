@@ -1,0 +1,906 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1-s2.0-S0011916497000118-main",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18250794463914667985,
+    "filename": "1-s2.0-S0011916497000118-main.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "form_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 73.4,
+            "t": 664.94432,
+            "r": 130.24264320000006,
+            "b": 652.1916799999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "ELSEVIER",
+      "text": "ELSEVIER"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 244.04,
+            "t": 666.5367200000001,
+            "r": 363.347818486,
+            "b": 657.76928,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Desalination 108  (1996) 81-82",
+      "text": "Desalination 108  (1996) 81-82"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 108.19744819999988,
+            "t": 608.55344,
+            "r": 500.41636715199985,
+            "b": 557.1785600000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            137
+          ]
+        }
+      ],
+      "orig": "Polarization phenomena in  integrated reverse  osmosis and  membrane distillation for  seawater  desalination and waste  water  treatment",
+      "text": "Polarization phenomena in  integrated reverse  osmosis and  membrane distillation for  seawater  desalination and waste  water  treatment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 233.0,
+            "t": 544.70432,
+            "r": 376.7231200360001,
+            "b": 531.95168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "V. Calabrol  and E. Driolil*2*",
+      "text": "V. Calabrol  and E. Driolil*2*"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 93.08,
+            "t": 526.38224,
+            "r": 512.219763404,
+            "b": 486.61448000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "lDepartment  of  Chemical  Engineering and  Materials,  UniversiQ of  Calabria,  87030  Arcavacata  di Rende  (CS), Tel.:  +39-984-492025; Fax.: +39-984-4920.58; and 2Research  Institute on  Membranes and  Modelling of  Chemical  Reactors,  c/o  Department  of  Chemical  Engineering and  Materials,  University of  Calabria, 87030  Arcavacata  di Rende  (CS),  Italy",
+      "text": "lDepartment  of  Chemical  Engineering and  Materials,  UniversiQ of  Calabria,  87030  Arcavacata  di Rende  (CS), Tel.:  +39-984-492025; Fax.: +39-984-4920.58; and 2Research  Institute on  Membranes and  Modelling of  Chemical  Reactors,  c/o  Department  of  Chemical  Engineering and  Materials,  University of  Calabria, 87030  Arcavacata  di Rende  (CS),  Italy"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 195.8,
+            "t": 475.73672,
+            "r": 410.38984052,
+            "b": 466.96928,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Received 3  September 1996;  accepted 5  September 1996",
+      "text": "Received 3  September 1996;  accepted 5  September 1996"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.52,
+            "t": 420.58112,
+            "r": 111.27032960000005,
+            "b": 410.33408,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.76002898000007,
+            "t": 399.9536,
+            "r": 530.8314692600001,
+            "b": 378.28639999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "Desalination  of  seawater  and waste  water might  represent  the main important  source  of potable  water for arid and semi arid zones and for industrialized  zones, respectively.",
+      "text": "Desalination  of  seawater  and waste  water might  represent  the main important  source  of potable  water for arid and semi arid zones and for industrialized  zones, respectively."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.27998740000004,
+            "t": 377.6336,
+            "r": 530.83136948,
+            "b": 333.6464,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            413
+          ]
+        }
+      ],
+      "orig": "Integrated  membrane  processes  permit  to produce  high quality  water by means  of desalination  of brackish  and seawater,  and by  cleaning  and recycling  of waste water.  The reverse  osmosis  (RO) process  in particular  is a well established  and worldwide  spread technology. Salt and contaminants  can be removed  completely  and the process might  be less expensive  than other  separation  processes.",
+      "text": "Integrated  membrane  processes  permit  to produce  high quality  water by means  of desalination  of brackish  and seawater,  and by  cleaning  and recycling  of waste water.  The reverse  osmosis  (RO) process  in particular  is a well established  and worldwide  spread technology. Salt and contaminants  can be removed  completely  and the process might  be less expensive  than other  separation  processes."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.03981693999981,
+            "t": 332.9936000000001,
+            "r": 531.0713403799999,
+            "b": 244.6064,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            917
+          ]
+        }
+      ],
+      "orig": "In RO driving  force  is represented  by a difference  between  an applied transmembrane  pressure  (TMP)  and the osmotic pressure difference across  the  membranes. Highly concentrated solutions cannot  be  treated as  a consequence of  a physical limit  imposed  by  their  osmotic  pressure  value. Integration of  RO  and membrane distillation  (MD) permits  to overcome this  limit. MD has the advantage  not  to  suffer  strong  limitations  when high  osmotic  pressure  is involved,  being  the driving  force  a vapor  pressure  difference  between  the  two  solution membrane  interfaces  due  to the existing  temperature  gradient. In particular,  MD has previously  been  assessed as being  a technically viable  process,  economically feasible  and  competitive with  other  membrane  processes  in situations  where  some  source  of  waste  energy  is available  or where  electricity  is expensive.",
+      "text": "In RO driving  force  is represented  by a difference  between  an applied transmembrane  pressure  (TMP)  and the osmotic pressure difference across  the  membranes. Highly concentrated solutions cannot  be  treated as  a consequence of  a physical limit  imposed  by  their  osmotic  pressure  value. Integration of  RO  and membrane distillation  (MD) permits  to overcome this  limit. MD has the advantage  not  to  suffer  strong  limitations  when high  osmotic  pressure  is involved,  being  the driving  force  a vapor  pressure  difference  between  the  two  solution membrane  interfaces  due  to the existing  temperature  gradient. In particular,  MD has previously  been  assessed as being  a technically viable  process,  economically feasible  and  competitive with  other  membrane  processes  in situations  where  some  source  of  waste  energy  is available  or where  electricity  is expensive."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.27968805999984,
+            "t": 244.19360000000006,
+            "r": 530.8312696999999,
+            "b": 211.4864,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            262
+          ]
+        }
+      ],
+      "orig": "Both  process  performances might  be limited  by  polarization  phenomena  as concentration polarization  in RO and temperature  polarization  in MD.  In this latter,  only  at very  high  concentration  some effects  of concentration polarization  are present.",
+      "text": "Both  process  performances might  be limited  by  polarization  phenomena  as concentration polarization  in RO and temperature  polarization  in MD.  In this latter,  only  at very  high  concentration  some effects  of concentration polarization  are present."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.51990173000002,
+            "t": 175.25671999999997,
+            "r": 291.1097029420001,
+            "b": 150.40927999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "Presented at  the  Second Annual Meetin of  the  Euro ean Desalination Society (EDS) on Desa matton an 7' 8the Environment, Genoa, Italy, October 20-23, 1996.",
+      "text": "Presented at  the  Second Annual Meetin of  the  Euro ean Desalination Society (EDS) on Desa matton an 7' 8the Environment, Genoa, Italy, October 20-23, 1996."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.51990172999996,
+            "t": 143.34223999999995,
+            "r": 279.65552643599995,
+            "b": 133.81448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Manuscript to  appear in  a  1997  issue of Desalination.",
+      "text": "Manuscript to  appear in  a  1997  issue of Desalination."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 76.76,
+            "t": 119.09672,
+            "r": 163.66735436400003,
+            "b": 110.32928000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "*Corresponding author",
+      "text": "*Corresponding author"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 447.32,
+            "t": 691.00064,
+            "r": 532.104088208,
+            "b": 679.12064,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "DESALINATION",
+      "text": "DESALINATION"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 73.15987855,
+            "t": 95.33672000000001,
+            "r": 196.78796069999993,
+            "b": 86.56928000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "OOll-9164/97/$17.00 Copyright",
+      "text": "OOll-9164/97/$17.00 Copyright"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 73.39985388999997,
+            "t": 84.53672000000006,
+            "r": 186.947733558,
+            "b": 75.76927999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "HZ  SO01  l-9164(97)0001 l-8",
+      "text": "HZ  SO01  l-9164(97)0001 l-8"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 203.72238324999998,
+            "t": 95.09672,
+            "r": 386.1512829459999,
+            "b": 86.32928000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Q 1997  Elsevier Science B.V. All rights reserved.",
+      "text": "Q 1997  Elsevier Science B.V. All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.72,
+            "t": 718.17672,
+            "r": 88.82101120000003,
+            "b": 709.40928,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "82",
+      "text": "82"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 194.40000741,
+            "t": 718.41672,
+            "r": 411.38076616399985,
+            "b": 709.64928,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            59
+          ]
+        }
+      ],
+      "orig": "V.  Calabro and  E.  Drioli /Desalination 108  (1996) 81-82",
+      "text": "V.  Calabro and  E.  Drioli /Desalination 108  (1996) 81-82"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.00038652000006,
+            "t": 695.4336,
+            "r": 531.35181432,
+            "b": 628.8864000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            620
+          ]
+        }
+      ],
+      "orig": "A  complete analysis of  polarization phenomena in  RO  and  MD  has  been  carried out.  Film  theory  and osmotic  pressure  model  theory  have  been  coupled to  describe  concentration polarization phenomena  in  RO, taking  into  account  real  osmotic  pressure  difference across  the  membrane  due  to  the accumulation of  rejected solute  at the membrane  wall.  Film  theory  and Knudsen  diffusion  in a microporous  hydrophobic  membrane  have been  used to describe  simultaneous  heat  and mass transfer  phenomena  in MD, estimating  at the same  time both concentration  and temperature  polarization.",
+      "text": "A  complete analysis of  polarization phenomena in  RO  and  MD  has  been  carried out.  Film  theory  and osmotic  pressure  model  theory  have  been  coupled to  describe  concentration polarization phenomena  in  RO, taking  into  account  real  osmotic  pressure  difference across  the  membrane  due  to  the accumulation of  rejected solute  at the membrane  wall.  Film  theory  and Knudsen  diffusion  in a microporous  hydrophobic  membrane  have been  used to describe  simultaneous  heat  and mass transfer  phenomena  in MD, estimating  at the same  time both concentration  and temperature  polarization."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.00048629999998,
+            "t": 628.2336000000001,
+            "r": 530.3920305000001,
+            "b": 606.5664000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "Theoretical mathematical models based  on  thermodynamics and  mass  transfer phenomena have  been elaborated  for both RO and MD.  The models  have been  solved numerically.",
+      "text": "Theoretical mathematical models based  on  thermodynamics and  mass  transfer phenomena have  been elaborated  for both RO and MD.  The models  have been  solved numerically."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.00058608,
+            "t": 606.1536000000002,
+            "r": 531.5917852199999,
+            "b": 573.2064000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            336
+          ]
+        }
+      ],
+      "orig": "Results  of  the  analysis  show  the physical  concentration limits  that might  be  reached  with  different  rejection RO membrane  at different operative conditions, as  applied  TMP  and  fluidynamic regime. These  limits  are related  especially  to solution  properties  and cannot  be overcome  improving  operative  conditions.",
+      "text": "Results  of  the  analysis  show  the physical  concentration limits  that might  be  reached  with  different  rejection RO membrane  at different operative conditions, as  applied  TMP  and  fluidynamic regime. These  limits  are related  especially  to solution  properties  and cannot  be overcome  improving  operative  conditions."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.0004863000002,
+            "t": 572.5536000000003,
+            "r": 531.8319556800001,
+            "b": 517.2864000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            502
+          ]
+        }
+      ],
+      "orig": "In MD only  temperature  polarization  becomes  significant  and might  be responsible  for  a decay  of about  50% of  ideal  fluxes. Only  near  saturation,  concentration polarization  becomes  significant  with an influence  of about 5% on  flux  decay. Also  in  MD,  the  analysis  has  been  carried  out  testing  different operative conditions and fluidynamic  regime  in feed  and permeate  side,  MD performances  might be significantly  improved  by an optimal choice  of these  conditions.",
+      "text": "In MD only  temperature  polarization  becomes  significant  and might  be responsible  for  a decay  of about  50% of  ideal  fluxes. Only  near  saturation,  concentration polarization  becomes  significant  with an influence  of about 5% on  flux  decay. Also  in  MD,  the  analysis  has  been  carried  out  testing  different operative conditions and fluidynamic  regime  in feed  and permeate  side,  MD performances  might be significantly  improved  by an optimal choice  of these  conditions."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 90.00032844000019,
+            "t": 516.8736000000005,
+            "r": 494.3919053999999,
+            "b": 506.24640000000045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "The integration  of the two processes  has been  studied and some integrated  schemes  will be presented.",
+      "text": "The integration  of the two processes  has been  studied and some integrated  schemes  will be presented."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 78.00038652000012,
+            "t": 495.57120000000043,
+            "r": 531.1118434199998,
+            "b": 484.03200000000044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 134.3999339400001,
+            "t": 484.2336000000005,
+            "r": 196.55419308000015,
+            "b": 473.60640000000046,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            110,
+            125
+          ]
+        }
+      ],
+      "orig": "Keywords: Reverse  osmosis;  Membrane  distillation;  Polarization  phenomena; Seawater  desalination;  Waste water treatment",
+      "text": "Keywords: Reverse  osmosis;  Membrane  distillation;  Polarization  phenomena; Seawater  desalination;  Waste water treatment"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.80635833740234,
+            "t": 719.6599578857422,
+            "r": 126.69599151611328,
+            "b": 655.3772583007812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

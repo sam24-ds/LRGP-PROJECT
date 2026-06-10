@@ -1,0 +1,468 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "97_2017_1",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4547066164893828750,
+    "filename": "97_2017_1.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 474.2756,
+            "t": 756.5124146484376,
+            "r": 525.2696000000001,
+            "b": 737.7754432198661,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "97 (2017) 1-7 November",
+      "text": "97 (2017) 1-7 November"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.5,
+            "t": 756.3446146484375,
+            "r": 242.11329999999998,
+            "b": 744.8933694012892,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Desalination and Water Treatment",
+      "text": "Desalination and Water Treatment"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.5,
+            "t": 741.3426146484376,
+            "r": 105.3715,
+            "b": 729.8781003627232,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "w .deswater.com",
+      "text": "w .deswater.com"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 71.5,
+            "t": 715.8946146484375,
+            "r": 115.78800000000004,
+            "b": 708.8395289341518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "doi: 10.5004/dwt.2017.2064",
+      "text": "doi: 10.5004/dwt.2017.2064"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.0,
+            "t": 647.3578146484375,
+            "r": 517.406,
+            "b": 618.2114146484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "Influence of operation conditions on the performance of pilot-scale vacuum membrane distillation (VMD)",
+      "text": "Influence of operation conditions on the performance of pilot-scale vacuum membrane distillation (VMD)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.0,
+            "t": 597.5228146484375,
+            "r": 454.84249999999986,
+            "b": 586.499243219866,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Yonghyun Shin, Jihyuk Choi, Youngkyu Park, Yongjun Choi, Sangho Lee*",
+      "text": "Yonghyun Shin, Jihyuk Choi, Youngkyu Park, Yongjun Choi, Sangho Lee*",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.0,
+            "t": 578.3078146484376,
+            "r": 510.95910000000003,
+            "b": 559.580029477335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "School of Civil and Environmental Engineering, Kookmin University, Jeongneung-Dong, Seongbuk-Gu, Seoul 136-702, Korea, Tel. +82-2-910-4529; Fax: +82-2-910-4939; email: sanghlee@kookmin.ac.kr (S. Lee)",
+      "text": "School of Civil and Environmental Engineering, Kookmin University, Jeongneung-Dong, Seongbuk-Gu, Seoul 136-702, Korea, Tel. +82-2-910-4529; Fax: +82-2-910-4939; email: sanghlee@kookmin.ac.kr (S. Lee)"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.0,
+            "t": 548.7068146484376,
+            "r": 262.7994,
+            "b": 540.7698432198661,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Received 6 October 2016; Accepted 21 November 2016",
+      "text": "Received 6 October 2016; Accepted 21 November 2016"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.0,
+            "t": 115.78851464843751,
+            "r": 76.82690000000007,
+            "b": 108.2924860770089,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "* Correspondig author .",
+      "text": "* Correspondig author ."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 265.378,
+            "t": 495.3738146484375,
+            "r": 326.9119999999998,
+            "b": 485.2550298865327,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "a b s t r a c t",
+      "text": "a b s t r a c t",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 105.9991,
+            "t": 477.6628146484375,
+            "r": 488.4099,
+            "b": 382.86678607700895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            989
+          ]
+        }
+      ],
+      "orig": "Although many studies have been done on membrane distillation (MD) for seawater desalination and wastewater treatment, relatively few works have been done in pilot- or full-scale plants. Accordingly, this  study intended to investigate the performance of a vacuum MD system at pilot scale. Factors affecting MD flux were examined, including feed temperature, feed flow rate, and applied vacuum. Results showed that the MD flux was almost linearly proportional to feed temperature and flow rate. Moreover, the flux was also sensitive to the applied vacuum. Based on the analysis, the minimum feed temperature and vacuum to operate the MD pilot plant were determined to be 56\u00b0C and 0.28 bar, respectively. The flux and energy utilization ratio were analyzed as a function of feed temperature and flow rate, indicating that the feed temperature should be over 69\u00b0C to obtain flux over 4 kg/m 2 h and the feed flow rate should be over 5.6 m 3 /h to achieve energy utilization ratio above 0.65.",
+      "text": "Although many studies have been done on membrane distillation (MD) for seawater desalination and wastewater treatment, relatively few works have been done in pilot- or full-scale plants. Accordingly, this  study intended to investigate the performance of a vacuum MD system at pilot scale. Factors affecting MD flux were examined, including feed temperature, feed flow rate, and applied vacuum. Results showed that the MD flux was almost linearly proportional to feed temperature and flow rate. Moreover, the flux was also sensitive to the applied vacuum. Based on the analysis, the minimum feed temperature and vacuum to operate the MD pilot plant were determined to be 56\u00b0C and 0.28 bar, respectively. The flux and energy utilization ratio were analyzed as a function of feed temperature and flow rate, indicating that the feed temperature should be over 69\u00b0C to obtain flux over 4 kg/m 2 h and the feed flow rate should be over 5.6 m 3 /h to achieve energy utilization ratio above 0.65."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 106.001,
+            "t": 374.6633146484375,
+            "r": 470.17500000000024,
+            "b": 367.16728607700895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Keywords: Membrane distillation; Flux; Energy utilization ratio; Pilot plant; Operation conditions",
+      "text": "Keywords: Membrane distillation; Flux; Energy utilization ratio; Pilot plant; Operation conditions"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.0,
+            "t": 83.4543146484375,
+            "r": 156.64159999999993,
+            "b": 76.39922893415178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "194-3994/194-3986 \u00a9 2017 Desalinton Publicatons. Al rights reserved.",
+      "text": "194-3994/194-3986 \u00a9 2017 Desalinton Publicatons. Al rights reserved."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 48.078163146972656,
+            "t": 758.1675262451172,
+            "r": 274.7333679199219,
+            "b": 703.6653289794922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 1
+    }
+  }
+}

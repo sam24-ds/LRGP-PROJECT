@@ -1,0 +1,3851 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1-s2.0-S0920379611003632-main",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12858152176451475315,
+    "filename": "1-s2.0-S0920379611003632-main.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/groups/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 211.76541,
+            "t": 756.2932696070312,
+            "r": 373.1253727000002,
+            "b": 750.3659887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Fusion Engineering and Design 86 (2011) 2168-2171",
+      "text": "Fusion Engineering and Design 86 (2011) 2168-2171"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 219.16771,
+            "t": 730.3688244070313,
+            "r": 368.7059142400001,
+            "b": 723.0761829070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Contents lists available at ScienceDirect",
+      "text": "Contents lists available at ScienceDirect"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 192.83461,
+            "t": 706.7134998070312,
+            "r": 398.03317240000007,
+            "b": 692.7936952070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "Fusion Engineering and Design",
+      "text": "Fusion Engineering and Design",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 165.99121,
+            "t": 674.6776244070312,
+            "r": 424.27425565000044,
+            "b": 667.3849829070311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "j o u r n a l homepage: www.elsevier.com/locate/fusengdes",
+      "text": "j o u r n a l homepage: www.elsevier.com/locate/fusengdes"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 625.5200186070313,
+            "r": 536.2684604,
+            "b": 595.781485157285,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "High-efficiency technology for lithium isotope separation using an ionic-liquid impregnated organic membrane",
+      "text": "High-efficiency technology for lithium isotope separation using an ionic-liquid impregnated organic membrane",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 586.1604730070312,
+            "r": 218.98971439999997,
+            "b": 572.7214534070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Tsuyoshi Hoshino a , \u2217 , Takayuki Terai b",
+      "text": "Tsuyoshi Hoshino a , \u2217 , Takayuki Terai b"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 566.4871744070311,
+            "r": 552.9487753500001,
+            "b": 551.0811856082496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "a Blanket Irradiation and Analysis Group, Fusion Research and Development Directorate, Japan Atomic Energy Agency, 4002, Narita-cho, Oarai-machi, Higashi Ibaraki-gun, Ibaraki 311-1393, Japan",
+      "text": "a Blanket Irradiation and Analysis Group, Fusion Research and Development Directorate, Japan Atomic Energy Agency, 4002, Narita-cho, Oarai-machi, Higashi Ibaraki-gun, Ibaraki 311-1393, Japan",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.92185218000003,
+            "t": 549.3514744070311,
+            "r": 552.9480517300001,
+            "b": 533.9453856082496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "b The Institute of Engineering Innovation and Department of Nuclear Engineering & Management School of Engineering, The University of Tokyo, 2-11-16 Yayoi, Bunkyo-ku, Tokyo 113-8656, Japan",
+      "text": "b The Institute of Engineering Innovation and Department of Nuclear Engineering & Management School of Engineering, The University of Tokyo, 2-11-16 Yayoi, Bunkyo-ku, Tokyo 113-8656, Japan",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 510.96674900703124,
+            "r": 126.91553816000001,
+            "b": 499.86634580703117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "a r t i c l e i n f o",
+      "text": "a r t i c l e i n f o",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 487.7683696070312,
+            "r": 118.37481228999991,
+            "b": 473.27288560824957,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Article history: Available online 6 May 2011",
+      "text": "Article history: Available online 6 May 2011"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 459.47436960703124,
+            "r": 132.6899324499999,
+            "b": 402.1385760682494,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "Keywords: Lithium isotope separation 6 Li Ionic-liquid Ionic-liquid impregnated organic membrane Electrodialysis",
+      "text": "Keywords: Lithium isotope separation 6 Li Ionic-liquid Ionic-liquid impregnated organic membrane Electrodialysis"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 317.5780656070312,
+            "r": 95.24435450000004,
+            "b": 310.16898782378246,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 296.6565531070312,
+            "r": 283.4793800300002,
+            "b": 195.1005503237826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            596
+          ]
+        }
+      ],
+      "orig": "The tritium needed as a fuel for fusion reactors is produced by the neutron capture reaction of lithium-6 ( 6 Li) in tritium breeding materials. However, natural Li contains only about 7.6 at.% 6 Li, and enrichment of 6 Li up to 30-90% is required for adequate tritium breeding in many fusion reactor concepts [1,2]. Various methods such as amalgam [3-5], electromigration [6] and chromatography [7,8] were researched for lithium isotope separation in the past. The mercury amalgam method is superior to some of the lithium isotope enrichment methods, and might be currently utilized in practice.",
+      "text": "The tritium needed as a fuel for fusion reactors is produced by the neutron capture reaction of lithium-6 ( 6 Li) in tritium breeding materials. However, natural Li contains only about 7.6 at.% 6 Li, and enrichment of 6 Li up to 30-90% is required for adequate tritium breeding in many fusion reactor concepts [1,2]. Various methods such as amalgam [3-5], electromigration [6] and chromatography [7,8] were researched for lithium isotope separation in the past. The mercury amalgam method is superior to some of the lithium isotope enrichment methods, and might be currently utilized in practice."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 192.04887185703137,
+            "r": 283.47858301999986,
+            "b": 121.87508782378245,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            451
+          ]
+        }
+      ],
+      "orig": "In Japan, new lithium isotope separation technique using ionicliquid impregnated organic membranes (Ionic-Liquid-i-OMs) have been developed to avoid the environmental hazards of using mercury. Lithium ions are able to move by electrodialysis through certain Ionic-Liquid-i-OMs between the cathode and the anode in lithium solutions. The principle is that since the ionic mobility of 6 Li ions is greater than that of 7 Li ions, 6 Li can be enriched on",
+      "text": "In Japan, new lithium isotope separation technique using ionicliquid impregnated organic membranes (Ionic-Liquid-i-OMs) have been developed to avoid the environmental hazards of using mercury. Lithium ions are able to move by electrodialysis through certain Ionic-Liquid-i-OMs between the cathode and the anode in lithium solutions. The principle is that since the ionic mobility of 6 Li ions is greater than that of 7 Li ions, 6 Li can be enriched on"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.96861,
+            "t": 93.35608780703114,
+            "r": 248.98031109999965,
+            "b": 76.49315787824946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "\u2217 Corresponding author. Tel.: +81 29 266 7369; fax: +81 29 266 7741. E-mail address: hoshino.tsuyoshi@jaea.go.jp (T. Hoshino).",
+      "text": "\u2217 Corresponding author. Tel.: +81 29 266 7369; fax: +81 29 266 7741. E-mail address: hoshino.tsuyoshi@jaea.go.jp (T. Hoshino)."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 198.63730999999999,
+            "t": 510.96674900703124,
+            "r": 263.77372280000003,
+            "b": 499.86634580703117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "a b s t r a c t",
+      "text": "a b s t r a c t",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 198.63728025,
+            "t": 487.35706760703124,
+            "r": 552.9712345600001,
+            "b": 442.43300561601586,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            416
+          ]
+        }
+      ],
+      "orig": "The tritium needed as a fuel for fusion reactors is produced by the neutron capture reaction of lithium-6 ( 6 Li) in tritium breeding materials. New lithium isotope separation technique using ionic-liquid impregnated organic membranes (Ionic-Liquid-i-OMs) have been developed. Lithium ions are able to move by electrodialysis through certain Ionic-Liquid-i-OMs between the cathode and the anode in lithium solutions.",
+      "text": "The tritium needed as a fuel for fusion reactors is produced by the neutron capture reaction of lithium-6 ( 6 Li) in tritium breeding materials. New lithium isotope separation technique using ionic-liquid impregnated organic membranes (Ionic-Liquid-i-OMs) have been developed. Lithium ions are able to move by electrodialysis through certain Ionic-Liquid-i-OMs between the cathode and the anode in lithium solutions."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 198.63703911999994,
+            "t": 439.5372906870311,
+            "r": 552.9709636799998,
+            "b": 385.0476998460159,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            533
+          ]
+        }
+      ],
+      "orig": "In this report, the effects of protection cover and membrane thickness on the durability of membrane and the efficiency of isotope separation were evaluated. In order to improve the durability of the IonicLiquid-i-OM, we developed highly-durable Ionic-Liquid-i-OM. Both surfaces of the Ionic-Liquid-i-OM were covered by a nafion 324 overcoat or a cation exchange membrane (SELEMION TM CMD) to prevent the outflow of the ionic liquid. It was observed that the durability of the Ionic-Liquid-i-OM was improved by a nafion 324 overcoat.",
+      "text": "In this report, the effects of protection cover and membrane thickness on the durability of membrane and the efficiency of isotope separation were evaluated. In order to improve the durability of the IonicLiquid-i-OM, we developed highly-durable Ionic-Liquid-i-OM. Both surfaces of the Ionic-Liquid-i-OM were covered by a nafion 324 overcoat or a cation exchange membrane (SELEMION TM CMD) to prevent the outflow of the ionic liquid. It was observed that the durability of the Ionic-Liquid-i-OM was improved by a nafion 324 overcoat."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 198.63703911999994,
+            "t": 382.15198491703114,
+            "r": 552.97383292,
+            "b": 356.35499407601594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            299
+          ]
+        }
+      ],
+      "orig": "On the other hand, the organic membrane selected was 1, 2 or 3mm highly-porous Teflon film, in order to efficiently impregnate the ionic liquid. The 6 Li isotope separation factor by electrodialysis using highly-porous Teflon film of 3 mm thickness was larger than using that of 1 or 2 mm thickness.",
+      "text": "On the other hand, the organic membrane selected was 1, 2 or 3mm highly-porous Teflon film, in order to efficiently impregnate the ionic liquid. The 6 Li isotope separation factor by electrodialysis using highly-porous Teflon film of 3 mm thickness was larger than using that of 1 or 2 mm thickness."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 417.90615801,
+            "t": 353.4327386770312,
+            "r": 552.9684579100001,
+            "b": 346.76455937601594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "\u00a92011 Elsevier B.V. All rights reserved.",
+      "text": "\u00a92011 Elsevier B.V. All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.41131,
+            "t": 318.5424706070312,
+            "r": 552.9671632600001,
+            "b": 215.55579407378264,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            659
+          ]
+        }
+      ],
+      "orig": "the cathode side of a cell. The technology of 6 Li enrichment using Ionic-Liquid-i-OM was recognized as a possible method of 6 Li isotope separation because of its good 6 Li isotope separation factor (1.05-1.40), its low electricity costs and its easy scale-up, comparable to a seawater desalination plant. The improvement in the durability of the Ionic-Liquid-i-OM is one of the main issues for stable, long-term operation of electrodialysis cells while maintaining good performance, because decrease of the Ionic-Liquid-i-OM was observed in the period of electrodialysis operation. Therefore, it is necessary to develop the highly-durable Ionic-Liquid-i-OM.",
+      "text": "the cathode side of a cell. The technology of 6 Li enrichment using Ionic-Liquid-i-OM was recognized as a possible method of 6 Li isotope separation because of its good 6 Li isotope separation factor (1.05-1.40), its low electricity costs and its easy scale-up, comparable to a seawater desalination plant. The improvement in the durability of the Ionic-Liquid-i-OM is one of the main issues for stable, long-term operation of electrodialysis cells while maintaining good performance, because decrease of the Ionic-Liquid-i-OM was observed in the period of electrodialysis operation. Therefore, it is necessary to develop the highly-durable Ionic-Liquid-i-OM."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.41166892,
+            "t": 212.5041156070314,
+            "r": 552.9647722299999,
+            "b": 152.79113157378242,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            339
+          ]
+        }
+      ],
+      "orig": "In this report, two kinds of feasibility studies were carried out. One is the evaluation of the effects of protection cover with the Ionic-Liquid-i-OM for durability improvement on decrease of the ionic liquid in membrane. Other is the evaluation of the effects of the thickness of impregnated membrane on 6 Li isotope separation property.",
+      "text": "In this report, two kinds of feasibility studies were carried out. One is the evaluation of the effects of protection cover with the Ionic-Liquid-i-OM for durability improvement on decrease of the ionic liquid in membrane. Other is the evaluation of the effects of the thickness of impregnated membrane on 6 Li isotope separation property."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.41166892,
+            "t": 135.89379538703122,
+            "r": 367.58740922000004,
+            "b": 128.48471760378243,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "2. Experimental",
+      "text": "2. Experimental",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.41166892,
+            "t": 114.97228288703127,
+            "r": 471.04648031,
+            "b": 107.56320510378248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "2.1. New lithium isotope separation technique",
+      "text": "2.1. New lithium isotope separation technique",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.41166892,
+            "t": 94.0507703870312,
+            "r": 552.96874718,
+            "b": 76.1809363537825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Lithium ions are able to move by electrodialysis through certain Ionic-Liquid-i-OMs between the cathode and the anode in lithium",
+      "text": "Lithium ions are able to move by electrodialysis through certain Ionic-Liquid-i-OMs between the cathode and the anode in lithium"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 64.38786960703123,
+            "r": 249.16838919999975,
+            "b": 49.89302321824948,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "0920-3796/$ - see front matter \u00a9 2011 Elsevier B.V. All rights reserved. doi:10.1016/j.fusengdes.2011.03.090",
+      "text": "0920-3796/$ - see front matter \u00a9 2011 Elsevier B.V. All rights reserved. doi:10.1016/j.fusengdes.2011.03.090"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 195.80850999999998,
+            "t": 756.2932696070312,
+            "r": 410.70220829999954,
+            "b": 750.3659887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "T. Hoshino, T. Terai / Fusion Engineering and Design 86 (2011) 2168-2171",
+      "text": "T. Hoshino, T. Terai / Fusion Engineering and Design 86 (2011) 2168-2171"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 548.9233041,
+            "t": 756.2932696070312,
+            "r": 564.2769529,
+            "b": 750.3659887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2169",
+      "text": "2169"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.73170999999999,
+            "t": 499.3018696070312,
+            "r": 294.28734569000005,
+            "b": 484.80638560824957,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Fig. 1. Newlithiumisotope separation technique using an ionic-liquid impregnated organic membrane.",
+      "text": "Fig. 1. Newlithiumisotope separation technique using an ionic-liquid impregnated organic membrane."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.73179923999999,
+            "t": 456.99637060703117,
+            "r": 294.2809073999999,
+            "b": 427.2351315737825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "solutions. The principle is that since the ionic mobility of 6 Li ions is greater than that of 7 Li ions, 6 Li can be enriched on the cathode side of a cell (Fig. 1).",
+      "text": "solutions. The principle is that since the ionic mobility of 6 Li ions is greater than that of 7 Li ions, 6 Li can be enriched on the cathode side of a cell (Fig. 1)."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.73168685000002,
+            "t": 424.18345310703126,
+            "r": 294.2888774999999,
+            "b": 322.6274315737825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            582
+          ]
+        }
+      ],
+      "orig": "The ionic-liquid used for impregnating the organic membrane were PP13-TFSI (N-methyl-N-propylpiperidium bis(trifluoromethanesulfonyl)imido) made by Kanto Chemical Co., Inc. TFSI functional group have high Li conductivity, so we select PP13-TFSI. The organic membrane selected was a highly-porous Teflon film, in order to efficiently impregnate the ionic liquid. The Li containing solution with natural isotope ratio is placed into the anode side, and the solution without Li is placed into the cathode side for the accurate measurement of 6 Li isotope separation coefficient factor.",
+      "text": "The ionic-liquid used for impregnating the organic membrane were PP13-TFSI (N-methyl-N-propylpiperidium bis(trifluoromethanesulfonyl)imido) made by Kanto Chemical Co., Inc. TFSI functional group have high Li conductivity, so we select PP13-TFSI. The organic membrane selected was a highly-porous Teflon film, in order to efficiently impregnate the ionic liquid. The Li containing solution with natural isotope ratio is placed into the anode side, and the solution without Li is placed into the cathode side for the accurate measurement of 6 Li isotope separation coefficient factor."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.73168685000002,
+            "t": 299.0654977670312,
+            "r": 278.90169005000007,
+            "b": 291.6564199837825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "2.2. Highly-durable ionic-liquid impregnated organic membrane",
+      "text": "2.2. Highly-durable ionic-liquid impregnated organic membrane",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.73139710999999,
+            "t": 278.1439852670312,
+            "r": 294.2889226599999,
+            "b": 197.50930657378262,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            456
+          ]
+        }
+      ],
+      "orig": "The technology of 6 Li enrichment using Ionic-Liquid-i-OM was recognizedasapossiblemethodof 6 Liisotopeseparationbecauseof its good 6 Li isotope separation factor (1.05-1.40), its low electricity costs and its easy scale-up, comparable to a seawater desalination plant. However, the improvement in the durability of the Ionic-Liquid-i-OM is one of the main issues for stable, long-term operation of electrodialysis cells while maintaining good performance.",
+      "text": "The technology of 6 Li enrichment using Ionic-Liquid-i-OM was recognizedasapossiblemethodof 6 Liisotopeseparationbecauseof its good 6 Li isotope separation factor (1.05-1.40), its low electricity costs and its easy scale-up, comparable to a seawater desalination plant. However, the improvement in the durability of the Ionic-Liquid-i-OM is one of the main issues for stable, long-term operation of electrodialysis cells while maintaining good performance."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.73163211000001,
+            "t": 194.45762810703127,
+            "r": 294.28812565,
+            "b": 145.20543157378245,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            258
+          ]
+        }
+      ],
+      "orig": "Therefore, we evaluated the durability improvement of IonicLiquid-i-OM. Both surfaces of the Ionic-Liquid-i-OM were covered by a nafion 324 overcoat or two kinds of a cation exchange membraneofSELEMION TM CMDandCSOtopreventdecreaseoftheionic liquid (Fig. 2).",
+      "text": "Therefore, we evaluated the durability improvement of IonicLiquid-i-OM. Both surfaces of the Ionic-Liquid-i-OM were covered by a nafion 324 overcoat or two kinds of a cation exchange membraneofSELEMION TM CMDandCSOtopreventdecreaseoftheionic liquid (Fig. 2)."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.73163210999999,
+            "t": 121.64349776703125,
+            "r": 234.24516501000005,
+            "b": 114.23441998378246,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "2.3. Evaluation of impregnated membrane thickness",
+      "text": "2.3. Evaluation of impregnated membrane thickness",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.732097400000015,
+            "t": 102.1524706070312,
+            "r": 294.2875816400001,
+            "b": 51.469775323782414,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            305
+          ]
+        }
+      ],
+      "orig": "The effect of the thickness of the Ionic-Liquid-i-OM on 6 Li isotope separation property was evaluated. The organic membrane selected was 1, 2 or 3 mm highly-porous Teflon film (Poreflon TM TB1412 of Sumitomo Electric Fine Polymer, Inc.) from the viewpoint of efficiently impregnation of the ionic liquid.",
+      "text": "The effect of the thickness of the Ionic-Liquid-i-OM on 6 Li isotope separation property was evaluated. The organic membrane selected was 1, 2 or 3 mm highly-porous Teflon film (Poreflon TM TB1412 of Sumitomo Electric Fine Polymer, Inc.) from the viewpoint of efficiently impregnation of the ionic liquid."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 334.49921,
+            "t": 540.3018696070312,
+            "r": 541.4999341100001,
+            "b": 534.3745887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Fig. 2. Highly-durable ionic-liquid impregnated organic membrane.",
+      "text": "Fig. 2. Highly-durable ionic-liquid impregnated organic membrane."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 312.22121,
+            "t": 512.9002656070312,
+            "r": 414.98767940000005,
+            "b": 505.4911878237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "2.4. Experimental condition",
+      "text": "2.4. Experimental condition",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 312.22121,
+            "t": 491.97875310703125,
+            "r": 563.7774912499998,
+            "b": 453.18740657378254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "Fig. 3 shows the experimental condition of electrodialysis. The electrical potential was applied from the cathode (working electrode: WE) into the anode (counter electrode: CE) with a potentiostat.",
+      "text": "Fig. 3 shows the experimental condition of electrodialysis. The electrical potential was applied from the cathode (working electrode: WE) into the anode (counter electrode: CE) with a potentiostat."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 312.22123998999996,
+            "t": 451.5661706070312,
+            "r": 563.7771177999997,
+            "b": 379.9618315737825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            412
+          ]
+        }
+      ],
+      "orig": "The concentration of recover NaCl with 6 Li solution through the cathode was measured using inductively coupled plasma mass spectrometry (ICP-MS), and the relationship between the 6 Li separation factor and the movement rate of Li was investigated. 6 Li separation factor was calculated by dividing isotope ratio of recover NaCl with 6 Li solution by isotope ratio of Li solution of natural isotope ratio (LiCl).",
+      "text": "The concentration of recover NaCl with 6 Li solution through the cathode was measured using inductively coupled plasma mass spectrometry (ICP-MS), and the relationship between the 6 Li separation factor and the movement rate of Li was investigated. 6 Li separation factor was calculated by dividing isotope ratio of recover NaCl with 6 Li solution by isotope ratio of Li solution of natural isotope ratio (LiCl)."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 312.22134028000005,
+            "t": 362.64686214703124,
+            "r": 414.13500898000007,
+            "b": 355.2377843637825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "3. Results and discussion",
+      "text": "3. Results and discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 312.22134028000005,
+            "t": 341.72534964703124,
+            "r": 479.8564535799999,
+            "b": 334.3162718637825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "3.1. Decrease of the ionic-liquid in membrane",
+      "text": "3.1. Decrease of the ionic-liquid in membrane",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 312.22134028000005,
+            "t": 320.80383714703123,
+            "r": 563.7784185400005,
+            "b": 229.70870936378265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            545
+          ]
+        }
+      ],
+      "orig": "The electrodialysis experiment using three kinds of the highlydurable Ionic-Liquid-i-OMs such as a nafion, a cation exchange membrane of CMD and a cation exchange membrane of CSO were conducted. The photographs of appearance observation of these membranesafter5hareshowninFig.4.Thedegradationofacation exchange membrane of CSO was recognized. On the other hand, there are no change of protection covers of a nafion and a cation exchange membrane of CMD. It was clear that a cation exchange membrane of CSO cannot applicable for protection cover.",
+      "text": "The electrodialysis experiment using three kinds of the highlydurable Ionic-Liquid-i-OMs such as a nafion, a cation exchange membrane of CMD and a cation exchange membrane of CSO were conducted. The photographs of appearance observation of these membranesafter5hareshowninFig.4.Thedegradationofacation exchange membrane of CSO was recognized. On the other hand, there are no change of protection covers of a nafion and a cation exchange membrane of CMD. It was clear that a cation exchange membrane of CSO cannot applicable for protection cover."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 363.69841,
+            "t": 57.37076960703121,
+            "r": 512.3004342100002,
+            "b": 51.44348878824951,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Fig. 3. Experimental condition of electrodialysis.",
+      "text": "Fig. 3. Experimental condition of electrodialysis."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 756.2932696070312,
+            "r": 47.262806599999976,
+            "b": 750.3659887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2170",
+      "text": "2170"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 184.9993188,
+            "t": 756.2932696070312,
+            "r": 399.89301709999955,
+            "b": 750.3659887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "T. Hoshino, T. Terai / Fusion Engineering and Design 86 (2011) 2168-2171",
+      "text": "T. Hoshino, T. Terai / Fusion Engineering and Design 86 (2011) 2168-2171"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 343.3018696070312,
+            "r": 283.47882090999997,
+            "b": 328.80638560824946,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "Fig. 4. Transmissionoflithiumaqueoussolutionundertheionic-liquidimpregnated organic membrane with protective films.",
+      "text": "Fig. 4. Transmissionoflithiumaqueoussolutionundertheionic-liquidimpregnated organic membrane with protective films."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 31.921959999999984,
+            "t": 307.1015656070312,
+            "r": 283.4790382599999,
+            "b": 184.62381907378244,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            726
+          ]
+        }
+      ],
+      "orig": "The residual ratio of ionic liquid after electrodialysis operation for 5 h in the Ionic-Liquid-i-OM with protection covers such as a nafion 324 and a cation exchange membrane of CMD including of membrane without cover as reference is shown in Table 1. The residual ratio of ionic liquid in the membrane without protection coverwas63%.Ontheotherhand,theresidualratioofionicliquidin the highly-durable Ionic-Liquid-i-OM with a nafion 324 overcoat or a cation exchange membrane (SELEMION TM CMD) was 87% or 59%, respectively. In case of SELEMION TM CMD, ionic-liquid (PP13-TFSI) was got out from the surface of organic membrane (Fig. 5). It was observedthatthedurabilityoftheIonic-Liquid-i-OMwasimproved by a nafion 324 overcoat.",
+      "text": "The residual ratio of ionic liquid after electrodialysis operation for 5 h in the Ionic-Liquid-i-OM with protection covers such as a nafion 324 and a cation exchange membrane of CMD including of membrane without cover as reference is shown in Table 1. The residual ratio of ionic liquid in the membrane without protection coverwas63%.Ontheotherhand,theresidualratioofionicliquidin the highly-durable Ionic-Liquid-i-OM with a nafion 324 overcoat or a cation exchange membrane (SELEMION TM CMD) was 87% or 59%, respectively. In case of SELEMION TM CMD, ionic-liquid (PP13-TFSI) was got out from the surface of organic membrane (Fig. 5). It was observedthatthedurabilityoftheIonic-Liquid-i-OMwasimproved by a nafion 324 overcoat."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 31.922368670000026,
+            "t": 181.5721406070312,
+            "r": 283.47944692999994,
+            "b": 153.24155032378246,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "Thus, this Ionic-Liquid-i-OM using a nafion as protection cover has the highly durability for long operating of electrodialysis cells through successful prevention of ion liquid decrease.",
+      "text": "Thus, this Ionic-Liquid-i-OM using a nafion as protection cover has the highly durability for long operating of electrodialysis cells through successful prevention of ion liquid decrease."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 121.92816642703121,
+            "r": 283.47627047000003,
+            "b": 116.00088560824952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "Residual ratio of ionic liquid after 5 h under the ionic-liquid impregnated organic",
+      "text": "Residual ratio of ionic liquid after 5 h under the ionic-liquid impregnated organic"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.41131,
+            "t": 586.3018696070312,
+            "r": 552.9682209100002,
+            "b": 571.8063856082496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "Fig. 5. Photograph of the ionic-liquid impregnated organic membrane with a cation exchange membrane (SELEMION TM CMD) after electrodialysis.",
+      "text": "Fig. 5. Photograph of the ionic-liquid impregnated organic membrane with a cation exchange membrane (SELEMION TM CMD) after electrodialysis."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 31.921909999999997,
+            "t": 130.49636960703128,
+            "r": 132.25621959999995,
+            "b": 107.43268242824945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Table 1 membrane with protective films.",
+      "text": "Table 1 membrane with protective films."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.41131,
+            "t": 554.3261656070312,
+            "r": 463.7064562999999,
+            "b": 546.9170878237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "3.2. Effect of thickness of organic membrane",
+      "text": "3.2. Effect of thickness of organic membrane",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.41171226,
+            "t": 533.4046656070312,
+            "r": 552.9632114500001,
+            "b": 515.5348315737825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Thickness dependency of 6 Li isotope separation factor is shown Fig. 6. The movement ratio x of Li was calculated using Eq. (1).",
+      "text": "Thickness dependency of 6 Li isotope separation factor is shown Fig. 6. The movement ratio x of Li was calculated using Eq. (1)."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.41250927,
+            "t": 507.34562664703117,
+            "r": 552.96851477,
+            "b": 488.30505774703124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "x = (%) = Li concentration in cathode Li concentration in anode \u00d7 100 (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.41154523,
+            "t": 481.0357656070312,
+            "r": 552.9672590299998,
+            "b": 410.86206282378254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            462
+          ]
+        }
+      ],
+      "orig": "The 6 Li isotope separation factor by electrodialysis using highlyporous Teflon film of 3 mm thickness was larger than using highlyporous Teflon film of 1 or 2 mm thickness. In particular, 6 Li isotope separation factor using the Teflon of 3 mm thickness was about 1.15 at 0.01% of Li movement ratio, on the other hand, that using the Teflon of 1 or 2 mm thickness was about 1.05. The next step will be to conduct optimization of electrodialysis cell conditions.",
+      "text": "The 6 Li isotope separation factor by electrodialysis using highlyporous Teflon film of 3 mm thickness was larger than using highlyporous Teflon film of 1 or 2 mm thickness. In particular, 6 Li isotope separation factor using the Teflon of 3 mm thickness was about 1.15 at 0.01% of Li movement ratio, on the other hand, that using the Teflon of 1 or 2 mm thickness was about 1.05. The next step will be to conduct optimization of electrodialysis cell conditions."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.41124279,
+            "t": 409.2409706070312,
+            "r": 552.9630662999999,
+            "b": 379.4797315737825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "Foreheremore, if 6 Li and 7 Li move in a vacuum by an electric field, 6 Li isotope separation coefficient factor is calculated from the following formula [9,10].",
+      "text": "Foreheremore, if 6 Li and 7 Li move in a vacuum by an electric field, 6 Li isotope separation coefficient factor is calculated from the following formula [9,10]."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.41134479000004,
+            "t": 377.8586706070312,
+            "r": 552.9676260399997,
+            "b": 316.71498782378245,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            416
+          ]
+        }
+      ],
+      "orig": "6 Li isotope separation coefficient factor = ( m 7/ m 6 ) 0.5 =1.08 (2), where m 7 and m 6 are the atomic weight of 7 Li and 6 Li. In this study, the 6 Li isotope separation coefficient factor by electrodialysis using Ionic-Liquid-i-OMs method (about 1.1-1.4) was larger than theoretical value (1.08). Therefore, it is necessary to look major factor about 6 Li isotope separation coefficient factor from every angle.",
+      "text": "6 Li isotope separation coefficient factor = ( m 7/ m 6 ) 0.5 =1.08 (2), where m 7 and m 6 are the atomic weight of 7 Li and 6 Li. In this study, the 6 Li isotope separation coefficient factor by electrodialysis using Ionic-Liquid-i-OMs method (about 1.1-1.4) was larger than theoretical value (1.08). Therefore, it is necessary to look major factor about 6 Li isotope separation coefficient factor from every angle."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.41131,
+            "t": 55.677169607031146,
+            "r": 547.8376431999999,
+            "b": 49.74988878824945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Fig. 6. Organic membrane thickness dependency of 6 Li isotope separation factor.",
+      "text": "Fig. 6. Organic membrane thickness dependency of 6 Li isotope separation factor."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 356.66481,
+            "t": 85.19781220703123,
+            "r": 372.21680999999995,
+            "b": 79.90181220703118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1E-4",
+      "text": "1E-4"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 380.18800999999996,
+            "t": 85.19781220703123,
+            "r": 395.7400099999999,
+            "b": 79.90181220703118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1E-3",
+      "text": "1E-3"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 405.49600999999996,
+            "t": 85.19781220703123,
+            "r": 419.49600999999996,
+            "b": 79.90181220703118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "0.01",
+      "text": "0.01"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 431.45840999999996,
+            "t": 85.19781220703123,
+            "r": 441.45840999999996,
+            "b": 79.90181220703118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "0.1",
+      "text": "0.1"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 458.43280999999996,
+            "t": 85.19781220703123,
+            "r": 462.43280999999996,
+            "b": 79.90181220703118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 479.4536099999999,
+            "t": 85.19781220703123,
+            "r": 487.4536099999999,
+            "b": 79.90181220703118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "10",
+      "text": "10"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 500.35520999999994,
+            "t": 85.19781220703123,
+            "r": 512.3552099999999,
+            "b": 79.90181220703118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "100",
+      "text": "100"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 354.84081,
+            "t": 111.67461220703126,
+            "r": 364.84081,
+            "b": 106.37861220703121,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.0",
+      "text": "1.0"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 354.84081,
+            "t": 153.59541220703113,
+            "r": 364.84081,
+            "b": 148.2994122070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.1",
+      "text": "1.1"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 354.84081,
+            "t": 195.57861220703126,
+            "r": 364.84081,
+            "b": 190.2826122070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.2",
+      "text": "1.2"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 354.84081,
+            "t": 237.4402122070312,
+            "r": 364.84081,
+            "b": 232.14421220703116,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.3",
+      "text": "1.3"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 354.84081,
+            "t": 279.4218122070313,
+            "r": 364.84081,
+            "b": 274.12581220703123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.4",
+      "text": "1.4"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 450.03771,
+            "t": 283.8972190070312,
+            "r": 490.54484388000037,
+            "b": 277.28291220703113,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Thickness",
+      "text": "Thickness"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 451.46571,
+            "t": 272.94011900703117,
+            "r": 472.00802840000006,
+            "b": 266.3258122070313,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1mm",
+      "text": "1mm"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 451.46571,
+            "t": 261.92401900703123,
+            "r": 472.00802840000006,
+            "b": 255.30971220703123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2mm",
+      "text": "2mm"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 451.46571,
+            "t": 250.9074190070312,
+            "r": 472.00802840000006,
+            "b": 244.2931122070312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3mm",
+      "text": "3mm"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 342.20401000000004,
+            "t": 144.49181220703122,
+            "r": 346.17601,
+            "b": 141.49181220703122,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "6",
+      "text": "6"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 344.77626080000005,
+            "t": 177.28447858703112,
+            "r": 350.07001,
+            "b": 144.98381220703118,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Li Isotope",
+      "text": "Li Isotope"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 344.77626080000005,
+            "t": 215.62017898703084,
+            "r": 350.07001,
+            "b": 181.425917727031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Separation",
+      "text": "Separation"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 344.77626080000005,
+            "t": 239.37247996703104,
+            "r": 350.07001,
+            "b": 220.72760740703097,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "factor",
+      "text": "factor"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 369.58671,
+            "t": 74.28881220703124,
+            "r": 476.3499099999999,
+            "b": 68.99281220703119,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Movement ratio of Li to cathode",
+      "text": "Movement ratio of Li to cathode"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 480.7091099999999,
+            "t": 74.28881220703124,
+            "r": 508.6003099999999,
+            "b": 68.99281220703119,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "side (%)",
+      "text": "side (%)"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 195.80850999999998,
+            "t": 756.2932696070312,
+            "r": 410.70220829999954,
+            "b": 750.3659887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "T. Hoshino, T. Terai / Fusion Engineering and Design 86 (2011) 2168-2171",
+      "text": "T. Hoshino, T. Terai / Fusion Engineering and Design 86 (2011) 2168-2171"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 548.9233041,
+            "t": 756.2932696070312,
+            "r": 564.2769529,
+            "b": 750.3659887882495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "2171",
+      "text": "2171"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.731809999999996,
+            "t": 737.1393656070312,
+            "r": 102.9698258,
+            "b": 729.7302878237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "4. Conclusions",
+      "text": "4. Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.731809999999996,
+            "t": 716.2178531070313,
+            "r": 294.28809125000004,
+            "b": 666.9657503237825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            286
+          ]
+        }
+      ],
+      "orig": "New lithium isotope separation technique using Ionic-Liquidi-OMs have been developed. Improvement in the durability and the isotope separation factor of the Ionic-Liquid-i-OM is the main issues for stable, long-term operation of electrodialysis cells while maintaining good performance.",
+      "text": "New lithium isotope separation technique using Ionic-Liquidi-OMs have been developed. Improvement in the durability and the isotope separation factor of the Ionic-Liquid-i-OM is the main issues for stable, long-term operation of electrodialysis cells while maintaining good performance."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.731809999999996,
+            "t": 663.9140718570311,
+            "r": 294.2888882600001,
+            "b": 583.2795190737825,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            456
+          ]
+        }
+      ],
+      "orig": "Therefore, we performed the feasibility study of the effects of protection cover and membrane thickness on the material durability and the isotope separation efficiency. Both surfaces of the Ionic-Liquid-i-OM were covered by a nafion 324 overcoat or a cation exchange membranes (SELEMION TM CMD and CSO) to prevent the ionic liquid decrease. This result shows that the protection cover of nafion 324 overcoat is applicable in improvement of the durability.",
+      "text": "Therefore, we performed the feasibility study of the effects of protection cover and membrane thickness on the material durability and the isotope separation efficiency. Both surfaces of the Ionic-Liquid-i-OM were covered by a nafion 324 overcoat or a cation exchange membranes (SELEMION TM CMD and CSO) to prevent the ionic liquid decrease. This result shows that the protection cover of nafion 324 overcoat is applicable in improvement of the durability."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.73175065000001,
+            "t": 580.2278406070311,
+            "r": 294.28910354999994,
+            "b": 530.9755753237824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            282
+          ]
+        }
+      ],
+      "orig": "Furthermore, the effects of the thickness of the Ionic-Liquidi-OM on 6 Li isotope separation property were evaluated using membranes of 1, 2 and 3mm thickness. The 6 Li isotope separation factor using the Teflon of 3 mm thickness was reached about 1.15 at 0.01% of Li movement rate.",
+      "text": "Furthermore, the effects of the thickness of the Ionic-Liquidi-OM on 6 Li isotope separation property were evaluated using membranes of 1, 2 and 3mm thickness. The 6 Li isotope separation factor using the Teflon of 3 mm thickness was reached about 1.15 at 0.01% of Li movement rate."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.731175510000014,
+            "t": 527.9238968570311,
+            "r": 294.28825376999976,
+            "b": 478.6716628237824,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.22018176,
+            "t": 737.138890607031,
+            "r": 563.77247796,
+            "b": 719.2690565737823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            332,
+            425
+          ]
+        }
+      ],
+      "orig": "Then, these results showed that the 6 Li isotope separation factor by electrodialysis using Ionic-Liquid-i-OM method (about 1.1-1.4) was larger than by the mercury amalgam method (about 1.06 [3]) that was used in practical, mass production in other countries. The evaluation of optimization of the system configuration for the high durability and the high efficiency will be performed using Teflon film with protection cover.",
+      "text": "Then, these results showed that the 6 Li isotope separation factor by electrodialysis using Ionic-Liquid-i-OM method (about 1.1-1.4) was larger than by the mercury amalgam method (about 1.06 [3]) that was used in practical, mass production in other countries. The evaluation of optimization of the system configuration for the high durability and the high efficiency will be performed using Teflon film with protection cover."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.22018176,
+            "t": 704.262228107031,
+            "r": 383.0345202599999,
+            "b": 696.8531503237823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Acknowledgment",
+      "text": "Acknowledgment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.22018176,
+            "t": 683.340715607031,
+            "r": 563.7740719799997,
+            "b": 665.4708815737823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "This work was supported by Ministry of Education, Culture, Sports, Science and Technology (MEXT).",
+      "text": "This work was supported by Ministry of Education, Culture, Sports, Science and Technology (MEXT)."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 312.22018176,
+            "t": 650.464053107031,
+            "r": 355.87241946000006,
+            "b": 643.0549753237823,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.37261,
+            "t": 630.9631696070312,
+            "r": 563.7784522900004,
+            "b": 609.0956387882494,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "[1] K. Tobita, S. Nishio, H. Tanigawa, M. Enoeda, T. Isono, H. Nakamura, D. Tsuru, S. Suzuki, T. Hayashi, K. Tsuchiya, T. Hayashi, T. Nishitani, The DEMO design team, J. Nucl. Mater. 386-388 (2009) 888-892.",
+      "text": "K. Tobita, S. Nishio, H. Tanigawa, M. Enoeda, T. Isono, H. Nakamura, D. Tsuru, S. Suzuki, T. Hayashi, K. Tsuchiya, T. Hayashi, T. Nishitani, The DEMO design team, J. Nucl. Mater. 386-388 (2009) 888-892.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.37261,
+            "t": 607.052794607031,
+            "r": 563.7771770700008,
+            "b": 585.1852637882492,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "[2] S. Nishio, J. Ohmori, T. Kuroda, K. Tobita, M. Enoeda, D. Tsuru, T. Hirose, S. Sato, Y. Kawamura, H. Nakamura, M. Sato, DEMO Plant Design Team, Fusion Eng. Des. 81 (2006) 1271-1276.",
+      "text": "S. Nishio, J. Ohmori, T. Kuroda, K. Tobita, M. Enoeda, D. Tsuru, T. Hirose, S. Sato, Y. Kawamura, H. Nakamura, M. Sato, DEMO Plant Design Team, Fusion Eng. Des. 81 (2006) 1271-1276.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.37261,
+            "t": 583.1424196070309,
+            "r": 547.50536987,
+            "b": 577.2151387882492,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "[3] K. Okuyama, I. Okada, N. Saito, J. Inorg. Nucl. Chem. 8 (1973) 2883-2895.",
+      "text": "K. Okuyama, I. Okada, N. Saito, J. Inorg. Nucl. Chem. 8 (1973) 2883-2895.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.37261,
+            "t": 575.1722946070308,
+            "r": 532.7765788699998,
+            "b": 569.2450137882491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "[4] G.N. Lewis, R.T. Macdonald, J. Am. Chem. Soc. 58 (1936) 2519-2524.",
+      "text": "G.N. Lewis, R.T. Macdonald, J. Am. Chem. Soc. 58 (1936) 2519-2524.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.37261,
+            "t": 567.2021696070308,
+            "r": 563.7746266299998,
+            "b": 553.304763788249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "[5] M. Fujii, Y. Fujii, M. Nomura, M. Okamoto, J. Nucl. Sci. Technol. 23 (4) (1986) 330-337.",
+      "text": "M. Fujii, Y. Fujii, M. Nomura, M. Okamoto, J. Nucl. Sci. Technol. 23 (4) (1986) 330-337.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.37261,
+            "t": 551.2619196070307,
+            "r": 485.51054956999985,
+            "b": 545.334638788249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "[6] M.M. Benarie, J. Inorg. Nucl. Chem. 18 (1961) 32-41.",
+      "text": "M.M. Benarie, J. Inorg. Nucl. Chem. 18 (1961) 32-41.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.37261,
+            "t": 543.2917946070306,
+            "r": 542.47462697,
+            "b": 537.3645137882489,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "[7] Y. Ban, M. Nomura, Y. Fujii, J. Nucl. Sci. Technol. 39 (3) (2002) 279-281.",
+      "text": "Y. Ban, M. Nomura, Y. Fujii, J. Nucl. Sci. Technol. 39 (3) (2002) 279-281.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.37261,
+            "t": 535.3216696070306,
+            "r": 563.7771770700003,
+            "b": 521.4242637882488,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "[8] K. Otake, T. Suzuki, H. Kim, M. Nomura, Y. Fujii, J. Nucl. Sci. Technol. 43 (4) (2006) 419-422.",
+      "text": "K. Otake, T. Suzuki, H. Kim, M. Nomura, Y. Fujii, J. Nucl. Sci. Technol. 43 (4) (2006) 419-422.",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 315.37261,
+            "t": 519.3814196070305,
+            "r": 563.7771770699997,
+            "b": 505.4840137882487,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "[9] F.M. Richter, A.M. Davis, D.J. Depaolo, E.B. Watson, Geochim. Cosmochim. Acta 67 (2003) 3905-3923.",
+      "text": "F.M. Richter, A.M. Davis, D.J. Depaolo, E.B. Watson, Geochim. Cosmochim. Acta 67 (2003) 3905-3923.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 311.54695000000004,
+            "t": 503.44116960703036,
+            "r": 563.7778146799998,
+            "b": 481.57363878824856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "[10] F.M. Richter, R.A. Mendybaev, J.N. Christensen, I.D. Hutcheon, R.W. Williams, N.C. Sturchio, A.D. Beloso Jr., Geochim. Cosmochim. Acta 70 (2006) 277-289.",
+      "text": "F.M. Richter, R.A. Mendybaev, J.N. Christensen, I.D. Hutcheon, R.W. Williams, N.C. Sturchio, A.D. Beloso Jr., Geochim. Cosmochim. Acta 70 (2006) 277-289.",
+      "enumerated": true,
+      "marker": "[10]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.71608543395996,
+            "t": 731.9018974304199,
+            "r": 91.82785034179688,
+            "b": 664.7019195556641,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 494.6546936035156,
+            "t": 738.8747749328613,
+            "r": 553.6393432617188,
+            "b": 665.2864532470703,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.75003051757812,
+            "t": 739.6166114807129,
+            "r": 270.3324279785156,
+            "b": 509.769287109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 345.468017578125,
+            "t": 740.2300148010254,
+            "r": 529.1356811523438,
+            "b": 551.2277374267578,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 331.2491455078125,
+            "t": 210.734130859375,
+            "r": 543.9088134765625,
+            "b": 67.53448486328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 60.207740783691406,
+            "t": 736.0763931274414,
+            "r": 254.1662139892578,
+            "b": 353.5848083496094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 341.67156982421875,
+            "t": 726.2566223144531,
+            "r": 512.1455078125,
+            "b": 606.8405456542969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 340.97174072265625,
+            "t": 299.44195556640625,
+            "r": 512.5043334960938,
+            "b": 67.526611328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 31.0451717376709,
+            "t": 103.112060546875,
+            "r": 283.9078063964844,
+            "b": 50.429443359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/50"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 37.89950999999999,
+              "t": 694.8618426,
+              "r": 82.72986909999997,
+              "b": 700.7891234187817,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Protective film",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 179.11801040999998,
+              "t": 694.8618426,
+              "r": 245.25920853999992,
+              "b": 709.3573265987818,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Residual ratio of ionic liquid (PP13-TFSI) (%)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 37.89950999999999,
+              "t": 716.5804426000001,
+              "r": 54.05017129999999,
+              "b": 722.5077234187818,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "None",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 179.11864802,
+              "t": 716.5804426000001,
+              "r": 186.79547241999998,
+              "b": 722.5077234187818,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "63",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 37.89950999999999,
+              "t": 725.14864578,
+              "r": 71.31027399999998,
+              "b": 731.0759265987817,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nafion 324",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 179.11928562999998,
+              "t": 725.14864578,
+              "r": 186.79611002999997,
+              "b": 731.0759265987817,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "87",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 37.89950999999999,
+              "t": 732.8057378000001,
+              "r": 94.07503707999999,
+              "b": 739.6441297787818,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "SELEMION TM CMD",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 179.11690843999997,
+              "t": 733.7163426000001,
+              "r": 186.79373283999996,
+              "b": 739.6436234187818,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "59",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 4,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 37.89950999999999,
+                "t": 694.8618426,
+                "r": 82.72986909999997,
+                "b": 700.7891234187817,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Protective film",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 179.11801040999998,
+                "t": 694.8618426,
+                "r": 245.25920853999992,
+                "b": 709.3573265987818,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Residual ratio of ionic liquid (PP13-TFSI) (%)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 37.89950999999999,
+                "t": 716.5804426000001,
+                "r": 54.05017129999999,
+                "b": 722.5077234187818,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "None",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 179.11864802,
+                "t": 716.5804426000001,
+                "r": 186.79547241999998,
+                "b": 722.5077234187818,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "63",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 37.89950999999999,
+                "t": 725.14864578,
+                "r": 71.31027399999998,
+                "b": 731.0759265987817,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nafion 324",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 179.11928562999998,
+                "t": 725.14864578,
+                "r": 186.79611002999997,
+                "b": 731.0759265987817,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "87",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 37.89950999999999,
+                "t": 732.8057378000001,
+                "r": 94.07503707999999,
+                "b": 739.6441297787818,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "SELEMION TM CMD",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 179.11690843999997,
+                "t": 733.7163426000001,
+                "r": 186.79373283999996,
+                "b": 739.6436234187818,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "59",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.300048828125,
+        "height": 793.7000122070312
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.300048828125,
+        "height": 793.7000122070312
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.300048828125,
+        "height": 793.7000122070312
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.300048828125,
+        "height": 793.7000122070312
+      },
+      "page_no": 4
+    }
+  }
+}

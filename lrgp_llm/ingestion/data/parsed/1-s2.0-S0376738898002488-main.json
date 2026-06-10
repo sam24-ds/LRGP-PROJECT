@@ -1,0 +1,2839 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1-s2.0-S0376738898002488-main",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4154238549221251592,
+    "filename": "1-s2.0-S0376738898002488-main.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/groups/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 167.754,
+            "t": 623.34898,
+            "r": 326.1139150000003,
+            "b": 615.76951,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "Journal of Membrane Science 151 (1998) 55-62",
+      "text": "Journal of Membrane Science 151 (1998) 55-62"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.844,
+            "t": 557.2559600000001,
+            "r": 440.97163800000027,
+            "b": 542.09702,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "The design of membrane vapor-gas separation systems",
+      "text": "The design of membrane vapor-gas separation systems",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 148.252,
+            "t": 529.805246,
+            "r": 377.5017864999999,
+            "b": 516.0327649999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "R.W. Baker * , J.G. Wijmans, J.H. Kaschemekat",
+      "text": "R.W. Baker * , J.G. Wijmans, J.H. Kaschemekat"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.551,
+            "t": 506.59407,
+            "r": 411.32126600000043,
+            "b": 499.04648,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "Membrane Technology and Research, Inc., 1360 Willow Road, Menlo Park, CA 94025, USA",
+      "text": "Membrane Technology and Research, Inc., 1360 Willow Road, Menlo Park, CA 94025, USA"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 179.20458000000002,
+            "t": 488.618532,
+            "r": 342.6565280000001,
+            "b": 480.784022,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Received 15 May 1998; accepted 10 August 1998",
+      "text": "Received 15 May 1998; accepted 10 August 1998"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.846,
+            "t": 454.31449999999995,
+            "r": 67.15468999999999,
+            "b": 445.64437799999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.846,
+            "t": 432.231242,
+            "r": 487.9416224000005,
+            "b": 390.82446079999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            397
+          ]
+        }
+      ],
+      "orig": "Membrane vapor-gas separation systems are beginning to be applied to a number of gas separation problems in the petrochemical and refinery areas. In this paper, some of the factors that affect the design of these systems are described using, as an application example, the separation of propylene from nitrogen in polyolefin resin degassing vents. # 1998 Elsevier Science B.V. All rights reserved.",
+      "text": "Membrane vapor-gas separation systems are beginning to be applied to a number of gas separation problems in the petrochemical and refinery areas. In this paper, some of the factors that affect the design of these systems are described using, as an application example, the separation of propylene from nitrogen in polyolefin resin degassing vents. # 1998 Elsevier Science B.V. All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.84600000000006,
+            "t": 377.35483899999997,
+            "r": 407.90841660000046,
+            "b": 368.82817299999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "Keywords: Gas and vapor permeation; Organic separations; Rubbery membranes; Propylene recovery",
+      "text": "Keywords: Gas and vapor permeation; Organic separations; Rubbery membranes; Propylene recovery"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.846,
+            "t": 333.39925,
+            "r": 100.4805366,
+            "b": 323.765029,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.846,
+            "t": 309.3146938,
+            "r": 248.97407010000006,
+            "b": 144.43999569999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            638
+          ]
+        }
+      ],
+      "orig": "Gas separation with glassy membranes has emerged as a major application of membrane technology during the past 15 years. More than 5000 membrane nitrogen-air separation units, 500 refinery hydrogen separation units and approximately 200 carbon dioxide-natural gas separation units have been installed. The current market for these membrane units is approximately $150 million/year. About seven years ago, the first membrane unit for organic vapor recovery from a gas stream using rubbery membranes was installed. Since then about 100 units have been sold [1-3]. This paper will briefly review some of the recent developments in this area.",
+      "text": "Gas separation with glassy membranes has emerged as a major application of membrane technology during the past 15 years. More than 5000 membrane nitrogen-air separation units, 500 refinery hydrogen separation units and approximately 200 carbon dioxide-natural gas separation units have been installed. The current market for these membrane units is approximately $150 million/year. About seven years ago, the first membrane unit for organic vapor recovery from a gas stream using rubbery membranes was installed. Since then about 100 units have been sold [1-3]. This paper will briefly review some of the recent developments in this area."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.50509,
+            "t": 101.71798000000001,
+            "r": 249.03062700000018,
+            "b": 84.16086700000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "*Corresponding author. Tel.: +1-650-328-2228; fax: +1-650328-6580; e-mail: mtr@mtrinc.com",
+      "text": "*Corresponding author. Tel.: +1-650-328-2228; fax: +1-650328-6580; e-mail: mtr@mtrinc.com"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 272.87231819999994,
+            "t": 333.4002462999999,
+            "r": 397.3719587999998,
+            "b": 323.7660252999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "2. Choice of membrane type",
+      "text": "2. Choice of membrane type",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 272.8551393,
+            "t": 309.31569009999987,
+            "r": 487.96651409999964,
+            "b": 263.03090299999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "The ability of a membrane to separate two gases (1) and (2) is characterized by the membrane selectivity, 1/2 , defined as the ratio of the permeabilities, P 1 and P 2, of the membrane to the gases:",
+      "text": "The ability of a membrane to separate two gases (1) and (2) is characterized by the membrane selectivity, 1/2 , defined as the ratio of the permeabilities, P 1 and P 2, of the membrane to the gases:"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 279.213,
+            "t": 256.164953,
+            "r": 487.9557497999999,
+            "b": 232.28864199999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "1 = 2 P 1 P 2 D 1 D 2 S 1 S 2 : (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 272.85681280000006,
+            "t": 224.50248980000003,
+            "r": 487.9657045999997,
+            "b": 83.49937350000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            634
+          ]
+        }
+      ],
+      "orig": "The permeability is the product of the diffusivity, D , and the solubility, S , of the gas in the membrane material. Thus, the membrane selectivity depends on the relative diffusion coefficients ( D 1 , D 2 ) of the two gases in the polymer and on the relative solubilities ( S 1 , S 2 ) of the gases in the polymer. In all polymer materials, the diffusion coefficient decreases with increasing molecular size because large molecules interact with more segments of the polymer chains than do small molecules, favoring the passage of small molecules such as nitrogen over larger ones such as propane. However, solubility increases with",
+      "text": "The permeability is the product of the diffusivity, D , and the solubility, S , of the gas in the membrane material. Thus, the membrane selectivity depends on the relative diffusion coefficients ( D 1 , D 2 ) of the two gases in the polymer and on the relative solubilities ( S 1 , S 2 ) of the gases in the polymer. In all polymer materials, the diffusion coefficient decreases with increasing molecular size because large molecules interact with more segments of the polymer chains than do small molecules, favoring the passage of small molecules such as nitrogen over larger ones such as propane. However, solubility increases with"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 33.732235,
+            "t": 69.74393399999997,
+            "r": 312.38256300000023,
+            "b": 52.243408000000045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "0376-7388/98/$ - see front matter # 1998 Elsevier Science B.V. All rights reserved. PII: S0376-7388(98)00248-8",
+      "text": "0376-7388/98/$ - see front matter # 1998 Elsevier Science B.V. All rights reserved. PII: S0376-7388(98)00248-8"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.732825999999996,
+            "t": 677.5354819999999,
+            "r": 41.702825999999995,
+            "b": 669.9560119999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "56",
+      "text": "56"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 151.481606,
+            "t": 677.5115719999999,
+            "r": 370.44380700000045,
+            "b": 669.9639819999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62",
+      "text": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.846,
+            "t": 654.8588420000001,
+            "r": 249.0597519000001,
+            "b": 537.7776512000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            481
+          ]
+        }
+      ],
+      "orig": "increasing condensability and therefore increases with increasing molecular size. For example, the solubility of propane and butane is greater than that of methane or nitrogen. Thus the effect of increasing permeant size on permeability is a balance between the opposing effects of the diffusion coefficient, which decreases with increasing size, and the solubility, which increases with increasing size. This balance determines the selectivity of a membrane for any pair of gases.",
+      "text": "increasing condensability and therefore increases with increasing molecular size. For example, the solubility of propane and butane is greater than that of methane or nitrogen. Thus the effect of increasing permeant size on permeability is a balance between the opposing effects of the diffusion coefficient, which decreases with increasing size, and the solubility, which increases with increasing size. This balance determines the selectivity of a membrane for any pair of gases."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.846,
+            "t": 535.2898901000002,
+            "r": 248.98004790000007,
+            "b": 346.4900438000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            811
+          ]
+        }
+      ],
+      "orig": "In glassy, rigid polymers, such as polysulfone or polyimides, permeant diffusion coefficients are the most important. Therefore, these polymers preferentially permeate the small, noncondensable gases, hydrogen, nitrogen, and methane, over the larger, condensable gases, propane and butane. On the other hand, in rubbery polymers such as silicone rubber (polydimethylsiloxane), permeant solubility coefficients are the most important. Thus, these polymers preferentially permeate the larger, more condensable gases, propane, and butane, over the smaller, noncondensable gases, hydrogen, nitrogen, and methane. The selectivity of silicone rubber for a number of vapors found in the petrochemical industry is shown graphically in Fig. 1. Selectivity increases with increasing condensability of the vapor component.",
+      "text": "In glassy, rigid polymers, such as polysulfone or polyimides, permeant diffusion coefficients are the most important. Therefore, these polymers preferentially permeate the small, noncondensable gases, hydrogen, nitrogen, and methane, over the larger, condensable gases, propane and butane. On the other hand, in rubbery polymers such as silicone rubber (polydimethylsiloxane), permeant solubility coefficients are the most important. Thus, these polymers preferentially permeate the larger, more condensable gases, propane, and butane, over the smaller, noncondensable gases, hydrogen, nitrogen, and methane. The selectivity of silicone rubber for a number of vapors found in the petrochemical industry is shown graphically in Fig. 1. Selectivity increases with increasing condensability of the vapor component."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 272.8723182,
+            "t": 654.8608346000004,
+            "r": 488.0003882999998,
+            "b": 501.89192150000054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            640
+          ]
+        }
+      ],
+      "orig": "Either glassy or rubbery membranes can be used to separate vapors from noncondensable gases; for this application, rubbery membranes are preferred. The characteristics of both types of membrane are summarized in Fig. 2. First, the organic vapors are usually the minor components of the feed gas. Thus, when rubbery membranes are used, less feed gas has to permeate the membrane to remove the bulk of the vapor, requiring relatively small membrane areas. In addition, the permeabilities of rubbery membranes are from 100 to 1000 or more times higher than the permeabilities of glassy membranes, which also reduces the membrane area required.",
+      "text": "Either glassy or rubbery membranes can be used to separate vapors from noncondensable gases; for this application, rubbery membranes are preferred. The characteristics of both types of membrane are summarized in Fig. 2. First, the organic vapors are usually the minor components of the feed gas. Thus, when rubbery membranes are used, less feed gas has to permeate the membrane to remove the bulk of the vapor, requiring relatively small membrane areas. In addition, the permeabilities of rubbery membranes are from 100 to 1000 or more times higher than the permeabilities of glassy membranes, which also reduces the membrane area required."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 272.8723182,
+            "t": 499.40416040000053,
+            "r": 488.07809969999954,
+            "b": 346.49203640000076,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            657
+          ]
+        }
+      ],
+      "orig": "The type of membrane structure depends on the nature of the selective material. Glassy polymers are commonly formed into high-performance anisotropic (skinned) membranes by variants of the solutionprecipitation procedure invented by Loeb and Sourirajan. However, rubbery polymer membranes made by this method would collapse under the high pressure of gas separation processes. Therefore, rubbery polymer membranes are formed as composite structures consisting of a mechanically strong, highly permeable microporous support layer coated with a thin film of the selective rubbery material. The microporous membrane is made from a tough material, such as poly-",
+      "text": "The type of membrane structure depends on the nature of the selective material. Glassy polymers are commonly formed into high-performance anisotropic (skinned) membranes by variants of the solutionprecipitation procedure invented by Loeb and Sourirajan. However, rubbery polymer membranes made by this method would collapse under the high pressure of gas separation processes. Therefore, rubbery polymer membranes are formed as composite structures consisting of a mechanically strong, highly permeable microporous support layer coated with a thin film of the selective rubbery material. The microporous membrane is made from a tough material, such as poly-"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.846,
+            "t": 101.49098000000004,
+            "r": 487.97580300000044,
+            "b": 83.93386699999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "Fig. 1. Typical selectivities of silicone rubber membranes calculated as the ratio of pure gas permeabilities measured with membrane stamps. Selectivities measured with gas mixtures in membrane modules will be somewhat lower.",
+      "text": "Fig. 1. Typical selectivities of silicone rubber membranes calculated as the ratio of pure gas permeabilities measured with membrane stamps. Selectivities measured with gas mixtures in membrane modules will be somewhat lower."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 151.030089,
+            "t": 677.520359,
+            "r": 370.0488770000005,
+            "b": 669.972769,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62",
+      "text": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 480.182322,
+            "t": 677.544269,
+            "r": 488.152322,
+            "b": 669.964799,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "57",
+      "text": "57"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 147.175,
+            "t": 488.30698,
+            "r": 374.67625900000047,
+            "b": 480.72751,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "Fig. 2. Comparison of glassy and rubbery gas separation membranes.",
+      "text": "Fig. 2. Comparison of glassy and rubbery gas separation membranes."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.8421493,
+            "t": 451.614842,
+            "r": 248.97207750000013,
+            "b": 310.6117326000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            573
+          ]
+        }
+      ],
+      "orig": "sulfone, polyetherimide or polyacrylonitrile, that can support the applied pressure. This support must be 10100 times more permeable than the selective film to ensure that the separation properties of the composite are determined by the rubbery layer and not by the support. Typical rubbery membranes have pressurenormalized nitrogen fluxes on the order of 100 10 6 cm 3 (STP)/cm 2 s cmHg. Higher flux membranes can be made, but the resistance of the support layer and concentration polarization effects in the membrane module then begin to reduce the membrane selectivity.",
+      "text": "sulfone, polyetherimide or polyacrylonitrile, that can support the applied pressure. This support must be 10100 times more permeable than the selective film to ensure that the separation properties of the composite are determined by the rubbery layer and not by the support. Typical rubbery membranes have pressurenormalized nitrogen fluxes on the order of 100 10 6 cm 3 (STP)/cm 2 s cmHg. Higher flux membranes can be made, but the resistance of the support layer and concentration polarization effects in the membrane module then begin to reduce the membrane selectivity."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.8421493,
+            "t": 284.52859860000007,
+            "r": 108.87649120000002,
+            "b": 274.8943776000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "3. Process design",
+      "text": "3. Process design",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 33.8421493,
+            "t": 260.4440424000001,
+            "r": 249.03697150000008,
+            "b": 83.60677020000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            767
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 272.86846749999995,
+            "t": 451.62006419999994,
+            "r": 488.0174598999996,
+            "b": 322.57629930000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            768,
+            1343
+          ]
+        }
+      ],
+      "orig": "The design of a membrane separation process depends on the separation to be performed and the properties of the membranes used. A discussion of membrane separation processes for glassy polymers is given in several recent reviews [4-6]. An example of the type of application for which rubbery membranes are being used is the recovery of ethylene or propylene monomer from polyolefin resin degassing vent streams [7]. A simplified flow scheme of the process that generates such streams is shown in Fig. 3(a). In a typical polyolefin polymerization plant, monomer and catalyst are contacted at high pressure in a reactor. After polymerization, the polymer is removed to a low-pressure chamber. However, the raw polymer product, in powder form, still contains significant amounts of sorbed monomers and processing solvents, which must be removed before the polymer can be used. Therefore, the raw polymer is passed to large resin degassing bins through which nitrogen is circulated. The vent gas leaving these bins contains 1020 vol% of valuable hydrocarbons in nitrogen. In the past, no economical method of separating these gases was available, so the stream was flared or used as lowgrade fuel and the monomer content lost. The value of these potentially recoverable monomers is high-about $1 million annually at a typical polymerization plant.",
+      "text": "The design of a membrane separation process depends on the separation to be performed and the properties of the membranes used. A discussion of membrane separation processes for glassy polymers is given in several recent reviews [4-6]. An example of the type of application for which rubbery membranes are being used is the recovery of ethylene or propylene monomer from polyolefin resin degassing vent streams [7]. A simplified flow scheme of the process that generates such streams is shown in Fig. 3(a). In a typical polyolefin polymerization plant, monomer and catalyst are contacted at high pressure in a reactor. After polymerization, the polymer is removed to a low-pressure chamber. However, the raw polymer product, in powder form, still contains significant amounts of sorbed monomers and processing solvents, which must be removed before the polymer can be used. Therefore, the raw polymer is passed to large resin degassing bins through which nitrogen is circulated. The vent gas leaving these bins contains 1020 vol% of valuable hydrocarbons in nitrogen. In the past, no economical method of separating these gases was available, so the stream was flared or used as lowgrade fuel and the monomer content lost. The value of these potentially recoverable monomers is high-about $1 million annually at a typical polymerization plant."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 272.86846749999995,
+            "t": 320.08853820000013,
+            "r": 487.9965375999996,
+            "b": 83.49518460000013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1010
+          ]
+        }
+      ],
+      "orig": "The placement of a rubbery membrane vapor separation system to recover and recycle the gases in the purge bin vent is shown schematically in Fig. 3(b). In this design, a single-stage membrane unit fractionates the gas into a monomer-rich permeate to be recycled to the reactor feed and a nitrogen-rich residue stream to be recycled to the purge bin. However, a single-stage system presents an inevitable trade-off between the degree of removal of the monomer (for example, propylene) from the nitrogen recycle stream and the enrichment of propylene in the permeate stream. This trade-off is illustrated graphically in Fig. 4. In practice, recycle of the nitrogen requires 99% purity and recycle of the propylene requires more than 95% purity, and this single-stage membrane system cannot meet these requirements. A membrane with a propylene-nitrogen selectivity of 10, for example, can produce a residue stream containing 99% nitrogen, but the propylene stream is then only enriched to 27% propylene. Producing",
+      "text": "The placement of a rubbery membrane vapor separation system to recover and recycle the gases in the purge bin vent is shown schematically in Fig. 3(b). In this design, a single-stage membrane unit fractionates the gas into a monomer-rich permeate to be recycled to the reactor feed and a nitrogen-rich residue stream to be recycled to the purge bin. However, a single-stage system presents an inevitable trade-off between the degree of removal of the monomer (for example, propylene) from the nitrogen recycle stream and the enrichment of propylene in the permeate stream. This trade-off is illustrated graphically in Fig. 4. In practice, recycle of the nitrogen requires 99% purity and recycle of the propylene requires more than 95% purity, and this single-stage membrane system cannot meet these requirements. A membrane with a propylene-nitrogen selectivity of 10, for example, can produce a residue stream containing 99% nitrogen, but the propylene stream is then only enriched to 27% propylene. Producing"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.732825999999996,
+            "t": 677.535083,
+            "r": 41.702825999999995,
+            "b": 669.955613,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "58",
+      "text": "58"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 151.481606,
+            "t": 677.511173,
+            "r": 370.44380700000045,
+            "b": 669.963583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62",
+      "text": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.846,
+            "t": 472.37598,
+            "r": 487.9853670000006,
+            "b": 444.897811,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            320
+          ]
+        }
+      ],
+      "orig": "Fig. 3. A schematic flow diagram of monomer recovery and nitrogen recycle from polyolefin plant resin degassing operations: (a) at most of the plants the purge-bin vent gas, containing 15% hydrocarbon, is flared, and (b) by using a membrane vapor-gas separation system, valuable feedstocks can be recovered and recycled.",
+      "text": "Fig. 3. A schematic flow diagram of monomer recovery and nitrogen recycle from polyolefin plant resin degassing operations: (a) at most of the plants the purge-bin vent gas, containing 15% hydrocarbon, is flared, and (b) by using a membrane vapor-gas separation system, valuable feedstocks can be recovered and recycled."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.846,
+            "t": 102.34097999999994,
+            "r": 487.9646450000008,
+            "b": 84.78386699999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "Fig. 4. Illustration of the trade-off between removal of propylene from the nitrogen-rich residue stream and propylene enrichment in the permeate for a single-stage membrane process.",
+      "text": "Fig. 4. Illustration of the trade-off between removal of propylene from the nitrogen-rich residue stream and propylene enrichment in the permeate for a single-stage membrane process."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 151.03023100000001,
+            "t": 677.511628,
+            "r": 370.0490190000005,
+            "b": 669.964038,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62",
+      "text": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 480.18246400000004,
+            "t": 677.535538,
+            "r": 488.15246400000007,
+            "b": 669.956068,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "59",
+      "text": "59"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.846,
+            "t": 557.41498,
+            "r": 487.97651600000023,
+            "b": 539.8575099999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            169
+          ]
+        }
+      ],
+      "orig": "Fig. 5. Two-step membrane steam to produce a 99% nitrogen-rich residue and a 43% propylene-rich permeate ( C3 = N2 : 10; nitrogen flux: 100 10 6 cm 3 (STP)/cm 2 s cmHg).",
+      "text": "Fig. 5. Two-step membrane steam to produce a 99% nitrogen-rich residue and a 43% propylene-rich permeate ( C3 = N2 : 10; nitrogen flux: 100 10 6 cm 3 (STP)/cm 2 s cmHg)."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.846,
+            "t": 511.369842,
+            "r": 248.97705900000005,
+            "b": 454.1015217000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            225
+          ]
+        }
+      ],
+      "orig": "membranes with increased selectivity would help to solve this problem, but even a membrane with a propylene-nitrogen selectivity of 50 (far above that of current membranes) cannot meet plant targets in a single-stage process.",
+      "text": "membranes with increased selectivity would help to solve this problem, but even a membrane with a propylene-nitrogen selectivity of 50 (far above that of current membranes) cannot meet plant targets in a single-stage process."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.846,
+            "t": 451.6137606000001,
+            "r": 248.97407010000006,
+            "b": 262.81391430000036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            823
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 272.87231819999994,
+            "t": 511.37083830000034,
+            "r": 487.97049929999974,
+            "b": 478.0276662000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            824,
+            939
+          ]
+        }
+      ],
+      "orig": "The solution to this problem involves multistep and multistage designs. One such design is shown in Fig. 5. In this design, removal of propylene from the nitrogen stream is done in two steps. The first step decreases the propylene concentration in the feed gas from 15% to 5.3%; the second step removes most of the remaining propylene, producing a residue gas containing 1% propylene and 99% nitrogen. The nitrogen stream is then pure enough to be recirculated to the resin degassing bin. The optimum size of the two steps to minimize mixing losses is achieved when the second-step permeate has the same propylene concentration as the incoming feed with which it is mixed. This two-step design meets the target specification for nitrogen recycle and enriches the propylene to 43%, a substantial improvement over the single- stage system, but still not sufficient to allow recycle of the propylene concentrate to the polymerization reactor.",
+      "text": "The solution to this problem involves multistep and multistage designs. One such design is shown in Fig. 5. In this design, removal of propylene from the nitrogen stream is done in two steps. The first step decreases the propylene concentration in the feed gas from 15% to 5.3%; the second step removes most of the remaining propylene, producing a residue gas containing 1% propylene and 99% nitrogen. The nitrogen stream is then pure enough to be recirculated to the resin degassing bin. The optimum size of the two steps to minimize mixing losses is achieved when the second-step permeate has the same propylene concentration as the incoming feed with which it is mixed. This two-step design meets the target specification for nitrogen recycle and enriches the propylene to 43%, a substantial improvement over the single- stage system, but still not sufficient to allow recycle of the propylene concentrate to the polymerization reactor."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 272.87231819999994,
+            "t": 475.5399051000004,
+            "r": 487.96651409999964,
+            "b": 382.38386250000053,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            400
+          ]
+        }
+      ],
+      "orig": "To increase the propylene concentration in the recycle gas to the target value of 95%, a second stage membrane unit can be added, as shown in Fig. 6. In this design the propylene-enriched permeate gas from the first step is recompressed and separated in a second stage to produce a propylene permeate that meets the 95% target. Such a system meets the target recovery for both nitrogen and propylene.",
+      "text": "To increase the propylene concentration in the recycle gas to the target value of 95%, a second stage membrane unit can be added, as shown in Fig. 6. In this design the propylene-enriched permeate gas from the first step is recompressed and separated in a second stage to produce a propylene permeate that meets the 95% target. Such a system meets the target recovery for both nitrogen and propylene."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 272.87231819999994,
+            "t": 379.89610140000053,
+            "r": 488.02230689999965,
+            "b": 262.8149106000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            517
+          ]
+        }
+      ],
+      "orig": "One in efficiency of the design shown in Fig. 6 is that two propylene-concentrated streams are mixed with the feed gas. The residue gas from the secondstage propylene concentration unit contains 69.2% propylene, and the recycled gas from the second-step nitrogen purification unit contains 31.1% propylene. Both of these concentrated streams are mixed with the feed gas, which contains only 15% propylene. This means that part of the separation work performed is then wasted. Therefore, the optimum design is to place",
+      "text": "One in efficiency of the design shown in Fig. 6 is that two propylene-concentrated streams are mixed with the feed gas. The residue gas from the secondstage propylene concentration unit contains 69.2% propylene, and the recycled gas from the second-step nitrogen purification unit contains 31.1% propylene. Both of these concentrated streams are mixed with the feed gas, which contains only 15% propylene. This means that part of the separation work performed is then wasted. Therefore, the optimum design is to place"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 33.846,
+            "t": 101.49098000000004,
+            "r": 487.98457,
+            "b": 83.990454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "Fig. 6. Two-step, two-stage membrane system to produce pure nitrogen and a concentrated propylene stream from a dilute feed gas ( C3 = N2 : 10; nitrogen flux: 100 10 6 cm 3 (STP)/cm 2 s cmHg).",
+      "text": "Fig. 6. Two-step, two-stage membrane system to produce pure nitrogen and a concentrated propylene stream from a dilute feed gas ( C3 = N2 : 10; nitrogen flux: 100 10 6 cm 3 (STP)/cm 2 s cmHg)."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.732825999999996,
+            "t": 677.5354819999999,
+            "r": 41.702825999999995,
+            "b": 669.9560119999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "60",
+      "text": "60"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 151.481606,
+            "t": 677.5115719999999,
+            "r": 370.44380700000045,
+            "b": 669.9639819999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62",
+      "text": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.846,
+            "t": 527.31098,
+            "r": 488.01681900000005,
+            "b": 509.810454,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "Fig. 7. A multistage, multistep membrane separation system to produce 99% nitrogen and 95% propylene recycle gas streams ( C3 = N2 : 10; nitrogen flux: 100 10 6 cm 3 (STP)/cm 2 s cmHg).",
+      "text": "Fig. 7. A multistage, multistep membrane separation system to produce 99% nitrogen and 95% propylene recycle gas streams ( C3 = N2 : 10; nitrogen flux: 100 10 6 cm 3 (STP)/cm 2 s cmHg)."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.846,
+            "t": 487.501842,
+            "r": 249.01491840000014,
+            "b": 406.2515844000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            335
+          ]
+        }
+      ],
+      "orig": "a small membrane unit in the line returning the permeate to the feed of the second-stage compressor as shown in Fig. 7 [8]. This additional membrane unit creates a recycle loop around the second-stage compressor, reducing mixing losses significantly. The result is a savings of 10% in compression energy and about 20% in membrane area.",
+      "text": "a small membrane unit in the line returning the permeate to the feed of the second-stage compressor as shown in Fig. 7 [8]. This additional membrane unit creates a recycle loop around the second-stage compressor, reducing mixing losses significantly. The result is a savings of 10% in compression energy and about 20% in membrane area."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.846,
+            "t": 403.7638233000001,
+            "r": 248.94717000000009,
+            "b": 310.60778070000026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            404
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 272.87231819999994,
+            "t": 487.50283830000023,
+            "r": 487.9934141999996,
+            "b": 334.53392520000045,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            405,
+            1062
+          ]
+        }
+      ],
+      "orig": "A number of vapor separation systems with the configurations shown in Figs. 5-7 have been installed. These systems have the advantages of operating at ambient temperature and having as the main rotating equipment gas compressors, with which petrochemical plant operators are very familiar. However, if very good removal of nitrogen from the recycle propylene stream is required, the second-stage membrane recycle stage can become excessively large. Also, the performance of such systems is sensitive to changes in the concentration and flow of the feed gas to the membrane plant. The effect of changes in the feed gas concentration on the two product streams is shown in Fig. 8. If the feed propylene concentration is less than the design value, the system cannot meet the 95% propylene concentration target. If the feed propylene concentration is greater than the design value, the system cannot meet the 99% nitrogen concentration target. Operators compensate for changes in the feed gas composition by increasing or decreasing the feed and permeate pressures.",
+      "text": "A number of vapor separation systems with the configurations shown in Figs. 5-7 have been installed. These systems have the advantages of operating at ambient temperature and having as the main rotating equipment gas compressors, with which petrochemical plant operators are very familiar. However, if very good removal of nitrogen from the recycle propylene stream is required, the second-stage membrane recycle stage can become excessively large. Also, the performance of such systems is sensitive to changes in the concentration and flow of the feed gas to the membrane plant. The effect of changes in the feed gas concentration on the two product streams is shown in Fig. 8. If the feed propylene concentration is less than the design value, the system cannot meet the 95% propylene concentration target. If the feed propylene concentration is greater than the design value, the system cannot meet the 99% nitrogen concentration target. Operators compensate for changes in the feed gas composition by increasing or decreasing the feed and permeate pressures."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 272.87231819999994,
+            "t": 332.04616410000045,
+            "r": 487.96053629999966,
+            "b": 310.6087770000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "An alternative design, which can also meet the target separation requirements, is a hybrid process",
+      "text": "An alternative design, which can also meet the target separation requirements, is a hybrid process"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.846,
+            "t": 101.49098000000004,
+            "r": 488.00608900000066,
+            "b": 83.93386699999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            250
+          ]
+        }
+      ],
+      "orig": "Fig. 8. The effect of changes in feed gas concentration on the quality of the nitrogen and propylene product gas streams for the separation design shown in Fig. 7. In practice operators minimize the effect by changing the feed and permeate pressures.",
+      "text": "Fig. 8. The effect of changes in feed gas concentration on the quality of the nitrogen and propylene product gas streams for the separation design shown in Fig. 7. In practice operators minimize the effect by changing the feed and permeate pressures."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 151.028113,
+            "t": 677.511985,
+            "r": 370.0469010000005,
+            "b": 669.964395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62",
+      "text": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 480.180346,
+            "t": 677.535895,
+            "r": 488.150346,
+            "b": 669.956425,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "61",
+      "text": "61"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.846,
+            "t": 527.02798,
+            "r": 488.05777800000016,
+            "b": 509.47051,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "Fig. 9. A compression-condensation-membrane system to recover liquid propylene and nitrogen from a mixed gas feed ( C2 = N2 : 10; nitrogen flux: 100 10 6 cm 3 (STP)/cm 2 s cmHg).",
+      "text": "Fig. 9. A compression-condensation-membrane system to recover liquid propylene and nitrogen from a mixed gas feed ( C2 = N2 : 10; nitrogen flux: 100 10 6 cm 3 (STP)/cm 2 s cmHg)."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.846,
+            "t": 483.702842,
+            "r": 248.9750664000001,
+            "b": 318.8281439000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            718
+          ]
+        },
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 272.87231819999994,
+            "t": 483.7038383000002,
+            "r": 487.9426028999995,
+            "b": 462.26645120000023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            719,
+            784
+          ]
+        }
+      ],
+      "orig": "combining condensation and membrane separation [9]. This configuration is illustrated in Fig. 9. In this design the compressed feed gas is sent to a condenser. On cooling the feed gas, a portion of the propylene content is removed as a condensed liquid. The remaining, uncondensed propylene is removed by the membrane separation system to produce a 99% nitrogen stream. The permeate gas is recycled to the incoming feed gas from the purge bin. Because the gas sent to the membrane stage is cooled, the solubility of propylene in the membrane is enhanced, and the selectivity of the membrane unit is increased. The propylene condensate contains some dissolved nitrogen so the liquid is flashed at low pressure to remove this gas, producing a better than 99.5% pure hydrocarbon product.",
+      "text": "combining condensation and membrane separation [9]. This configuration is illustrated in Fig. 9. In this design the compressed feed gas is sent to a condenser. On cooling the feed gas, a portion of the propylene content is removed as a condensed liquid. The remaining, uncondensed propylene is removed by the membrane separation system to produce a 99% nitrogen stream. The permeate gas is recycled to the incoming feed gas from the purge bin. Because the gas sent to the membrane stage is cooled, the solubility of propylene in the membrane is enhanced, and the selectivity of the membrane unit is increased. The propylene condensate contains some dissolved nitrogen so the liquid is flashed at low pressure to remove this gas, producing a better than 99.5% pure hydrocarbon product."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 272.87231819999994,
+            "t": 459.77869010000023,
+            "r": 488.0213105999995,
+            "b": 318.82914020000044,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            611
+          ]
+        }
+      ],
+      "orig": "The main disadvantage of the hybrid design is the cost of refrigeration required to cool and condense the monomer from the incoming gas. For example, recovery of propylene requires cooling from 10 8 C to 30 8 C, and the gas must also be dry to avoid ice formation in the condenser. On the other hand, the quality of the separated nitrogen and propylene product streams is high and is almost independent of the concentration of hydrocarbon in the incoming feed. For example, Fig. 10 shows that changing the feed gas concentration from 10% to 20% propylene only changes the product gas composition a fraction of a",
+      "text": "The main disadvantage of the hybrid design is the cost of refrigeration required to cool and condense the monomer from the incoming gas. For example, recovery of propylene requires cooling from 10 8 C to 30 8 C, and the gas must also be dry to avoid ice formation in the condenser. On the other hand, the quality of the separated nitrogen and propylene product streams is high and is almost independent of the concentration of hydrocarbon in the incoming feed. For example, Fig. 10 shows that changing the feed gas concentration from 10% to 20% propylene only changes the product gas composition a fraction of a"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 33.846,
+            "t": 101.54798000000005,
+            "r": 488.00768300000055,
+            "b": 83.99086699999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "Fig. 10. The effect of changes in feed gas concentration on the quality of the nitrogen and propylene product gas streams for the system design shown in Fig. 9.",
+      "text": "Fig. 10. The effect of changes in feed gas concentration on the quality of the nitrogen and propylene product gas streams for the system design shown in Fig. 9."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 33.737262000000044,
+            "t": 677.5468849999997,
+            "r": 41.70726200000004,
+            "b": 669.9674149999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "62",
+      "text": "62"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 151.48604200000005,
+            "t": 677.5229749999997,
+            "r": 370.4482430000005,
+            "b": 669.9753849999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62",
+      "text": "R.W. Baker et al. / Journal of Membrane Science 151 (1998) 55-62"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 33.846,
+            "t": 654.8588420000001,
+            "r": 249.01790730000002,
+            "b": 597.5337326000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            249
+          ]
+        }
+      ],
+      "orig": "percent from the design value. This result is achieved because the concentration of propylene in the gas sent to the membrane unit depends only on the pressure and temperature of the condenser and is independent of the concentration in the feed gas.",
+      "text": "percent from the design value. This result is achieved because the concentration of propylene in the gas sent to the membrane unit depends only on the pressure and temperature of the condenser and is independent of the concentration in the feed gas."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 33.846,
+            "t": 571.4505986000001,
+            "r": 106.03490910000002,
+            "b": 561.8163776000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "4. Future trends",
+      "text": "4. Future trends",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 33.846,
+            "t": 547.3660424000002,
+            "r": 249.0388296000001,
+            "b": 382.4913443000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            686
+          ]
+        }
+      ],
+      "orig": "Approximately 100 membrane vapor-gas separation systems have been installed worldwide. In the US first plants were relatively small, recovering highvalue solvents. In Europe a number of large units were installed at oil terminals to separate and recover gasoline vapors from air streams produced in transfer operations. More recently, systems are being applied to recovery of valuable components in the large vent gas streams produced in the petrochemical industry. Polyolefin resin bin degassing vents are an example of this type of application, but similar streams are produced in the production of polyvinyl chloride (PVC), from distillation operations and by many reactor processes.",
+      "text": "Approximately 100 membrane vapor-gas separation systems have been installed worldwide. In the US first plants were relatively small, recovering highvalue solvents. In Europe a number of large units were installed at oil terminals to separate and recover gasoline vapors from air streams produced in transfer operations. More recently, systems are being applied to recovery of valuable components in the large vent gas streams produced in the petrochemical industry. Polyolefin resin bin degassing vents are an example of this type of application, but similar streams are produced in the production of polyvinyl chloride (PVC), from distillation operations and by many reactor processes."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 33.846,
+            "t": 356.23784300000034,
+            "r": 116.37451050000001,
+            "b": 346.60362200000037,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Acknowledgements",
+      "text": "Acknowledgements",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 33.846,
+            "t": 332.15328680000033,
+            "r": 248.93421810000004,
+            "b": 286.8475406000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "Much of the technology described in this paper was developed with the support of research grants from the Small Business Innovation Research (SBIR) Program of the Environmental Protection Agency and from the",
+      "text": "Much of the technology described in this paper was developed with the support of research grants from the Small Business Innovation Research (SBIR) Program of the Environmental Protection Agency and from the"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 272.87231819999994,
+            "t": 654.8608346000004,
+            "r": 488.00038829999966,
+            "b": 633.4234475000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Department of Energy, Office of Industrial Technologies.",
+      "text": "Department of Energy, Office of Industrial Technologies."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 272.87231819999994,
+            "t": 607.2267353000004,
+            "r": 319.39952819999996,
+            "b": 597.5925143000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 276.945,
+            "t": 583.20998,
+            "r": 487.9890060000006,
+            "b": 545.7541679999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "[1] R.W. Baker, J.G. Wijmans, Membrane separation of organic vapors from gas streams, in: D.R. Paul, Y.P. Yampol'skii (Eds.), Polymeric Gas Separation Membranes, CRC Press, Boca Raton, 1994.",
+      "text": "R.W. Baker, J.G. Wijmans, Membrane separation of organic vapors from gas streams, in: D.R. Paul, Y.P. Yampol'skii (Eds.), Polymeric Gas Separation Membranes, CRC Press, Boca Raton, 1994.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 276.945,
+            "t": 543.3559949999999,
+            "r": 488.00733700000063,
+            "b": 515.8778259999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "[2] K. Ohlrogge, K.-V. Peinemann, J. Wind, P.-D. Behling, The separation of hydrocarbon vapors with membranes, Sep. Sci. Technol. 25 (1990) 1375.",
+      "text": "K. Ohlrogge, K.-V. Peinemann, J. Wind, P.-D. Behling, The separation of hydrocarbon vapors with membranes, Sep. Sci. Technol. 25 (1990) 1375.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 276.945,
+            "t": 513.479653,
+            "r": 488.0248710000005,
+            "b": 486.00148399999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "[3] K. Matsumoto, K. Ishii, T. Kuroda, K. Inoue, A. Iwama, Membrane process for organic vapor recovery from air, Polymer J. 23 (1991) 5.",
+      "text": "K. Matsumoto, K. Ishii, T. Kuroda, K. Inoue, A. Iwama, Membrane process for organic vapor recovery from air, Polymer J. 23 (1991) 5.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 276.945,
+            "t": 483.60331099999996,
+            "r": 488.0097280000005,
+            "b": 446.1474989999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "[4] R. Spillman, Economics of gas separation membrane processes, in: R.D. Noble, S.A. Stern (Eds.), Membrane Separation Technology Principles and Applications, Elsevier, Amsterdam, 1995.",
+      "text": "R. Spillman, Economics of gas separation membrane processes, in: R.D. Noble, S.A. Stern (Eds.), Membrane Separation Technology Principles and Applications, Elsevier, Amsterdam, 1995.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 276.945,
+            "t": 443.74932599999994,
+            "r": 488.00414900000055,
+            "b": 406.2935139999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "[5] A. Sengupta, K.K. Sirkar, Analysis and design of membrane permeators for gas separation, in: R.D. Noble, S.A. Stern (Eds.), Membrane Separation Technology Principles and Applications, Elsevier, Amsterdam, 1995.",
+      "text": "A. Sengupta, K.K. Sirkar, Analysis and design of membrane permeators for gas separation, in: R.D. Noble, S.A. Stern (Eds.), Membrane Separation Technology Principles and Applications, Elsevier, Amsterdam, 1995.",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 276.945,
+            "t": 403.8953409999999,
+            "r": 488.0224800000003,
+            "b": 346.4842429999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            294
+          ]
+        }
+      ],
+      "orig": "[6] J.M.S. Henis, Commercial and practical aspects of gas separation membranes, and R. Prasad, R.L. Shaner and K.J. Doshi, Comparison of membranes with other gas separation technologies, in: D.R. Pauland, Y.P. Yampol'skii (Eds.), Polymeric Gas Separation Membranes, CRC Press, Boca Raton, 1994.",
+      "text": "J.M.S. Henis, Commercial and practical aspects of gas separation membranes, and R. Prasad, R.L. Shaner and K.J. Doshi, Comparison of membranes with other gas separation technologies, in: D.R. Pauland, Y.P. Yampol'skii (Eds.), Polymeric Gas Separation Membranes, CRC Press, Boca Raton, 1994.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 276.945,
+            "t": 344.1426569999999,
+            "r": 487.98581800000045,
+            "b": 326.58554399999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            114
+          ]
+        }
+      ],
+      "orig": "[7] R.W. Baker, M. Jacobs, Improved monomer recovery from polyolefin resin degassing, Hydrocarbon Process. (1996).",
+      "text": "R.W. Baker, M. Jacobs, Improved monomer recovery from polyolefin resin degassing, Hydrocarbon Process. (1996).",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 276.945,
+            "t": 324.18737099999987,
+            "r": 487.96908100000024,
+            "b": 306.63025799999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "[8] R.W. Baker, J.G. Wijmans, Two stage membrane process and apparatus, US Patents 5 256 295; 5 256 296 (1993).",
+      "text": "R.W. Baker, J.G. Wijmans, Two stage membrane process and apparatus, US Patents 5 256 295; 5 256 296 (1993).",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 276.945,
+            "t": 304.28867199999985,
+            "r": 488.03523200000046,
+            "b": 286.73155899999983,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "[9] J.G. Wijmans, Process for removing condensable components from gas streams, US Patent 5 199 962 (1993).",
+      "text": "J.G. Wijmans, Process for removing condensable components from gas streams, US Patent 5 199 962 (1993).",
+      "enumerated": true,
+      "marker": "[9]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.51030349731445,
+            "t": 678.1756820678711,
+            "r": 87.8321762084961,
+            "b": 616.1123352050781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 413.09796142578125,
+            "t": 661.6296844482422,
+            "r": 477.7057800292969,
+            "b": 632.9487075805664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 124.2130126953125,
+            "t": 325.1856689453125,
+            "r": 397.05596923828125,
+            "b": 110.09814453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 59.19763946533203,
+            "t": 658.6149368286133,
+            "r": 462.4009094238281,
+            "b": 499.1230163574219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.45125579833984,
+            "t": 657.4664764404297,
+            "r": 413.3118896484375,
+            "b": 483.17669677734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 130.77114868164062,
+            "t": 430.7619323730469,
+            "r": 389.6955261230469,
+            "b": 111.7000732421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 111.57402038574219,
+            "t": 657.0922775268555,
+            "r": 409.50390625,
+            "b": 567.0400543212891,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 115.35408782958984,
+            "t": 238.430419921875,
+            "r": 405.5850830078125,
+            "b": 111.04559326171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 119.48632049560547,
+            "t": 657.5992126464844,
+            "r": 402.6507568359375,
+            "b": 536.7070922851562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 105.53326416015625,
+            "t": 293.6004638671875,
+            "r": 414.68780517578125,
+            "b": 111.1790771484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 123.9339370727539,
+            "t": 657.9666366577148,
+            "r": 397.97161865234375,
+            "b": 536.9054870605469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 91.63339233398438,
+            "t": 294.4641418457031,
+            "r": 430.0603942871094,
+            "b": 111.09698486328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 522.0,
+        "height": 745.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 522.0,
+        "height": 745.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 522.0,
+        "height": 745.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 522.0,
+        "height": 745.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 522.0,
+        "height": 745.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 522.0,
+        "height": 745.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 522.0,
+        "height": 745.0
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 522.0,
+        "height": 745.0
+      },
+      "page_no": 8
+    }
+  }
+}

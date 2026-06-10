@@ -1,0 +1,3937 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "OSU_Ho_JMS_Letters_2022",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 7932927054595127143,
+    "filename": "OSU_Ho_JMS_Letters_2022.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/112"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 210.999,
+            "t": 756.5249067101563,
+            "r": 385.087078,
+            "b": 749.9644661377964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Journal of Membrane Science Letters 2 (2022) 100014",
+      "text": "Journal of Membrane Science Letters 2 (2022) 100014",
+      "hyperlink": "https://doi.org/10.1016/j.memlet.2022.100014"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 230.007,
+            "t": 728.6232127101563,
+            "r": 370.49280065999983,
+            "b": 721.3338444585266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Contents lists available at ScienceDirect",
+      "text": "Contents lists available at ScienceDirect",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 185.727,
+            "t": 702.5915775101563,
+            "r": 414.80998323999984,
+            "b": 689.8351602050715,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Journal of Membrane Science Letters",
+      "text": "Journal of Membrane Science Letters",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 200.865,
+            "t": 673.9840662101564,
+            "r": 399.5512088699995,
+            "b": 666.5160825101564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "journal homepage: www.elsevier.com/locate/memlet",
+      "text": "journal homepage: www.elsevier.com/locate/memlet"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 624.4388037101564,
+            "r": 473.7535376000001,
+            "b": 577.6589433398826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "Mitigated carrier saturation of facilitated transport membranes for decarbonizing dilute CO 2 sources: An experimental and techno-economic study",
+      "text": "Mitigated carrier saturation of facilitated transport membranes for decarbonizing dilute CO 2 sources: An experimental and techno-economic study",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 566.1208385101564,
+            "r": 190.95212060000011,
+            "b": 554.983713171434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "Yang Han a , W.S. Winston Ho a , b , \u2217",
+      "text": "Yang Han a , W.S. Winston Ho a , b , \u2217"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 547.3272965101564,
+            "r": 482.1328713200001,
+            "b": 540.5987178170665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "a William G. Lowrie Department of Chemical and Biomolecular Engineering, The Ohio State University, 151 West Woodruff Avenue, Columbus, OH 43210-1350, USA",
+      "text": "a William G. Lowrie Department of Chemical and Biomolecular Engineering, The Ohio State University, 151 West Woodruff Avenue, Columbus, OH 43210-1350, USA",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 538.7592965101564,
+            "r": 393.2032713200001,
+            "b": 532.0307178170665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "b Department of Materials Science and Engineering, The Ohio State University, 2041 College Road, Columbus, OH 43210-1178, USA",
+      "text": "b Department of Materials Science and Engineering, The Ohio State University, 2041 College Road, Columbus, OH 43210-1178, USA",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 505.7315301101564,
+            "r": 136.74192080000012,
+            "b": 497.5309565299739,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "a r t i c l e i n f o",
+      "text": "a r t i c l e i n f o",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 485.4375007101564,
+            "r": 127.15854893000015,
+            "b": 445.3331778170664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Keywords: Carbon capture Residual flue gas Dilute source Facilitated transport membrane",
+      "text": "Keywords: Carbon capture Residual flue gas Dilute source Facilitated transport membrane"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 442.5964807101564,
+            "r": 88.08962851000015,
+            "b": 436.76496781706646,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Carrier saturation",
+      "text": "Carrier saturation"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 365.6352127101564,
+            "r": 97.13791230000012,
+            "b": 358.3402693537362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 344.7101127101564,
+            "r": 289.37859480000014,
+            "b": 170.04774445852672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1152
+          ]
+        }
+      ],
+      "orig": "The global CO 2 emissions from the combustion of fossil fuels have now exceeded 32 Gt/yr, about 40% of which are derived from electric power generation ( Inventory of US Greenhouse Gas Emissions and Sinks: 1990-2013 2015 ; Annual Energy Outlook 2021 ). Although carbon capture and storage (CCS) from large stationary sources is a leading strategy to reduce the carbon emissions, a carbon-neutral scenario in the energy sector cannot be achieved by the current CCS technologies since 90% CO 2 recovery is commonly assumed in the design ( Lackner et al., 2001 ; Dods et al., 2021 ). By taking coal-derived flue gas as an example (see Fig. 1 ), a 90% recovery through a primary capture system results in a residual flue gas containing 1-2% CO 2 . If not captured, the residual emissions must be mitigated via direct air capture (DAC), which is usually hampered by a substantial cost of $100-600/tonne ( Zeman, 2007 ; House et al., 2011 ; Keith et al., 2018 ). Therefore, the focus of this letter is to address the carbon capture from dilute, yet stationary sources in order to achieve an overall > 90% CO 2 recovery and thereby alleviate burdens upon DAC.",
+      "text": "The global CO 2 emissions from the combustion of fossil fuels have now exceeded 32 Gt/yr, about 40% of which are derived from electric power generation ( Inventory of US Greenhouse Gas Emissions and Sinks: 1990-2013 2015 ; Annual Energy Outlook 2021 ). Although carbon capture and storage (CCS) from large stationary sources is a leading strategy to reduce the carbon emissions, a carbon-neutral scenario in the energy sector cannot be achieved by the current CCS technologies since 90% CO 2 recovery is commonly assumed in the design ( Lackner et al., 2001 ; Dods et al., 2021 ). By taking coal-derived flue gas as an example (see Fig. 1 ), a 90% recovery through a primary capture system results in a residual flue gas containing 1-2% CO 2 . If not captured, the residual emissions must be mitigated via direct air capture (DAC), which is usually hampered by a substantial cost of $100-600/tonne ( Zeman, 2007 ; House et al., 2011 ; Keith et al., 2018 ). Therefore, the focus of this letter is to address the carbon capture from dilute, yet stationary sources in order to achieve an overall > 90% CO 2 recovery and thereby alleviate burdens upon DAC."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 166.8791127101564,
+            "r": 289.42475760000013,
+            "b": 126.64929865670138,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            285
+          ]
+        }
+      ],
+      "orig": "This deep CCS concept has been investigated for a variety of stationary sources, including natural gas (NG) flue gas ( \u223c 4% CO 2 ) ( Du et al., 2021 ), NG flue gas with exhaust gas recycle (EGR) ( \u223c 8% CO 2 ) ( Brandl et al., 2021 ), coal flue gas ( \u223c 13% CO 2 ), and cement plant flue",
+      "text": "This deep CCS concept has been investigated for a variety of stationary sources, including natural gas (NG) flue gas ( \u223c 4% CO 2 ) ( Du et al., 2021 ), NG flue gas with exhaust gas recycle (EGR) ( \u223c 8% CO 2 ) ( Brandl et al., 2021 ), coal flue gas ( \u223c 13% CO 2 ), and cement plant flue"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.752000000000116,
+            "t": 107.3111832101564,
+            "r": 96.3981724400001,
+            "b": 99.86746613779655,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "\u2217 Corresponding",
+      "text": "\u2217 Corresponding"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 49.86300000000011,
+            "t": 106.42790671015644,
+            "r": 195.27453330000012,
+            "b": 90.37246613779655,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "author. E-mail address: ho.192@osu.edu (W.S.W. Ho).",
+      "text": "author. E-mail address: ho.192@osu.edu (W.S.W. Ho)."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 202.32300000000012,
+            "t": 505.7315301101564,
+            "r": 271.2246864000001,
+            "b": 497.5309565299739,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "a b s t r a c t",
+      "text": "a b s t r a c t",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 202.32300000000012,
+            "t": 485.3728067101564,
+            "r": 558.6163550200002,
+            "b": 392.7363661377966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1042
+          ]
+        }
+      ],
+      "orig": "The CO 2 /N 2 separation performances of facilitated transport membranes (FTMs) containing aminoacid salts as mobile carriers were characterized under dilute feed gases with 0.05-20% CO 2 . At a reduced CO 2 partial pressure, the carrier saturation in the FTMs was mitigated, which enhanced both the CO 2 permeance and CO 2 /N 2 selectivity. The best FTM containing 2-(1-piperazinyl)ethylamine sarcosinate exhibited an uprising CO 2 permeance from 1968 to 3822 GPU and an improved CO 2 /N 2 selectivity from 249 to 472 with reducing CO 2 content from 1% to 0.1%. The feasibility of this FTM is exemplified by designing a two-stage enriching membrane cascade to further remove 90% of the CO 2 in a residual coal flue gas containing 1.75% CO 2 . Techno-economic analysis indicates a low capture cost of $83.8/tonne. The marginal costs beyond 90% capture are also evaluated for a variety of residual flue gases, indicating that the FTM-based capture from the coal or cement plant residual flue gas is more cost effective than direct air capture.",
+      "text": "The CO 2 /N 2 separation performances of facilitated transport membranes (FTMs) containing aminoacid salts as mobile carriers were characterized under dilute feed gases with 0.05-20% CO 2 . At a reduced CO 2 partial pressure, the carrier saturation in the FTMs was mitigated, which enhanced both the CO 2 permeance and CO 2 /N 2 selectivity. The best FTM containing 2-(1-piperazinyl)ethylamine sarcosinate exhibited an uprising CO 2 permeance from 1968 to 3822 GPU and an improved CO 2 /N 2 selectivity from 249 to 472 with reducing CO 2 content from 1% to 0.1%. The feasibility of this FTM is exemplified by designing a two-stage enriching membrane cascade to further remove 90% of the CO 2 in a residual coal flue gas containing 1.75% CO 2 . Techno-economic analysis indicates a low capture cost of $83.8/tonne. The marginal costs beyond 90% capture are also evaluated for a variety of residual flue gases, indicating that the FTM-based capture from the coal or cement plant residual flue gas is more cost effective than direct air capture."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.90300000000013,
+            "t": 365.6352127101564,
+            "r": 558.4076280000002,
+            "b": 178.94839865670133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1279
+          ]
+        }
+      ],
+      "orig": "gas ( \u223c 30% CO 2 ) ( Danaci et al., 2021 ). After 90% CO 2 capture, a dilute residual flue gas containing 0.4-4% CO 2 escapes the primary capture system and is treated by a secondary capture step. However, the previous studies ubiquitously focused on aqueous amines, and membrane has yet to be investigated for these residual flue gases. One fundamental reason is that membranes typically lacks sufficient CO 2 /N 2 selectivity to enrich CO 2 from the dilute source, which results in a multi-stage membrane system with repeated permeate recompressions ( Shafiee et al., 2017 ). One exception is facilitated transport membranes (FTMs), in which the CO 2 transport is mediated by a reversible reaction with amine carriers, thereby a greater CO 2 /N 2 selectivity than conventional polymeric membranes ( Ho and Sirkar, 2001 ; Deng and H\u00e4gg, 2010 ; Qiao et al., 2013 ; Chen et al., 2016 ; Chen and Ho, 2016 ; Han and Ho, 2020b, 2021a, Tong and Ho, 2017a, 2017b ). More importantly, the CO 2 permeance and CO 2 /N 2 selectivity tend to increase at a lower CO 2 partial pressure due to the mitigated carrier saturation ( Han et al., 2019; Han and Ho, 2021b ; Matsuoka et al., 2022 ). Therefore, the facilitated transport (FT) characteristics can be well-suited for dilute CO 2 sources.",
+      "text": "gas ( \u223c 30% CO 2 ) ( Danaci et al., 2021 ). After 90% CO 2 capture, a dilute residual flue gas containing 0.4-4% CO 2 escapes the primary capture system and is treated by a secondary capture step. However, the previous studies ubiquitously focused on aqueous amines, and membrane has yet to be investigated for these residual flue gases. One fundamental reason is that membranes typically lacks sufficient CO 2 /N 2 selectivity to enrich CO 2 from the dilute source, which results in a multi-stage membrane system with repeated permeate recompressions ( Shafiee et al., 2017 ). One exception is facilitated transport membranes (FTMs), in which the CO 2 transport is mediated by a reversible reaction with amine carriers, thereby a greater CO 2 /N 2 selectivity than conventional polymeric membranes ( Ho and Sirkar, 2001 ; Deng and H\u00e4gg, 2010 ; Qiao et al., 2013 ; Chen et al., 2016 ; Chen and Ho, 2016 ; Han and Ho, 2020b, 2021a, Tong and Ho, 2017a, 2017b ). More importantly, the CO 2 permeance and CO 2 /N 2 selectivity tend to increase at a lower CO 2 partial pressure due to the mitigated carrier saturation ( Han et al., 2019; Han and Ho, 2021b ; Matsuoka et al., 2022 ). Therefore, the facilitated transport (FT) characteristics can be well-suited for dilute CO 2 sources."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.90300000000013,
+            "t": 177.33711271015636,
+            "r": 558.3175323600002,
+            "b": 128.2067444585266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            354
+          ]
+        }
+      ],
+      "orig": "In this letter, we characterized the carrier saturation behaviors of previously reported FTMs containing aminoacid salts as mobile carriers ( Han et al., 2018 ). Based on their FT characteristics, we evaluated the feasibility of using them in a two-stage enriching membrane cascade for the secondary carbon capture from residual flue gases (see Fig. 1 ).",
+      "text": "In this letter, we characterized the carrier saturation behaviors of previously reported FTMs containing aminoacid salts as mobile carriers ( Han et al., 2018 ). Based on their FT characteristics, we evaluated the feasibility of using them in a two-stage enriching membrane cascade for the secondary carbon capture from residual flue gases (see Fig. 1 )."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 79.66190671015647,
+            "r": 191.07031358155672,
+            "b": 73.10146613779659,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "https://doi.org/10.1016/j.memlet.2022.100014",
+      "text": "https://doi.org/10.1016/j.memlet.2022.100014",
+      "hyperlink": "https://doi.org/10.1016/j.memlet.2022.100014"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 70.10380671015639,
+            "r": 356.70272892000014,
+            "b": 63.54336613779651,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Received 5 November 2021; Received in revised form 31 December 2021; Accepted 4 January 2022",
+      "text": "Received 5 November 2021; Received in revised form 31 December 2021; Accepted 4 January 2022"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.911000000000115,
+            "t": 60.53690671015636,
+            "r": 426.1506118200001,
+            "b": 44.40936613779661,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "2772-4212/\u00a9 2022 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ )",
+      "text": "2772-4212/\u00a9 2022 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ )"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.911,
+            "t": 756.4455007101564,
+            "r": 101.08221074999999,
+            "b": 750.6139878170663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Y. Han and W.S.W. Ho",
+      "text": "Y. Han and W.S.W. Ho"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 409.96854959,
+            "t": 756.4455007101564,
+            "r": 558.2995895500003,
+            "b": 750.6139878170663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Journal of Membrane Science Letters 2 (2022) 100014",
+      "text": "Journal of Membrane Science Letters 2 (2022) 100014"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.911,
+            "t": 545.1778067101563,
+            "r": 558.6533084099999,
+            "b": 527.725466330756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            268
+          ]
+        }
+      ],
+      "orig": "Fig. 1. Location of the two-stage membrane process to decarbonize the residual flue gas after the primary carbon capture in a coal-fired power plant. Streams: warmer colour (e.g., red) = higher CO 2 concentration; colder colour (e.g., blue) = lower CO 2 concentration.",
+      "text": "Fig. 1. Location of the two-stage membrane process to decarbonize the residual flue gas after the primary carbon capture in a coal-fired power plant. Streams: warmer colour (e.g., red) = higher CO 2 concentration; colder colour (e.g., blue) = lower CO 2 concentration."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.911,
+            "t": 507.7721127101563,
+            "r": 81.56593092000001,
+            "b": 500.47726935373606,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "2. Methods",
+      "text": "2. Methods",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.911,
+            "t": 486.8471127101563,
+            "r": 98.91331378000002,
+            "b": 479.55774445852654,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "2.1. Experimental",
+      "text": "2.1. Experimental",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.911,
+            "t": 465.9311127101563,
+            "r": 289.3543193600001,
+            "b": 280.81074445852653,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1239
+          ]
+        }
+      ],
+      "orig": "The synthesis of the FTMs has been described in detail in our previous work ( Han et al., 2018 ). In brief, an aminoacid (e.g., glycine (Gly) or sarcosine (Sar)) was deprotonated by an equimolar amount of multiamine (e.g., piperazine (PZ) or 2-(1-piperazinyl)ethylamine (PZEA)) to form the mobile carrier solution. The mobile carriers used in this work included PZ-Gly, PZEA-Gly, and PZEA-Sar (see Figure S1 in the Supporting Information (SI)). The mobile carrier was blended with the poly( N -vinylformamideco -vinylamine) (PNFVco -VAm) fixed-site carrier in an aqueous solution with a weight ratio of 85/15. The resulting carrier solution was then coated on a nanoporous polyethersulfone substrate to form a thin-film composite membrane with a selective layer thickness of 170 \u00b1 10 nm. The transport properties of these FTMs were characterized by a gas permeation apparatus as described in our earlier publication ( Han et al., 2019 ). The membranes were tested with 4-atm feed (ternary mixture of CO 2 , N 2 , and water vapour) and 0.3-atm permeate vacuum at 67 \u00b0C. The feed CO 2 concentration was varied in the range of 0.0520% to study the carrier saturation phenomenon. The feed gas was fully saturated with a water content of 6.75%.",
+      "text": "The synthesis of the FTMs has been described in detail in our previous work ( Han et al., 2018 ). In brief, an aminoacid (e.g., glycine (Gly) or sarcosine (Sar)) was deprotonated by an equimolar amount of multiamine (e.g., piperazine (PZ) or 2-(1-piperazinyl)ethylamine (PZEA)) to form the mobile carrier solution. The mobile carriers used in this work included PZ-Gly, PZEA-Gly, and PZEA-Sar (see Figure S1 in the Supporting Information (SI)). The mobile carrier was blended with the poly( N -vinylformamideco -vinylamine) (PNFVco -VAm) fixed-site carrier in an aqueous solution with a weight ratio of 85/15. The resulting carrier solution was then coated on a nanoporous polyethersulfone substrate to form a thin-film composite membrane with a selective layer thickness of 170 \u00b1 10 nm. The transport properties of these FTMs were characterized by a gas permeation apparatus as described in our earlier publication ( Han et al., 2019 ). The membranes were tested with 4-atm feed (ternary mixture of CO 2 , N 2 , and water vapour) and 0.3-atm permeate vacuum at 67 \u00b0C. The feed CO 2 concentration was varied in the range of 0.0520% to study the carrier saturation phenomenon. The feed gas was fully saturated with a water content of 6.75%."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.911,
+            "t": 264.3581127101563,
+            "r": 113.91863688,
+            "b": 257.06874445852657,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "2.2. Process modelling",
+      "text": "2.2. Process modelling",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.911,
+            "t": 243.44211271015627,
+            "r": 289.35513799999995,
+            "b": 46.29729865670129,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1335
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.903,
+            "t": 507.7721127101563,
+            "r": 558.3137453600003,
+            "b": 488.45839865670126,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1336,
+            1464
+          ]
+        }
+      ],
+      "orig": "As shown in Fig. 1 , it is assumed that the primary CO 2 capture system removes 90% of the CO 2 in the coal flue gas at 95% CO 2 purity, which results in a CO 2 concentration of 1.75% in the residual flue gas. The residual flue gas is further treated by the two-stage enriching membrane cascade, in which the first membrane stage (MB-01) enriches the CO 2 to ca. 20% and the second stage (MB-02) to > 95%. In order to provide the transmembrane driving force, a two-stage blower (BL-01 or BL-02) train and a vacuum (VAC-01 or VAC-02) are used for each membrane stage, respectively. The pressurized retentate of MB-01 is expanded by a turbo expander EX-01 for energy recovery. The retentate of MB-02 is recycled to the feed of MB-01. The captured CO 2 is compressed by a multi-stage compressor (MSC) to 2215 psia. The detailed designs of the rotating equipment are shown in Figures S2 and S3 in the SI. The major equipment schedule is summarized in Table S1. It should be noted that the retentate expansion via EX-01 can result in a considerable gas cooling, which is sufficient for the interstage cooling in BL-01. The heat integration of BL-01 and EX-01 is depicted in Figure S2. The key operating conditions for the reference case are summarized in Table S2. Unless otherwise noted, the CO 2 recovery of the enriching membrane cascade is set at 90%. In combination with the 90% CO 2 recovery of the primary capture system, an overall 99% CO 2 capture is targeted.",
+      "text": "As shown in Fig. 1 , it is assumed that the primary CO 2 capture system removes 90% of the CO 2 in the coal flue gas at 95% CO 2 purity, which results in a CO 2 concentration of 1.75% in the residual flue gas. The residual flue gas is further treated by the two-stage enriching membrane cascade, in which the first membrane stage (MB-01) enriches the CO 2 to ca. 20% and the second stage (MB-02) to > 95%. In order to provide the transmembrane driving force, a two-stage blower (BL-01 or BL-02) train and a vacuum (VAC-01 or VAC-02) are used for each membrane stage, respectively. The pressurized retentate of MB-01 is expanded by a turbo expander EX-01 for energy recovery. The retentate of MB-02 is recycled to the feed of MB-01. The captured CO 2 is compressed by a multi-stage compressor (MSC) to 2215 psia. The detailed designs of the rotating equipment are shown in Figures S2 and S3 in the SI. The major equipment schedule is summarized in Table S1. It should be noted that the retentate expansion via EX-01 can result in a considerable gas cooling, which is sufficient for the interstage cooling in BL-01. The heat integration of BL-01 and EX-01 is depicted in Figure S2. The key operating conditions for the reference case are summarized in Table S2. Unless otherwise noted, the CO 2 recovery of the enriching membrane cascade is set at 90%. In combination with the 90% CO 2 recovery of the primary capture system, an overall 99% CO 2 capture is targeted."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.903,
+            "t": 487.8991659101563,
+            "r": 558.2599327299998,
+            "b": 446.86974445852655,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            278
+          ]
+        }
+      ],
+      "orig": "For MB-01 and MB-02, the CO 2 permeance ( /u1D443 C O 2 \u2215 /u1D4C1 , permeability divided by thickness) is assumed to be dependant on the local feed CO 2 partial pressure ( /u1D45D \u210e C O 2 ), which is described by a homogenous reactive diffusion model as ( Y. Han and Ho, 2020 ):",
+      "text": "For MB-01 and MB-02, the CO 2 permeance ( /u1D443 C O 2 \u2215 /u1D4C1 , permeability divided by thickness) is assumed to be dependant on the local feed CO 2 partial pressure ( /u1D45D \u210e C O 2 ), which is described by a homogenous reactive diffusion model as ( Y. Han and Ho, 2020 ):"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.1,
+            "t": 445.5203088101563,
+            "r": 557.99332464,
+            "b": 391.3265740101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            158
+          ]
+        }
+      ],
+      "orig": "/u1D443 C O 2 /u1D4C1 = /u1D443 0 C O 2 /u1D4C1 \u23a1 \u23a2 \u23a2 \u23a2 \u23a3 1 + /u1D702 C O 2 \u239b \u239c \u239c \u239c \u239d \u221a \u221a \u221a \u221a \u221a 1 + /u1D45D \u2217 C O 2 /u1D45D \u210e C O 2 -1 \u239e \u239f \u239f \u239f \u23a0 \u23a4 \u23a5 \u23a5 \u23a5 \u23a6 (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.903,
+            "t": 396.7380077101563,
+            "r": 558.2960651999999,
+            "b": 310.91574445852655,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            631
+          ]
+        }
+      ],
+      "orig": "where /u1D443 0 C O 2 \u2215 /u1D4C1 is the CO 2 permeance at complete carrier saturation, /u1D702 C O 2 the efficacy of facilitated transport, and /u1D45D \u2217 C O 2 the onset partial pressure for carrier saturation. The N 2 permeation is assumed to follow the solution-diffusion mechanism with a constant permeance /u1D443 N 2 \u2215 /u1D4C1 . Therefore, the CO 2 /N 2 selectivity at complete carrier saturation can be defined as /u1D6FC 0 C O 2 \u2215 N 2 = ( /u1D443 0 C O 2 \u2215 /u1D4C1 )\u2215( /u1D443 N 2 \u2215 /u1D4C1 ) . The multicomponent gas permeation is described by a crossflow model as detailed in our previous work ( Han and Ho, 2020a, 2021a ).",
+      "text": "where /u1D443 0 C O 2 \u2215 /u1D4C1 is the CO 2 permeance at complete carrier saturation, /u1D702 C O 2 the efficacy of facilitated transport, and /u1D45D \u2217 C O 2 the onset partial pressure for carrier saturation. The N 2 permeation is assumed to follow the solution-diffusion mechanism with a constant permeance /u1D443 N 2 \u2215 /u1D4C1 . Therefore, the CO 2 /N 2 selectivity at complete carrier saturation can be defined as /u1D6FC 0 C O 2 \u2215 N 2 = ( /u1D443 0 C O 2 \u2215 /u1D4C1 )\u2215( /u1D443 N 2 \u2215 /u1D4C1 ) . The multicomponent gas permeation is described by a crossflow model as detailed in our previous work ( Han and Ho, 2020a, 2021a )."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.903,
+            "t": 307.7381127101563,
+            "r": 558.3333763,
+            "b": 248.14984445852656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        }
+      ],
+      "orig": "The costing was conducted by following Case B12B in the Cost and Performance Baseline for Fossil Energy Plants Volume 1: Bituminous Coal and Natural Gas to Electricity (Revision 4, 2019) ( James et al., 2019 ). The methodology and assumptions are listed in Table S3 in the SI. All costs are only for the secondary capture system (see Fig. 1 ) and are reported in the 2018 U.S. dollars.",
+      "text": "The costing was conducted by following Case B12B in the Cost and Performance Baseline for Fossil Energy Plants Volume 1: Bituminous Coal and Natural Gas to Electricity (Revision 4, 2019) ( James et al., 2019 ). The methodology and assumptions are listed in Table S3 in the SI. All costs are only for the secondary capture system (see Fig. 1 ) and are reported in the 2018 U.S. dollars."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.903,
+            "t": 232.97511271015628,
+            "r": 403.98273718999985,
+            "b": 225.6802693537361,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "3. Results and discussion",
+      "text": "3. Results and discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.903,
+            "t": 212.05911271015634,
+            "r": 457.85668217000006,
+            "b": 204.7697444585266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "3.1. Carrier saturation phenomenon in FTMs",
+      "text": "3.1. Carrier saturation phenomenon in FTMs",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.903,
+            "t": 191.13411271015627,
+            "r": 558.3444988200001,
+            "b": 46.29729865670129,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1004
+          ]
+        }
+      ],
+      "orig": "The FTMs containing different mobile carriers were tested at varying feed CO 2 partial pressures, and their CO 2 permeances and CO 2 /N 2 selectivities are shown in Fig. 2 (a) and (b), respectively. Ideal CO 2 /N 2 selectivities were reported herein, which is defined as the permeance ratio between CO 2 and N 2 ( Ho and Sirkar, 2001 ). Each FTM exhibited an uprising CO 2 permeance and CO 2 /N 2 selectivity with reducing CO 2 partial pressure, which was a strong evidence for the mitigated carrier saturation. Based on the homogeneous reactive diffusion model, reaction equilibrium could be assumed at the feed/membrane interface ( Schultz et al., 1974 ). At a lower CO 2 partial pressure, the amine carrier became abundant, which enhanced the conversion of CO 2 to the diffusing reaction products ( Kortunov et al., 2016 ). Consequently, the solubility of CO 2 increased with reducing CO 2 partial pressure ( Matsuoka et al., 2022 ; Goddard et al., 1974 ), thereby the enhanced CO 2 permeance. Because",
+      "text": "The FTMs containing different mobile carriers were tested at varying feed CO 2 partial pressures, and their CO 2 permeances and CO 2 /N 2 selectivities are shown in Fig. 2 (a) and (b), respectively. Ideal CO 2 /N 2 selectivities were reported herein, which is defined as the permeance ratio between CO 2 and N 2 ( Ho and Sirkar, 2001 ). Each FTM exhibited an uprising CO 2 permeance and CO 2 /N 2 selectivity with reducing CO 2 partial pressure, which was a strong evidence for the mitigated carrier saturation. Based on the homogeneous reactive diffusion model, reaction equilibrium could be assumed at the feed/membrane interface ( Schultz et al., 1974 ). At a lower CO 2 partial pressure, the amine carrier became abundant, which enhanced the conversion of CO 2 to the diffusing reaction products ( Kortunov et al., 2016 ). Consequently, the solubility of CO 2 increased with reducing CO 2 partial pressure ( Matsuoka et al., 2022 ; Goddard et al., 1974 ), thereby the enhanced CO 2 permeance. Because"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 296.139,
+            "t": 33.1065007101563,
+            "r": 299.7287443,
+            "b": 27.27498781706629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.911,
+            "t": 756.4455007101564,
+            "r": 101.08221074999999,
+            "b": 750.6139878170663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Y. Han and W.S.W. Ho",
+      "text": "Y. Han and W.S.W. Ho"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 409.96854959,
+            "t": 756.4455007101564,
+            "r": 558.2995895500003,
+            "b": 750.6139878170663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Journal of Membrane Science Letters 2 (2022) 100014",
+      "text": "Journal of Membrane Science Letters 2 (2022) 100014"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.911,
+            "t": 367.1758067101563,
+            "r": 558.7132167200002,
+            "b": 331.92336613779645,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            542
+          ]
+        }
+      ],
+      "orig": "Fig. 2. Effects of CO 2 partial pressure on the (a) CO 2 permeances and (b) CO 2 /N 2 selectivities of FTMs containing PZ-Gly, PZEA-Gly, and PZEA-Sar. The red lines are the best fits based on Eq. (1) with the red shades representing the uncertainties. The influence of the carrier saturation phenomenon on the separation performance of MB-01 is demonstrated by (c) the effects of /u1D6FC 0 C O 2 \u2215 N 2 and /u1D45D \u2217 C O 2 on the permeate CO 2 purity and (d) the effects of /u1D702 C O 2 and /u1D45D \u2217 C O 2 on the dimensionless membrane area.",
+      "text": "Fig. 2. Effects of CO 2 partial pressure on the (a) CO 2 permeances and (b) CO 2 /N 2 selectivities of FTMs containing PZ-Gly, PZEA-Gly, and PZEA-Sar. The red lines are the best fits based on Eq. (1) with the red shades representing the uncertainties. The influence of the carrier saturation phenomenon on the separation performance of MB-01 is demonstrated by (c) the effects of /u1D6FC 0 C O 2 \u2215 N 2 and /u1D45D \u2217 C O 2 on the permeate CO 2 purity and (d) the effects of /u1D702 C O 2 and /u1D45D \u2217 C O 2 on the dimensionless membrane area."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.911,
+            "t": 305.3442127101563,
+            "r": 289.2840964499999,
+            "b": 212.8062986567013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            600
+          ]
+        }
+      ],
+      "orig": "the N 2 permeance was based on the solution-diffusion mechanism and was not affected by the feed composition, the increasing CO 2 permeance was accompanied by a significantly improved CO 2 /N 2 selectivity. By reducing the partial pressure from 3.7 to 0.4 kPa (90% reduction in CO 2 concentration), the FTM containing PZEA-Sar showed an increasing CO 2 permeance from 1968 to 3822 GPU with an improved selectivity from 249 to 472. This can be conceptualized as an uprising CO 2 permeance and selectivity from the feed to the retentate in a membrane module upon the CO 2 removal ( Han and Ho, 2021a ).",
+      "text": "the N 2 permeance was based on the solution-diffusion mechanism and was not affected by the feed composition, the increasing CO 2 permeance was accompanied by a significantly improved CO 2 /N 2 selectivity. By reducing the partial pressure from 3.7 to 0.4 kPa (90% reduction in CO 2 concentration), the FTM containing PZEA-Sar showed an increasing CO 2 permeance from 1968 to 3822 GPU with an improved selectivity from 249 to 472. This can be conceptualized as an uprising CO 2 permeance and selectivity from the feed to the retentate in a membrane module upon the CO 2 removal ( Han and Ho, 2021a )."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.911,
+            "t": 211.1951127101563,
+            "r": 289.40053235999994,
+            "b": 54.586298656701274,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1099
+          ]
+        }
+      ],
+      "orig": "The facilitated transport model ( Eq. (1) ) was also used to fit the experimental data, and a reasonable agreement was observed for the best fits as shown in Fig. 2 (a) and (b). The insert in Fig. 2 (a) summaries the fitting parameters for the three carriers. These carriers rendered similar /u1D702 C O 2 values of 0.40-0.46. However, the /u1D443 0 C O 2 \u2215 /u1D4C1 and /u1D45D \u2217 C O 2 values increased following the order PZ-Gly < PZEA-Gly < PZEA-Sar, indicating that the FTM containing PZEA-Sar was less prone to carrier saturation. Deng et al. has applied density functional theory to study the reactions between CO 2 and these mobile carriers ( Deng et al., 2020 ). It has shown that PZ-Gly only partakes in the reaction with CO 2 by the primary amino group on the Gly -anion (see Figure S1 in the SI). The cyclic, secondary amino group on the PZ + cation does not react with CO 2 due to the strong Coulombic repulsion from the protonated amino group in the same piperazine ring. Contrarily, PZEA-Sar can form a carbamate with CO 2 via the primary amino group on the PZEA + cation or convert the",
+      "text": "The facilitated transport model ( Eq. (1) ) was also used to fit the experimental data, and a reasonable agreement was observed for the best fits as shown in Fig. 2 (a) and (b). The insert in Fig. 2 (a) summaries the fitting parameters for the three carriers. These carriers rendered similar /u1D702 C O 2 values of 0.40-0.46. However, the /u1D443 0 C O 2 \u2215 /u1D4C1 and /u1D45D \u2217 C O 2 values increased following the order PZ-Gly < PZEA-Gly < PZEA-Sar, indicating that the FTM containing PZEA-Sar was less prone to carrier saturation. Deng et al. has applied density functional theory to study the reactions between CO 2 and these mobile carriers ( Deng et al., 2020 ). It has shown that PZ-Gly only partakes in the reaction with CO 2 by the primary amino group on the Gly -anion (see Figure S1 in the SI). The cyclic, secondary amino group on the PZ + cation does not react with CO 2 due to the strong Coulombic repulsion from the protonated amino group in the same piperazine ring. Contrarily, PZEA-Sar can form a carbamate with CO 2 via the primary amino group on the PZEA + cation or convert the"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.903,
+            "t": 305.3442127101563,
+            "r": 558.29706906,
+            "b": 256.2138444585265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            292
+          ]
+        }
+      ],
+      "orig": "CO 2 to bicarbonate via the protonation of the secondary amino group on the Sar -anion. In addition, Sar -generates a more stable bicarbonate product compared with Gly -. The higher reactivity of PZEA-Sar is in line with its more resilient carrier saturation behaviour observed in this study.",
+      "text": "CO 2 to bicarbonate via the protonation of the secondary amino group on the Sar -anion. In addition, Sar -generates a more stable bicarbonate product compared with Gly -. The higher reactivity of PZEA-Sar is in line with its more resilient carrier saturation behaviour observed in this study."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.903,
+            "t": 253.0452127101563,
+            "r": 558.3985460600001,
+            "b": 54.937744458526595,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1437
+          ]
+        }
+      ],
+      "orig": "The implications of the mitigated carrier saturation are exemplified by analysing the separation performance of MB-01 for a series of the FTMs including those containing PZ-Gly, PZEA-Gly, and PZEA-Sar. As shown in Fig. 2 (c), increasing /u1D6FC 0 C O 2 \u2215 N 2 or enhancing /u1D45D \u2217 C O 2 can both lead to a higher CO 2 concentration in the permeate of MB-01. More importantly, in order to achieve 22% CO 2 (dry basis), the selectivity requirement is relaxed from ca. 200 to 150 if /u1D45D \u2217 C O 2 increases from 0 (i.e., no FT) to 10 kPa. Based on the determined carrier saturation features, both the FTMs containing PZEA-Sar and PZEA-Gly can enrich the CO 2 to > 22% via MB-01. Fig. 2 (d) shows the effects of /u1D702 C O 2 and /u1D45D \u2217 C O 2 on the dimensionless membrane area of MB-01 ( /u1D460 0 ), which is defined as the membrane area ( /u1D434 0 ) per feed flow rate ( /u1D45B \u210e | /u1D434 =0 ) normalized by the feed pressure ( /u1D45D \u210e ) and CO 2 permeance ( /u1D443 0 C O 2 \u2215 /u1D4C1 ) (i.e., /u1D460 0 = /u1D434 0 \u2215[ /u1D45B \u210e | /u1D434 =0 /u1D45D \u210e ( /u1D443 0 C O 2 \u2215 /u1D4C1 ) ] ) ( Han and Ho, 2020a ). As seen, the membrane area reduces with increasing /u1D702 C O 2 or /u1D45D \u2217 C O 2 , where the improved FT characteristics results in a more pronounced increase in CO 2 permeance upon the CO 2 removal. For the best FTM containing PZEA-Sar, an area reduction of ca. 10% can be achieved compared to the case without FT.",
+      "text": "The implications of the mitigated carrier saturation are exemplified by analysing the separation performance of MB-01 for a series of the FTMs including those containing PZ-Gly, PZEA-Gly, and PZEA-Sar. As shown in Fig. 2 (c), increasing /u1D6FC 0 C O 2 \u2215 N 2 or enhancing /u1D45D \u2217 C O 2 can both lead to a higher CO 2 concentration in the permeate of MB-01. More importantly, in order to achieve 22% CO 2 (dry basis), the selectivity requirement is relaxed from ca. 200 to 150 if /u1D45D \u2217 C O 2 increases from 0 (i.e., no FT) to 10 kPa. Based on the determined carrier saturation features, both the FTMs containing PZEA-Sar and PZEA-Gly can enrich the CO 2 to > 22% via MB-01. Fig. 2 (d) shows the effects of /u1D702 C O 2 and /u1D45D \u2217 C O 2 on the dimensionless membrane area of MB-01 ( /u1D460 0 ), which is defined as the membrane area ( /u1D434 0 ) per feed flow rate ( /u1D45B \u210e | /u1D434 =0 ) normalized by the feed pressure ( /u1D45D \u210e ) and CO 2 permeance ( /u1D443 0 C O 2 \u2215 /u1D4C1 ) (i.e., /u1D460 0 = /u1D434 0 \u2215[ /u1D45B \u210e | /u1D434 =0 /u1D45D \u210e ( /u1D443 0 C O 2 \u2215 /u1D4C1 ) ] ) ( Han and Ho, 2020a ). As seen, the membrane area reduces with increasing /u1D702 C O 2 or /u1D45D \u2217 C O 2 , where the improved FT characteristics results in a more pronounced increase in CO 2 permeance upon the CO 2 removal. For the best FTM containing PZEA-Sar, an area reduction of ca. 10% can be achieved compared to the case without FT."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 296.139,
+            "t": 33.1065007101563,
+            "r": 299.7287443,
+            "b": 27.27498781706629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.911,
+            "t": 756.4455007101564,
+            "r": 101.08221074999999,
+            "b": 750.6139878170663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Y. Han and W.S.W. Ho",
+      "text": "Y. Han and W.S.W. Ho"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 409.96854959,
+            "t": 756.4455007101564,
+            "r": 558.2995895500003,
+            "b": 750.6139878170663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Journal of Membrane Science Letters 2 (2022) 100014",
+      "text": "Journal of Membrane Science Letters 2 (2022) 100014"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.911,
+            "t": 549.1739067101563,
+            "r": 289.37270514000005,
+            "b": 513.9213661377964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "Fig. 3. Values of Influence (VoIs) for the operating conditions of the capture system and membrane properties. A blue bar represents the VoI by increasing the parameter vs. the reference case, while a red bar is for decreasing that parameter.",
+      "text": "Fig. 3. Values of Influence (VoIs) for the operating conditions of the capture system and membrane properties. A blue bar represents the VoI by increasing the parameter vs. the reference case, while a red bar is for decreasing that parameter."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.911,
+            "t": 492.8501127101563,
+            "r": 108.88469808,
+            "b": 485.56074445852653,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "3.2. Sensitivity study",
+      "text": "3.2. Sensitivity study",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.911,
+            "t": 471.9251127101563,
+            "r": 289.3342073599999,
+            "b": 360.02874445852655,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            758
+          ]
+        }
+      ],
+      "orig": "In view of the high performance of PZEA-Sar, the corresponding FTM has thus been employed for a system optimization in order to identify the optimal capture cost for the residual coal flue gas. The optimal operating parameters are summarized in Table S2, which render a capture cost of $83.8/tonne for the secondary capture system as shown in Fig. 1 . These parameters are referred to as the reference case, under which the rotating equipment (BL-01, BL-02, VAC-01, and VAC-02) is the major cost centre and accounts for 61% of the overall capital and operational costs. In order to analyse the sensitivity of the capture cost to the operating parameters and the membrane performance, we define and calculate a sensitivity metric, Value of Influence (VoI) as:",
+      "text": "In view of the high performance of PZEA-Sar, the corresponding FTM has thus been employed for a system optimization in order to identify the optimal capture cost for the residual coal flue gas. The optimal operating parameters are summarized in Table S2, which render a capture cost of $83.8/tonne for the secondary capture system as shown in Fig. 1 . These parameters are referred to as the reference case, under which the rotating equipment (BL-01, BL-02, VAC-01, and VAC-02) is the major cost centre and accounts for 61% of the overall capital and operational costs. In order to analyse the sensitivity of the capture cost to the operating parameters and the membrane performance, we define and calculate a sensitivity metric, Value of Influence (VoI) as:"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.911,
+            "t": 352.0708602101563,
+            "r": 289.00132464000006,
+            "b": 330.7199074334992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "VoI = % \u0394capture cost % \u0394parameter (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.911,
+            "t": 322.6601127101563,
+            "r": 289.2985775,
+            "b": 273.52974445852647,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            375
+          ]
+        }
+      ],
+      "orig": "where % \u0394capture cost = ( capture cost perturbed -capture cost reference ) / capture cost reference \u00d7 100% and % \u0394parameter = | paramete r pert ur bed -paramete r r efer ence | / paramete r r efer ence \u00d7 100%. Per the definition, a more positive VoI indicates a greater increase in the capture cost, while a more negative VoI corresponds to a more significant cost reduction.",
+      "text": "where % \u0394capture cost = ( capture cost perturbed -capture cost reference ) / capture cost reference \u00d7 100% and % \u0394parameter = | paramete r pert ur bed -paramete r r efer ence | / paramete r r efer ence \u00d7 100%. Per the definition, a more positive VoI indicates a greater increase in the capture cost, while a more negative VoI corresponds to a more significant cost reduction."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 37.911,
+            "t": 65.79280671015636,
+            "r": 558.7603294000002,
+            "b": 49.67446613779646,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            291
+          ]
+        }
+      ],
+      "orig": "Fig. 4. (a) Capture costs to remove 90% CO 2 from NG residual flue gas, EGR residual flue gas, coal mine ventilation air, coal residual flue gas, and cement plant residual flue gas. (b) Marginal costs for NG, EGR, coal, and cement flue gases. The red shade represents the cost range for DAC.",
+      "text": "Fig. 4. (a) Capture costs to remove 90% CO 2 from NG residual flue gas, EGR residual flue gas, coal mine ventilation air, coal residual flue gas, and cement plant residual flue gas. (b) Marginal costs for NG, EGR, coal, and cement flue gases. The red shade represents the cost range for DAC."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 306.903,
+            "t": 735.5891127101562,
+            "r": 558.3395610999995,
+            "b": 591.0047444585266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1012
+          ]
+        }
+      ],
+      "orig": "Fig. 3 summarizes the VoI values by increasing or decreasing certain parameter with respect to the reference case. The lower and upper limits for each perturbed parameter are listed in Table S4 in the SI. As seen, decreasing the feed pressure strongly penalizes the process economic, while decreasing the MB-01 permeate pressure by VAC-01 can slightly reduce the capture cost, provided that such equipment is available in industrial scale. In comparison, the capture cost is rather insensitive to the vacuum degree of VAC-02. However, a higher heat transfer coefficient for the interstage cooling in BL-01 can also reduce the capture cost considerably. For the membrane performance, further increasing the /u1D443 0 C O 2 \u2215 /u1D4C1 , /u1D6FC 0 C O 2 \u2215 N 2 , /u1D702 C O 2 , and /u1D45D \u2217 C O 2 can lead to slight cost reductions, but the overall benefit of performance improvement beyond the FTM containing PZEA-Sar is less impactful compared to the optimization of process equipment such as the heat exchangers.",
+      "text": "Fig. 3 summarizes the VoI values by increasing or decreasing certain parameter with respect to the reference case. The lower and upper limits for each perturbed parameter are listed in Table S4 in the SI. As seen, decreasing the feed pressure strongly penalizes the process economic, while decreasing the MB-01 permeate pressure by VAC-01 can slightly reduce the capture cost, provided that such equipment is available in industrial scale. In comparison, the capture cost is rather insensitive to the vacuum degree of VAC-02. However, a higher heat transfer coefficient for the interstage cooling in BL-01 can also reduce the capture cost considerably. For the membrane performance, further increasing the /u1D443 0 C O 2 \u2215 /u1D4C1 , /u1D6FC 0 C O 2 \u2215 N 2 , /u1D702 C O 2 , and /u1D45D \u2217 C O 2 can lead to slight cost reductions, but the overall benefit of performance improvement beyond the FTM containing PZEA-Sar is less impactful compared to the optimization of process equipment such as the heat exchangers."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 306.903,
+            "t": 574.1201127101563,
+            "r": 447.9408216,
+            "b": 565.2732986567013,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "3.3. Costs for different dilute CO 2 sources",
+      "text": "3.3. Costs for different dilute CO 2 sources",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 306.903,
+            "t": 553.2042127101563,
+            "r": 558.3840965,
+            "b": 430.84074445852656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            836
+          ]
+        }
+      ],
+      "orig": "The application of the enriching membrane cascade is further extended to the decarbonization of other dilute CO 2 sources, including the NG residual flue gas, the NG-EGR residual flue gas, the coal mine ventilation air ( \u223c 1% CO 2 ) ( Karacan et al., 2011 ), and the cement plant residual flue gas. Fig. 4 (a) shows the capture costs to decarbonize 90% of the CO 2 from these dilute sources. As seen, the capture cost increases considerably with reducing CO 2 concentration, which is mainly attributed to the large amount of gas that needs to be processed by BL-01 and the smaller amount of CO 2 captured. Compared to the coal residual flue gas, the carbon capture from the cement plant residual flue gas is more attractive with a lower capture cost of $60.2/tonne, while the capture cost for the NG residual is as high as $143.0/tonne.",
+      "text": "The application of the enriching membrane cascade is further extended to the decarbonization of other dilute CO 2 sources, including the NG residual flue gas, the NG-EGR residual flue gas, the coal mine ventilation air ( \u223c 1% CO 2 ) ( Karacan et al., 2011 ), and the cement plant residual flue gas. Fig. 4 (a) shows the capture costs to decarbonize 90% of the CO 2 from these dilute sources. As seen, the capture cost increases considerably with reducing CO 2 concentration, which is mainly attributed to the large amount of gas that needs to be processed by BL-01 and the smaller amount of CO 2 captured. Compared to the coal residual flue gas, the carbon capture from the cement plant residual flue gas is more attractive with a lower capture cost of $60.2/tonne, while the capture cost for the NG residual is as high as $143.0/tonne."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 306.903,
+            "t": 427.6721127101563,
+            "r": 558.30177205,
+            "b": 347.15874445852654,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            513
+          ]
+        }
+      ],
+      "orig": "The CO 2 recovery for various flue gas sources has also been varied between 0 and 94% for the enriching membrane cascade. With the 90% CO 2 recovery from the primary capture system, the overall CO 2 recovery is 90-99.4%. The effect of the overall CO 2 recovery on the capture costs for various flue gas sources is summarized in Figure S4 in the SI. In order to evaluate the feasibility of treating these residual emissions, the marginal cost beyond an overall 90% capture is calculated as ( Brandl et al., 2021 ):",
+      "text": "The CO 2 recovery for various flue gas sources has also been varied between 0 and 94% for the enriching membrane cascade. With the 90% CO 2 recovery from the primary capture system, the overall CO 2 recovery is 90-99.4%. The effect of the overall CO 2 recovery on the capture costs for various flue gas sources is summarized in Figure S4 in the SI. In order to evaluate the feasibility of treating these residual emissions, the marginal cost beyond an overall 90% capture is calculated as ( Brandl et al., 2021 ):"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 306.903,
+            "t": 342.3803088101563,
+            "r": 557.99332464,
+            "b": 318.5609074334992,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Marginal cost = /u1D715 /u1D436 /u1D715 \u03b8 \u2248 /u1D436 | /u1D703 2 -/u1D436 | /u1D703 1 /u1D703 2 -/u1D703 1 (3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 306.903,
+            "t": 312.1931127101563,
+            "r": 558.3426618400001,
+            "b": 273.52974445852647,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            300
+          ]
+        }
+      ],
+      "orig": "where /u1D436 is the capture cost and \u03b8 the overall CO 2 recovery. The marginal costs are reported in a unit of $/tonne CO 2 /% recovery. Fig. 4 (b) plots the marginal costs against the CO 2 captured annually for different flue gases (32.71 kmol/s flue gas flow rate and 0.85 capacity factor as shown",
+      "text": "where /u1D436 is the capture cost and \u03b8 the overall CO 2 recovery. The marginal costs are reported in a unit of $/tonne CO 2 /% recovery. Fig. 4 (b) plots the marginal costs against the CO 2 captured annually for different flue gases (32.71 kmol/s flue gas flow rate and 0.85 capacity factor as shown"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 296.139,
+            "t": 33.1065007101563,
+            "r": 299.7287443,
+            "b": 27.27498781706629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.911,
+            "t": 756.4455007101564,
+            "r": 101.08221074999999,
+            "b": 750.6139878170663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Y. Han and W.S.W. Ho",
+      "text": "Y. Han and W.S.W. Ho"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 409.96854959,
+            "t": 756.4455007101564,
+            "r": 558.2995895500003,
+            "b": 750.6139878170663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "Journal of Membrane Science Letters 2 (2022) 100014",
+      "text": "Journal of Membrane Science Letters 2 (2022) 100014"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.911,
+            "t": 735.5891127101562,
+            "r": 289.34333586,
+            "b": 665.5427444585266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            453
+          ]
+        }
+      ],
+      "orig": "in Table S2). As seen, the marginal costs increase considerably with increasing CO 2 capture, and a higher CO 2 concentration leads to an overall lower marginal cost. Beyond 90% decarbonization of a more concentrated flue gas, such as the coal and cement plant flue gases, not only renders lower marginal costs, but also captures significantly more CO 2 . In comparison, treating the residual emissions from NG flue gases can be prohibitively expensive.",
+      "text": "in Table S2). As seen, the marginal costs increase considerably with increasing CO 2 capture, and a higher CO 2 concentration leads to an overall lower marginal cost. Beyond 90% decarbonization of a more concentrated flue gas, such as the coal and cement plant flue gases, not only renders lower marginal costs, but also captures significantly more CO 2 . In comparison, treating the residual emissions from NG flue gases can be prohibitively expensive."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.911,
+            "t": 662.3651127101563,
+            "r": 289.334628,
+            "b": 550.4688444585266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            701
+          ]
+        }
+      ],
+      "orig": "If these residual flue gases are not decarbonized from their respective point sources, DAC will be required to achieve net-zero or negative emission. Although the capture costs for DAC reported in the literature span a wide range, recent analyses for advanced sorbents suggest that a cost of $150-200/tonne might be achievable ( Sinha et al., 2017 ; Azarabadi and Lackner, 2019 ; Deutz and Bardow, 2021 ). As a conservative comparison, we adopt $150/tonne for DAC and highlights the region in Fig. 4 (b) where the beyond 90% capture from a point source becomes less competitive to DAC. Apparently, capturing the CO 2 from coal and cement residual flue gases is more economically advantageous over DAC.",
+      "text": "If these residual flue gases are not decarbonized from their respective point sources, DAC will be required to achieve net-zero or negative emission. Although the capture costs for DAC reported in the literature span a wide range, recent analyses for advanced sorbents suggest that a cost of $150-200/tonne might be achievable ( Sinha et al., 2017 ; Azarabadi and Lackner, 2019 ; Deutz and Bardow, 2021 ). As a conservative comparison, we adopt $150/tonne for DAC and highlights the region in Fig. 4 (b) where the beyond 90% capture from a point source becomes less competitive to DAC. Apparently, capturing the CO 2 from coal and cement residual flue gases is more economically advantageous over DAC."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.911,
+            "t": 536.8422127101562,
+            "r": 94.81064310000002,
+            "b": 529.547369353736,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "4. Conclusions",
+      "text": "4. Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.911,
+            "t": 515.9171127101563,
+            "r": 289.27100409999997,
+            "b": 456.31974445852654,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            368
+          ]
+        }
+      ],
+      "orig": "In this letter, the carrier saturation behaviors of FTMs were characterized in order to explore the possibility of their use to decarbonize dilute CO 2 sources. In accordance, an enriching membrane cascade has been designed, and the process economics has been studied. The following conclusions are reached based on the experimental study and techno-economic analysis:",
+      "text": "In this letter, the carrier saturation behaviors of FTMs were characterized in order to explore the possibility of their use to decarbonize dilute CO 2 sources. In accordance, an enriching membrane cascade has been designed, and the process economics has been studied. The following conclusions are reached based on the experimental study and techno-economic analysis:"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 35.895,
+            "t": 447.1751127101563,
+            "r": 289.2206149200001,
+            "b": 417.4032986567012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "(1) For the best FTM containing PZEA-Sar, a reducing CO 2 partial pressure resulted in considerable increases in CO 2 permeance and CO 2 /N 2 selectivity.",
+      "text": "For the best FTM containing PZEA-Sar, a reducing CO 2 partial pressure resulted in considerable increases in CO 2 permeance and CO 2 /N 2 selectivity.",
+      "enumerated": true,
+      "marker": "(1)"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 35.895,
+            "t": 415.7921127101563,
+            "r": 289.22195134999987,
+            "b": 387.5777444585265,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "(2) The mitigated carrier saturation upon the CO 2 removal from dilute sources can enhance the CO 2 enrichment and reduce the required membrane area.",
+      "text": "The mitigated carrier saturation upon the CO 2 removal from dilute sources can enhance the CO 2 enrichment and reduce the required membrane area.",
+      "enumerated": true,
+      "marker": "(2)"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 35.895,
+            "t": 384.4091127101563,
+            "r": 289.30556836000005,
+            "b": 345.7367444585266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "(3) Capturing 90% CO 2 from the coal residual flue gas incurs a capture cost of $83.8/tonne, and the corresponding marginal cost for capturing CO 2 from coal or cement residual flue gas is lower than that for DAC.",
+      "text": "Capturing 90% CO 2 from the coal residual flue gas incurs a capture cost of $83.8/tonne, and the corresponding marginal cost for capturing CO 2 from coal or cement residual flue gas is lower than that for DAC.",
+      "enumerated": true,
+      "marker": "(3)"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.911,
+            "t": 332.11011271015633,
+            "r": 166.8641178299999,
+            "b": 324.8152693537361,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Declaration of Competing Interest",
+      "text": "Declaration of Competing Interest",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 49.863,
+            "t": 311.1851127101563,
+            "r": 70.60438824,
+            "b": 303.89574445852656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "None.",
+      "text": "None."
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.911,
+            "t": 290.2601127101563,
+            "r": 107.52663546000002,
+            "b": 282.96526935373606,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Acknowledgments",
+      "text": "Acknowledgments",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.911,
+            "t": 269.3442127101563,
+            "r": 289.30071620999996,
+            "b": 220.21384445852652,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            322
+          ]
+        }
+      ],
+      "orig": "We would like to thank Jos\u00e9 D. Figueroa and David Lang of the U.S. Department of Energy -National Energy Technology Laboratory (DOENETL) for their invaluable inputs and helpful discussions. This work was partly supported by the DOE under Award Number DE-FE0026919 with substantial involvement of NETL, Pittsburgh, PA, USA.",
+      "text": "We would like to thank Jos\u00e9 D. Figueroa and David Lang of the U.S. Department of Energy -National Energy Technology Laboratory (DOENETL) for their invaluable inputs and helpful discussions. This work was partly supported by the DOE under Award Number DE-FE0026919 with substantial involvement of NETL, Pittsburgh, PA, USA."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.911,
+            "t": 206.57821271015632,
+            "r": 133.2941759,
+            "b": 199.28336935373602,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Supplementary materials",
+      "text": "Supplementary materials",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.911,
+            "t": 185.65321271015637,
+            "r": 289.22986906,
+            "b": 167.90574445852656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "Supplementary material associated with this article can be found, in the online version, at doi:10.1016/j.memlet.2022.100014 .",
+      "text": "Supplementary material associated with this article can be found, in the online version, at doi:10.1016/j.memlet.2022.100014 ."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.911,
+            "t": 156.76321271015627,
+            "r": 79.11721401000001,
+            "b": 149.46836935373608,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.911,
+            "t": 137.21860071015635,
+            "r": 289.1873625100002,
+            "b": 123.42206369706628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "Annual Energy Outlook 2021, U.S. energy information administration, https://www.eia.gov/outlooks/aeo/ , accessed Oct. 29, 2021.",
+      "text": "Annual Energy Outlook 2021, U.S. energy information administration, https://www.eia.gov/outlooks/aeo/ , accessed Oct. 29, 2021.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.91036238999999,
+            "t": 121.27962593015627,
+            "r": 289.31297168,
+            "b": 107.48308891706631,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "Azarabadi, H. , Lackner, K.S. , 2019. A sorbent-focused techno-economic analysis of direct air capture. Appl. Energy 250, 959-975 .",
+      "text": "Azarabadi, H. , Lackner, K.S. , 2019. A sorbent-focused techno-economic analysis of direct air capture. Appl. Energy 250, 959-975 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0002",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 37.91099999999989,
+            "t": 105.3406511501563,
+            "r": 289.4355299799999,
+            "b": 91.53513715706629,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "Brandl, P. , Bui, M. , Hallett, J.P. , Dowell, N.Mac , 2021. Beyond 90% capture: possible, but at what cost? Int. J. Greenh. Gas Con. 105, 103239 .",
+      "text": "Brandl, P. , Bui, M. , Hallett, J.P. , Dowell, N.Mac , 2021. Beyond 90% capture: possible, but at what cost? Int. J. Greenh. Gas Con. 105, 103239 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0003",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.903,
+            "t": 734.4765007101563,
+            "r": 558.2284584800001,
+            "b": 719.5013015062449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "Chen, Y. , Ho, W.S.W. , 2016. High-molecular-weight polyvinylamine/piperazine glycinate membranes for CO 2 capture from flue gas. J. Membr. Sci. 514, 376-384 .",
+      "text": "Chen, Y. , Ho, W.S.W. , 2016. High-molecular-weight polyvinylamine/piperazine glycinate membranes for CO 2 capture from flue gas. J. Membr. Sci. 514, 376-384 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0004",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90201735,
+            "t": 718.5372998301563,
+            "r": 558.4149331699997,
+            "b": 696.7668869370663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "Chen, Y. , Zhao, L. , Wang, B. , Dutta, P. , Ho, W.S.W. , 2016. Amine-containing polymer/zeolite Y composite membranes for CO 2 /N 2 separation. J. Membr. Sci. 497, 21-28 .",
+      "text": "Chen, Y. , Zhao, L. , Wang, B. , Dutta, P. , Ho, W.S.W. , 2016. Amine-containing polymer/zeolite Y composite membranes for CO 2 /N 2 separation. J. Membr. Sci. 497, 21-28 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0005",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9031007099999,
+            "t": 694.6333757101562,
+            "r": 558.4670253299994,
+            "b": 672.8628880370663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "Danaci, D. , Bui, M. , Petit, C. , Dowell, N.M. , 2021. En route to zero emissions for power and industry with amine-based post-combustion capture. Environ. Sci. Technol. 55, 10619-10632 .",
+      "text": "Danaci, D. , Bui, M. , Petit, C. , Dowell, N.M. , 2021. En route to zero emissions for power and industry with amine-based post-combustion capture. Environ. Sci. Technol. 55, 10619-10632 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0006",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9005502699997,
+            "t": 670.7205007101562,
+            "r": 558.3269832100001,
+            "b": 656.9150371570663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "Deng, L. , H\u00e4gg, M.-.B. , 2010. Swelling behavior and gas permeation performance of PVAm/PVA blend FSC membrane. J. Membr. Sci. 363, 295-301 .",
+      "text": "Deng, L. , H\u00e4gg, M.-.B. , 2010. Swelling behavior and gas permeation performance of PVAm/PVA blend FSC membrane. J. Membr. Sci. 363, 295-301 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0007",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90141995999994,
+            "t": 654.7815259301564,
+            "r": 558.4831976599999,
+            "b": 633.0110382570664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "Deng, X. , Zou, C. , Han, Y. , Lin, L.-.C. , Ho, W.S.W. , 2020. Computational evaluation of carriers in facilitated transport membranes for postcombustion carbon capture. J. Phys. Chem. C 124, 25322-25330 .",
+      "text": "Deng, X. , Zou, C. , Han, Y. , Lin, L.-.C. , Ho, W.S.W. , 2020. Computational evaluation of carriers in facilitated transport membranes for postcombustion carbon capture. J. Phys. Chem. C 124, 25322-25330 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0008",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90333279000015,
+            "t": 630.8686004901564,
+            "r": 558.3794380499999,
+            "b": 617.0719636970664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            167
+          ]
+        }
+      ],
+      "orig": "Deutz, S. , Bardow, A. , 2021. Life-cycle assessment of an industrial direct air capture process based on temperature-vacuum swing adsorption. Nat. Energy 6, 203-213 .",
+      "text": "Deutz, S. , Bardow, A. , 2021. Life-cycle assessment of an industrial direct air capture process based on temperature-vacuum swing adsorption. Nat. Energy 6, 203-213 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0009",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90286599999985,
+            "t": 614.9295259301563,
+            "r": 558.4272588000001,
+            "b": 601.1239878170663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "Dods, M.N. , Kim, E.J. , Long, J.R. , Weston, S.C. , 2021. Deep CCS: moving beyond 90% carbon dioxide capture. Environ. Sci. Technol. 55, 8524-8534 .",
+      "text": "Dods, M.N. , Kim, E.J. , Long, J.R. , Weston, S.C. , 2021. Deep CCS: moving beyond 90% carbon dioxide capture. Environ. Sci. Technol. 55, 8524-8534 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0010",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90299246999996,
+            "t": 598.9904765901564,
+            "r": 558.4025184799997,
+            "b": 577.2197134770663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            198
+          ]
+        }
+      ],
+      "orig": "Du, Y. , Gao, T. , Rochelle, G.T. , Bhown, A.S. , 2021. Zeroand negative-emissions fossil-fired power plants using CO 2 capture by conventional aqueous amines. Int. J. Greenh. Gas Con. 111, 103473 .",
+      "text": "Du, Y. , Gao, T. , Rochelle, G.T. , Bhown, A.S. , 2021. Zeroand negative-emissions fossil-fired power plants using CO 2 capture by conventional aqueous amines. Int. J. Greenh. Gas Con. 111, 103473 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0011",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9033809300001,
+            "t": 575.0772757101562,
+            "r": 558.31555437,
+            "b": 553.3067880370663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "Goddard, J.D. , Schultz, J.S. , Suchdeo, S.R. , 1974. Facilitated transport via carrier-mediated diffusion in membranes: part II. Mathematical aspects and analyses. AIChE J 20, 625-645 .",
+      "text": "Goddard, J.D. , Schultz, J.S. , Suchdeo, S.R. , 1974. Facilitated transport via carrier-mediated diffusion in membranes: part II. Mathematical aspects and analyses. AIChE J 20, 625-645 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0012",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9059313700001,
+            "t": 551.1646007101564,
+            "r": 558.3186636099999,
+            "b": 537.3677134770663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "Han, Y. , Ho, W.S.W. , 2020a. Design of amine-containing CO 2 -selective membrane process for carbon capture from flue gas. Ind. Eng. Chem. Res. 59, 5340-5350 .",
+      "text": "Han, Y. , Ho, W.S.W. , 2020a. Design of amine-containing CO 2 -selective membrane process for carbon capture from flue gas. Ind. Eng. Chem. Res. 59, 5340-5350 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0013",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90266451000014,
+            "t": 535.2252757101563,
+            "r": 558.3218516599999,
+            "b": 513.4547880370664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            178
+          ]
+        }
+      ],
+      "orig": "Han, Y. , Ho, W.S.W. , 2020b. Recent advances in polymeric facilitated transport membranes for carbon dioxide separation and hydrogen purification. J. Polym. Sci. 58, 2435-2449 .",
+      "text": "Han, Y. , Ho, W.S.W. , 2020b. Recent advances in polymeric facilitated transport membranes for carbon dioxide separation and hydrogen purification. J. Polym. Sci. 58, 2435-2449 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0014",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90075168,
+            "t": 511.3215007101563,
+            "r": 558.3052909599999,
+            "b": 497.51578693706637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "Han, Y. , Ho, W.S.W. , 2021a. Facilitated transport membranes for H 2 purification from coal-derived syngas: a techno-economic analysis. J. Membr. Sci. 636, 119549 .",
+      "text": "Han, Y. , Ho, W.S.W. , 2021a. Facilitated transport membranes for H 2 purification from coal-derived syngas: a techno-economic analysis. J. Membr. Sci. 636, 119549 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0015",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9026816699999,
+            "t": 495.3733491701563,
+            "r": 558.3488700199999,
+            "b": 481.57671347706633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "Han, Y. , Ho, W.S.W. , 2021b. Polymeric membranes for CO 2 separation and capture. J. Membr. Sci. 628, 119244 .",
+      "text": "Han, Y. , Ho, W.S.W. , 2021b. Polymeric membranes for CO 2 separation and capture. J. Membr. Sci. 628, 119244 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0016",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9022656399999,
+            "t": 479.43427571015627,
+            "r": 558.3240032299998,
+            "b": 464.4593015062449,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "Han, Y. , Wu, D. , Ho, W.S.W. , 2018. Nanotube-reinforced facilitated transport membrane for CO 2 /N 2 separation with vacuum operation. J. Membr. Sci. 567, 261-271 .",
+      "text": "Han, Y. , Wu, D. , Ho, W.S.W. , 2018. Nanotube-reinforced facilitated transport membrane for CO 2 /N 2 separation with vacuum operation. J. Membr. Sci. 567, 261-271 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0017",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90152269000004,
+            "t": 463.4952998301563,
+            "r": 558.4163513399999,
+            "b": 441.72478693706637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "Han, Y. , Wu, D. , Ho, W.S.W. , 2019. Simultaneous effects of temperature and vacuum and feed pressures on facilitated transport membrane for CO 2 /N 2 separation. J. Membr. Sci. 573, 476-484 .",
+      "text": "Han, Y. , Wu, D. , Ho, W.S.W. , 2019. Simultaneous effects of temperature and vacuum and feed pressures on facilitated transport membrane for CO 2 /N 2 separation. J. Membr. Sci. 573, 476-484 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0018",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9022518400001,
+            "t": 439.5823491701563,
+            "r": 558.3208013799999,
+            "b": 425.78581215706635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "Ho, W.S.W. , Sirkar, K.K. , 2001. Membrane Handbook, reprint ed. Kluwer Academic Publishers, Boston .",
+      "text": "Ho, W.S.W. , Sirkar, K.K. , 2001. Membrane Handbook, reprint ed. Kluwer Academic Publishers, Boston .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0019",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90097662000016,
+            "t": 423.6433743901563,
+            "r": 558.4731901700004,
+            "b": 401.87278693706634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            204
+          ]
+        }
+      ],
+      "orig": "House, K.Z. , Baclig, A.C. , Ranjan, M. , van Nierop, E.A. , Wilcox, J. , Herzog, H.J. , 2011. Economic and energetic analysis of capturing CO 2 from ambient air. Proc. Natl. Acad. Sci. 108, 20428-20433 .",
+      "text": "House, K.Z. , Baclig, A.C. , Ranjan, M. , van Nierop, E.A. , Wilcox, J. , Herzog, H.J. , 2011. Economic and energetic analysis of capturing CO 2 from ambient air. Proc. Natl. Acad. Sci. 108, 20428-20433 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0020",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90189494,
+            "t": 399.7392757101563,
+            "r": 558.2573210900002,
+            "b": 385.9338121570663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "Inventory of US Greenhouse Gas Emissions and Sinks: 1990-2013, U.S. environmental protection agency, Washington, DC, USA, 2015.",
+      "text": "Inventory of US Greenhouse Gas Emissions and Sinks: 1990-2013, U.S. environmental protection agency, Washington, DC, USA, 2015.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90125733,
+            "t": 383.79137439015625,
+            "r": 558.5219292399997,
+            "b": 354.0561130370663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            277
+          ]
+        }
+      ],
+      "orig": "James, R. , Zoelle, A. , Keairns, D. , Turner, M. , Woods, M. , Kuehn, N. , 2019. Cost and Performance Baseline For Fossil Energy Plants Volume 1: Bituminous Coal and Natural Gas to Electricity. U.S. Department of Energy, Washington, DC, USA Report Number: DOE/NETL-PUB-22638 .",
+      "text": "James, R. , Zoelle, A. , Keairns, D. , Turner, M. , Woods, M. , Kuehn, N. , 2019. Cost and Performance Baseline For Fossil Energy Plants Volume 1: Bituminous Coal and Natural Gas to Electricity. U.S. Department of Energy, Washington, DC, USA Report Number: DOE/NETL-PUB-22638 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0022",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9042048800001,
+            "t": 351.91367527015626,
+            "r": 558.4598405699999,
+            "b": 330.1430371570663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "Karacan, C.\u00d6. , Ruiz, F.A. , Cot\u00e8, M. , Phipps, S. , 2011. Coal mine methane: a review of capture and utilization practices with benefits to mining safety and to greenhouse gas reduction. Int. J. Coal Geol. 86, 121-156 .",
+      "text": "Karacan, C.\u00d6. , Ruiz, F.A. , Cot\u00e8, M. , Phipps, S. , 2011. Coal mine methane: a review of capture and utilization practices with benefits to mining safety and to greenhouse gas reduction. Int. J. Coal Geol. 86, 121-156 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0023",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9051171000001,
+            "t": 328.00952593015626,
+            "r": 558.46343194,
+            "b": 314.20388693706633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "Keith, D.W. , Holmes, G. , St. Angelo, D. , Heidel, K. , 2018. A process for capturing CO 2 from the atmosphere. Joule 2, 1573-1594 .",
+      "text": "Keith, D.W. , Holmes, G. , St. Angelo, D. , Heidel, K. , 2018. A process for capturing CO 2 from the atmosphere. Joule 2, 1573-1594 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0024",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9033329799999,
+            "t": 312.06144917015627,
+            "r": 558.3612187299998,
+            "b": 290.2907628170663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "Kortunov, P.V. , Siskin, M. , Paccagnini, M. , Thomann, H. , 2016. CO 2 reaction mechanisms with hindered alkanolamines: control and promotion of reaction pathways. Energy Fuels 30, 1223-1236 .",
+      "text": "Kortunov, P.V. , Siskin, M. , Paccagnini, M. , Thomann, H. , 2016. CO 2 reaction mechanisms with hindered alkanolamines: control and promotion of reaction pathways. Energy Fuels 30, 1223-1236 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0025",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90058693000015,
+            "t": 288.15725159015625,
+            "r": 558.3975624999998,
+            "b": 266.38671347706634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "Lackner, K.S. , Grimes, P. , Ziock, H.-.J. , 2001. Capturing carbon dioxide from air. In: Carbon Capture and Storage: CO 2 Management Technologies. Apple Academic Press, Inc, Oakvile, pp. 363-376 .",
+      "text": "Lackner, K.S. , Grimes, P. , Ziock, H.-.J. , 2001. Capturing carbon dioxide from air. In: Carbon Capture and Storage: CO 2 Management Technologies. Apple Academic Press, Inc, Oakvile, pp. 363-376 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0026",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90338893,
+            "t": 264.2442757101562,
+            "r": 558.4271441199998,
+            "b": 242.4738134770663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            220
+          ]
+        }
+      ],
+      "orig": "Matsuoka, A. , Otani, A. , Kamio, E. , Matsuyama, H. , 2022. A gradient viscosity model for estimating CO 2 permeability of amino acid ionic liquid-based facilitated transport membrane. Sep. Purif. Technol. 280, 119847 .",
+      "text": "Matsuoka, A. , Otani, A. , Kamio, E. , Matsuyama, H. , 2022. A gradient viscosity model for estimating CO 2 permeability of amino acid ionic liquid-based facilitated transport membrane. Sep. Purif. Technol. 280, 119847 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0027",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9020431999998,
+            "t": 240.3313757101563,
+            "r": 558.5329168699994,
+            "b": 218.56088693706636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "Qiao, Z. , Wang, Z. , Zhang, C. , Yuan, S. , Zhu, Y. , Wang, J. , Wang, S. , 2013. PVAm-PIP/PS composite membrane with high performance for CO 2 /N 2 separation. AIChE J. 59, 215-228 .",
+      "text": "Qiao, Z. , Wang, Z. , Zhang, C. , Yuan, S. , Zhu, Y. , Wang, J. , Wang, S. , 2013. PVAm-PIP/PS composite membrane with high performance for CO 2 /N 2 separation. AIChE J. 59, 215-228 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0028",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90378304000023,
+            "t": 216.4273757101563,
+            "r": 558.3159564800001,
+            "b": 194.64796149706626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "Schultz, J.S. , Goddard, J.D. , Suchdeo, S.R. , 1974. Facilitated transport via carrier-mediated diffusion in membranes: part I. Mechanistic aspects, experimental systems and characteristic regimes. AIChE J. 20, 417-445 .",
+      "text": "Schultz, J.S. , Goddard, J.D. , Suchdeo, S.R. , 1974. Facilitated transport via carrier-mediated diffusion in membranes: part I. Mechanistic aspects, experimental systems and characteristic regimes. AIChE J. 20, 417-445 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0029",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9025078200001,
+            "t": 192.5145007101563,
+            "r": 558.4264760299997,
+            "b": 170.74401303706634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            197
+          ]
+        }
+      ],
+      "orig": "Shafiee, A. , Nomvar, M. , Liu, Z. , Abbas, A. , 2017. Automated process synthesis for optimal flowsheet design of a hybrid membrane cryogenic carbon capture process. J. Clean. Prod. 150, 309-323 .",
+      "text": "Shafiee, A. , Nomvar, M. , Liu, Z. , Abbas, A. , 2017. Automated process synthesis for optimal flowsheet design of a hybrid membrane cryogenic carbon capture process. J. Clean. Prod. 150, 309-323 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0030",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.9039960600002,
+            "t": 168.60157527015622,
+            "r": 558.4481547700003,
+            "b": 138.85678693706632,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            288
+          ]
+        }
+      ],
+      "orig": "Sinha, A. , Darunte, L.A. , Jones, C.W. , Realff, M.J. , Kawajiri, Y. , 2017. Systems design and economic analysis of direct air capture of CO 2 through temperature vacuum swing adsorption using MIL-101(Cr)-PEI-800 and mmen-Mg 2 (dobpdc) MOF adsorbents. Ind. Eng. Chem. Res. 56, 750-764 .",
+      "text": "Sinha, A. , Darunte, L.A. , Jones, C.W. , Realff, M.J. , Kawajiri, Y. , 2017. Systems design and economic analysis of direct air capture of CO 2 through temperature vacuum swing adsorption using MIL-101(Cr)-PEI-800 and mmen-Mg 2 (dobpdc) MOF adsorbents. Ind. Eng. Chem. Res. 56, 750-764 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0031",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90213366,
+            "t": 136.72327571015626,
+            "r": 557.8427816000001,
+            "b": 122.91788693706633,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "Tong, Z. , Ho, W.S.W. , 2017a. New sterically hindered polyvinylamine membranes for CO 2 separation and capture. J. Membr. Sci. 543, 202-211 .",
+      "text": "Tong, Z. , Ho, W.S.W. , 2017a. New sterically hindered polyvinylamine membranes for CO 2 separation and capture. J. Membr. Sci. 543, 202-211 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0032",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90217079,
+            "t": 120.78437571015627,
+            "r": 558.3203898500001,
+            "b": 106.97888693706636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "Tong, Z. , Ho, W.S.W. , 2017b. Facilitated transport membranes for CO 2 separation and capture. Sep. Sci. Technol. 52, 156-167 .",
+      "text": "Tong, Z. , Ho, W.S.W. , 2017b. Facilitated transport membranes for CO 2 separation and capture. Sep. Sci. Technol. 52, 156-167 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0033",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 306.90247792,
+            "t": 104.8453757101563,
+            "r": 558.3625118200003,
+            "b": 91.03978693706631,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "Zeman, F. , 2007. Energy and material balance of CO 2 capture from ambient air. Environ. Sci. Technol. 41, 7558-7563 .",
+      "text": "Zeman, F. , 2007. Energy and material balance of CO 2 capture from ambient air. Environ. Sci. Technol. 41, 7558-7563 .",
+      "hyperlink": "http://refhub.elsevier.com/S2772-4212(22)00002-2/sbref0034",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 296.13902321999996,
+            "t": 33.10583656015626,
+            "r": 299.72876751999996,
+            "b": 27.27432366706637,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.815330505371094,
+            "t": 731.6297416687012,
+            "r": 97.98255157470703,
+            "b": 663.671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 174.94015502929688,
+            "t": 567.7715911865234,
+            "r": 191.1625518798828,
+            "b": 558.0018310546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 503.51190185546875,
+            "t": 737.2166328430176,
+            "r": 558.6629638671875,
+            "b": 664.5415496826172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 498.56500244140625,
+            "t": 626.1553649902344,
+            "r": 528.165771484375,
+            "b": 596.0966949462891,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 50.422576904296875,
+            "t": 735.6391372680664,
+            "r": 543.3856201171875,
+            "b": 557.8616027832031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 69.96541595458984,
+            "t": 737.2172584533691,
+            "r": 525.9567260742188,
+            "b": 379.7900085449219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 48.94520568847656,
+            "t": 736.7547912597656,
+            "r": 277.2842712402344,
+            "b": 561.2282562255859,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 104.21881103515625,
+            "t": 255.210693359375,
+            "r": 292.369873046875,
+            "b": 78.0728759765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2449951171875,
+        "height": 793.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2449951171875,
+        "height": 793.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2449951171875,
+        "height": 793.9199829101562
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.2449951171875,
+        "height": 793.9199829101562
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.2449951171875,
+        "height": 793.9199829101562
+      },
+      "page_no": 5
+    }
+  }
+}

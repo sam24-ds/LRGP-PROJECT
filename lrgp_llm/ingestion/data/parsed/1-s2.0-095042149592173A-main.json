@@ -1,0 +1,5907 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1-s2.0-095042149592173A-main",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9035904572006284383,
+    "filename": "1-s2.0-095042149592173A-main.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/texts/104"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 403.44,
+            "t": 804.36936,
+            "r": 563.4917556000003,
+            "b": 770.58,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "Gus  Sep. Pur$ Vol. 9,  No.  1.  pp. 27-30,  1995 Copyright cj 1995  Elsevier Science Ltd Printed in Great  Britain.  All rights  reserved 095@4214/95 $10.00  +  0.00",
+      "text": "Gus  Sep. Pur$ Vol. 9,  No.  1.  pp. 27-30,  1995 Copyright cj 1995  Elsevier Science Ltd Printed in Great  Britain.  All rights  reserved 095@4214/95 $10.00  +  0.00"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 100.56,
+            "t": 723.25008,
+            "r": 492.45382959999995,
+            "b": 658.92,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "The  permeabilities of carbon dioxide,  nitrous oxide  and  oxygen and  their mixtures through silicone rubber  and  cellulose acetate membranes",
+      "text": "The  permeabilities of carbon dioxide,  nitrous oxide  and  oxygen and  their mixtures through silicone rubber  and  cellulose acetate membranes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 104.64,
+            "t": 608.8164,
+            "r": 307.12974,
+            "b": 598.74,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Ronald Hughes and Boquan Jiang",
+      "text": "Ronald Hughes and Boquan Jiang",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 104.64,
+            "t": 585.66504,
+            "r": 469.10112499999997,
+            "b": 577.38,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Department of Chemical Engineering, University of Salford,  Salford M5 4WT, UK",
+      "text": "Department of Chemical Engineering, University of Salford,  Salford M5 4WT, UK"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 104.64008749999999,
+            "t": 563.82504,
+            "r": 206.62474999999992,
+            "b": 555.54,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Received 18  July 1994",
+      "text": "Received 18  July 1994"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 103.20121249999988,
+            "t": 541.9850399999999,
+            "r": 515.93865,
+            "b": 435.5399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            864
+          ]
+        }
+      ],
+      "orig": "Measurements have been made of the  permeability of nitrous  oxide (N20), carbon dioxide (CO*) and  oxygen (02)  through silicone  rubber and  cellulose  acetate membranes using  a flat sheet  permeator. Measurements have also  been made of individual  gas  permeabilities from  a mixed feed stream. N20 had the highest permeability when using the silicone rubber membrane, followed by  C02, with  O2  an order  of magnitude less.  All  three  gas  permeability coefficients were independent of  feed pressure for  this  membrane and N20 and COz permeability coefficients were temperature independent. For the cellulose acetate membrane, N20 and CO2 permeabilities varied  with  feed pressure and all  three  gases gave positive  temperature coefficients.  No separation of CO2 from N20 could be  achieved under any conditions with the  cellulose acetate membrane.",
+      "text": "Measurements have been made of the  permeability of nitrous  oxide (N20), carbon dioxide (CO*) and  oxygen (02)  through silicone  rubber and  cellulose  acetate membranes using  a flat sheet  permeator. Measurements have also  been made of individual  gas  permeabilities from  a mixed feed stream. N20 had the highest permeability when using the silicone rubber membrane, followed by  C02, with  O2  an order  of magnitude less.  All  three  gas  permeability coefficients were independent of  feed pressure for  this  membrane and N20 and COz permeability coefficients were temperature independent. For the cellulose acetate membrane, N20 and CO2 permeabilities varied  with  feed pressure and all  three  gases gave positive  temperature coefficients.  No separation of CO2 from N20 could be  achieved under any conditions with the  cellulose acetate membrane."
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 103.68123749999987,
+            "t": 421.74503999999996,
+            "r": 141.7807499999999,
+            "b": 413.4599999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Keywords:",
+      "text": "Keywords:"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 162.24104999999986,
+            "t": 421.74503999999996,
+            "r": 306.27103749999986,
+            "b": 413.4599999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "membranes; gas permeabilities",
+      "text": "membranes; gas permeabilities"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 55.2,
+            "t": 384.4164,
+            "r": 116.07312000000002,
+            "b": 374.34000000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Introduction",
+      "text": "Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.23999399999997,
+            "t": 367.68071999999995,
+            "r": 302.04185003999993,
+            "b": 249.05999999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            589
+          ]
+        }
+      ],
+      "orig": "The  use of  nitrous oxide (N,O)  as an anaesthetic is  well established despite the  development of more specific anaesthetics in recent years.  Usually, N,O is  combined with oxygen  (0,) in  the proportion  of  70% N,O to 30% O,, with small  additions  of  halothanes and other specialized additives as required. One problem arising from the use of  N,O is  the  concern  that  small quantities can  persist  in the operating  theatre atmosphere during use and  the long term effects of  these  small quantities  of gas on  the personnel  employed in the operating  theatre are unknown.",
+      "text": "The  use of  nitrous oxide (N,O)  as an anaesthetic is  well established despite the  development of more specific anaesthetics in recent years.  Usually, N,O is  combined with oxygen  (0,) in  the proportion  of  70% N,O to 30% O,, with small  additions  of  halothanes and other specialized additives as required. One problem arising from the use of  N,O is  the  concern  that  small quantities can  persist  in the operating  theatre atmosphere during use and  the long term effects of  these  small quantities  of gas on  the personnel  employed in the operating  theatre are unknown."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.51998499999985,
+            "t": 246.72071999999991,
+            "r": 302.04202481999977,
+            "b": 128.81999999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            638
+          ]
+        }
+      ],
+      "orig": "If  the N,O from  the patient's  exhaled  gas could  be largely recovered  by  elimination  of the carbon  dioxide (CO,) present  in  this stream,  the  exhaled gas  (after appropriate  make-up of  the constituent gases)  could  be recirculated  to the patient.  A  number of  processes could be used  for this  purpose  including  removal of CO, by absorption in suitable  solid  absorbents such as sodalime'~2,  but most  of  these methods require frequent replacement of  the  absorbent,  or  regeneration.  One method which  does not suffer  from  these disadvantages is  the  use  of  a  membrane to  separate  the  individual gases.",
+      "text": "If  the N,O from  the patient's  exhaled  gas could  be largely recovered  by  elimination  of the carbon  dioxide (CO,) present  in  this stream,  the  exhaled gas  (after appropriate  make-up of  the constituent gases)  could  be recirculated  to the patient.  A  number of  processes could be used  for this  purpose  including  removal of CO, by absorption in suitable  solid  absorbents such as sodalime'~2,  but most  of  these methods require frequent replacement of  the  absorbent,  or  regeneration.  One method which  does not suffer  from  these disadvantages is  the  use  of  a  membrane to  separate  the  individual gases."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 52.31996999999984,
+            "t": 126.96071999999992,
+            "r": 299.08892123999976,
+            "b": 63.539999999999964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.48105899999973,
+            "t": 382.56071999999995,
+            "r": 565.7613055199997,
+            "b": 296.5799999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            332,
+            742
+          ]
+        }
+      ],
+      "orig": "There are very  few  reports of measurement of the permeability of  N,O in  membranes. Stern et  a1.3 measured the permeabilities  of  both  N,O and  CO, and mixtures  of  these gases in polyethylene  membranes, but the feed  pressures involved  were  high (up to 60 bars for the pure gas measurements).  Mixtures  of  N,O and  CO, were tested at 27  bars  for approximately equimolar mixtures  and  an  enrichment of N,O of about  20% in the  permeate was obtained at  a  stage  cut  of  0.1. Niedzielski and  Putnam4 have  reported  results  on  the permeation  of  N,O and  CO, through  fluoropolymers  at 14.6  bars  and  obtained an ideal  separation factor  of  three for  CO,/N,O. However, these  membranes are  not readily  available.",
+      "text": "There are very  few  reports of measurement of the permeability of  N,O in  membranes. Stern et  a1.3 measured the permeabilities  of  both  N,O and  CO, and mixtures  of  these gases in polyethylene  membranes, but the feed  pressures involved  were  high (up to 60 bars for the pure gas measurements).  Mixtures  of  N,O and  CO, were tested at 27  bars  for approximately equimolar mixtures  and  an  enrichment of N,O of about  20% in the  permeate was obtained at  a  stage  cut  of  0.1. Niedzielski and  Putnam4 have  reported  results  on  the permeation  of  N,O and  CO, through  fluoropolymers  at 14.6  bars  and  obtained an ideal  separation factor  of  three for  CO,/N,O. However, these  membranes are  not readily  available."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.04104099999984,
+            "t": 294.9607199999998,
+            "r": 562.4102414099997,
+            "b": 198.41999999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            476
+          ]
+        }
+      ],
+      "orig": "The aim  of the  present  work was to measure the permeabilities of N,O and  CO, and  also 0, through commercially available membranes under  conditions  of different temperatures and pressures to  determine whether  an effective separation of  N,O from CO, could be obtained. If  this  were possible  then passage of  exhaled gas  through a  membrane module would provide a convenient and largely maintenance-free method for purification  and  recirculation  of  the N,O gas.",
+      "text": "The aim  of the  present  work was to measure the permeabilities of N,O and  CO, and  also 0, through commercially available membranes under  conditions  of different temperatures and pressures to  determine whether  an effective separation of  N,O from CO, could be obtained. If  this  were possible  then passage of  exhaled gas  through a  membrane module would provide a convenient and largely maintenance-free method for purification  and  recirculation  of  the N,O gas."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 317.28,
+            "t": 174.89639999999997,
+            "r": 378.46416000000033,
+            "b": 164.82000000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Experimental",
+      "text": "Experimental",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.83998499999973,
+            "t": 158.16071999999997,
+            "r": 564.8436308400002,
+            "b": 61.860000000000014,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            541
+          ]
+        }
+      ],
+      "orig": "Permeability  measurements were  made in a flat  sheet permeator  at  temperatures  from 20 to  60\u00b0C. The  effective area  of  the  membranes was  8.17 x  10m5 m2  and each was supported  on a bronze  sinter  of  average  pore size  60 urn for  the  permeation  measurements. Flow  rates  of  the feed stream  were  controlled by  mass  flow  controllers while the  flow rates  of  the  permeate  stream were measured  with either  rotameters or soap  film  meters depending on  the flow rates  of  the permeate.  CO, concentrations  in both",
+      "text": "Permeability  measurements were  made in a flat  sheet permeator  at  temperatures  from 20 to  60\u00b0C. The  effective area  of  the  membranes was  8.17 x  10m5 m2  and each was supported  on a bronze  sinter  of  average  pore size  60 urn for  the  permeation  measurements. Flow  rates  of  the feed stream  were  controlled by  mass  flow  controllers while the  flow rates  of  the  permeate  stream were measured  with either  rotameters or soap  film  meters depending on  the flow rates  of  the permeate.  CO, concentrations  in both"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 276.96,
+            "t": 32.705040000000054,
+            "r": 555.0139999999999,
+            "b": 24.41999999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "Gas Separation &  Purification 1995 Volume 9  Number 1 27",
+      "text": "Gas Separation &  Purification 1995 Volume 9  Number 1 27"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.0,
+            "t": 802.8650668554687,
+            "r": 344.8189374999999,
+            "b": 794.5800268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "The  permeabilities of COP, N,O and 02:  R.  Hughes and B. Jiang",
+      "text": "The  permeabilities of COP, N,O and 02:  R.  Hughes and B. Jiang"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.99999999999997,
+            "t": 777.7937068554688,
+            "r": 291.9685863500001,
+            "b": 762.1800268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Table 1 Variation of feed gas flow with pressure ratio  and stage cut",
+      "text": "Table 1 Variation of feed gas flow with pressure ratio  and stage cut"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.999999999999915,
+            "t": 673.2007468554688,
+            "r": 297.94198256999965,
+            "b": 587.700026855469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            401
+          ]
+        }
+      ],
+      "orig": "feed and permeate streams  were  measured using  an infra-red  analyser.  Two types of  commercially available membranes were used,  namely, a silicone  rubber membrane of  thickness  38 urn obtained from Sterilin Ltd. and  a cellulose  acetate membrane of thickness 250 urn provided by W.R. Grace. The latter was of  the asymmetric type with a thin separation layer supported on  a coarser substrate.",
+      "text": "feed and permeate streams  were  measured using  an infra-red  analyser.  Two types of  commercially available membranes were used,  namely, a silicone  rubber membrane of  thickness  38 urn obtained from Sterilin Ltd. and  a cellulose  acetate membrane of thickness 250 urn provided by W.R. Grace. The latter was of  the asymmetric type with a thin separation layer supported on  a coarser substrate."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.997555000000034,
+            "t": 585.6007468554691,
+            "r": 298.3858542599999,
+            "b": 522.1800268554689,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            325
+          ]
+        }
+      ],
+      "orig": "Flow  rates  of  the  feed  gas  were varied  with the  pressure ratio and stage cut  as shown in  Table 1, where the pressure ratio, I,  is  the ratio  of  feed  to  permeate  pressure and  the stage cut is  the ratio  of permeate  flow to feed flow. In most  experiments the permeate  stream  was  at atmospheric  pressure.",
+      "text": "Flow  rates  of  the  feed  gas  were varied  with the  pressure ratio and stage cut  as shown in  Table 1, where the pressure ratio, I,  is  the ratio  of  feed  to  permeate  pressure and  the stage cut is  the ratio  of permeate  flow to feed flow. In most  experiments the permeate  stream  was  at atmospheric  pressure."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.997555000000006,
+            "t": 520.080746855469,
+            "r": 298.62585726,
+            "b": 445.62002685546884,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            359
+          ]
+        }
+      ],
+      "orig": "Pure  gas permeabilities for N,O, CO, and  0,  were measured for  both  membrane materials.  For  the case of the silicone  rubber  membrane, permeabilities were  also measured for  mixtures  of CO, and  N,O, while for the cellulose  acetate  membranes, permeabilities  of  the individual gases were determined for  ternary gas mixtures  of  CO,, N,O and  Oz.",
+      "text": "Pure  gas permeabilities for N,O, CO, and  0,  were measured for  both  membrane materials.  For  the case of the silicone  rubber  membrane, permeabilities were  also measured for  mixtures  of CO, and  N,O, while for the cellulose  acetate  membranes, permeabilities  of  the individual gases were determined for  ternary gas mixtures  of  CO,, N,O and  Oz."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.95756700000004,
+            "t": 427.2007468554688,
+            "r": 170.23634130000002,
+            "b": 418.0200268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Results and discussion",
+      "text": "Results and discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.72,
+            "t": 404.9450668554687,
+            "r": 160.07218749999998,
+            "b": 396.6600268554687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Silicone rubber membrane",
+      "text": "Silicone rubber membrane",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.99962200000007,
+            "t": 388.3207468554687,
+            "r": 298.8888164099999,
+            "b": 269.94002685546855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            650
+          ]
+        }
+      ],
+      "orig": "Figure  1  shows  the  permeability coefficients obtained  for the three pure  gases as a function  of feed pressure at room temperature.  Clearly, for all three gases  (CO,, N,O and  0,),  the  permeability coefficient is  independent of  pressure on the feed  side. However, as  can be seen,  the permeability of  N,O is  almost  twice as great as that of CO,,  while the permeability coefficient for  0,  is  almost one  order  of magnitude less  than  the N,O value. The results obtained for  the  permeability coefficients for  CO, and0, of2.59 x  lo-'and0.42 x  lo-' m3  m  mm2  s-l kPa-  ',  respectively, are in excellent  agreement  with the",
+      "text": "Figure  1  shows  the  permeability coefficients obtained  for the three pure  gases as a function  of feed pressure at room temperature.  Clearly, for all three gases  (CO,, N,O and  0,),  the  permeability coefficient is  independent of  pressure on the feed  side. However, as  can be seen,  the permeability of  N,O is  almost  twice as great as that of CO,,  while the permeability coefficient for  0,  is  almost one  order  of magnitude less  than  the N,O value. The results obtained for  the  permeability coefficients for  CO, and0, of2.59 x  lo-'and0.42 x  lo-' m3  m  mm2  s-l kPa-  ',  respectively, are in excellent  agreement  with the"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 291.6060433,
+            "t": 248.73410685546878,
+            "r": 296.2087455800001,
+            "b": 243.36002685546873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ",",
+      "text": ","
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 74.88,
+            "t": 250.65410685546874,
+            "r": 81.85891871999999,
+            "b": 245.2800268554687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "5,",
+      "text": "5,"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 99.84074558000003,
+            "t": 125.85410685546867,
+            "r": 104.44140236000003,
+            "b": 120.48002685546874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "+",
+      "text": "+"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 164.64251286000004,
+            "t": 127.53410685546874,
+            "r": 169.48519320000003,
+            "b": 122.16002685546869,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 270.00539966,
+            "t": 123.93410685546871,
+            "r": 274.6081019400001,
+            "b": 118.56002685546878,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 76.08005394000003,
+            "t": 113.13410685546876,
+            "r": 80.81260456000003,
+            "b": 107.76002685546871,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 122.16132340000003,
+            "t": 116.01410685546875,
+            "r": 126.76402568000002,
+            "b": 110.6400268554687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ",",
+      "text": ","
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 141.84189710000004,
+            "t": 116.01410685546875,
+            "r": 146.57444772000002,
+            "b": 110.6400268554687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 118.80122146000004,
+            "t": 108.81410685546871,
+            "r": 128.28604132000004,
+            "b": 103.44002685546877,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "200",
+      "text": "200"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 160.56239492000003,
+            "t": 108.81410685546871,
+            "r": 170.04721478,
+            "b": 103.44002685546877,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "400",
+      "text": "400"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 201.36349250000004,
+            "t": 108.5741068554687,
+            "r": 210.84831236,
+            "b": 103.20002685546876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "600",
+      "text": "600"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 245.04473590000003,
+            "t": 108.5741068554687,
+            "r": 254.52955576,
+            "b": 103.20002685546876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "800",
+      "text": "800"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 149.28211698000004,
+            "t": 99.2141068554688,
+            "r": 170.00548658000002,
+            "b": 93.84002685546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "PRESSURE",
+      "text": "PRESSURE"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 181.92306050000005,
+            "t": 99.2141068554688,
+            "r": 193.53004570000002,
+            "b": 93.84002685546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "DROP",
+      "text": "DROP"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 200.16360220000004,
+            "t": 99.2141068554688,
+            "r": 215.19254526000006,
+            "b": 93.84002685546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "1  kpa",
+      "text": "1  kpa"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.28017669000002,
+            "t": 85.39370685546874,
+            "r": 292.7785118400001,
+            "b": 60.18002685546867,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "Figure 1 Effect  of pressure difference on  the  permeabilities of the pure gases through the  silicone rubber membrane: (+) 02; (0) C&i (A) N,O",
+      "text": "Figure 1 Effect  of pressure difference on  the  permeabilities of the pure gases through the  silicone rubber membrane: (+) 02; (0) C&i (A) N,O"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 390.96,
+            "t": 767.6141068554688,
+            "r": 397.89375408,
+            "b": 762.2400268554687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "A+",
+      "text": "A+"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 423.84092158,
+            "t": 768.0941068554688,
+            "r": 446.45294224000037,
+            "b": 762.7200268554687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "-----A-A-",
+      "text": "-----A-A-"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 324.23816278,
+            "t": 758.7341068554688,
+            "r": 336.14698196000006,
+            "b": 753.3600268554687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "- 24",
+      "text": "- 24"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 390.96,
+            "t": 742.0337068554688,
+            "r": 407.9678791500002,
+            "b": 735.5400268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "04-04",
+      "text": "04-04"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 337.91999999999996,
+            "t": 647.1341068554688,
+            "r": 342.76268034000003,
+            "b": 641.7600268554687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 385.92133939999997,
+            "t": 644.9741068554688,
+            "r": 393.0103878400001,
+            "b": 639.6000268554687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "I/",
+      "text": "I/"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 334.79995793999996,
+            "t": 638.7341068554688,
+            "r": 344.1549294600001,
+            "b": 633.3600268554687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "2.6",
+      "text": "2.6"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 390.00145733999994,
+            "t": 638.7341068554688,
+            "r": 399.3564288600001,
+            "b": 633.3600268554687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3.0",
+      "text": "3.0"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 443.52294667999996,
+            "t": 639.4541068554688,
+            "r": 452.8779182000001,
+            "b": 634.0800268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3.2",
+      "text": "3.2"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 498.48446801999995,
+            "t": 639.6941068554688,
+            "r": 507.8394395400001,
+            "b": 634.3200268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "3.4",
+      "text": "3.4"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 405.36185321999994,
+            "t": 633.9341068554688,
+            "r": 414.56783052000003,
+            "b": 628.5600268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": ",,T",
+      "text": ",,T"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 419.04223903999997,
+            "t": 633.9341068554688,
+            "r": 431.0134868800001,
+            "b": 628.5600268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "I103",
+      "text": "I103"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 439.6828068,
+            "t": 633.9341068554688,
+            "r": 444.28550908000005,
+            "b": 628.5600268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ",",
+      "text": ","
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 451.20314462,
+            "t": 633.6941068554688,
+            "r": 460.4091219200001,
+            "b": 628.3200268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "l/K",
+      "text": "l/K"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 316.80013811999993,
+            "t": 618.4337068554688,
+            "r": 556.7784658,
+            "b": 602.3400268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        }
+      ],
+      "orig": "Figure 2 Effect  of temperature on gas permeabilities through the silicone rubber membrane: (+) 02; (0) CO2; (a) N2Q",
+      "text": "Figure 2 Effect  of temperature on gas permeabilities through the silicone rubber membrane: (+) 02; (0) CO2; (a) N2Q"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 316.55893500000013,
+            "t": 575.0407468554688,
+            "r": 559.4974383599999,
+            "b": 544.0200268554688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "results  of Li et aL5  who obtained  corresponding values of257 x  lo-' and0.48 x  10-l' m3mrn-'s-l kPaai for  CO, and  0,  permeation through  silicone  rubber.",
+      "text": "results  of Li et aL5  who obtained  corresponding values of257 x  lo-' and0.48 x  10-l' m3mrn-'s-l kPaai for  CO, and  0,  permeation through  silicone  rubber."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 316.558935,
+            "t": 542.4007468554689,
+            "r": 562.3678112399997,
+            "b": 434.3400268554687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            543
+          ]
+        }
+      ],
+      "orig": "The  effect of  temperature  for  the  range from 20 to  60\u00b0C is shown in Figure 2  for the  same three pure  gases. Variation  of operating  temperature within  this range does not change  the permeabilities  of  N,O and  CO, but does  have an  effect  on the  0, permeability,  which increases  with temperature. These  temperature  variation experiments  were  attempted  in order to see  whether  the results from Figure  I  could be modified with temperature to  give a better  separation of  CO, from N,O; obviously this  does not occur.",
+      "text": "The  effect of  temperature  for  the  range from 20 to  60\u00b0C is shown in Figure 2  for the  same three pure  gases. Variation  of operating  temperature within  this range does not change  the permeabilities  of  N,O and  CO, but does  have an  effect  on the  0, permeability,  which increases  with temperature. These  temperature  variation experiments  were  attempted  in order to see  whether  the results from Figure  I  could be modified with temperature to  give a better  separation of  CO, from N,O; obviously this  does not occur."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 316.5575400000001,
+            "t": 432.4807468554687,
+            "r": 566.5194620399996,
+            "b": 270.18002685546867,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            840
+          ]
+        }
+      ],
+      "orig": "Some  experiments  were carried  out in  mixtures of  CO, and  N,O,  the  CO, concentrations ranging from  1  to  6%. Measurements were  made at 20\u00b0C  and  1 bar pressure differential and  the results  are  shown in Table  2 together with the selectivity of  N,O/CO, under  these conditions. A  comparison of the  pure  component permeabilities given in Figure  I with the results  in Table  2 for  the gas mixtures shows  that  the  permeability coefficients for  both CO, and N,O are  reduced  in  the  mixture  compared with the  pure gas permeability coefficients, that  for  N,O being reduced  proportionately  more than  that for CO,, i.e. from4.6~ 10m1'to3.33x 10-11m3m2s~1kPaa1at1 bar pressure difference. However, as the amount of  CO, present in the mixture  was  increased,  the permeabilities of  both  gases increased slightly.",
+      "text": "Some  experiments  were carried  out in  mixtures of  CO, and  N,O,  the  CO, concentrations ranging from  1  to  6%. Measurements were  made at 20\u00b0C  and  1 bar pressure differential and  the results  are  shown in Table  2 together with the selectivity of  N,O/CO, under  these conditions. A  comparison of the  pure  component permeabilities given in Figure  I with the results  in Table  2 for  the gas mixtures shows  that  the  permeability coefficients for  both CO, and N,O are  reduced  in  the  mixture  compared with the  pure gas permeability coefficients, that  for  N,O being reduced  proportionately  more than  that for CO,, i.e. from4.6~ 10m1'to3.33x 10-11m3m2s~1kPaa1at1 bar pressure difference. However, as the amount of  CO, present in the mixture  was  increased,  the permeabilities of  both  gases increased slightly."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 316.7975849999996,
+            "t": 268.32074685546854,
+            "r": 561.9486493499993,
+            "b": 248.10002685546863,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "Values of  the  selectivity  factor, CI,  for  the  ratio N,O/CO, for these gas mixtures  are also presented  in",
+      "text": "Values of  the  selectivity  factor, CI,  for  the  ratio N,O/CO, for these gas mixtures  are also presented  in"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 316.08,
+            "t": 210.1937068554687,
+            "r": 555.3694330599999,
+            "b": 186.18002685546867,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "Table 2 Permeability of  CO, and N20 in  silicone rubber and selectivity of  N,O/CO, m mixtures of  the two gases (Q, =  m3 m m~~2 s' kPaa' x  10')",
+      "text": "Table 2 Permeability of  CO, and N20 in  silicone rubber and selectivity of  N,O/CO, m mixtures of  the two gases (Q, =  m3 m m~~2 s' kPaa' x  10')"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.03998505999994,
+            "t": 180.4337068554687,
+            "r": 404.45946011000007,
+            "b": 173.94002685546866,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "(Ap =  1  bar,  T= 293 K)",
+      "text": "(Ap =  1  bar,  T= 293 K)"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 555.362991,
+            "t": 152.4007468554687,
+            "r": 563.8382080499999,
+            "b": 143.22002685546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.52111249999999,
+            "t": 31.505066855468726,
+            "r": 65.17611249999999,
+            "b": 23.220026855468745,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "28",
+      "text": "28"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 75.36102499999998,
+            "t": 31.265066855468717,
+            "r": 333.9300874999999,
+            "b": 22.980026855468736,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Gas Separation & Purification 1995 Volume 9  Number 1",
+      "text": "Gas Separation & Purification 1995 Volume 9  Number 1"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 264.24,
+            "t": 803.82504,
+            "r": 555.2989500000002,
+            "b": 794.8199999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "The permeabilities of C02, N,O and 02:  R.  Hughes and B. Jiang",
+      "text": "The permeabilities of C02, N,O and 02:  R.  Hughes and B. Jiang"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.238776,
+            "t": 778.8007200000001,
+            "r": 300.36060803999976,
+            "b": 736.7400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "Table 2 and  it  can  be  seen that once  again  the silicone rubber membrane favours the  permeation  of  N,O rather than CO,,  suggesting that  the  N,O-rich permeate  stream could  be recycled.",
+      "text": "Table 2 and  it  can  be  seen that once  again  the silicone rubber membrane favours the  permeation  of  N,O rather than CO,,  suggesting that  the  N,O-rich permeate  stream could  be recycled."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.23877600000014,
+            "t": 734.8807200000002,
+            "r": 303.0537972599998,
+            "b": 605.9400000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            643
+          ]
+        }
+      ],
+      "orig": "Interestingly,  the values  of the selectivity  factor for N,O/CO, are smaller in these mixtures  than  the values calculated from  the pure  gas permeabilities.  From the latter a value of  the  selectivity of  1.79  is  obtained  at  20\u00b0C and 1 bar pressure difference.  This  observation  agrees with the results  obtained  by  Stern et  al? in their  work on  the  permeation of these same two gases  through polyethylene membranes, where  the  NZO/COz selectivity was estimated  as  approximately 2:l  from pure gas permeabilities;  however,  when equimolar  mixtures of  the gases were  tested,  only  27% enrichment of N,O was obtained.",
+      "text": "Interestingly,  the values  of the selectivity  factor for N,O/CO, are smaller in these mixtures  than  the values calculated from  the pure  gas permeabilities.  From the latter a value of  the  selectivity of  1.79  is  obtained  at  20\u00b0C and 1 bar pressure difference.  This  observation  agrees with the results  obtained  by  Stern et  al? in their  work on  the  permeation of these same two gases  through polyethylene membranes, where  the  NZO/COz selectivity was estimated  as  approximately 2:l  from pure gas permeabilities;  however,  when equimolar  mixtures of  the gases were  tested,  only  27% enrichment of N,O was obtained."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 55.92,
+            "t": 586.6250399999999,
+            "r": 169.1921625,
+            "b": 578.3399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Cellulose acetate membrane",
+      "text": "Cellulose acetate membrane",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.47998800000002,
+            "t": 570.00072,
+            "r": 302.29269161999974,
+            "b": 396.66,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            892
+          ]
+        }
+      ],
+      "orig": "Figures 3 and  4 show  the effect of  pressure and  temperature  respectively  on the  permeability coefficients of  N,O, 0,  and  CO, in  this  membrane. In contrast to  the results for  the silicone  rubber  membrane, both  CO, and  N,O permeability coefficients increase  with the  pressure ratio, whereas  the 0,  permeability is  independent of the feed pressure. The permeabilities of CO1 and N,O have almost identical values  with varying pressure,  but, interestingly,  as  shown in Figure  4, the  temperature coefficients are virtually  the same  for all  three gases.  A comparison of the permeability  coefficients for silicone rubber and cellulose acetate is given  in  Table  3  at 100 kPa  and  220\u00b0C. It  can be noted that  cellulose  acetate gives much higher  permeabilities than  silicone  rubber, but unfortunately there  is  no selective separation between  N,O and  CO,.",
+      "text": "Figures 3 and  4 show  the effect of  pressure and  temperature  respectively  on the  permeability coefficients of  N,O, 0,  and  CO, in  this  membrane. In contrast to  the results for  the silicone  rubber  membrane, both  CO, and  N,O permeability coefficients increase  with the  pressure ratio, whereas  the 0,  permeability is  independent of the feed pressure. The permeabilities of CO1 and N,O have almost identical values  with varying pressure,  but, interestingly,  as  shown in Figure  4, the  temperature coefficients are virtually  the same  for all  three gases.  A comparison of the permeability  coefficients for silicone rubber and cellulose acetate is given  in  Table  3  at 100 kPa  and  220\u00b0C. It  can be noted that  cellulose  acetate gives much higher  permeabilities than  silicone  rubber, but unfortunately there  is  no selective separation between  N,O and  CO,."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.99998200000002,
+            "t": 395.04071999999996,
+            "r": 303.0640730399996,
+            "b": 276.41999999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            620
+          ]
+        }
+      ],
+      "orig": "The lack  of separability of the  two gases  in  this membrane is  probably  due  to the similarity  in physical properties. Stern  et aL3  considered that  the  critical temperature of the  gas  is an  important guide  to its permeation  behaviour  at  temperatures near to  the  critical point. In  the present  case the critical temperature  for N,O is  36.5'C while that  for  CO, is  31.1'C.  In addition, the diameters of  the molecules  are very similar,  that for N,O being  3.83  A  while  that for CO, is 3.94  A.  It is therefore  not surprising  that  the  permeability coefficients are virtually  identical.",
+      "text": "The lack  of separability of the  two gases  in  this membrane is  probably  due  to the similarity  in physical properties. Stern  et aL3  considered that  the  critical temperature of the  gas  is an  important guide  to its permeation  behaviour  at  temperatures near to  the  critical point. In  the present  case the critical temperature  for N,O is  36.5'C while that  for  CO, is  31.1'C.  In addition, the diameters of  the molecules  are very similar,  that for N,O being  3.83  A  while  that for CO, is 3.94  A.  It is therefore  not surprising  that  the  permeability coefficients are virtually  identical."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.481709879999954,
+            "t": 86.28935999999999,
+            "r": 295.26975525999995,
+            "b": 60.48000000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "Figure 3 Influence of pressure difference on  the  permeabilities of the pure gases through the cellulose acetate membrane (+) 0s; (01 CO,; (~9 N2O",
+      "text": "Figure 3 Influence of pressure difference on  the  permeabilities of the pure gases through the cellulose acetate membrane (+) 0s; (01 CO,; (~9 N2O"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.76180943,
+            "t": 615.24936,
+            "r": 552.9342891100002,
+            "b": 598.98,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "Figure 4 Temperature effect  on pure gas permeabilrties through the  cellulose acetate membrane: (+) 0,; (0) COz; (A) N20",
+      "text": "Figure 4 Temperature effect  on pure gas permeabilrties through the  cellulose acetate membrane: (+) 0,; (0) COz; (A) N20"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.72,
+            "t": 569.16936,
+            "r": 560.4931548800001,
+            "b": 553.38,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            108
+          ]
+        }
+      ],
+      "orig": "Table 3 Comparison of pure gas permeability coefficients for cellulose acetate and silicone rubber membranes",
+      "text": "Table 3 Comparison of pure gas permeability coefficients for cellulose acetate and silicone rubber membranes"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/tables/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 319.68,
+            "t": 547.87368,
+            "r": 399.2660972400002,
+            "b": 541.38,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "(Ap =  1  bar,  T= 20\u00b0C)",
+      "text": "(Ap =  1  bar,  T= 20\u00b0C)"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.99987099999987,
+            "t": 449.52072,
+            "r": 563.6306746799996,
+            "b": 352.7399999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            488
+          ]
+        }
+      ],
+      "orig": "The above data  were  obtained  for pure  gases. The permeability of  CO, in  the ternary gas mixture  is  shown as a function of  the applied pressure difference  in Figure 5.  Only  at  feed  pressures  greater  than about  8 to 10 bars is  there any  difference  between  the permeability  of pure CO, and  that of COz in the mixture. At  these higher pressures the CO, permeability  ceases to be  a linear function of  pressure  and tends towards being independent of  this  pressure.",
+      "text": "The above data  were  obtained  for pure  gases. The permeability of  CO, in  the ternary gas mixture  is  shown as a function of  the applied pressure difference  in Figure 5.  Only  at  feed  pressures  greater  than about  8 to 10 bars is  there any  difference  between  the permeability  of pure CO, and  that of COz in the mixture. At  these higher pressures the CO, permeability  ceases to be  a linear function of  pressure  and tends towards being independent of  this  pressure."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.5198649999997,
+            "t": 350.8807199999999,
+            "r": 564.8417120399994,
+            "b": 276.41999999999985,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            386
+          ]
+        }
+      ],
+      "orig": "The effect  of pressure  difference across  a  cellulose acetate membrane on  the permeabilities of individual gases in a mixed  gas stream  has been  well documented by a number of  investigators. Donahue et  al.'  noted that the  permeability  of methane in a  CHJCO, mixture increased  with  increase  in  pressure, while  Ii  er a/.' observed that  for  COJN, gas  mixtures the  CO,",
+      "text": "The effect  of pressure  difference across  a  cellulose acetate membrane on  the permeabilities of individual gases in a mixed  gas stream  has been  well documented by a number of  investigators. Donahue et  al.'  noted that the  permeability  of methane in a  CHJCO, mixture increased  with  increase  in  pressure, while  Ii  er a/.' observed that  for  COJN, gas  mixtures the  CO,"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 337.68011699999965,
+            "t": 125.43839999999977,
+            "r": 345.80288519999954,
+            "b": 120.95999999999981,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.2",
+      "text": "1.2"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 346.32022499999965,
+            "t": 115.83839999999975,
+            "r": 350.6008118399996,
+            "b": 111.35999999999979,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "t",
+      "text": "t"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 370.80053099999964,
+            "t": 115.59839999999974,
+            "r": 375.0939179999996,
+            "b": 111.11999999999978,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "J",
+      "text": "J"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 399.60089099999965,
+            "t": 115.83839999999975,
+            "r": 403.8814778399996,
+            "b": 111.35999999999979,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 425.28121199999964,
+            "t": 115.83839999999975,
+            "r": 429.5617988399996,
+            "b": 111.35999999999979,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 452.16154799999964,
+            "t": 116.07839999999976,
+            "r": 456.4421348399996,
+            "b": 111.5999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 477.84186899999963,
+            "t": 116.07839999999976,
+            "r": 482.1224558399996,
+            "b": 111.5999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 503.5221899999996,
+            "t": 116.31839999999977,
+            "r": 507.8027768399996,
+            "b": 111.8399999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 529.4425139999996,
+            "t": 116.55839999999978,
+            "r": 533.7231008399997,
+            "b": 112.0799999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 368.6405039999996,
+            "t": 108.63839999999982,
+            "r": 376.5371360399995,
+            "b": 104.15999999999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "200",
+      "text": "200"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 420.0011459999996,
+            "t": 108.63839999999982,
+            "r": 427.8977780399995,
+            "b": 104.15999999999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "600",
+      "text": "600"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 471.8417939999996,
+            "t": 108.63839999999982,
+            "r": 481.64458319999954,
+            "b": 104.15999999999974,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "loo0",
+      "text": "loo0"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 523.2024359999996,
+            "t": 110.07839999999976,
+            "r": 533.0201587199997,
+            "b": 105.5999999999998,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1400",
+      "text": "1400"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 478.3218749999996,
+            "t": 99.0383999999998,
+            "r": 488.3774673599995,
+            "b": 94.55999999999972,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "LrPa",
+      "text": "LrPa"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 401.2809119999996,
+            "t": 98.79839999999979,
+            "r": 411.12850175999944,
+            "b": 94.31999999999971,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "FEED",
+      "text": "FEED"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 419.2811369999996,
+            "t": 98.79839999999979,
+            "r": 429.3495295199994,
+            "b": 94.31999999999971,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "SIDE",
+      "text": "SIDE"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 435.8413439999996,
+            "t": 98.79839999999979,
+            "r": 455.3181207899994,
+            "b": 94.31999999999971,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "PRESSURE,",
+      "text": "PRESSURE,"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 318.00207697999997,
+            "t": 85.80935999999997,
+            "r": 555.0284463700003,
+            "b": 60.41999999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "Figure 5 Comparison of pure COP permeability and CO2 permeability in the ternary mixture for the cellulose acetate membrane: (0) pure CO,; (0) 4% COP in mixture",
+      "text": "Figure 5 Comparison of pure COP permeability and CO2 permeability in the ternary mixture for the cellulose acetate membrane: (0) pure CO,; (0) 4% COP in mixture"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 281.04,
+            "t": 31.02503999999999,
+            "r": 539.6090625,
+            "b": 22.74000000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Gas Separation & Purification 1995 Volume 9  Number 1",
+      "text": "Gas Separation & Purification 1995 Volume 9  Number 1"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 546.9589750000001,
+            "t": 30.78503999999998,
+            "r": 558.6139750000001,
+            "b": 22.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "29",
+      "text": "29"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.48,
+            "t": 803.1050399999999,
+            "r": 345.5390374999999,
+            "b": 794.8199999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "The permeabilities of COz, Al20  and 02:  R.  Hughes and l3.  Jiang",
+      "text": "The permeabilities of COz, Al20  and 02:  R.  Hughes and l3.  Jiang"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.23999700000002,
+            "t": 779.0407200000001,
+            "r": 300.1124037000001,
+            "b": 725.9400000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            254
+          ]
+        }
+      ],
+      "orig": "permeability  was  effectively independent of pressure in contrast to that for pure  CO, where the permeability was directly proportional  to pressure  difference.  This effect  was attributed to plasticization  of the cellulose acetate  membrane by CO,.",
+      "text": "permeability  was  effectively independent of pressure in contrast to that for pure  CO, where the permeability was directly proportional  to pressure  difference.  This effect  was attributed to plasticization  of the cellulose acetate  membrane by CO,."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.23999700000013,
+            "t": 724.0807200000003,
+            "r": 299.9028010800001,
+            "b": 638.5800000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            443
+          ]
+        }
+      ],
+      "orig": "The  present results show  a  similar  trend (Figure  5). For pure  CO, the permeability coefficient increases linearly with feed  pressure throughout  the  pressure range studied. However, in the ternary  mixture,  although the linear relationship between CO, permeability  and pressure holds at  relatively low values of  the feed  pressure,  as  this pressure  is increased  the  CO, permeability  tends  to become independent of  pressure.",
+      "text": "The  present results show  a  similar  trend (Figure  5). For pure  CO, the permeability coefficient increases linearly with feed  pressure throughout  the  pressure range studied. However, in the ternary  mixture,  although the linear relationship between CO, permeability  and pressure holds at  relatively low values of  the feed  pressure,  as  this pressure  is increased  the  CO, permeability  tends  to become independent of  pressure."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 54.72000300000016,
+            "t": 614.4007200000005,
+            "r": 105.4064143500002,
+            "b": 605.2200000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Conclusions",
+      "text": "Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.279985000000096,
+            "t": 597.1207200000006,
+            "r": 297.9007316100001,
+            "b": 555.0600000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            230
+          ]
+        }
+      ],
+      "orig": "Permeabilities  of  the  pure gases N,O,  CO, and  0,  have been  measured in silicone  rubber  and  cellulose  acetate membranes in a flat  sheet permeator at feed pressures up  to 9 bars and  temperatures  between  20 and  60\u00b0C.",
+      "text": "Permeabilities  of  the  pure gases N,O,  CO, and  0,  have been  measured in silicone  rubber  and  cellulose  acetate membranes in a flat  sheet permeator at feed pressures up  to 9 bars and  temperatures  between  20 and  60\u00b0C."
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.03998200000004,
+            "t": 553.4407200000007,
+            "r": 298.91238870000007,
+            "b": 489.7800000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            320
+          ]
+        }
+      ],
+      "orig": "For  both  membranes the permeabilities of CO, and N,O were  very similar.  Little  variation of  permeability with temperature  was  observed  for  either  CO, or N,O in  the  silicone  rubber  membrane while with the cellulose acetate membrane the  temperature coefficients  were virtually  the same  for  both  gases.",
+      "text": "For  both  membranes the permeabilities of CO, and N,O were  very similar.  Little  variation of  permeability with temperature  was  observed  for  either  CO, or N,O in  the  silicone  rubber  membrane while with the cellulose acetate membrane the  temperature coefficients  were virtually  the same  for  both  gases."
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 52.79997900000009,
+            "t": 487.92072000000076,
+            "r": 301.33277451000004,
+            "b": 456.9000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            163
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.2832850000001,
+            "t": 779.0407200000008,
+            "r": 561.9115872599999,
+            "b": 748.0200000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            164,
+            328
+          ]
+        }
+      ],
+      "orig": "No pressure dependency of the permeability  coefficients  was  observed  with  silicone  rubber  for CO, and N,O and  although  the cellulose  acetate membrane did show a  slight pressure  dependence of  permeability coefficients, this  was  identical  for  both  CO, and  N,O at the lower  range of  the pressures investigated.",
+      "text": "No pressure dependency of the permeability  coefficients  was  observed  with  silicone  rubber  for CO, and N,O and  although  the cellulose  acetate membrane did show a  slight pressure  dependence of  permeability coefficients, this  was  identical  for  both  CO, and  N,O at the lower  range of  the pressures investigated."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.2832850000001,
+            "t": 746.1607200000009,
+            "r": 559.7529825000001,
+            "b": 693.300000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            237
+          ]
+        }
+      ],
+      "orig": "In the case of  a silicone  rubber  membrane, the higher intrinsic permeability of  the N,O coupled  with its much larger  concentration  in anaesthetic gas mixtures  should enable  the  N,O to be  separated  from  the  CO, and recycled.",
+      "text": "In the case of  a silicone  rubber  membrane, the higher intrinsic permeability of  the N,O coupled  with its much larger  concentration  in anaesthetic gas mixtures  should enable  the  N,O to be  separated  from  the  CO, and recycled."
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.043282,
+            "t": 676.3207200000011,
+            "r": 385.6374727499998,
+            "b": 667.140000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Acknowledgement",
+      "text": "Acknowledgement",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 316.8032789999998,
+            "t": 660.000720000001,
+            "r": 553.4595704999998,
+            "b": 640.020000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Financial assistance  for  this  work  from the  B.O.C. Group is  gratefully  acknowledged.",
+      "text": "Financial assistance  for  this  work  from the  B.O.C. Group is  gratefully  acknowledged."
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 317.7632909999998,
+            "t": 622.0807200000011,
+            "r": 365.06877119999973,
+            "b": 612.900000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 329.75982666000004,
+            "t": 606.36936,
+            "r": 560.8509944400001,
+            "b": 589.86,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "Adriani,  J. Disposal of  carbon dioxide from devices  used  for inhalation anaesthesia  Anesthrsiolog~~ (I 960) 21 742-749",
+      "text": "Adriani,  J. Disposal of  carbon dioxide from devices  used  for inhalation anaesthesia  Anesthrsiolog~~ (I 960) 21 742-749",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 329.5115039699999,
+            "t": 588.36936,
+            "r": 557.7764497200001,
+            "b": 563.22,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "Anthony,  T.G.  Improved methods of absorbing  carbon  dioxide  ht Conf  Sot  Underwater Trchnol. Diverech '81,  Workshop A, London (1981) l-20",
+      "text": "Anthony,  T.G.  Improved methods of absorbing  carbon  dioxide  ht Conf  Sot  Underwater Trchnol. Diverech '81,  Workshop A, London (1981) l-20",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 329.5115039699999,
+            "t": 561.72936,
+            "r": 560.65632048,
+            "b": 545.46,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "Stern,  S.A.,  Fang,  SM. and Jobbins. R.M. Permeation of gases at high pressures J~A4acromol Sci Phys  (1971) B5(1) 41-70 -",
+      "text": "Stern,  S.A.,  Fang,  SM. and Jobbins. R.M. Permeation of gases at high pressures J~A4acromol Sci Phys  (1971) B5(1) 41-70 -",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 329.2714280699998,
+            "t": 543.96936,
+            "r": 556.2799188300002,
+            "b": 527.46,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "Niedzielski.  E.L.  and Putnam.  R.E. Diffusion nrocess and  apoaratus US  Parent 3307330 (1967) .  .",
+      "text": "Niedzielski.  E.L.  and Putnam.  R.E. Diffusion nrocess and  apoaratus US  Parent 3307330 (1967) .  .",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 329.0308321499999,
+            "t": 525.96936,
+            "r": 557.7078937499998,
+            "b": 509.46000000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "Li, K., Acharya, D.R.  and  Hughes, R.  Membrane gas  separation with  permeate purging  Gus  Sep  Purif(l990)  4 81-86",
+      "text": "Li, K., Acharya, D.R.  and  Hughes, R.  Membrane gas  separation with  permeate purging  Gus  Sep  Purif(l990)  4 81-86",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 329.03074548000006,
+            "t": 507.96936000000005,
+            "r": 559.0362848400001,
+            "b": 483.06000000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "Donohue, M.D.,  Minhas,  B.S.  and  Lee, S.Y. Permeation behaviour of  carbon dixoide-methane in  cellulose acetate  membranes J Memhr Sci (1989) 42  197-214",
+      "text": "Donohue, M.D.,  Minhas,  B.S.  and  Lee, S.Y. Permeation behaviour of  carbon dixoide-methane in  cellulose acetate  membranes J Memhr Sci (1989) 42  197-214",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 328.55085369000005,
+            "t": 481.32936000000007,
+            "r": 560.8236802500004,
+            "b": 456.18000000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "Li,  K.,  Archarya, D.R.  and  Hughes,  R. Performance of a cellulose acetate  permeator  with permeability-influenced  feed  AIChEJ(l990) 36  161&1612",
+      "text": "Li,  K.,  Archarya, D.R.  and  Hughes,  R. Performance of a cellulose acetate  permeator  with permeability-influenced  feed  AIChEJ(l990) 36  161&1612",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 50.4,
+            "t": 30.78503999999998,
+            "r": 62.05499999999999,
+            "b": 22.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "30",
+      "text": "30"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 72.2399125,
+            "t": 30.78503999999998,
+            "r": 330.5689625,
+            "b": 22.5,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Gas Separation &  Purification 1995 Volume 9  Number 1",
+      "text": "Gas Separation &  Purification 1995 Volume 9  Number 1"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.37158203125,
+            "t": 806.6188430786133,
+            "r": 147.7232666015625,
+            "b": 785.9756622314453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 52.39722442626953,
+            "t": 251.725341796875,
+            "r": 292.8137512207031,
+            "b": 95.33697509765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 317.0718994140625,
+            "t": 783.6938819885254,
+            "r": 557.6754150390625,
+            "b": 630.8588409423828,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/70"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.31877899169922,
+            "t": 253.9566650390625,
+            "r": 296.4732971191406,
+            "b": 93.9071044921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/70"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 313.6743469238281,
+            "t": 781.8658065795898,
+            "r": 561.911865234375,
+            "b": 625.9970092773438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 315.55804443359375,
+            "t": 250.798095703125,
+            "r": 557.6864624023438,
+            "b": 95.32501220703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 52.45240783691406,
+            "t": 759.1720733642578,
+            "r": 293.82794189453125,
+            "b": 691.5781402587891,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 61.91958060999994,
+              "t": 79.3263199999999,
+              "r": 85.74279525999994,
+              "b": 94.69999999999993,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Pressure ratio, r",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 105.83699337999997,
+              "t": 79.08631999999989,
+              "r": 156.89887454999993,
+              "b": 94.45999999999992,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Silicone rubber (m3sm') x IO6",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 174.95295634999994,
+              "t": 79.08631999999989,
+              "r": 230.33062439999986,
+              "b": 94.45999999999992,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Cellulose acetate (m3 s') x 1Oe",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 249.82857584999994,
+              "t": 88.20631999999989,
+              "r": 281.50317544999996,
+              "b": 94.69999999999993,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Stage cut",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 66.71942129999994,
+              "t": 107.16631999999993,
+              "r": 69.66384929999994,
+              "b": 113.65999999999997,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 105.83707798999993,
+              "t": 107.16631999999993,
+              "r": 131.55310294999992,
+              "b": 113.65999999999997,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "0.43-8.36",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 174.7130023899999,
+              "t": 107.40631999999994,
+              "r": 200.42902734999979,
+              "b": 113.89999999999998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "0.29-5.01",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 249.5886218899999,
+              "t": 107.88631999999996,
+              "r": 269.7087106699999,
+              "b": 114.38,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "0.1-0.9",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 62.3996577499999,
+              "t": 116.04631999999992,
+              "r": 68.1341851099999,
+              "b": 122.53999999999996,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "10",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 105.8370779899999,
+              "t": 116.04631999999992,
+              "r": 139.21157709999986,
+              "b": 122.53999999999996,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "0.95-I 9.8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 174.7130023899999,
+              "t": 116.28631999999993,
+              "r": 208.32745545999987,
+              "b": 122.77999999999997,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "0.66-I 1.7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 249.5885372799999,
+              "t": 116.76631999999995,
+              "r": 269.7086260599999,
+              "b": 123.25999999999999,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "0.1-0.9",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 62.399573139999916,
+              "t": 124.92631999999992,
+              "r": 68.13410049999992,
+              "b": 131.41999999999996,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "15",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 106.31698590999991,
+              "t": 124.92631999999992,
+              "r": 139.7311671099999,
+              "b": 131.41999999999996,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1.5-31 .Ol",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 174.95287173999992,
+              "t": 125.16631999999993,
+              "r": 208.08733227999988,
+              "b": 131.65999999999997,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1.05-I 8.2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 249.58845266999992,
+              "t": 125.64631999999995,
+              "r": 269.7085414499999,
+              "b": 132.14,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "0.1-0.9",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 4,
+        "num_cols": 4,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 61.91958060999994,
+                "t": 79.3263199999999,
+                "r": 85.74279525999994,
+                "b": 94.69999999999993,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Pressure ratio, r",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 105.83699337999997,
+                "t": 79.08631999999989,
+                "r": 156.89887454999993,
+                "b": 94.45999999999992,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Silicone rubber (m3sm') x IO6",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 174.95295634999994,
+                "t": 79.08631999999989,
+                "r": 230.33062439999986,
+                "b": 94.45999999999992,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Cellulose acetate (m3 s') x 1Oe",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 249.82857584999994,
+                "t": 88.20631999999989,
+                "r": 281.50317544999996,
+                "b": 94.69999999999993,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Stage cut",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 66.71942129999994,
+                "t": 107.16631999999993,
+                "r": 69.66384929999994,
+                "b": 113.65999999999997,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 105.83707798999993,
+                "t": 107.16631999999993,
+                "r": 131.55310294999992,
+                "b": 113.65999999999997,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "0.43-8.36",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 174.7130023899999,
+                "t": 107.40631999999994,
+                "r": 200.42902734999979,
+                "b": 113.89999999999998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "0.29-5.01",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 249.5886218899999,
+                "t": 107.88631999999996,
+                "r": 269.7087106699999,
+                "b": 114.38,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "0.1-0.9",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 62.3996577499999,
+                "t": 116.04631999999992,
+                "r": 68.1341851099999,
+                "b": 122.53999999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "10",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 105.8370779899999,
+                "t": 116.04631999999992,
+                "r": 139.21157709999986,
+                "b": 122.53999999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "0.95-I 9.8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 174.7130023899999,
+                "t": 116.28631999999993,
+                "r": 208.32745545999987,
+                "b": 122.77999999999997,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "0.66-I 1.7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 249.5885372799999,
+                "t": 116.76631999999995,
+                "r": 269.7086260599999,
+                "b": 123.25999999999999,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "0.1-0.9",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 62.399573139999916,
+                "t": 124.92631999999992,
+                "r": 68.13410049999992,
+                "b": 131.41999999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "15",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 106.31698590999991,
+                "t": 124.92631999999992,
+                "r": 139.7311671099999,
+                "b": 131.41999999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1.5-31 .Ol",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 174.95287173999992,
+                "t": 125.16631999999993,
+                "r": 208.08733227999988,
+                "b": 131.65999999999997,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1.05-I 8.2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 249.58845266999992,
+                "t": 125.64631999999995,
+                "r": 269.7085414499999,
+                "b": 132.14,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "0.1-0.9",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 314.7610778808594,
+            "t": 171.17095947265625,
+            "r": 556.6691284179688,
+            "b": 62.00091552734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 442.07258177999995,
+              "t": 667.80632,
+              "r": 489.71291916000007,
+              "b": 674.3000000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 6,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 7,
+            "text": "% CO2 in feed",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 316.08,
+              "t": 676.3992800000001,
+              "r": 320.45338799999996,
+              "b": 685.58,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "I",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 380.4,
+              "t": 687.24632,
+              "r": 383.344428,
+              "b": 693.74,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 410.15826770999996,
+              "t": 687.24632,
+              "r": 413.10269571,
+              "b": 693.74,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "2",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 439.91653541999995,
+              "t": 687.48632,
+              "r": 442.86096341999996,
+              "b": 693.98,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "3",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 469.91475708999997,
+              "t": 687.48632,
+              "r": 472.85918509,
+              "b": 693.98,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "4",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 500.15293271999997,
+              "t": 687.72632,
+              "r": 503.09736072,
+              "b": 694.22,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "5",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 529.91120043,
+              "t": 687.72632,
+              "r": 532.85562843,
+              "b": 694.22,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "6",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 324.48328164,
+              "t": 706.92632,
+              "r": 333.06764302,
+              "b": 713.4200000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "co2",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 380.15996142999995,
+              "t": 707.16632,
+              "r": 391.62241657,
+              "b": 713.6600000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2.44",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 409.91822913999994,
+              "t": 707.16632,
+              "r": 421.38068427999997,
+              "b": 713.6600000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "2.50",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 439.91645080999996,
+              "t": 707.40632,
+              "r": 451.37890595,
+              "b": 713.9000000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "2.54",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 469.91467248,
+              "t": 707.40632,
+              "r": 481.37712762,
+              "b": 713.9000000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "2.52",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 499.91289415,
+              "t": 707.6463200000001,
+              "r": 511.37534929000003,
+              "b": 714.14,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "2.65",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 529.91111582,
+              "t": 707.6463200000001,
+              "r": 541.3735709600002,
+              "b": 714.14,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "2.85",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 324.72323559999995,
+              "t": 715.80632,
+              "r": 333.38425364,
+              "b": 722.3000000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "NzO",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 380.15996142999995,
+              "t": 716.04632,
+              "r": 391.62241657,
+              "b": 722.54,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "3.33",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 409.91822913999994,
+              "t": 716.04632,
+              "r": 421.38068427999997,
+              "b": 722.54,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "3.34",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 439.91645080999996,
+              "t": 716.28632,
+              "r": 451.37890595,
+              "b": 722.78,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "3.35",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 469.91467248,
+              "t": 716.28632,
+              "r": 481.37712762,
+              "b": 722.78,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "3.36",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 499.91289415,
+              "t": 716.52632,
+              "r": 511.37534929000003,
+              "b": 723.02,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "3.71",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 529.91111582,
+              "t": 716.52632,
+              "r": 541.3735709600002,
+              "b": 723.02,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "3.80",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 324.0,
+              "t": 730.68632,
+              "r": 368.70520579999993,
+              "b": 764.0600000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Selectivity, a QdNzO) a=-- Qo(COz)",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 380.15667232,
+              "t": 748.68632,
+              "r": 394.4192108000001,
+              "b": 755.1800000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1.365",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 410.15489399,
+              "t": 748.68632,
+              "r": 424.4174324700001,
+              "b": 755.1800000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1.333",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 440.15311566,
+              "t": 748.92632,
+              "r": 454.41565414000013,
+              "b": 755.4200000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "1.319",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 470.15133733000005,
+              "t": 748.92632,
+              "r": 484.41387581000015,
+              "b": 755.4200000000001,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "1.334",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 500.14955900000007,
+              "t": 749.16632,
+              "r": 514.4120974800002,
+              "b": 755.66,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "1.401",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 529.9078267100001,
+              "t": 749.16632,
+              "r": 544.1703651900002,
+              "b": 755.66,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 6,
+            "end_col_offset_idx": 7,
+            "text": "1.334",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 7,
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 442.07258177999995,
+                "t": 667.80632,
+                "r": 489.71291916000007,
+                "b": 674.3000000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 6,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 7,
+              "text": "% CO2 in feed",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 442.07258177999995,
+                "t": 667.80632,
+                "r": 489.71291916000007,
+                "b": 674.3000000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 6,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 7,
+              "text": "% CO2 in feed",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 442.07258177999995,
+                "t": 667.80632,
+                "r": 489.71291916000007,
+                "b": 674.3000000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 6,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 7,
+              "text": "% CO2 in feed",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 442.07258177999995,
+                "t": 667.80632,
+                "r": 489.71291916000007,
+                "b": 674.3000000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 6,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 7,
+              "text": "% CO2 in feed",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 442.07258177999995,
+                "t": 667.80632,
+                "r": 489.71291916000007,
+                "b": 674.3000000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 6,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 7,
+              "text": "% CO2 in feed",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 442.07258177999995,
+                "t": 667.80632,
+                "r": 489.71291916000007,
+                "b": 674.3000000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 6,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 7,
+              "text": "% CO2 in feed",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 316.08,
+                "t": 676.3992800000001,
+                "r": 320.45338799999996,
+                "b": 685.58,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "I",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 380.4,
+                "t": 687.24632,
+                "r": 383.344428,
+                "b": 693.74,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 410.15826770999996,
+                "t": 687.24632,
+                "r": 413.10269571,
+                "b": 693.74,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "2",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 439.91653541999995,
+                "t": 687.48632,
+                "r": 442.86096341999996,
+                "b": 693.98,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "3",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 469.91475708999997,
+                "t": 687.48632,
+                "r": 472.85918509,
+                "b": 693.98,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "4",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 500.15293271999997,
+                "t": 687.72632,
+                "r": 503.09736072,
+                "b": 694.22,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "5",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 529.91120043,
+                "t": 687.72632,
+                "r": 532.85562843,
+                "b": 694.22,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "6",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 324.48328164,
+                "t": 706.92632,
+                "r": 333.06764302,
+                "b": 713.4200000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "co2",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 380.15996142999995,
+                "t": 707.16632,
+                "r": 391.62241657,
+                "b": 713.6600000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2.44",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 409.91822913999994,
+                "t": 707.16632,
+                "r": 421.38068427999997,
+                "b": 713.6600000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "2.50",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 439.91645080999996,
+                "t": 707.40632,
+                "r": 451.37890595,
+                "b": 713.9000000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "2.54",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 469.91467248,
+                "t": 707.40632,
+                "r": 481.37712762,
+                "b": 713.9000000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "2.52",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 499.91289415,
+                "t": 707.6463200000001,
+                "r": 511.37534929000003,
+                "b": 714.14,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "2.65",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 529.91111582,
+                "t": 707.6463200000001,
+                "r": 541.3735709600002,
+                "b": 714.14,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "2.85",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 324.72323559999995,
+                "t": 715.80632,
+                "r": 333.38425364,
+                "b": 722.3000000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "NzO",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 380.15996142999995,
+                "t": 716.04632,
+                "r": 391.62241657,
+                "b": 722.54,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "3.33",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 409.91822913999994,
+                "t": 716.04632,
+                "r": 421.38068427999997,
+                "b": 722.54,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "3.34",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 439.91645080999996,
+                "t": 716.28632,
+                "r": 451.37890595,
+                "b": 722.78,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "3.35",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 469.91467248,
+                "t": 716.28632,
+                "r": 481.37712762,
+                "b": 722.78,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "3.36",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 499.91289415,
+                "t": 716.52632,
+                "r": 511.37534929000003,
+                "b": 723.02,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "3.71",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 529.91111582,
+                "t": 716.52632,
+                "r": 541.3735709600002,
+                "b": 723.02,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "3.80",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 324.0,
+                "t": 730.68632,
+                "r": 368.70520579999993,
+                "b": 764.0600000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Selectivity, a QdNzO) a=-- Qo(COz)",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 380.15667232,
+                "t": 748.68632,
+                "r": 394.4192108000001,
+                "b": 755.1800000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1.365",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 410.15489399,
+                "t": 748.68632,
+                "r": 424.4174324700001,
+                "b": 755.1800000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1.333",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 440.15311566,
+                "t": 748.92632,
+                "r": 454.41565414000013,
+                "b": 755.4200000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "1.319",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 470.15133733000005,
+                "t": 748.92632,
+                "r": 484.41387581000015,
+                "b": 755.4200000000001,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "1.334",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 500.14955900000007,
+                "t": 749.16632,
+                "r": 514.4120974800002,
+                "b": 755.66,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "1.401",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 529.9078267100001,
+                "t": 749.16632,
+                "r": 544.1703651900002,
+                "b": 755.66,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 6,
+              "end_col_offset_idx": 7,
+              "text": "1.334",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/73"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 317.7994079589844,
+            "t": 539.6019287109375,
+            "r": 559.8690185546875,
+            "b": 469.3973083496094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/73"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 828.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.1200561523438,
+        "height": 827.8400268554688
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 612.0,
+        "height": 828.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 612.0,
+        "height": 828.0
+      },
+      "page_no": 4
+    }
+  }
+}

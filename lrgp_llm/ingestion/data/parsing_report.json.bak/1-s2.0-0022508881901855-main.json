@@ -1,0 +1,5258 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1-s2.0-0022508881901855-main",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16423150466071525982,
+    "filename": "1-s2.0-0022508881901855-main.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/groups/1"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.76,
+            "t": 631.9224,
+            "r": 286.7895000000001,
+            "b": 622.08,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "dournal of the Less-common Metals, 77 (1981) P47 -  P53",
+      "text": "dournal of the Less-common Metals, 77 (1981) P47 -  P53"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 399.84000000000003,
+            "t": 631.9224,
+            "r": 415.96164000000005,
+            "b": 625.91904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "P47",
+      "text": "P47"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.24000000000001,
+            "t": 587.472,
+            "r": 385.9492999999997,
+            "b": 556.1952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "KTUDE ~~MPARAT~EDELAD~FFU~I~N DEL'HVDROGBNEA TRAVERS DES MEMBRANES  D'ALLIAGE PALLADIUM-ARGENT, DE  NICKEL  ET  DE  MONEL",
+      "text": "KTUDE ~~MPARAT~EDELAD~FFU~I~N DEL'HVDROGBNEA TRAVERS DES MEMBRANES  D'ALLIAGE PALLADIUM-ARGENT, DE  NICKEL  ET  DE  MONEL",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.23999999999998,
+            "t": 525.6024,
+            "r": 401.71819999999997,
+            "b": 491.93999999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "GEORGES  MEUNIER,  JEAN-PIERRE MANAUD  et MICI-IEL DEVALETTE Laboratoire  de Chimie  du Solide du  CZVRS,  Universitc4 de Bordeaux Z,  351  cows  de lo Libt+ation, 33405 Talence  Ckdex  (France)",
+      "text": "GEORGES  MEUNIER,  JEAN-PIERRE MANAUD  et MICI-IEL DEVALETTE Laboratoire  de Chimie  du Solide du  CZVRS,  Universitc4 de Bordeaux Z,  351  cows  de lo Libt+ation, 33405 Talence  Ckdex  (France)"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.96000000000001,
+            "t": 487.20239999999995,
+            "r": 143.5617,
+            "b": 481.19903999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "(Rqu le  17  mai  1980)",
+      "text": "(Rqu le  17  mai  1980)"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.72000000000001,
+            "t": 451.632,
+            "r": 95.78880000000002,
+            "b": 444.35519999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "RCsumd",
+      "text": "RCsumd",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.72000000000001,
+            "t": 427.632,
+            "r": 402.02880000000005,
+            "b": 420.35519999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.71999999999997,
+            "t": 415.392,
+            "r": 413.54879999999997,
+            "b": 384.11519999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            73,
+            296
+          ]
+        }
+      ],
+      "orig": "Une  etude  comparative  de  la diffusion de  l'hydrog4ne i  travers des membranes  d'alliage  77at,~Pd-23at.~Ag, de  nickel  et  de  monel  a et4 r&h&e  entre 550 et 700 K avec une pression amont  de 20 bar et une pression de sortie de 1 bar. Les coefficients de diffusion  ont  Qte  determines:",
+      "text": "Une  etude  comparative  de  la diffusion de  l'hydrog4ne i  travers des membranes  d'alliage  77at,~Pd-23at.~Ag, de  nickel  et  de  monel  a et4 r&h&e  entre 550 et 700 K avec une pression amont  de 20 bar et une pression de sortie de 1 bar. Les coefficients de diffusion  ont  Qte  determines:"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 115.20000000000002,
+            "t": 366.432,
+            "r": 234.5087000000001,
+            "b": 359.1552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "= 5,80 low3 exp(-900/T)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.42152404785156,
+            "t": 333.95416259765625,
+            "r": 253.58181762695312,
+            "b": 322.8115234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.24000000000001,
+            "t": 364.33248000000003,
+            "r": 240.98879999999994,
+            "b": 326.7552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "DPd--AS X DNi = 3,16  X lOA exp(-6356/T) 131 monel = 5,09  X 10h3 exp(-5530/T)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.960000000000036,
+            "t": 311.95200000000006,
+            "r": 416.9089,
+            "b": 304.6752,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            79
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.72000000000003,
+            "t": 299.71200000000005,
+            "r": 397.2291,
+            "b": 280.4352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            80,
+            226
+          ]
+        }
+      ],
+      "orig": "Cette etude  a permis de montrer  qu'B basse tempkrature l'alliage Pd-Ag  reste le materiau le plus performant  pour  la diffusion  de I'hydrogene,  toutefois $ haute temperature,  le nickel  et le monel  semblent compCtitifs.",
+      "text": "Cette etude  a permis de montrer  qu'B basse tempkrature l'alliage Pd-Ag  reste le materiau le plus performant  pour  la diffusion  de I'hydrogene,  toutefois $ haute temperature,  le nickel  et le monel  semblent compCtitifs."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 55.20000000000002,
+            "t": 249.07200000000006,
+            "r": 101.549,
+            "b": 241.79520000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Summary",
+      "text": "Summary",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.96000000000002,
+            "t": 223.15200000000004,
+            "r": 413.3091,
+            "b": 215.51904000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "A  comparative  study of the permeation  of hydrogen  through a 77at.%Pd-",
+      "text": "A  comparative  study of the permeation  of hydrogen  through a 77at.%Pd-"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.95999999999998,
+            "t": 211.15200000000004,
+            "r": 409.4691000000001,
+            "b": 179.58384,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "23at.%Ag  alloy,  nickel  and monel  was carried out  between  550  and 700  K with a driving pressure of  20 bar and a back pressure of  1 bar. The diffusion coefficients were determined :",
+      "text": "23at.%Ag  alloy,  nickel  and monel  was carried out  between  550  and 700  K with a driving pressure of  20 bar and a back pressure of  1 bar. The diffusion coefficients were determined :"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.47999999999999,
+            "t": 169.63200000000006,
+            "r": 234.74870000000007,
+            "b": 159.90384000000006,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "DP+-A~ = 5.80  X 10e3 exp(-900/T)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 78.47999999999998,
+            "t": 153.79200000000003,
+            "r": 245.06879999999984,
+            "b": 126.24000000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "DN~ = 3.16  X 10e2 exp(-6350/T) D  monel =  5.09 X lOA  exp~-5530~~)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.95999999999995,
+            "t": 101.952,
+            "r": 395.5487999999998,
+            "b": 94.67520000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 55.19999999999993,
+            "t": 89.952,
+            "r": 399.62880000000007,
+            "b": 70.67520000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            78,
+            167
+          ]
+        }
+      ],
+      "orig": "It was shown  that at low  temperature  the Pd-Ag  alloy  is by  far the most efficient  material, whilst at higher temperatures nickel  and monel  become competitive.",
+      "text": "It was shown  that at low  temperature  the Pd-Ag  alloy  is by  far the most efficient  material, whilst at higher temperatures nickel  and monel  become competitive."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 229.43999999999994,
+            "t": 42.002399999999966,
+            "r": 416.4416199999996,
+            "b": 35.999040000000036,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "@  Elsevier S~uoia/Printed in The  Netherlands",
+      "text": "@  Elsevier S~uoia/Printed in The  Netherlands"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.28,
+            "t": 628.94112,
+            "r": 74.30399999999999,
+            "b": 620.88,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "P48",
+      "text": "P48"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 54.24,
+            "t": 608.112,
+            "r": 124.34880000000005,
+            "b": 600.8352,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "1.  Introduction",
+      "text": "1.  Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.27999999999986,
+            "t": 584.112,
+            "r": 407.7888,
+            "b": 527.6351999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            326
+          ]
+        }
+      ],
+      "orig": "L'hydrogene  de grande pureti  est de plus en plus utilise dans les industries de tr~sfo~ation telles que  l'~lectronique,  la metallurgic ou  la ehimie fine.  11  s'ensuit  une  demande  croissante  a laquelle  il faudrait  repondre  en livrant sur le march&  une grande quantiti! d'hydrogene tres pur a des prix acceptables.",
+      "text": "L'hydrogene  de grande pureti  est de plus en plus utilise dans les industries de tr~sfo~ation telles que  l'~lectronique,  la metallurgic ou  la ehimie fine.  11  s'ensuit  une  demande  croissante  a laquelle  il faudrait  repondre  en livrant sur le march&  une grande quantiti! d'hydrogene tres pur a des prix acceptables."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.519999999999925,
+            "t": 523.1519999999999,
+            "r": 411.3888000000002,
+            "b": 467.15519999999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            382
+          ]
+        }
+      ],
+      "orig": "L'une  des methodes  de purification  conduisant  a l'obtention d'un  gaz d'excellente  qualite consiste a le faire diffuser,  sous l'effet  conjugue  de la temperature et de la pression a travers des membranes metalliques B  permeabilite spdcifique.  Ces membranes sont a l'heure  actuelle constituees  d'alliages i  base de palladium, metal trbs cher et de disponibiliti! reduite.",
+      "text": "L'une  des methodes  de purification  conduisant  a l'obtention d'un  gaz d'excellente  qualite consiste a le faire diffuser,  sous l'effet  conjugue  de la temperature et de la pression a travers des membranes metalliques B  permeabilite spdcifique.  Ces membranes sont a l'heure  actuelle constituees  d'alliages i  base de palladium, metal trbs cher et de disponibiliti! reduite."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.75999999999982,
+            "t": 462.4319999999999,
+            "r": 410.4287999999999,
+            "b": 431.15519999999987,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            209
+          ]
+        }
+      ],
+      "orig": "11  nous  a paru interessant de  rechercher  des materiaux  bon  march6 ~~ep~bles comme  les alliages p&Bdents de  laisser  diffuser  I'bydrogene. Le but visait l'abaissement du prix de revient du gaz purifie.",
+      "text": "11  nous  a paru interessant de  rechercher  des materiaux  bon  march6 ~~ep~bles comme  les alliages p&Bdents de  laisser  diffuser  I'bydrogene. Le but visait l'abaissement du prix de revient du gaz purifie."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.27999999999986,
+            "t": 426.4319999999999,
+            "r": 406.1087999999999,
+            "b": 367.6799999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            377
+          ]
+        }
+      ],
+      "orig": "Les caracteristiques de permeation  des mktaux et alliages  publiees par les auteurs anterieurs doivent  ftre  considerees  avec une certaine prudence, car les methodes  aussi bien que les conditions  experimentales de leur determ~ation se r&&lent tr& diverses et ne pe~ettent pas de les connaitre  avec precision  dans de larges gammes de temperature  et de pression  [ 1 -91.",
+      "text": "Les caracteristiques de permeation  des mktaux et alliages  publiees par les auteurs anterieurs doivent  ftre  considerees  avec une certaine prudence, car les methodes  aussi bien que les conditions  experimentales de leur determ~ation se r&&lent tr& diverses et ne pe~ettent pas de les connaitre  avec precision  dans de larges gammes de temperature  et de pression  [ 1 -91."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.039999999999736,
+            "t": 367.15199999999993,
+            "r": 409.4684999999997,
+            "b": 300.3551999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            395
+          ]
+        }
+      ],
+      "orig": "Le choix  des materiaux retenus a et6 effect& sur une base essentiellement  ~~onomique,  Nous  avons  rt%lise ainsi une  etude  comp~ative des proprietes  du  nickel  et  du  monel,  auxquels  nous  avons  adjoint  l'alliage 77at.%Pd-23at.%Ag. Ce dernier, qui est bien connu,  nous a servi de reference dans la mesure ou il est dej&  utilid  dans la conception de purificateurs i faibles d&bits.",
+      "text": "Le choix  des materiaux retenus a et6 effect& sur une base essentiellement  ~~onomique,  Nous  avons  rt%lise ainsi une  etude  comp~ative des proprietes  du  nickel  et  du  monel,  auxquels  nous  avons  adjoint  l'alliage 77at.%Pd-23at.%Ag. Ce dernier, qui est bien connu,  nous a servi de reference dans la mesure ou il est dej&  utilid  dans la conception de purificateurs i faibles d&bits."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.759999999999806,
+            "t": 276.19199999999995,
+            "r": 157.22879999999986,
+            "b": 268.9151999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "2,  AppareiIIage utihsd",
+      "text": "2,  AppareiIIage utihsd",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.2799999999998,
+            "t": 256.27199999999993,
+            "r": 117.38909999999979,
+            "b": 248.99519999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "2.1. ~iff~seu~",
+      "text": "2.1. ~iff~seu~",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.75999999999982,
+            "t": 244.75199999999995,
+            "r": 404.1887999999998,
+            "b": 225.2351999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "Les diffuseurs sont constitues  de cinq  tubes raccordb 6 un support  en inox  ou  en monel  servant de collecteur  au gaz diffuse.",
+      "text": "Les diffuseurs sont constitues  de cinq  tubes raccordb 6 un support  en inox  ou  en monel  servant de collecteur  au gaz diffuse."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.2799999999998,
+            "t": 220.9919999999999,
+            "r": 408.02919999999966,
+            "b": 189.47519999999986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "Les tubes utilises presentent, quelle que  soit leur nature, des caract&% tiques g4ometriques  t&s voisines:  diametre extirieur,  1,5 -  2 mm; epaisseur, 0,l  mm; longueur,  120  mm.",
+      "text": "Les tubes utilises presentent, quelle que  soit leur nature, des caract&% tiques g4ometriques  t&s voisines:  diametre extirieur,  1,5 -  2 mm; epaisseur, 0,l  mm; longueur,  120  mm."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.03999999999985,
+            "t": 185.23199999999986,
+            "r": 401.78879999999987,
+            "b": 154.1951999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            157
+          ]
+        }
+      ],
+      "orig": "L'une  des extremitb est obturee  par soudure.  La jonction  du tube  au collecteur  est r&h&e  11000 'C sous vide secondaire  a l'aide d'une  brasure Au-Ni.",
+      "text": "L'une  des extremitb est obturee  par soudure.  La jonction  du tube  au collecteur  est r&h&e  11000 'C sous vide secondaire  a l'aide d'une  brasure Au-Ni."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.039999999999914,
+            "t": 137.47199999999987,
+            "r": 174.74849999999986,
+            "b": 130.1951999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "2.2. Dispositif  de  mesures",
+      "text": "2.2. Dispositif  de  mesures",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 53.279999999999916,
+            "t": 125.47199999999987,
+            "r": 402.7486999999997,
+            "b": 58.435199999999895,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            468
+          ]
+        }
+      ],
+      "orig": "L'enceinte  &actionnelle  contenant  le diffuseur  est conc;ue de maniere a supporter  une temperature de 900  K sous pression de  50 bar. La partie essentielle, constituee  par un flasque  $ joint  chaud,  supporte  une gaine de thermocouple, une  entree  et  une  sortie  de  gaz  (Fig.  1).  La pression PT en amont  du diffuseur  est stabilisee i  +O,l  bar p&s  par un systeme de fuite contr6lCe; le debit Pa d'hydrogGne  diffuse  en aval est mesure a l'aide d'un",
+      "text": "L'enceinte  &actionnelle  contenant  le diffuseur  est conc;ue de maniere a supporter  une temperature de 900  K sous pression de  50 bar. La partie essentielle, constituee  par un flasque  $ joint  chaud,  supporte  une gaine de thermocouple, une  entree  et  une  sortie  de  gaz  (Fig.  1).  La pression PT en amont  du diffuseur  est stabilisee i  +O,l  bar p&s  par un systeme de fuite contr6lCe; le debit Pa d'hydrogGne  diffuse  en aval est mesure a l'aide d'un"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 396.96,
+            "t": 628.68936,
+            "r": 413.0009999999999,
+            "b": 621.3,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "P49",
+      "text": "P49"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.75999999999999,
+            "t": 481.32935999999995,
+            "r": 175.09000000000012,
+            "b": 473.93999999999994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Fig.  1.  Enceinte  de diffusion.",
+      "text": "Fig.  1.  Enceinte  de diffusion."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.239999999999995,
+            "t": 308.28936,
+            "r": 237.9700000000001,
+            "b": 300.9,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Fig.  2.  Schema de l'appareillage de diffusion.",
+      "text": "Fig.  2.  Schema de l'appareillage de diffusion."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.0,
+            "t": 280.7712,
+            "r": 401.2804,
+            "b": 249.86879999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "compteur volumetrique (Fig. 2). Afin  d'exprimer les  volumes dans  les conditions nor-males, la temperature ambiante  et  la pression  atmospherique sont  enregistrdes  simultandment.",
+      "text": "compteur volumetrique (Fig. 2). Afin  d'exprimer les  volumes dans  les conditions nor-males, la temperature ambiante  et  la pression  atmospherique sont  enregistrdes  simultandment."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.00000000000006,
+            "t": 220.5312,
+            "r": 177.3600000000001,
+            "b": 213.86879999999996,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "3.  R6sultat.s  exp&imentaux",
+      "text": "3.  R6sultat.s  exp&imentaux",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.520000000000095,
+            "t": 200.61119999999994,
+            "r": 417.8400000000001,
+            "b": 92.63999999999999,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            730
+          ]
+        }
+      ],
+      "orig": "La  mesure  des debits  du gaz diffuse  en  fonction de  la pression  et  de la temperature permet  de d&erminer le  coefficient D  de diffusion qui caracterise  le  materiau, pour  autant que  celui-ci  soit  soumis  a  une  temperature uniforme. Compte  tenu  de la longueur  des tubes  utilises,  il n'etait  pas possible  en  fait  de  les  maintenir  en  zone  isotherme. L'une  des extremitis est situ6e  au point T,, le  plus chaud  du rkacteur,  l'autre  au niveau  du collecteur dans une zone plus froide.  Pour chaque  valeur de  la temperature To maintenue con&ante a kl  'C pr6s nous  avons d6terminC  les profils  thermiques le  long des tubes  de man&e a connaitre la  temperature TX en  tout  point  d'abscisse  3~.",
+      "text": "La  mesure  des debits  du gaz diffuse  en  fonction de  la pression  et  de la temperature permet  de d&erminer le  coefficient D  de diffusion qui caracterise  le  materiau, pour  autant que  celui-ci  soit  soumis  a  une  temperature uniforme. Compte  tenu  de la longueur  des tubes  utilises,  il n'etait  pas possible  en  fait  de  les  maintenir  en  zone  isotherme. L'une  des extremitis est situ6e  au point T,, le  plus chaud  du rkacteur,  l'autre  au niveau  du collecteur dans une zone plus froide.  Pour chaque  valeur de  la temperature To maintenue con&ante a kl  'C pr6s nous  avons d6terminC  les profils  thermiques le  long des tubes  de man&e a connaitre la  temperature TX en  tout  point  d'abscisse  3~."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 53.76000000000005,
+            "t": 92.61119999999994,
+            "r": 401.04,
+            "b": 73.94879999999989,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "Les  diverses  courbes obtenues ont  CM parametrees par  un  calcul  de regression  statistique [  10). Les  polynomes etablis,  qui  sont  de la forme",
+      "text": "Les  diverses  courbes obtenues ont  CM parametrees par  un  calcul  de regression  statistique [  10). Les  polynomes etablis,  qui  sont  de la forme"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 78.24000000000007,
+            "t": 62.2367999999999,
+            "r": 170.8800000000001,
+            "b": 53.27999999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "TX = T,,-axbx2",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.52,
+            "t": 631.06424,
+            "r": 68.46012,
+            "b": 625.86872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "P50",
+      "text": "P50"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.760000000000005,
+            "t": 609.0512,
+            "r": 385.20000000000005,
+            "b": 590.1488,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "conviennent dans  tous  les cas  envisages lorsque  x  est compris  entre  0  et 120  mm.",
+      "text": "conviennent dans  tous  les cas  envisages lorsque  x  est compris  entre  0  et 120  mm."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.520000000000095,
+            "t": 584.8112,
+            "r": 391.92,
+            "b": 565.9088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "Pour  les  necessites du  calcul, nous  avons  defini une  tempirrature moyenne  T qui correspond  au min~um de  l'expression",
+      "text": "Pour  les  necessites du  calcul, nous  avons  defini une  tempirrature moyenne  T qui correspond  au min~um de  l'expression"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 78.24000000000007,
+            "t": 552.8912,
+            "r": 148.32000000000008,
+            "b": 546.2288000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "z:x G&.X, T)2",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.28000000000003,
+            "t": 536.8112,
+            "r": 410.3999999999999,
+            "b": 494.1488,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            334
+          ]
+        }
+      ],
+      "orig": "Des  mesures  comp~atives ont  Qt.6  effect&es, sous  une  pression  Pr de  20  bar  entre  300 et  700 K,  sur le nickel,  le monel  et  l'alliage  Pd-Ag. Ce demier  laisse diffuser  l'hydrogene  db 300  K  alors  que  pour  le nickel  et  le monel  le debit  n'est  decelable  avec l'appareillage  utilise  qu'ii partir  de  550  K.",
+      "text": "Des  mesures  comp~atives ont  Qt.6  effect&es, sous  une  pression  Pr de  20  bar  entre  300 et  700 K,  sur le nickel,  le monel  et  l'alliage  Pd-Ag. Ce demier  laisse diffuser  l'hydrogene  db 300  K  alors  que  pour  le nickel  et  le monel  le debit  n'est  decelable  avec l'appareillage  utilise  qu'ii partir  de  550  K."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.27999999999986,
+            "t": 488.81120000000004,
+            "r": 398.6399,
+            "b": 470.3888,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "Dans les conditions impos&es precedemment des diffuseurs  en tantale sont  rapidement  d&&riores,  ~~emblablement par  formation d'hydrure.",
+      "text": "Dans les conditions impos&es precedemment des diffuseurs  en tantale sont  rapidement  d&&riores,  ~~emblablement par  formation d'hydrure."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.27999999999986,
+            "t": 430.73120000000006,
+            "r": 114.23979999999989,
+            "b": 424.0688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "4.  Discussion",
+      "text": "4.  Discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 53.2799999999998,
+            "t": 402.8912000000001,
+            "r": 407.99999999999994,
+            "b": 384.22880000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "La  diffusion  de  I'hydrogene  ?I  travers  les solides  est  generalement caract&i&e par  une  expression  semi-emp~que [ll, 121:",
+      "text": "La  diffusion  de  I'hydrogene  ?I  travers  les solides  est  generalement caract&i&e par  une  expression  semi-emp~que [ll, 121:"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 76.14488220214844,
+            "t": 375.6271057128906,
+            "r": 218.3867950439453,
+            "b": 349.91790771484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 52.55999999999983,
+            "t": 342.41120000000006,
+            "r": 415.67999999999984,
+            "b": 299.5088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            256
+          ]
+        }
+      ],
+      "orig": "avec d,  debit  du gaz diffuse  (cm3  s-l); S,  surface  moyenne traversee  (cm'); e, epaisseur des membranes  (cm); PT, pression  en  amont  des membranes  (bar) ; Pa, pression  en  awl; T, temperature (K);  et A et  B,  con&antes intrindques du matdriau.",
+      "text": "avec d,  debit  du gaz diffuse  (cm3  s-l); S,  surface  moyenne traversee  (cm'); e, epaisseur des membranes  (cm); PT, pression  en  amont  des membranes  (bar) ; Pa, pression  en  awl; T, temperature (K);  et A et  B,  con&antes intrindques du matdriau."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.75999999999979,
+            "t": 294.41120000000006,
+            "r": 392.16,
+            "b": 287.7488,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Le  debit  specifique  Cp est  le debit  par unite  de surface  et  d'epaisseur:",
+      "text": "Le  debit  specifique  Cp est  le debit  par unite  de surface  et  d'epaisseur:"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 76.44711303710938,
+            "t": 276.08892822265625,
+            "r": 118.3797836303711,
+            "b": 265.59320068359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 77.0399999999998,
+            "t": 256.73120000000006,
+            "r": 383.2799999999995,
+            "b": 250.0688,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "Le  coefficient D de diffusion  s'exprime  alors  $ l'aide  de  la relation",
+      "text": "Le  coefficient D de diffusion  s'exprime  alors  $ l'aide  de  la relation"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 76.31999999999971,
+            "t": 238.73120000000006,
+            "r": 238.07999999999976,
+            "b": 231.47360000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "D = Q/(PT''  Pa1'2)  = A exp(B/T)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 52.559999999999775,
+            "t": 220.73120000000006,
+            "r": 400.5599999999997,
+            "b": 201.23360000000002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "Connaissant les  d&bits specifiques il  est  done  possible  de  calculer  D, puis d'en  d&luire  les valeurs  des con&antes A et  B.",
+      "text": "Connaissant les  d&bits specifiques il  est  done  possible  de  calculer  D, puis d'en  d&luire  les valeurs  des con&antes A et  B."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 52.799999999999784,
+            "t": 196.73120000000006,
+            "r": 411.1199999999998,
+            "b": 131.02880000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            452
+          ]
+        }
+      ],
+      "orig": "La  Fig.  3  illustre  les variations  des coefficients de diffusion des divers materiaux  pour  des  temperatures comprises  entre  550  et  700  K.  Le  param&rage  des courbes  L) = f(T) est  possible  pour  les trois  cas etudies, Les  coefficients  D  de diffusion obtenus  sont  rassembles  au Tableau  1. Les expressions ainsi definies  conduisent  si  un t&s  bon  accord  entre  les valeurs  experimentales et  calculees  du debit  specifique.",
+      "text": "La  Fig.  3  illustre  les variations  des coefficients de diffusion des divers materiaux  pour  des  temperatures comprises  entre  550  et  700  K.  Le  param&rage  des courbes  L) = f(T) est  possible  pour  les trois  cas etudies, Les  coefficients  D  de diffusion obtenus  sont  rassembles  au Tableau  1. Les expressions ainsi definies  conduisent  si  un t&s  bon  accord  entre  les valeurs  experimentales et  calculees  du debit  specifique."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 52.07999999999987,
+            "t": 126.41120000000001,
+            "r": 406.08019999999965,
+            "b": 59.98879999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            470
+          ]
+        }
+      ],
+      "orig": "La  Fig.  4  rep&se&e les variations  logll)  = f(l/T) entre  300  et  700  K pour  l'alliage  Pd-Ag  utilis&  Les  resultats  sont  a  rapprocher  de  ceux  obtenus par  Fort  et  at. [S j . Malgre l'approximation 1iQe  a la ndcessite  de d6finir  une temp&ature moyenne  de diffusion, les valeum obtenues  pour  les coefficients A et  B  sont  voisines  de celles  publiees  ~~~eu~rnent pour  des  gammes  de temperatures et  de  pressions  voisines  [l, 3  -  5,  71.",
+      "text": "La  Fig.  4  rep&se&e les variations  logll)  = f(l/T) entre  300  et  700  K pour  l'alliage  Pd-Ag  utilis&  Les  resultats  sont  a  rapprocher  de  ceux  obtenus par  Fort  et  at. [S j . Malgre l'approximation 1iQe  a la ndcessite  de d6finir  une temp&ature moyenne  de diffusion, les valeum obtenues  pour  les coefficients A et  B  sont  voisines  de celles  publiees  ~~~eu~rnent pour  des  gammes  de temperatures et  de  pressions  voisines  [l, 3  -  5,  71."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 400.68,
+            "t": 630.0824,
+            "r": 416.80164,
+            "b": 624.07904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "P51",
+      "text": "P51"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 73.07999999999998,
+            "t": 483.3992,
+            "r": 76.8384,
+            "b": 481.15999999999997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "L.",
+      "text": "L."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 214.19999999999996,
+            "t": 480.79808,
+            "r": 221.34911999999997,
+            "b": 477.19952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.7",
+      "text": "1.7"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 259.79999999999995,
+            "t": 480.79808,
+            "r": 266.9491199999999,
+            "b": 477.19952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.8",
+      "text": "1.8"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 275.87999999999994,
+            "t": 481.03808000000004,
+            "r": 294.7892399999998,
+            "b": 477.43952,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "lO?TCK1",
+      "text": "lO?TCK1"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 121.55999999999997,
+            "t": 478.96232,
+            "r": 131.8344,
+            "b": 474.26,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.5",
+      "text": "1.5"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 167.87999999999997,
+            "t": 479.78191999999996,
+            "r": 180.08640000000003,
+            "b": 473.96,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "1.6",
+      "text": "1.6"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.15999999999997,
+            "t": 468.32239999999996,
+            "r": 400.24183999999997,
+            "b": 451.99904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "Fig.  3.  Variation  du  logarithme  des coefficients de diffusion du monel,  du nickel  et de l'alliage  Pd-Ag avec l'inverse  de la temperature.",
+      "text": "Fig.  3.  Variation  du  logarithme  des coefficients de diffusion du monel,  du nickel  et de l'alliage  Pd-Ag avec l'inverse  de la temperature."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.87999999999996,
+            "t": 426.56239999999997,
+            "r": 186.1619199999999,
+            "b": 406.87904,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "TABLEAU 1 Coefficients de  diffusion calcules",
+      "text": "TABLEAU 1 Coefficients de  diffusion calcules"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 56.280000000000015,
+            "t": 288.55808000000013,
+            "r": 65.34924000000001,
+            "b": 284.9595200000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Log",
+      "text": "Log"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 67.32000000000002,
+            "t": 287.2023200000001,
+            "r": 72.43780000000001,
+            "b": 282.5000000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.36000000000002,
+            "t": 280.5819200000001,
+            "r": 69.82320000000003,
+            "b": 274.7600000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "hG,-",
+      "text": "hG,-"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 71.16000000000003,
+            "t": 287.85392000000013,
+            "r": 101.39330000000004,
+            "b": 259.6400000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "I",
+      "text": "I"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 65.40000000000002,
+            "t": 254.0823200000001,
+            "r": 75.63720000000002,
+            "b": 249.3800000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "-5_",
+      "text": "-5_"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 63.96000000000002,
+            "t": 181.04000000000008,
+            "r": 78.55200000000002,
+            "b": 177.6790400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "-10  -",
+      "text": "-10  -"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 188.04000000000002,
+            "t": 180.80000000000007,
+            "r": 193.27200000000005,
+            "b": 177.4390400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\\",
+      "text": "\\"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 234.12,
+            "t": 184.16000000000008,
+            "r": 239.35200000000003,
+            "b": 180.7990400000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 63.48000000000002,
+            "t": 160.24232000000006,
+            "r": 73.71720000000002,
+            "b": 155.54000000000008,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "-15",
+      "text": "-15"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 70.68000000000002,
+            "t": 154.87808000000007,
+            "r": 74.22916000000002,
+            "b": 151.27952000000005,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 167.64000000000001,
+            "t": 154.63808000000006,
+            "r": 171.18916000000002,
+            "b": 151.03952000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 216.12,
+            "t": 154.63808000000006,
+            "r": 219.66916,
+            "b": 151.03952000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 264.12,
+            "t": 154.39808000000005,
+            "r": 267.66916000000003,
+            "b": 150.79952000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 273.0,
+            "t": 154.39808000000005,
+            "r": 290.94871999999987,
+            "b": 150.79952000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "103/TtK)",
+      "text": "103/TtK)"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 119.64000000000001,
+            "t": 153.28232000000003,
+            "r": 124.7578,
+            "b": 148.58000000000015,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 54.11999999999995,
+            "t": 131.8424000000001,
+            "r": 385.1219999999999,
+            "b": 115.99904000000004,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "Fig.  4.  Variation du  logarithme du  coefficient de  diffusion de  l'alliage  77at.%Pd23at.%Ag avec  l'inverse  de  la tempkrature.",
+      "text": "Fig.  4.  Variation du  logarithme du  coefficient de  diffusion de  l'alliage  77at.%Pd23at.%Ag avec  l'inverse  de  la tempkrature."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 53.39999999999998,
+            "t": 85.73120000000006,
+            "r": 404.03999999999996,
+            "b": 55.43360000000007,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "Afin  de  permettre une  comparaison plus  aisde des  divers  matiriaux testis, nous  avons report.6  au  Tableau  2 les valeurs des debits  sphcifiques @ obtenues  1 partir  des don&es expdrirnentales.",
+      "text": "Afin  de  permettre une  comparaison plus  aisde des  divers  matiriaux testis, nous  avons report.6  au  Tableau  2 les valeurs des debits  sphcifiques @ obtenues  1 partir  des don&es expdrirnentales."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.52,
+            "t": 630.62424,
+            "r": 68.46012,
+            "b": 625.42872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "P52",
+      "text": "P52"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.28,
+            "t": 606.14424,
+            "r": 213.66040000000004,
+            "b": 576.70872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "TABLEAU 2 Variations  en fonction de la  temperature debits  specifiques  des materiaux utilises",
+      "text": "TABLEAU 2 Variations  en fonction de la  temperature debits  specifiques  des materiaux utilises"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 217.92000000000002,
+            "t": 591.98424,
+            "r": 232.38000000000002,
+            "b": 586.78872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "des",
+      "text": "des"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.27999999999997,
+            "t": 426.4320000000003,
+            "r": 410.18870000000027,
+            "b": 370.91520000000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            351
+          ]
+        }
+      ],
+      "orig": "11  appara?t qu'i 640  K l'alliage Pd-Ag  diffuse  environ  900  fois  plus que le nickel et ce dernier deux fois  plus que  le monel.  L'elevation  de temperature favorise  notablement  la diffusion, en particulier  celle  du  nickel  dont  le debit  specifique  extrapole  a 900  K ne serait alors que  100  fois  infkrieur a celui du binaire Pd-Ag.",
+      "text": "11  appara?t qu'i 640  K l'alliage Pd-Ag  diffuse  environ  900  fois  plus que le nickel et ce dernier deux fois  plus que  le monel.  L'elevation  de temperature favorise  notablement  la diffusion, en particulier  celle  du  nickel  dont  le debit  specifique  extrapole  a 900  K ne serait alors que  100  fois  infkrieur a celui du binaire Pd-Ag."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.27999999999997,
+            "t": 365.9520000000003,
+            "r": 400.5887999999999,
+            "b": 334.43520000000024,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "Le diffuseur  en  nickel  a dte testd durant  1500  h  environ  sans qu'on observe de modification  de performances,  malgre le recours  a de nombreux cycles  en temp&ature  et en pression.",
+      "text": "Le diffuseur  en  nickel  a dte testd durant  1500  h  environ  sans qu'on observe de modification  de performances,  malgre le recours  a de nombreux cycles  en temp&ature  et en pression."
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.51999999999998,
+            "t": 305.9520000000003,
+            "r": 121.46929999999998,
+            "b": 298.67520000000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "5.  Conclusions",
+      "text": "5.  Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.04000000000002,
+            "t": 282.1920000000003,
+            "r": 405.8687999999999,
+            "b": 214.91520000000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            463
+          ]
+        }
+      ],
+      "orig": "De cette  etude  comparative  il ressort que pour  des temperatures inferieures i  600  K l'alliage Pd-Ag  reste le materiau le plus performant  pour  la purification  de l'hydrogene. En revanche a temperature plus elevee le nickel et  eventuellement  le  monel  possedent  des  caracteristiques  de  diffusion intiressantes dans la mesure oti a 900  K les debits specifiques  ne semblent Gtre  que  100  fois  plus faibles environ a ceux  de l'alliage precedent.",
+      "text": "De cette  etude  comparative  il ressort que pour  des temperatures inferieures i  600  K l'alliage Pd-Ag  reste le materiau le plus performant  pour  la purification  de l'hydrogene. En revanche a temperature plus elevee le nickel et  eventuellement  le  monel  possedent  des  caracteristiques  de  diffusion intiressantes dans la mesure oti a 900  K les debits specifiques  ne semblent Gtre  que  100  fois  plus faibles environ a ceux  de l'alliage precedent."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 52.80000000000007,
+            "t": 210.1920000000003,
+            "r": 399.62840000000006,
+            "b": 178.67520000000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            222
+          ]
+        }
+      ],
+      "orig": "L'idCe d'utiliser le nickel comme  mat&au  permettant de realiser des purificateurs ne doit  done  pas Stre dcartee, compte  tenu de sa disponibilite et de la tres forte  difference  de prix  avec le palladium et l'argent.",
+      "text": "L'idCe d'utiliser le nickel comme  mat&au  permettant de realiser des purificateurs ne doit  done  pas Stre dcartee, compte  tenu de sa disponibilite et de la tres forte  difference  de prix  avec le palladium et l'argent."
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 53.280000000000086,
+            "t": 150.19200000000023,
+            "r": 104.18900000000008,
+            "b": 142.91520000000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 58.56000000000009,
+            "t": 123.50424000000032,
+            "r": 304.38000000000005,
+            "b": 114.4200000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "1  G.  Bohmholdt et  E.  Wicke,  2. Pkys.  Chem.,  42 (1964) 115.",
+      "text": "1  G.  Bohmholdt et  E.  Wicke,  2. Pkys.  Chem.,  42 (1964) 115.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 58.560000000000116,
+            "t": 113.66424000000029,
+            "r": 335.1,
+            "b": 104.58000000000027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "2 D.  N.  Jewet et  A.  C.  Makrides, Trans. Faraday  Sot., 61 (1965) 932.",
+      "text": "2 D.  N.  Jewet et  A.  C.  Makrides, Trans. Faraday  Sot., 61 (1965) 932.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 58.0800000000001,
+            "t": 103.58424000000025,
+            "r": 304.14000000000004,
+            "b": 94.50000000000023,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "3 G.  Bohmholdt et  E.  Wicke,  2. Phys.  Chem.,  56 (1967) 133.",
+      "text": "3 G.  Bohmholdt et  E.  Wicke,  2. Phys.  Chem.,  56 (1967) 133.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 58.560000000000116,
+            "t": 93.50424000000032,
+            "r": 335.82000000000016,
+            "b": 84.4200000000003,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "4 F.  I.  Ackerman et  G.  J.  Koskinas,  J. Chem.  Eng. Data, 1 (1972) 17.",
+      "text": "4 F.  I.  Ackerman et  G.  J.  Koskinas,  J. Chem.  Eng. Data, 1 (1972) 17.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 58.56000000000017,
+            "t": 83.66424000000029,
+            "r": 257.2200000000002,
+            "b": 74.58000000000027,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "5  W.  M. Robertson, 2. Metallkd., 64 (1973) 436.",
+      "text": "5  W.  M. Robertson, 2. Metallkd., 64 (1973) 436.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 57.8400000000002,
+            "t": 74.06424000000027,
+            "r": 364.6200000000001,
+            "b": 64.98000000000025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            85
+          ]
+        }
+      ],
+      "orig": "6 D.  Fort, J.  P.  G.  Farr  et  I.  R.  Harris, J. Less-Common Met., 39 (1975) 293.",
+      "text": "6 D.  Fort, J.  P.  G.  Farr  et  I.  R.  Harris, J. Less-Common Met., 39 (1975) 293.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 58.08000000000021,
+            "t": 64.22424000000024,
+            "r": 322.86000000000024,
+            "b": 55.14000000000033,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "7 K.  Yamakawa et  F. E.  Fujita, Jpn. J.  Appl. Phys., 16 (1977) 10.",
+      "text": "7 K.  Yamakawa et  F. E.  Fujita, Jpn. J.  Appl. Phys., 16 (1977) 10.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 398.88,
+            "t": 628.68936,
+            "r": 414.5501999999999,
+            "b": 621.3,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "P53",
+      "text": "P53"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 58.31999999999999,
+            "t": 605.75928,
+            "r": 269.82,
+            "b": 600.46872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "S A.  G.  Knapton, P~~~i~u~ Met.  Rev., 21  (19'77) 44.",
+      "text": "S A.  G.  Knapton, P~~~i~u~ Met.  Rev., 21  (19'77) 44.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 58.079999999999984,
+            "t": 595.4392799999999,
+            "r": 400.8599999999999,
+            "b": 579.34872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            142
+          ]
+        }
+      ],
+      "orig": "9 J. Yeheskel, D.  Leger  et  P,  Courvoisier, Proe. 2nd Would hydrogen Energy Conf., Zurich, 1978, Vol.  2,  Pergamon, Oxford, 1978, p.  569.",
+      "text": "9 J. Yeheskel, D.  Leger  et  P,  Courvoisier, Proe. 2nd Would hydrogen Energy Conf., Zurich, 1978, Vol.  2,  Pergamon, Oxford, 1978, p.  569.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 53.04000000000002,
+            "t": 575.55648,
+            "r": 398.9398000000002,
+            "b": 559.18872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "10 S~a~ist~cul  Library for the HP 9825 A, Vol.  '1, F~~i~~ Regression Pmgrnm, Hewlett Packard, 1916.",
+      "text": "10 S~a~ist~cul  Library for the HP 9825 A, Vol.  '1, F~~i~~ Regression Pmgrnm, Hewlett Packard, 1916.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 53.520000000000095,
+            "t": 555.11928,
+            "r": 344.94,
+            "b": 549.82872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "11 A.  Sieverts  et  W. Krumbhaar, Ber.  rtfsch. Chem. Ges.,  43  (f910) 893.",
+      "text": "11 A.  Sieverts  et  W. Krumbhaar, Ber.  rtfsch. Chem. Ges.,  43  (f910) 893.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 53.280000000000086,
+            "t": 545.27928,
+            "r": 379.02000000000004,
+            "b": 539.98872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            84
+          ]
+        }
+      ],
+      "orig": "12 W. Jo&, ~~ffu~io~  in Sotids, Liqrridsz Gases, Academic  Press,  New  York, 1960.",
+      "text": "12 W. Jo&, ~~ffu~io~  in Sotids, Liqrridsz Gases, Academic  Press,  New  York, 1960.",
+      "enumerated": false,
+      "marker": ""
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 52.02740478515625,
+            "t": 600.1335525512695,
+            "r": 327.6696472167969,
+            "b": 493.1878204345703,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 54.47440719604492,
+            "t": 454.28924560546875,
+            "r": 335.3197937011719,
+            "b": 321.9961242675781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.79378890991211,
+            "t": 603.5944671630859,
+            "r": 298.5749816894531,
+            "b": 475.54461669921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 52.62775802612305,
+            "t": 292.9802551269531,
+            "r": 296.2051696777344,
+            "b": 149.62152099609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 51.9627571105957,
+            "t": 396.97210693359375,
+            "r": 267.7624206542969,
+            "b": 334.8345031738281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 151.55999999999997,
+              "t": 294.6376,
+              "r": 257.3511,
+              "b": 300.64096,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "D = A exp(B/T) (cm2 SK')",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 53.879999999999995,
+              "t": 315.0376,
+              "r": 125.91608,
+              "b": 321.04096,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "77at.%Pd-23at.%Ag",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 150.83999999999997,
+              "t": 314.7976,
+              "r": 234.38187999999994,
+              "b": 320.80096,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "5,80 x 10-3exp(-900/T)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 53.639999999999986,
+              "t": 325.3576,
+              "r": 62.554799999999986,
+              "b": 331.36096,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Ni",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 151.07999999999998,
+              "t": 324.63759999999996,
+              "r": 242.5409999999999,
+              "b": 330.64095999999995,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "3,16 x 10w2exp(-6350/T)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 53.16,
+              "t": 335.19759999999997,
+              "r": 75.946,
+              "b": 341.20095999999995,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Monel",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 150.84,
+              "t": 334.71759999999995,
+              "r": 238.7060999999998,
+              "b": 340.72095999999993,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "5,09 x 10-3exp(-5530/T)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 4,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 151.55999999999997,
+                "t": 294.6376,
+                "r": 257.3511,
+                "b": 300.64096,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "D = A exp(B/T) (cm2 SK')",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 53.879999999999995,
+                "t": 315.0376,
+                "r": 125.91608,
+                "b": 321.04096,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "77at.%Pd-23at.%Ag",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 150.83999999999997,
+                "t": 314.7976,
+                "r": 234.38187999999994,
+                "b": 320.80096,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "5,80 x 10-3exp(-900/T)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 53.639999999999986,
+                "t": 325.3576,
+                "r": 62.554799999999986,
+                "b": 331.36096,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Ni",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 151.07999999999998,
+                "t": 324.63759999999996,
+                "r": 242.5409999999999,
+                "b": 330.64095999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "3,16 x 10w2exp(-6350/T)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 53.16,
+                "t": 335.19759999999997,
+                "r": 75.946,
+                "b": 341.20095999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Monel",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 150.84,
+                "t": 334.71759999999995,
+                "r": 238.7060999999998,
+                "b": 340.72095999999993,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "5,09 x 10-3exp(-5530/T)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 51.95880126953125,
+            "t": 564.7106857299805,
+            "r": 251.4619140625,
+            "b": 447.5956726074219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 53.52000000000001,
+              "t": 128.01576,
+              "r": 70.29972000000002,
+              "b": 133.21128,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "T(K)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 53.76000000000001,
+              "t": 162.81575999999995,
+              "r": 65.88000000000001,
+              "b": 168.01127999999994,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "580",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 53.52000000000001,
+              "t": 172.89575999999994,
+              "r": 65.64,
+              "b": 178.09127999999993,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "600",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 53.28000000000001,
+              "t": 184.41575999999992,
+              "r": 65.4,
+              "b": 189.6112799999999,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "620",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 53.52000000000001,
+              "t": 193.0557599999999,
+              "r": 65.64,
+              "b": 198.2512799999999,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "640",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 53.28000000000001,
+              "t": 202.89575999999988,
+              "r": 65.4,
+              "b": 208.09127999999987,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "660",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 53.28000000000001,
+              "t": 212.73575999999986,
+              "r": 65.4,
+              "b": 217.93127999999984,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "680",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 53.52000000000001,
+              "t": 222.81575999999984,
+              "r": 65.64,
+              "b": 228.01127999999983,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "700",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 100.80000000000001,
+              "t": 126.33575999999982,
+              "r": 242.85726,
+              "b": 135.41999999999985,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 3,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 4,
+            "text": "Debits @cifiques @X lo6 (cm3 s-l)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 100.56,
+              "t": 144.35063999999988,
+              "r": 120.52079999999997,
+              "b": 151.7399999999999,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Pd-Ag",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 148.56,
+              "t": 142.65575999999987,
+              "r": 157.73732,
+              "b": 147.85127999999986,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Ni",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 196.08,
+              "t": 142.41575999999986,
+              "r": 219.84000000000003,
+              "b": 147.61127999999985,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Monel",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 101.04,
+              "t": 162.81575999999984,
+              "r": 117.24,
+              "b": 168.01127999999983,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "4280",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 154.08,
+              "t": 162.81575999999984,
+              "r": 164.10000000000002,
+              "b": 168.01127999999983,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1,9",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 196.8,
+              "t": 162.81575999999984,
+              "r": 210.885,
+              "b": 168.01127999999983,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "1,25",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 101.04,
+              "t": 172.89575999999983,
+              "r": 117.24,
+              "b": 178.0912799999998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "4500",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 154.56,
+              "t": 172.89575999999983,
+              "r": 166.68000000000004,
+              "b": 178.0912799999998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "298",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 197.04,
+              "t": 172.89575999999983,
+              "r": 211.12499999999997,
+              "b": 178.0912799999998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "1,75",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 101.03999999999999,
+              "t": 184.4157599999998,
+              "r": 117.23999999999998,
+              "b": 189.6112799999998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "4720",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 154.07999999999998,
+              "t": 184.4157599999998,
+              "r": 158.04,
+              "b": 189.6112799999998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 197.04,
+              "t": 184.4157599999998,
+              "r": 209.16000000000003,
+              "b": 189.6112799999998,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "294",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 101.03999999999999,
+              "t": 193.0557599999998,
+              "r": 117.23999999999998,
+              "b": 198.25127999999978,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "4940",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 154.32,
+              "t": 193.0557599999998,
+              "r": 164.34,
+              "b": 198.25127999999978,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "5,5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 196.56,
+              "t": 193.0557599999998,
+              "r": 210.64499999999998,
+              "b": 198.25127999999978,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "3,15",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 101.52,
+              "t": 202.89575999999977,
+              "r": 117.71999999999998,
+              "b": 208.09127999999976,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "5160",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 154.07999999999998,
+              "t": 202.89575999999977,
+              "r": 168.16499999999996,
+              "b": 208.09127999999976,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "7,25",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 196.55999999999997,
+              "t": 202.89575999999977,
+              "r": 210.64499999999995,
+              "b": 208.09127999999976,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "4,05",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 101.51999999999997,
+              "t": 212.73575999999974,
+              "r": 117.71999999999996,
+              "b": 217.93127999999973,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "5370",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 154.07999999999998,
+              "t": 212.73575999999974,
+              "r": 166.20000000000002,
+              "b": 217.93127999999973,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "996",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 197.04,
+              "t": 212.73575999999974,
+              "r": 211.12499999999997,
+              "b": 217.93127999999973,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "5,25",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 101.52,
+              "t": 222.81575999999973,
+              "r": 117.71999999999998,
+              "b": 228.01127999999972,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "5600",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 149.04,
+              "t": 222.81575999999973,
+              "r": 167.19600000000003,
+              "b": 228.01127999999972,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "12,25",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 196.32,
+              "t": 222.81575999999973,
+              "r": 210.40499999999997,
+              "b": 228.01127999999972,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "6,65",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 9,
+        "num_cols": 4,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 53.52000000000001,
+                "t": 128.01576,
+                "r": 70.29972000000002,
+                "b": 133.21128,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "T(K)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 100.80000000000001,
+                "t": 126.33575999999982,
+                "r": 242.85726,
+                "b": 135.41999999999985,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 3,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 4,
+              "text": "Debits @cifiques @X lo6 (cm3 s-l)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 100.80000000000001,
+                "t": 126.33575999999982,
+                "r": 242.85726,
+                "b": 135.41999999999985,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 3,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 4,
+              "text": "Debits @cifiques @X lo6 (cm3 s-l)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 100.80000000000001,
+                "t": 126.33575999999982,
+                "r": 242.85726,
+                "b": 135.41999999999985,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 3,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 4,
+              "text": "Debits @cifiques @X lo6 (cm3 s-l)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 100.56,
+                "t": 144.35063999999988,
+                "r": 120.52079999999997,
+                "b": 151.7399999999999,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Pd-Ag",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 148.56,
+                "t": 142.65575999999987,
+                "r": 157.73732,
+                "b": 147.85127999999986,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Ni",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 196.08,
+                "t": 142.41575999999986,
+                "r": 219.84000000000003,
+                "b": 147.61127999999985,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Monel",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 53.76000000000001,
+                "t": 162.81575999999995,
+                "r": 65.88000000000001,
+                "b": 168.01127999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "580",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 101.04,
+                "t": 162.81575999999984,
+                "r": 117.24,
+                "b": 168.01127999999983,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "4280",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 154.08,
+                "t": 162.81575999999984,
+                "r": 164.10000000000002,
+                "b": 168.01127999999983,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1,9",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 196.8,
+                "t": 162.81575999999984,
+                "r": 210.885,
+                "b": 168.01127999999983,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "1,25",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 53.52000000000001,
+                "t": 172.89575999999994,
+                "r": 65.64,
+                "b": 178.09127999999993,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "600",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 101.04,
+                "t": 172.89575999999983,
+                "r": 117.24,
+                "b": 178.0912799999998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "4500",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 154.56,
+                "t": 172.89575999999983,
+                "r": 166.68000000000004,
+                "b": 178.0912799999998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "298",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 197.04,
+                "t": 172.89575999999983,
+                "r": 211.12499999999997,
+                "b": 178.0912799999998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "1,75",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 53.28000000000001,
+                "t": 184.41575999999992,
+                "r": 65.4,
+                "b": 189.6112799999999,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "620",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 101.03999999999999,
+                "t": 184.4157599999998,
+                "r": 117.23999999999998,
+                "b": 189.6112799999998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "4720",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 154.07999999999998,
+                "t": 184.4157599999998,
+                "r": 158.04,
+                "b": 189.6112799999998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 197.04,
+                "t": 184.4157599999998,
+                "r": 209.16000000000003,
+                "b": 189.6112799999998,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "294",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 53.52000000000001,
+                "t": 193.0557599999999,
+                "r": 65.64,
+                "b": 198.2512799999999,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "640",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 101.03999999999999,
+                "t": 193.0557599999998,
+                "r": 117.23999999999998,
+                "b": 198.25127999999978,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "4940",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 154.32,
+                "t": 193.0557599999998,
+                "r": 164.34,
+                "b": 198.25127999999978,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "5,5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 196.56,
+                "t": 193.0557599999998,
+                "r": 210.64499999999998,
+                "b": 198.25127999999978,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "3,15",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 53.28000000000001,
+                "t": 202.89575999999988,
+                "r": 65.4,
+                "b": 208.09127999999987,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "660",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 101.52,
+                "t": 202.89575999999977,
+                "r": 117.71999999999998,
+                "b": 208.09127999999976,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "5160",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 154.07999999999998,
+                "t": 202.89575999999977,
+                "r": 168.16499999999996,
+                "b": 208.09127999999976,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "7,25",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 196.55999999999997,
+                "t": 202.89575999999977,
+                "r": 210.64499999999995,
+                "b": 208.09127999999976,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "4,05",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 53.28000000000001,
+                "t": 212.73575999999986,
+                "r": 65.4,
+                "b": 217.93127999999984,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "680",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 101.51999999999997,
+                "t": 212.73575999999974,
+                "r": 117.71999999999996,
+                "b": 217.93127999999973,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "5370",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 154.07999999999998,
+                "t": 212.73575999999974,
+                "r": 166.20000000000002,
+                "b": 217.93127999999973,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "996",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 197.04,
+                "t": 212.73575999999974,
+                "r": 211.12499999999997,
+                "b": 217.93127999999973,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "5,25",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 53.52000000000001,
+                "t": 222.81575999999984,
+                "r": 65.64,
+                "b": 228.01127999999983,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "700",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 101.52,
+                "t": 222.81575999999973,
+                "r": 117.71999999999998,
+                "b": 228.01127999999972,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "5600",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 149.04,
+                "t": 222.81575999999973,
+                "r": 167.19600000000003,
+                "b": 228.01127999999972,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "12,25",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 196.32,
+                "t": 222.81575999999973,
+                "r": 210.40499999999997,
+                "b": 228.01127999999972,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "6,65",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 7
+    }
+  }
+}

@@ -1,0 +1,753 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Perm\u00e9ation gazeuse - Mod\u00e9lisation des modules \u00e0 fibres creuses _ Techniques de l'Ing\u00e9nieur",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18146044291930258833,
+    "filename": "Perm\u00e9ation gazeuse - Mod\u00e9lisation des modules \u00e0 fibres creuses _ Techniques de l'Ing\u00e9nieur.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 277.3105,
+            "t": 278.206730703125,
+            "r": 426.0805660000001,
+            "b": 267.74128964235155,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "ARTICLE DE R\u00c9F\u00c9RENCE",
+      "text": "ARTICLE DE R\u00c9F\u00c9RENCE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.55050000000002,
+            "t": 243.322250703125,
+            "r": 395.1873339999998,
+            "b": 230.51935072522446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "R\u00e9f\u00e9rence J2810 | Date de publication :10 sept. 2004",
+      "text": "R\u00e9f\u00e9rence J2810 | Date de publication :10 sept. 2004"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.55049999999999,
+            "t": 218.422130703125,
+            "r": 322.6617579999998,
+            "b": 205.61923072522444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            35
+          ]
+        }
+      ],
+      "orig": "Lian-Ming SUN, Jean-Yves THONNELIER",
+      "text": "Lian-Ming SUN, Jean-Yves THONNELIER"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 232.89068603515625,
+            "t": 89.23736572265625,
+            "r": 659.6744384765625,
+            "b": 65.83062744140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 385.11016845703125,
+            "t": 551.7838096618652,
+            "r": 505.25152587890625,
+            "b": 512.0288925170898,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 320.2486572265625,
+            "t": 516.3916397094727,
+            "r": 573.6019287109375,
+            "b": 487.9777374267578,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 391.4226379394531,
+            "t": 374.32337951660156,
+            "r": 534.0376586914062,
+            "b": 350.86932373046875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 412.0960693359375,
+            "t": 288.03570556640625,
+            "r": 513.8218383789062,
+            "b": 263.95562744140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 382.2030029296875,
+            "t": 203.06869506835938,
+            "r": 545.0366821289062,
+            "b": 178.92498779296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 384.6244201660156,
+            "t": 91.0611572265625,
+            "r": 540.6321411132812,
+            "b": 67.6153564453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 307.461181640625,
+            "t": 516.658805847168,
+            "r": 619.0690307617188,
+            "b": 492.47786712646484,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 348.8448486328125,
+            "t": 382.72276306152344,
+            "r": 576.5408325195312,
+            "b": 326.7291259765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 232.62423706054688,
+            "t": 267.8424987792969,
+            "r": 693.1282348632812,
+            "b": 219.73114013671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 388.2590637207031,
+            "t": 495.47438049316406,
+            "r": 536.5208740234375,
+            "b": 448.6723327636719,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 385.9845275878906,
+            "t": 340.39886474609375,
+            "r": 539.6968994140625,
+            "b": 298.880859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 323.7110290527344,
+            "t": 131.05194091796875,
+            "r": 600.1992797851562,
+            "b": 82.21319580078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 9,
+          "bbox": {
+            "l": 98.69060000000003,
+            "t": 144.20225070312506,
+            "r": 812.51036,
+            "b": 38.39884672522453,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            567
+          ]
+        }
+      ],
+      "orig": "une application p\u00e9troli\u00e8re avec un m\u00e9lange riche en hydrog\u00e8ne comportant des hydrocarbures l\u00e9gers (CH , C , C H  et C H  ) comme impuret\u00e9s. Les proportions de ces hydrocarbures sont \u00e0 1 : 0,5 : 0,25 : 0,125 pour C C H  , C H  et C H  et la composition d'hydrog\u00e8ne dans le flux d'alimentation est \u00e9gale \u00e0 0,6. Les performan de s\u00e9paration par une membrane fonctionnant \u00e0 contre-courant sont illustr\u00e9es figure avec un ratio de pres \u03b3 = 4 ( P = 40 bar et P = 10 bar) pour trois diff\u00e9rentes perms\u00e9lectivit\u00e9s H /CH (50, 100 et 150). On voit qu 4 3 8 2 4 2 6 3 8 2 4 H B 2 4",
+      "text": "une application p\u00e9troli\u00e8re avec un m\u00e9lange riche en hydrog\u00e8ne comportant des hydrocarbures l\u00e9gers (CH , C , C H  et C H  ) comme impuret\u00e9s. Les proportions de ces hydrocarbures sont \u00e0 1 : 0,5 : 0,25 : 0,125 pour C C H  , C H  et C H  et la composition d'hydrog\u00e8ne dans le flux d'alimentation est \u00e9gale \u00e0 0,6. Les performan de s\u00e9paration par une membrane fonctionnant \u00e0 contre-courant sont illustr\u00e9es figure avec un ratio de pres \u03b3 = 4 ( P = 40 bar et P = 10 bar) pour trois diff\u00e9rentes perms\u00e9lectivit\u00e9s H /CH (50, 100 et 150). On voit qu 4 3 8 2 4 2 6 3 8 2 4 H B 2 4"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 10,
+          "bbox": {
+            "l": 98.6906,
+            "t": 547.1622507031251,
+            "r": 811.73036,
+            "b": 444.1793507252245,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            524
+          ]
+        }
+      ],
+      "orig": "puret\u00e9 de 95 % pour l'hydrog\u00e8ne peut \u00eatre obtenue avec un rendement d'extraction allant de 80 % \u00e0 90 % sui la valeur de la perms\u00e9lectivit\u00e9 H /CH . On remarque \u00e9galement une sensibilit\u00e9 des performances de s\u00e9para \u00e0 la perms\u00e9lectivit\u00e9 moins importante que dans le cas de la s\u00e9paration de l'air (avec une perms\u00e9lectivit\u00e9 mod\u00e9 En effet, les performances peuvent d\u00e9pendre essentiellement des pressions op\u00e9ratoires lorsque la perms\u00e9lect est suffisamment grande, conform\u00e9ment \u00e0 ce que nous avons signal\u00e9 pr\u00e9c\u00e9demment (voir \u00a7 ). 2 4",
+      "text": "puret\u00e9 de 95 % pour l'hydrog\u00e8ne peut \u00eatre obtenue avec un rendement d'extraction allant de 80 % \u00e0 90 % sui la valeur de la perms\u00e9lectivit\u00e9 H /CH . On remarque \u00e9galement une sensibilit\u00e9 des performances de s\u00e9para \u00e0 la perms\u00e9lectivit\u00e9 moins importante que dans le cas de la s\u00e9paration de l'air (avec une perms\u00e9lectivit\u00e9 mod\u00e9 En effet, les performances peuvent d\u00e9pendre essentiellement des pressions op\u00e9ratoires lorsque la perms\u00e9lect est suffisamment grande, conform\u00e9ment \u00e0 ce que nous avons signal\u00e9 pr\u00e9c\u00e9demment (voir \u00a7 ). 2 4"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.08761978149414,
+            "t": 539.9327545166016,
+            "r": 275.83685302734375,
+            "b": 429.9974670410156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 8
+    },
+    "9": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 9
+    },
+    "10": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 10
+    },
+    "11": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 11
+    },
+    "12": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 12
+    },
+    "13": {
+      "size": {
+        "width": 842.0,
+        "height": 595.219970703125
+      },
+      "page_no": 13
+    }
+  }
+}

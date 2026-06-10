@@ -1,0 +1,3182 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "c4ee02256d",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16350885519814616365,
+    "filename": "c4ee02256d.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/texts/87"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.0157,
+            "t": 332.7813151367187,
+            "r": 273.17629999999986,
+            "b": 312.28561513671866,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "Showcasing research from Prof. Ian S. Metcalfe's group at Newcastle University, UK.",
+      "text": "Showcasing research from Prof. Ian S. Metcalfe's group at Newcastle University, UK.",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.0157,
+            "t": 300.2778151367187,
+            "r": 298.67689999999993,
+            "b": 279.78211513671863,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "Title: Selective, high-temperature permeation of nitrogen oxides using a supported molten salt membrane",
+      "text": "Title: Selective, high-temperature permeation of nitrogen oxides using a supported molten salt membrane"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.0155,
+            "t": 267.77431513671866,
+            "r": 292.24169999999987,
+            "b": 209.20381513671873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            270
+          ]
+        }
+      ],
+      "orig": "NO x treatment is an important environmental technology. We demonstrate a dual-phase (molten salt-solid phase) membrane that is selective for NO x permeation. Such a membrane could be used to improve NO x sensing devices or even develop new approaches to NO x treatment.",
+      "text": "NO x treatment is an important environmental technology. We demonstrate a dual-phase (molten salt-solid phase) membrane that is selective for NO x permeation. Such a membrane could be used to improve NO x sensing devices or even develop new approaches to NO x treatment."
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 409.3762,
+            "t": 334.71841513671876,
+            "r": 503.4506000000002,
+            "b": 321.50241513671875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "As featured in:",
+      "text": "As featured in:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 386.6084,
+            "t": 170.96951513671866,
+            "r": 527.7347,
+            "b": 152.47361513671876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "See I. S. Metcalfe et al., Energy Environ. Sci. , 2015, 8 , 1220.",
+      "text": "See I. S. Metcalfe et al., Energy Environ. Sci. , 2015, 8 , 1220."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 470.319,
+            "t": 39.92941513671872,
+            "r": 567.0852,
+            "b": 34.26541513671873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Registered charity number: 207890",
+      "text": "Registered charity number: 207890"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 418.1274,
+            "t": 65.26361513671873,
+            "r": 567.0953999999999,
+            "b": 46.38361513671873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.rsc.org/ees",
+      "text": "www.rsc.org/ees"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 5.32,
+            "t": 556.0020151367187,
+            "r": 12.68,
+            "b": 314.7700151367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "Open Access Article. Published on 26 January 2015. Downloaded on 7/1204 2:356 PM.",
+      "text": "Open Access Article. Published on 26 January 2015. Downloaded on 7/1204 2:356 PM."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 16.32,
+            "t": 649.0820151367187,
+            "r": 23.68,
+            "b": 356.3800151367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.",
+      "text": "This article is licensed under a Creative Commons Attribution 3.0 Unported Licence."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8189,
+            "t": 762.4070221367188,
+            "r": 165.65031522000007,
+            "b": 705.3430853867187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Energy & Environmental Science",
+      "text": "Energy & Environmental Science",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 51.4772,
+            "t": 682.5615281367188,
+            "r": 192.45799529,
+            "b": 667.8964521367188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "COMMUNICATION",
+      "text": "COMMUNICATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.5197,
+            "t": 609.7292531367187,
+            "r": 161.2044245,
+            "b": 594.0986811367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Cite this: Energy Environ. Sci. , 2015, 8 , 1220",
+      "text": "Cite this: Energy Environ. Sci. , 2015, 8 , 1220"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.519700000000014,
+            "t": 581.4743217367187,
+            "r": 136.67728340000002,
+            "b": 565.9224804367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Received 18th July 2014 Accepted 26th January 2015",
+      "text": "Received 18th July 2014 Accepted 26th January 2015"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.519700000000014,
+            "t": 553.0713188367188,
+            "r": 129.89416409999995,
+            "b": 546.4767198367188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "DOI: 10.1039/c4ee02256d",
+      "text": "DOI: 10.1039/c4ee02256d"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.519700000000014,
+            "t": 535.1777809367187,
+            "r": 96.04068539999999,
+            "b": 528.5615129367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "www.rsc.org/ees",
+      "text": "www.rsc.org/ees"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.518405100000024,
+            "t": 508.6630763367187,
+            "r": 292.01906675999993,
+            "b": 393.7586151967187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            604
+          ]
+        }
+      ],
+      "orig": "Molten nitrate/ceramic membranes of KNO3/Al2O3 and KNO3/ La0.6Sr0.4Co0.2Fe0.8O3 \u0000 d (LSCF) were designed and successfully operated for the selective permeation of nitrogen oxides. With the presence of oxygen on the feed side of the membrane, the KNO3/ Al2O3 membrane showed no measurable oxygen permeation while the KNO3/LSCF membrane exhibited nitrogen dioxide and oxygen co-permeation. For the KNO3/LSCF membrane, a permeance of up to 6.9 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 was achieved while the nitrogen dioxide to oxygen permeate ratio appeared to be approximately constant with a value of around unity.",
+      "text": "Molten nitrate/ceramic membranes of KNO3/Al2O3 and KNO3/ La0.6Sr0.4Co0.2Fe0.8O3 \u0000 d (LSCF) were designed and successfully operated for the selective permeation of nitrogen oxides. With the presence of oxygen on the feed side of the membrane, the KNO3/ Al2O3 membrane showed no measurable oxygen permeation while the KNO3/LSCF membrane exhibited nitrogen dioxide and oxygen co-permeation. For the KNO3/LSCF membrane, a permeance of up to 6.9 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 was achieved while the nitrogen dioxide to oxygen permeate ratio appeared to be approximately constant with a value of around unity."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.51853356000001,
+            "t": 370.67645153671873,
+            "r": 291.98216493999996,
+            "b": 135.9058153049673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1265
+          ]
+        }
+      ],
+      "orig": "Nitrogen oxides (NO x ), which include nitrogen monoxide (NO) and nitrogen dioxide (NO2), are responsible for acid rain, ground-level ozone and smog and harmful e ff ects to human health. E ffi cient treatment systems, such as selective catalytic reduction (SCR) or non-selective catalytic reduction (NSCR) exist for stationary and large vehicular systems. 1,2 However, nitrogen oxide sensors are critical to the e ff ective performance of such treatment systems. Sensors tend to be amperometric in nature; they reduce nitrogen oxides at an electrode resulting in a sensor signal. However, the selectivity of this reduction process is poor and any oxygen present interferes with the measurement. 3 One way to improve the sensor design would be to use a NO x -selective membrane to prevent oxygen from contacting the electrode in the \ue103 rst place. A successful sensor membrane or barrier should exhibit a high selectivity for NO x permeation over, in particular, oxygen and should also withstand the harsh (acid gases, particulates), high temperature environment associated with combustion exhausts. In the absence of a high selectivity of nitrogen oxides over oxygen, permeation of nitrogen oxides and oxygen within a range of known ratios would also be bene \ue103 cial.",
+      "text": "Nitrogen oxides (NO x ), which include nitrogen monoxide (NO) and nitrogen dioxide (NO2), are responsible for acid rain, ground-level ozone and smog and harmful e ff ects to human health. E ffi cient treatment systems, such as selective catalytic reduction (SCR) or non-selective catalytic reduction (NSCR) exist for stationary and large vehicular systems. 1,2 However, nitrogen oxide sensors are critical to the e ff ective performance of such treatment systems. Sensors tend to be amperometric in nature; they reduce nitrogen oxides at an electrode resulting in a sensor signal. However, the selectivity of this reduction process is poor and any oxygen present interferes with the measurement. 3 One way to improve the sensor design would be to use a NO x -selective membrane to prevent oxygen from contacting the electrode in the \ue103 rst place. A successful sensor membrane or barrier should exhibit a high selectivity for NO x permeation over, in particular, oxygen and should also withstand the harsh (acid gases, particulates), high temperature environment associated with combustion exhausts. In the absence of a high selectivity of nitrogen oxides over oxygen, permeation of nitrogen oxides and oxygen within a range of known ratios would also be bene \ue103 cial."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.5197,
+            "t": 99.0566615367187,
+            "r": 291.8888403999999,
+            "b": 73.24329843671876,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "School of Chemical Engineering and Advanced Materials, Newcastle University, Newcastle upon Tyne NE1 7RU, UK. E-mail: i.metcalfe@newcastle.ac.uk; Tel: +44 (0)191 222 5279",
+      "text": "School of Chemical Engineering and Advanced Materials, Newcastle University, Newcastle upon Tyne NE1 7RU, UK. E-mail: i.metcalfe@newcastle.ac.uk; Tel: +44 (0)191 222 5279"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.5197,
+            "t": 68.84267303671868,
+            "r": 291.90139323999995,
+            "b": 52.32329319671874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "\u2020 Electronic supplementary information (ESI) available. See DOI: 10.1039/c4ee02256d",
+      "text": "\u2020 Electronic supplementary information (ESI) available. See DOI: 10.1039/c4ee02256d"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 63.0425,
+            "t": 26.14987513671872,
+            "r": 64.985168,
+            "b": 19.660478470052112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "|",
+      "text": "|"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 452.41,
+            "t": 684.9920151367187,
+            "r": 537.9100000000001,
+            "b": 667.0960151367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "View Article Online View Journal  | View Issue",
+      "text": "View Article Online View Journal  | View Issue"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 172.9133,
+            "t": 643.8402281367188,
+            "r": 518.3555413000003,
+            "b": 592.8264860467186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Selective, high-temperature permeation of nitrogen oxides using a supported molten salt membrane \u2020",
+      "text": "Selective, high-temperature permeation of nitrogen oxides using a supported molten salt membrane \u2020",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 172.9133,
+            "t": 581.5297272767187,
+            "r": 383.42702304,
+            "b": 571.1297691367188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "G. Zhang, E. I. Papaioannou and I. S. Metcalfe*",
+      "text": "G. Zhang, E. I. Papaioannou and I. S. Metcalfe*"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.2692,
+            "t": 495.8346555367187,
+            "r": 378.1668978700002,
+            "b": 489.4865151367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Broader context",
+      "text": "Broader context",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.26877734,
+            "t": 480.0896615367187,
+            "r": 540.7696431000005,
+            "b": 423.7206501875662,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            393
+          ]
+        }
+      ],
+      "orig": "NO x treatment is an important environmental technology. Such treatment relies upon robust NO x sensors. However, most sensors su ff er from a lack of selectivity when operating in oxygen-containing atmospheres. Here we demonstrate a membrane that is selective for NO x permeation. Such a membrane could be used to improve NO x sensing devices or even develop new approaches to NO x treatment.",
+      "text": "NO x treatment is an important environmental technology. Such treatment relies upon robust NO x sensors. However, most sensors su ff er from a lack of selectivity when operating in oxygen-containing atmospheres. Here we demonstrate a membrane that is selective for NO x permeation. Such a membrane could be used to improve NO x sensing devices or even develop new approaches to NO x treatment."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.3071601400001,
+            "t": 401.57618504671876,
+            "r": 552.7541092900005,
+            "b": 382.01102444496735,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "To the best of our knowledge, no suitable membrane has ever met these critical requirements.",
+      "text": "To the best of our knowledge, no suitable membrane has ever met these critical requirements."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.30643681000004,
+            "t": 377.65230338671876,
+            "r": 552.7617515700001,
+            "b": 274.40579093496734,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            550
+          ]
+        }
+      ],
+      "orig": "Here we design a dual phase membrane for the selective permeation of nitrogen oxides (note that some of the potential permeation mechanisms also result in oxygen co-permeation). This membrane employs a molten alkali metal nitrate held within the pores of an electronically conducting ceramic support. Here we use potassium nitrate as the alkali metal nitrate. Potassium nitrate has a melting point of around 334 \u000e C. It is stable in air to 530 \u000e C, undergoing conversion to nitrite with the release of oxygen (reaction (R1)) at higher temperatures, 4",
+      "text": "Here we design a dual phase membrane for the selective permeation of nitrogen oxides (note that some of the potential permeation mechanisms also result in oxygen co-permeation). This membrane employs a molten alkali metal nitrate held within the pores of an electronically conducting ceramic support. Here we use potassium nitrate as the alkali metal nitrate. Potassium nitrate has a melting point of around 334 \u000e C. It is stable in air to 530 \u000e C, undergoing conversion to nitrite with the release of oxygen (reaction (R1)) at higher temperatures, 4"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 372.529,
+            "t": 263.06510481671876,
+            "r": 552.7524106999998,
+            "b": 251.53525993671872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "NO3 \u0000 4 NO2 \u0000 + 1/2O2 (R1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.30607893,
+            "t": 238.18515153671876,
+            "r": 552.7584078600001,
+            "b": 146.73282860671873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            469
+          ]
+        }
+      ],
+      "orig": "Here we use La0.6Sr0.4Co0.2Fe0.8O3 \u0000 d (LSCF) as the electronically conducting host phase. We use a ceramic to avoid problems with corrosion due to the high temperatures and molten salt environment. LSCF also exhibits appreciable oxygen-ion conductivity above about 700 \u000e C. However, here we operate at 450 \u000e C and do not expect oxygen-ion transport to be important. Membranes of KNO3/LSCF or KNO3/Al2O3 were fully in \ue103 ltrated with potassium nitrate (ESI, Fig. S1 \u2020 ).",
+      "text": "Here we use La0.6Sr0.4Co0.2Fe0.8O3 \u0000 d (LSCF) as the electronically conducting host phase. We use a ceramic to avoid problems with corrosion due to the high temperatures and molten salt environment. LSCF also exhibits appreciable oxygen-ion conductivity above about 700 \u000e C. However, here we operate at 450 \u000e C and do not expect oxygen-ion transport to be important. Membranes of KNO3/LSCF or KNO3/Al2O3 were fully in \ue103 ltrated with potassium nitrate (ESI, Fig. S1 \u2020 )."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 303.30623290000005,
+            "t": 142.54466987671867,
+            "r": 552.7603550900005,
+            "b": 63.22629281496734,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            366
+          ]
+        }
+      ],
+      "orig": "As shown in Fig. 1a, nitrate ions would be expected to be mobile in the nitrate melt. It may be possible for gas phase nitrogen dioxide to react with gas phase oxygen and electrons from the support to form such nitrate ions. This combination of processes would be expected to result in co-transport of nitrogen dioxide and oxygen across the membrane (reaction (R2)),",
+      "text": "As shown in Fig. 1a, nitrate ions would be expected to be mobile in the nitrate melt. It may be possible for gas phase nitrogen dioxide to react with gas phase oxygen and electrons from the support to form such nitrate ions. This combination of processes would be expected to result in co-transport of nitrogen dioxide and oxygen across the membrane (reaction (R2)),"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.5197,
+            "t": 26.546576336718772,
+            "r": 59.49542898,
+            "b": 19.24587313671873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1220",
+      "text": "1220"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 68.48495912,
+            "t": 27.37525033671875,
+            "r": 197.27263982,
+            "b": 19.350537136718685,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Energy Environ. Sci. , 2015, 8 , 1220 -1223",
+      "text": "Energy Environ. Sci. , 2015, 8 , 1220 -1223"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 379.21620008,
+            "t": 26.14987513671872,
+            "r": 552.7427776399999,
+            "b": 19.660478470052112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "This journal is \u00a9 The Royal Society of Chemistry 2015",
+      "text": "This journal is \u00a9 The Royal Society of Chemistry 2015"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 5.32,
+            "t": 649.0820151367187,
+            "r": 23.68,
+            "b": 314.7700151367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "Open Access Article. Published on 26 January 2015. Downloaded on 7/1204 2:356 PM. This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.",
+      "text": "Open Access Article. Published on 26 January 2015. Downloaded on 7/1204 2:356 PM. This article is licensed under a Creative Commons Attribution 3.0 Unported Licence."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.51820127999997,
+            "t": 754.1212991767188,
+            "r": 102.57206424,
+            "b": 746.7887151767188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Communication",
+      "text": "Communication"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 497.03,
+            "t": 767.7180151367187,
+            "r": 552.2719999999999,
+            "b": 762.2074888209293,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "View Article Online",
+      "text": "View Article Online"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 431.77320504,
+            "t": 754.1212991767188,
+            "r": 552.83177582,
+            "b": 746.7887151767188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Energy & Environmental Science",
+      "text": "Energy & Environmental Science"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.5197,
+            "t": 586.0782681367187,
+            "r": 245.202704,
+            "b": 576.4379289367188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Fig. 1 Membrane transport mechanisms ( P NO 0 > P NO 00 ).",
+      "text": "Fig. 1 Membrane transport mechanisms ( P NO 0 > P NO 00 )."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 207.8929,
+            "t": 576.2266151367187,
+            "r": 209.8016671,
+            "b": 575.4828161367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "x",
+      "text": "x"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 235.1621,
+            "t": 576.2266151367187,
+            "r": 237.07086710000002,
+            "b": 575.4828161367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "x",
+      "text": "x"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 104.0882,
+            "t": 549.8178048167188,
+            "r": 291.96501070000005,
+            "b": 538.2879599367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "NO2 + 1/2O2 + e \u0000 4 NO3 \u0000 (R2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.51806155000003,
+            "t": 512.9754746067188,
+            "r": 291.97218374000016,
+            "b": 397.77127505496736,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            613
+          ]
+        }
+      ],
+      "orig": "It may also be possible for nitrogen dioxide to dissolve as a molecular species (as opposed to an ionic species but including species where e.g. the molecular nitrogen dioxide might associate with a pre-existing species in the melt such as a nitrate ion) in the molten salt, thus resulting in nitrogen dioxide transport through a solution-di ff usion process (see Fig. 1b). Additionally if nitrite ions are present in the melt it may be possible for nitrogen monoxide to react with oxygen and support electrons to form a mobile nitrite species which is transported across the membrane (Fig. 1c and reaction (R3)),",
+      "text": "It may also be possible for nitrogen dioxide to dissolve as a molecular species (as opposed to an ionic species but including species where e.g. the molecular nitrogen dioxide might associate with a pre-existing species in the melt such as a nitrate ion) in the molten salt, thus resulting in nitrogen dioxide transport through a solution-di ff usion process (see Fig. 1b). Additionally if nitrite ions are present in the melt it may be possible for nitrogen monoxide to react with oxygen and support electrons to form a mobile nitrite species which is transported across the membrane (Fig. 1c and reaction (R3)),"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 105.78786087000003,
+            "t": 386.42890481671867,
+            "r": 291.96501070000005,
+            "b": 374.89905993671874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "NO + 1/2O2 + e \u0000 4 NO2 \u0000 (R3)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.51806155000003,
+            "t": 363.1983146367187,
+            "r": 291.96321744,
+            "b": 294.1920792049673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            358
+          ]
+        }
+      ],
+      "orig": "In addition nitrogen monoxide may also undergo a solution -di ff usion process (see Fig. 1b). The transport mechanisms discussed above indicate that this type of membrane may have selectivity towards nitrogen oxides with oxygen co-permeation while having no fundamental trade-o ff between selectivity and permeability as is the case of polymeric membranes. 5",
+      "text": "In addition nitrogen monoxide may also undergo a solution -di ff usion process (see Fig. 1b). The transport mechanisms discussed above indicate that this type of membrane may have selectivity towards nitrogen oxides with oxygen co-permeation while having no fundamental trade-o ff between selectivity and permeability as is the case of polymeric membranes. 5"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.51995916999999,
+            "t": 289.83235153671876,
+            "r": 291.97677124999996,
+            "b": 174.6281519849673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            571
+          ]
+        }
+      ],
+      "orig": "In this study, we also employ an alumina-supported membrane. Alumina is an insulator under the conditions employed here so we do not expect reactions (R2) or (R3) to occur. We suggest that nitrogen dioxide and nitrogen monoxide transport would more likely occur via solution -di ff usion. (Note that the mechanisms described here are not an exhaustive list as the nature of the melt is likely to be complex, however, the use of an electronically conducting support and an insulating support may nevertheless be expected in general to in \ue104 uence the permeation mechanism.)",
+      "text": "In this study, we also employ an alumina-supported membrane. Alumina is an insulator under the conditions employed here so we do not expect reactions (R2) or (R3) to occur. We suggest that nitrogen dioxide and nitrogen monoxide transport would more likely occur via solution -di ff usion. (Note that the mechanisms described here are not an exhaustive list as the nature of the melt is likely to be complex, however, the use of an electronically conducting support and an insulating support may nevertheless be expected in general to in \ue104 uence the permeation mechanism.)"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.51916964,
+            "t": 170.26943092671877,
+            "r": 291.97598171999994,
+            "b": 55.06207447496729,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            607
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.30587575000004,
+            "t": 728.9797394067187,
+            "r": 552.7536441800004,
+            "b": 661.4479877767187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            608,
+            937
+          ]
+        }
+      ],
+      "orig": "A typical exhaust stream from a motor vehicle consists of 100 -4000 ppm nitrogen oxides, 7 -13% carbon dioxide and 0.2 -15% oxygen and also contains carbon monoxide and hydrocarbons and may have a temperature of 400 -600 \u000e C. 6 Here, the mole fractions of both carbon dioxide and nitrogen dioxide in the feed side inlet to the membrane were selected to be 1%, with an oxygen mole fraction varied from 0% to 20%. (The nitrogen dioxide mole fraction was selected to be higher than that in a typical exhaust in order to reduce relative errors in measurement; no carbon monoxide or hydrocarbon was used as these are present at lower mole fractions than carbon dioxide.) The experiments were conducted at a temperature within the typical range of exhaust gas outlet temperatures, which is 450 \u000e C, by sealing a pellet membrane of KNO3/LSCF or KNO3/Al2O3 onto an alumina tube using a high temperature commercial gold sealant (ESI, Fig. S2 \u2020 ).",
+      "text": "A typical exhaust stream from a motor vehicle consists of 100 -4000 ppm nitrogen oxides, 7 -13% carbon dioxide and 0.2 -15% oxygen and also contains carbon monoxide and hydrocarbons and may have a temperature of 400 -600 \u000e C. 6 Here, the mole fractions of both carbon dioxide and nitrogen dioxide in the feed side inlet to the membrane were selected to be 1%, with an oxygen mole fraction varied from 0% to 20%. (The nitrogen dioxide mole fraction was selected to be higher than that in a typical exhaust in order to reduce relative errors in measurement; no carbon monoxide or hydrocarbon was used as these are present at lower mole fractions than carbon dioxide.) The experiments were conducted at a temperature within the typical range of exhaust gas outlet temperatures, which is 450 \u000e C, by sealing a pellet membrane of KNO3/LSCF or KNO3/Al2O3 onto an alumina tube using a high temperature commercial gold sealant (ESI, Fig. S2 \u2020 )."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.3058757500001,
+            "t": 657.2598290467188,
+            "r": 552.7519282700006,
+            "b": 577.9414519849673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        }
+      ],
+      "orig": "Fig. 2 shows the total permeance of nitrogen oxides obtained when di ff erent mole fractions of nitrogen dioxide were supplied in the feed side inlet; the mole fraction of oxygen in the feed side inlet was kept constant at 20%. Note that although there was always 1% carbon dioxide present in the feed side inlet no carbon dioxide permeation was ever observed for any of the membranes.",
+      "text": "Fig. 2 shows the total permeance of nitrogen oxides obtained when di ff erent mole fractions of nitrogen dioxide were supplied in the feed side inlet; the mole fraction of oxygen in the feed side inlet was kept constant at 20%. Note that although there was always 1% carbon dioxide present in the feed side inlet no carbon dioxide permeation was ever observed for any of the membranes."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.30621335,
+            "t": 573.5827309267188,
+            "r": 552.7581031000001,
+            "b": 458.3741909349673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            574
+          ]
+        }
+      ],
+      "orig": "For the KNO3/Al2O3 membrane, the permeance of nitrogen oxides appeared to be approximately constant when the mole fraction of nitrogen dioxide was modi \ue103 ed in the feed side inlet. This constant permeance would be consistent with a driving force as a result of a di ff erence in nitrogen dioxide mole fraction alone and may be the result of a process that does not require the involvement of oxygen ( e.g. , Fig. 1b). We also found that, within experimental error, there was no oxygen permeation for the KNO3/Al2O3 membrane (ESI, Fig. S3 \u2020 ) consistent with this suggestion.",
+      "text": "For the KNO3/Al2O3 membrane, the permeance of nitrogen oxides appeared to be approximately constant when the mole fraction of nitrogen dioxide was modi \ue103 ed in the feed side inlet. This constant permeance would be consistent with a driving force as a result of a di ff erence in nitrogen dioxide mole fraction alone and may be the result of a process that does not require the involvement of oxygen ( e.g. , Fig. 1b). We also found that, within experimental error, there was no oxygen permeation for the KNO3/Al2O3 membrane (ESI, Fig. S3 \u2020 ) consistent with this suggestion."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.30618646,
+            "t": 454.0154698767187,
+            "r": 552.7656884300002,
+            "b": 291.01947635496725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            840
+          ]
+        }
+      ],
+      "orig": "For the KNO3/LSCF membrane, the permeance of nitrogen oxides increased as the mole fraction of nitrogen dioxide decreased in the feed side inlet. If nitrate is the species responsible for permeation (Fig. 1a) then we would expect the oxygen mole fraction di ff erence across the membrane to contribute to the overall driving force (note the necessity of oxygen in the reaction (R2) of this oxygen-facilitated process). This would mean that on decreasing the nitrogen dioxide mole fraction in the inlet the driving force for permeation will decrease by a smaller factor resulting in an increase in permeance. The other possibility is that the permeation rate is surface controlled and the involvement of oxygen in the reaction (R2) again leads to an increase in permeance with a decrease in nitrogen dioxide mole fraction in the inlet to the",
+      "text": "For the KNO3/LSCF membrane, the permeance of nitrogen oxides increased as the mole fraction of nitrogen dioxide decreased in the feed side inlet. If nitrate is the species responsible for permeation (Fig. 1a) then we would expect the oxygen mole fraction di ff erence across the membrane to contribute to the overall driving force (note the necessity of oxygen in the reaction (R2) of this oxygen-facilitated process). This would mean that on decreasing the nitrogen dioxide mole fraction in the inlet the driving force for permeation will decrease by a smaller factor resulting in an increase in permeance. The other possibility is that the permeation rate is surface controlled and the involvement of oxygen in the reaction (R2) again leads to an increase in permeance with a decrease in nitrogen dioxide mole fraction in the inlet to the"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 303.30685927999997,
+            "t": 89.3951657367187,
+            "r": 552.7637580200001,
+            "b": 52.24128141671872,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            227
+          ]
+        }
+      ],
+      "orig": "Fig. 2 Permeance of nitrogen oxides with di ff erent mole fractions of nitrogen dioxide in the feed side inlet, where the mole fraction of oxygen in the feed side was kept constant at 20%. Argon was used as the sweep gas inlet.",
+      "text": "Fig. 2 Permeance of nitrogen oxides with di ff erent mole fractions of nitrogen dioxide in the feed side inlet, where the mole fraction of oxygen in the feed side was kept constant at 20%. Argon was used as the sweep gas inlet."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.5197,
+            "t": 26.4900751367187,
+            "r": 216.04627756000022,
+            "b": 20.000678470052094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "This journal is \u00a9 The Royal Society of Chemistry 2015",
+      "text": "This journal is \u00a9 The Royal Society of Chemistry 2015"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 399.11583808,
+            "t": 27.71545033671873,
+            "r": 552.7935188599998,
+            "b": 19.58607313671871,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Energy Environ. Sci. , 2015, 8 , 1220 -1223 | 1221",
+      "text": "Energy Environ. Sci. , 2015, 8 , 1220 -1223 | 1221"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 5.32,
+            "t": 556.0020151367187,
+            "r": 12.68,
+            "b": 314.7700151367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "Open Access Article. Published on 26 January 2015. Downloaded on 7/1204 2:356 PM.",
+      "text": "Open Access Article. Published on 26 January 2015. Downloaded on 7/1204 2:356 PM."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 16.32,
+            "t": 649.0820151367187,
+            "r": 23.68,
+            "b": 356.3800151367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.",
+      "text": "This article is licensed under a Creative Commons Attribution 3.0 Unported Licence."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.5197,
+            "t": 754.1185571367188,
+            "r": 163.57827078000005,
+            "b": 746.7859731367188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Energy & Environmental Science",
+      "text": "Energy & Environmental Science"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 497.03,
+            "t": 767.7180151367187,
+            "r": 552.2719999999999,
+            "b": 762.2074888209293,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "View Article Online",
+      "text": "View Article Online"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 492.71963508,
+            "t": 754.1185571367188,
+            "r": 552.7742950600002,
+            "b": 746.7859731367188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Communication",
+      "text": "Communication"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.517770819999996,
+            "t": 728.9755515367187,
+            "r": 291.9872716400001,
+            "b": 506.2240744749674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1147
+          ]
+        }
+      ],
+      "orig": "feed side. The fact that we also see evidence for oxygen permeation linked to the nitrogen oxide permeation supports these mechanisms (ESI, Fig. S3 \u2020 ). We must note that in the case of the KNO3/LSCF membrane we would also expect to see the impact of any process that does not require the involvement oxygen ( e.g. , Fig. 1b) superimposed upon the e ff ect of the oxygen-facilitated process ( e.g. , Fig. 1a). And indeed if oxygen is removed from the feed side inlet to the KNO3/LSCF membrane we see a decrease in the permeation of nitrogen oxides but this permeation does not go to zero consistent with a permeation mechanism being in place that does not require gas phase oxygen (ESI, Fig. S4 \u2020 ). If oxygen is removed from the feed side inlet to the KNO3/Al2O3 membrane we see no change in the permeation rate of nitrogen oxides (ESI, Fig. S4 \u2020 ). We must note that there is evidence that the composition of molten salts is complex and there may be other species that exist in the melt, such as oxygen ions, which can facilitate the gas transport. The occurrence of such species would of course impact the transport processes that are possible.",
+      "text": "feed side. The fact that we also see evidence for oxygen permeation linked to the nitrogen oxide permeation supports these mechanisms (ESI, Fig. S3 \u2020 ). We must note that in the case of the KNO3/LSCF membrane we would also expect to see the impact of any process that does not require the involvement oxygen ( e.g. , Fig. 1b) superimposed upon the e ff ect of the oxygen-facilitated process ( e.g. , Fig. 1a). And indeed if oxygen is removed from the feed side inlet to the KNO3/LSCF membrane we see a decrease in the permeation of nitrogen oxides but this permeation does not go to zero consistent with a permeation mechanism being in place that does not require gas phase oxygen (ESI, Fig. S4 \u2020 ). If oxygen is removed from the feed side inlet to the KNO3/Al2O3 membrane we see no change in the permeation rate of nitrogen oxides (ESI, Fig. S4 \u2020 ). We must note that there is evidence that the composition of molten salts is complex and there may be other species that exist in the melt, such as oxygen ions, which can facilitate the gas transport. The occurrence of such species would of course impact the transport processes that are possible."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.51829138999997,
+            "t": 501.8653534167188,
+            "r": 291.9886866,
+            "b": 207.3378317649673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1486
+          ]
+        }
+      ],
+      "orig": "For both the KNO3/Al2O3 membrane and the KNO3/LSCF membrane no carbon dioxide was ever detected in the permeate side outlet. The nitrogen oxide permeance in the KNO3/LSCF membrane was 4.5 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 in the case of the 1%nitrogen dioxide/20% oxygen mixture. The permeance of the KNO3/LSCF membrane reached a maximum of 6.9 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 with a lower nitrogen dioxide mole fraction of 0.5% in the feed side inlet. For the KNO3/Al2O3 membrane, the nitrogen oxide permeance is 2.6 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 in the case of 1% nitrogen dioxide/20% oxygen mixture in the feed side inlet, which is lower than the nitrogen oxide permeance obtained from the KNO3/LSCF membrane under the same conditions (Fig. 2) (note that in addition the KNO3/Al2O3 membrane is slightly thinner than the KNO3/LSCF membrane, 0.75 versus 1 mm thickness). Although we do not know of any similar membrane work a comparison to a related class of carbonate/ceramic membrane is useful. Lin and co-workers studied carbon dioxide permeation in carbonate/ceramic membranes. 7,8 They found that at 700 \u000e C, the carbon dioxide permeance was around 1 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 . Teplyakov and co-workers predicted values of nitrogen dioxide permeance in polymer membranes by a mathematic method using a solution -di ff usion model. 9 They found that a theoretical nitrogen dioxide permeance could reach 1.3 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 (assuming a membrane thickness of 1 mm).",
+      "text": "For both the KNO3/Al2O3 membrane and the KNO3/LSCF membrane no carbon dioxide was ever detected in the permeate side outlet. The nitrogen oxide permeance in the KNO3/LSCF membrane was 4.5 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 in the case of the 1%nitrogen dioxide/20% oxygen mixture. The permeance of the KNO3/LSCF membrane reached a maximum of 6.9 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 with a lower nitrogen dioxide mole fraction of 0.5% in the feed side inlet. For the KNO3/Al2O3 membrane, the nitrogen oxide permeance is 2.6 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 in the case of 1% nitrogen dioxide/20% oxygen mixture in the feed side inlet, which is lower than the nitrogen oxide permeance obtained from the KNO3/LSCF membrane under the same conditions (Fig. 2) (note that in addition the KNO3/Al2O3 membrane is slightly thinner than the KNO3/LSCF membrane, 0.75 versus 1 mm thickness). Although we do not know of any similar membrane work a comparison to a related class of carbonate/ceramic membrane is useful. Lin and co-workers studied carbon dioxide permeation in carbonate/ceramic membranes. 7,8 They found that at 700 \u000e C, the carbon dioxide permeance was around 1 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 . Teplyakov and co-workers predicted values of nitrogen dioxide permeance in polymer membranes by a mathematic method using a solution -di ff usion model. 9 They found that a theoretical nitrogen dioxide permeance could reach 1.3 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 (assuming a membrane thickness of 1 mm)."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.51883301000001,
+            "t": 202.97911070671876,
+            "r": 291.98102487000006,
+            "b": 51.887951984967344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            773
+          ]
+        }
+      ],
+      "orig": "Oxygen was observed in the permeate side outlet of the KNO3/LSCF membrane (there was no measureable oxygen permeation for the KNO3/Al2O3 membrane). Fig. 3 shows the separation factor of nitrogen oxides to oxygen for the KNO3/ LSCF membrane. The separation factor for 0.5% nitrogen dioxide/20% oxygen in the feed side inlet was 57 \u0006 8. The separation factor decreased with an increase in the mole fraction of nitrogen dioxide in the feed side inlet (oxygen mole fraction was constant at 20%). The mole fraction of oxygen detected in the permeate side outlet appears, within experimental error, to be proportional to the mole fraction of nitrogen dioxide in the permeate side outlet (ESI, Fig. S3 \u2020 ). A ratio of approximately 1 : 1 nitrogen dioxide to oxygen in the permeate",
+      "text": "Oxygen was observed in the permeate side outlet of the KNO3/LSCF membrane (there was no measureable oxygen permeation for the KNO3/Al2O3 membrane). Fig. 3 shows the separation factor of nitrogen oxides to oxygen for the KNO3/ LSCF membrane. The separation factor for 0.5% nitrogen dioxide/20% oxygen in the feed side inlet was 57 \u0006 8. The separation factor decreased with an increase in the mole fraction of nitrogen dioxide in the feed side inlet (oxygen mole fraction was constant at 20%). The mole fraction of oxygen detected in the permeate side outlet appears, within experimental error, to be proportional to the mole fraction of nitrogen dioxide in the permeate side outlet (ESI, Fig. S3 \u2020 ). A ratio of approximately 1 : 1 nitrogen dioxide to oxygen in the permeate"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 62.5323,
+            "t": 26.14987513671872,
+            "r": 64.474968,
+            "b": 19.660478470052112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "|",
+      "text": "|"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.30694176,
+            "t": 539.6501657367187,
+            "r": 552.7694196399998,
+            "b": 512.4741731367188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "Fig. 3 Separation factors of nitrogen oxides to oxygen with 20% oxygen and di ff erent mole fractions of nitrogen dioxide (0.5%, 1%, 3% and 5%) in the feed side inlet for the KNO3/LSCF membrane.",
+      "text": "Fig. 3 Separation factors of nitrogen oxides to oxygen with 20% oxygen and di ff erent mole fractions of nitrogen dioxide (0.5%, 1%, 3% and 5%) in the feed side inlet for the KNO3/LSCF membrane."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.30725502999996,
+            "t": 482.98834998671873,
+            "r": 552.78199971,
+            "b": 391.7080320949673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            457
+          ]
+        }
+      ],
+      "orig": "side outlet was observed. This ratio is lower than the ratio of 2 : 1 expected from the reaction (R2). However, there is a signi \ue103 cant degree of uncertainty in this measured ratio due to dri \ue09d in the mass to charge ratio of 32 signals from the mass spectrometer making a conclusive statement somewhat di ffi cult. Di ff erences in this ratio could also arise from di ff erences in the mechanisms suggested and the nature of the species present in the melt.",
+      "text": "side outlet was observed. This ratio is lower than the ratio of 2 : 1 expected from the reaction (R2). However, there is a signi \ue103 cant degree of uncertainty in this measured ratio due to dri \ue09d in the mass to charge ratio of 32 signals from the mass spectrometer making a conclusive statement somewhat di ffi cult. Di ff erences in this ratio could also arise from di ff erences in the mechanisms suggested and the nature of the species present in the melt."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.3055915099999,
+            "t": 387.3493110367187,
+            "r": 552.7709471799999,
+            "b": 128.70643364496732,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1311
+          ]
+        }
+      ],
+      "orig": "The e ff ects of sulphur dioxide and water on permeation were also studied. These gases coexist with nitrogen oxides in a typical exhaust stream. The feed side of the membrane was exposed to sulphur dioxide (200 ppm in argon) or water (2.8% in argon) for 2, 4 and 8 hours. In between these exposures permeation experiments were performed using a feed side inlet composition of 1% nitrogen dioxide, 1% carbon dioxide and 20% oxygen in argon. Water exposure had a promotional e ff ect on nitrogen oxide permeation for both the KNO3/Al2O3 membrane and the KNO3/LSCF membrane (ESI, Fig. S5 \u2020 ). Sulphur dioxide exposure had a very di ff erent e ff ect on permeation. For the KNO3/Al2O3 membrane, a signi \ue103 cant increase in the nitrogen oxide mole fraction in the permeate side outlet can be observed a \ue09d er each subsequent sulphur dioxide exposure (ESI, Fig. S6 \u2020 ). For the KNO3/LSCF membrane, a signi \ue103 cant decrease in the nitrogen oxide mole fraction in the permeate side outlet can be observed. This was accompanied by a loss of nitrogen oxides from the membrane during the actual sulphur dioxide exposure steps themselves. This suggests that sulphur dioxide may displace, e.g. , nitrate ions, this process being particularly pronounced in the case of the LSCF support perhaps because of its surface chemistry.",
+      "text": "The e ff ects of sulphur dioxide and water on permeation were also studied. These gases coexist with nitrogen oxides in a typical exhaust stream. The feed side of the membrane was exposed to sulphur dioxide (200 ppm in argon) or water (2.8% in argon) for 2, 4 and 8 hours. In between these exposures permeation experiments were performed using a feed side inlet composition of 1% nitrogen dioxide, 1% carbon dioxide and 20% oxygen in argon. Water exposure had a promotional e ff ect on nitrogen oxide permeation for both the KNO3/Al2O3 membrane and the KNO3/LSCF membrane (ESI, Fig. S5 \u2020 ). Sulphur dioxide exposure had a very di ff erent e ff ect on permeation. For the KNO3/Al2O3 membrane, a signi \ue103 cant increase in the nitrogen oxide mole fraction in the permeate side outlet can be observed a \ue09d er each subsequent sulphur dioxide exposure (ESI, Fig. S6 \u2020 ). For the KNO3/LSCF membrane, a signi \ue103 cant decrease in the nitrogen oxide mole fraction in the permeate side outlet can be observed. This was accompanied by a loss of nitrogen oxides from the membrane during the actual sulphur dioxide exposure steps themselves. This suggests that sulphur dioxide may displace, e.g. , nitrate ions, this process being particularly pronounced in the case of the LSCF support perhaps because of its surface chemistry."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.307,
+            "t": 107.52892073671876,
+            "r": 382.23646839999986,
+            "b": 94.75291913671867,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Conclusions",
+      "text": "Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 303.307,
+            "t": 83.41345153671875,
+            "r": 552.7580912000001,
+            "b": 51.06945420564534,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "This work successfully demonstrates a new concept for the selective permeation of nitrogen oxides using a molten nitrate/ ceramic membrane. Both the KNO3/Al2O3 membrane and a",
+      "text": "This work successfully demonstrates a new concept for the selective permeation of nitrogen oxides using a molten nitrate/ ceramic membrane. Both the KNO3/Al2O3 membrane and a"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.51854972000001,
+            "t": 26.5446284767188,
+            "r": 58.99215610000001,
+            "b": 19.243925276718755,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1222",
+      "text": "1222"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 67.97475912,
+            "t": 27.37525033671875,
+            "r": 196.76468136000003,
+            "b": 19.350537136718685,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "Energy Environ. Sci. , 2015, 8 , 1220 -1223",
+      "text": "Energy Environ. Sci. , 2015, 8 , 1220 -1223"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 379.21632402,
+            "t": 26.14987513671872,
+            "r": 552.7429015799999,
+            "b": 19.660478470052112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "This journal is \u00a9 The Royal Society of Chemistry 2015",
+      "text": "This journal is \u00a9 The Royal Society of Chemistry 2015"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 5.32,
+            "t": 649.0820151367187,
+            "r": 23.68,
+            "b": 314.7700151367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            165
+          ]
+        }
+      ],
+      "orig": "Open Access Article. Published on 26 January 2015. Downloaded on 7/1204 2:356 PM. This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.",
+      "text": "Open Access Article. Published on 26 January 2015. Downloaded on 7/1204 2:356 PM. This article is licensed under a Creative Commons Attribution 3.0 Unported Licence."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.51775934,
+            "t": 754.1212991767188,
+            "r": 102.57162230000003,
+            "b": 746.7887151767188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Communication",
+      "text": "Communication"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 497.03,
+            "t": 767.7180151367187,
+            "r": 552.2719999999999,
+            "b": 762.2074888209293,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "View Article Online",
+      "text": "View Article Online"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 431.7727631,
+            "t": 754.1212991767188,
+            "r": 552.83133388,
+            "b": 746.7887151767188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Energy & Environmental Science",
+      "text": "Energy & Environmental Science"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.519104080000005,
+            "t": 728.9755515367187,
+            "r": 291.97555658000005,
+            "b": 577.9406744749673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            762
+          ]
+        }
+      ],
+      "orig": "KNO3/LSCF membrane exhibited selective permeation of nitrogen oxides. For the KNO3/Al2O3 membrane no oxygen was detected in the permeate side outlet indicating that nitrogen oxide transport through the membrane may depend upon the dissolution of molecular nitrogen oxides in the molten nitrate salt. For the KNO3/LSCF membrane, permeance of up to 6.9 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 was achieved while the nitrogen dioxide to oxygen permeate ratio appeared to be approximately constant with a value of around unity. The co-permeation of oxygen with nitrogen dioxide suggests the presence of an oxygen-facilitated transport process. Nitrate/ceramic membranes are suggested as promising candidates for use in nitrogen oxides sensing and gas separation applications.",
+      "text": "KNO3/LSCF membrane exhibited selective permeation of nitrogen oxides. For the KNO3/Al2O3 membrane no oxygen was detected in the permeate side outlet indicating that nitrogen oxide transport through the membrane may depend upon the dissolution of molecular nitrogen oxides in the molten nitrate salt. For the KNO3/LSCF membrane, permeance of up to 6.9 -10 \u0000 8 mol m \u0000 2 s \u0000 1 Pa \u0000 1 was achieved while the nitrogen dioxide to oxygen permeate ratio appeared to be approximately constant with a value of around unity. The co-permeation of oxygen with nitrogen dioxide suggests the presence of an oxygen-facilitated transport process. Nitrate/ceramic membranes are suggested as promising candidates for use in nitrogen oxides sensing and gas separation applications."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.5197,
+            "t": 562.8295207367187,
+            "r": 169.40101719999998,
+            "b": 550.0535191367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Acknowledgements",
+      "text": "Acknowledgements",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.51969999999997,
+            "t": 538.7141515367188,
+            "r": 291.95768284999986,
+            "b": 483.3196561349673,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            253
+          ]
+        }
+      ],
+      "orig": "The research leading to these results has received funding from the European Research Council under the European Union's Seventh Framework Programme (FP/2007 -2013)/ERC Grant Agreement number 320725 and from the EPSRC via a PLATFORM Grant, EP/G012865/1.",
+      "text": "The research leading to these results has received funding from the European Research Council under the European Union's Seventh Framework Programme (FP/2007 -2013)/ERC Grant Agreement number 320725 and from the EPSRC via a PLATFORM Grant, EP/G012865/1."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.307,
+            "t": 728.7130207367187,
+            "r": 441.6169806399997,
+            "b": 715.9370191367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Notes and references",
+      "text": "Notes and references",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.307,
+            "t": 706.2473507367187,
+            "r": 488.8878908800001,
+            "b": 696.8237694367186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "1 R. M. Heck, Catal. Today , 1999, 53 , 519 -523.",
+      "text": "1 R. M. Heck, Catal. Today , 1999, 53 , 519 -523.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.307,
+            "t": 694.2854099067187,
+            "r": 552.74318959,
+            "b": 673.0704501049672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            75
+          ]
+        }
+      ],
+      "orig": "2 Z. Liu, J. Li and S. I. Woo, Energy Environ. Sci. , 2012, 5 , 8799 -8814.",
+      "text": "2 Z. Liu, J. Li and S. I. Woo, Energy Environ. Sci. , 2012, 5 , 8799 -8814.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.3070000000001,
+            "t": 668.7117290467187,
+            "r": 552.7535335600003,
+            "b": 625.1078346367187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "3 E. D. Wachsman, in Selective detection of NOx by differential electrode equilibria , ed. E. D. Wachsman, W. Weppner, E. Traversa, M. Liu, P. Vanysek and N. Yamazoe, The Electrochemical Society, Pennington, HJ, 2001, pp. 298 -304.",
+      "text": "3 E. D. Wachsman, in Selective detection of NOx by differential electrode equilibria , ed. E. D. Wachsman, W. Weppner, E. Traversa, M. Liu, P. Vanysek and N. Yamazoe, The Electrochemical Society, Pennington, HJ, 2001, pp. 298 -304.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.30658441,
+            "t": 622.5694751067188,
+            "r": 527.2121313799998,
+            "b": 613.1458938067187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "4 K. H. Stern, J. Phys. Chem. Ref. Data , 1972, 1 , 747 -772.",
+      "text": "4 K. H. Stern, J. Phys. Chem. Ref. Data , 1972, 1 , 747 -772.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.30658440999997,
+            "t": 610.6075342767188,
+            "r": 510.99747446000015,
+            "b": 601.1839529767187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "5 L. M. Robeson, J. Membr. Sci. , 2008, 320 , 390 -400.",
+      "text": "5 L. M. Robeson, J. Membr. Sci. , 2008, 320 , 390 -400.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.30658441,
+            "t": 598.2564560267188,
+            "r": 552.7391874799999,
+            "b": 577.2600713167187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "6 J. Ka \u02c7 spar, P. Fornasiero and N. Hickey, Catal. Today , 2003, 77 , 419 -449.",
+      "text": "6 J. Ka \u02c7 spar, P. Fornasiero and N. Hickey, Catal. Today , 2003, 77 , 419 -449.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.30658441,
+            "t": 573.0719125867188,
+            "r": 552.73918748,
+            "b": 553.3361896567187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "7 Y. Li, Z. Rui, C. Xia, M. Anderson and Y. S. Lin, Catal. Today , 2009, 148 , 303 -309.",
+      "text": "7 Y. Li, Z. Rui, C. Xia, M. Anderson and Y. S. Lin, Catal. Today , 2009, 148 , 303 -309.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.3065844100001,
+            "t": 550.8543178167188,
+            "r": 552.7239447699999,
+            "b": 541.4307365167188,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "8 M. Anderson and Y. S. Lin, J. Membr. Sci. , 2010, 357 , 122 -129.",
+      "text": "8 M. Anderson and Y. S. Lin, J. Membr. Sci. , 2010, 357 , 122 -129.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 303.30658441,
+            "t": 537.2425777867188,
+            "r": 552.7436706300002,
+            "b": 517.5068548567187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "9 O. V. Malykh, A. Y. Golub and V. V. Teplyakov, Adv. Colloid Interface Sci. , 2011, 164 , 89 -99.",
+      "text": "9 O. V. Malykh, A. Y. Golub and V. V. Teplyakov, Adv. Colloid Interface Sci. , 2011, 164 , 89 -99.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.5197,
+            "t": 26.4900751367187,
+            "r": 216.04627756000022,
+            "b": 20.000678470052094,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "This journal is \u00a9 The Royal Society of Chemistry 2015",
+      "text": "This journal is \u00a9 The Royal Society of Chemistry 2015"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 398.49268996,
+            "t": 27.71545033671873,
+            "r": 552.7317063799999,
+            "b": 19.58607313671871,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Energy Environ. Sci. , 2015, 8 , 1220 -1223 | 1223",
+      "text": "Energy Environ. Sci. , 2015, 8 , 1220 -1223 | 1223"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.702980041503906,
+            "t": 738.8546447753906,
+            "r": 567.5359497070312,
+            "b": 350.4974060058594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 21.78297233581543,
+            "t": 105.59857177734375,
+            "r": 143.99615478515625,
+            "b": 18.70318603515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 376.3042297363281,
+            "t": 341.3640441894531,
+            "r": 536.3431396484375,
+            "b": 122.48345947265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 416.88836669921875,
+            "t": 67.11602783203125,
+            "r": 567.173828125,
+            "b": 33.76116943359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 13.100773811340332,
+            "t": 354.5856018066406,
+            "r": 26.995893478393555,
+            "b": 288.79010009765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.09733200073242,
+            "t": 763.4938564300537,
+            "r": 165.62937927246094,
+            "b": 709.0161895751953,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.6247444152832,
+            "t": 646.7659454345703,
+            "r": 107.45195770263672,
+            "b": 620.9377593994141,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 470.6103210449219,
+            "t": 763.9174938201904,
+            "r": 553.5223999023438,
+            "b": 709.3969802856445,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.19334030151367,
+            "t": 729.8660774230957,
+            "r": 285.16290283203125,
+            "b": 593.6952056884766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 314.0473937988281,
+            "t": 257.85491943359375,
+            "r": 541.4783325195312,
+            "b": 98.90191650390625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 13.291958808898926,
+            "t": 354.7535705566406,
+            "r": 26.833255767822266,
+            "b": 288.9144592285156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.57452392578125,
+            "t": 731.0030174255371,
+            "r": 547.107666015625,
+            "b": 548.2154235839844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 779.5280151367188
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 779.5280151367188
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 779.5280151367188
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 779.5280151367188
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 779.5280151367188
+      },
+      "page_no": 5
+    }
+  }
+}

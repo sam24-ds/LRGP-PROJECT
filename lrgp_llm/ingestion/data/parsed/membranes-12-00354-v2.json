@@ -1,0 +1,1285 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "membranes-12-00354-v2",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 4208186500663691530,
+    "filename": "membranes-12-00354-v2.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/groups/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 74.21205850000001,
+            "t": 781.2954748984375,
+            "r": 165.27622566608105,
+            "b": 768.0465863984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "membranes",
+      "text": "membranes"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.408,
+            "t": 735.5520964484375,
+            "r": 70.82504300000001,
+            "b": 726.1556697662799,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Editorial",
+      "text": "Editorial"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.716,
+            "t": 721.8698562484376,
+            "r": 499.9603264000002,
+            "b": 705.2914385670816,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Block Copolymer Membranes-Progress and Challenges",
+      "text": "Block Copolymer Membranes-Progress and Challenges",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.527,
+            "t": 692.0058818484375,
+            "r": 126.27632340000004,
+            "b": 682.7957114348782,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Juliana Isabel Clodt",
+      "text": "Juliana Isabel Clodt"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 55.23212616000001,
+            "t": 370.29614032843745,
+            "r": 85.80299584000002,
+            "b": 364.50175952843745,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "/gid00030/gid00035/gid00032/gid00030/gid00038 /gid00001 /gid00033/gid00042/gid00045",
+      "text": "/gid00030/gid00035/gid00032/gid00030/gid00038 /gid00001 /gid00033/gid00042/gid00045"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 55.23212616000001,
+            "t": 362.96444392843745,
+            "r": 64.52517928,
+            "b": 355.99701592843746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "/gid00048 /gid00043",
+      "text": "/gid00048 /gid00043"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 65.01722928000001,
+            "t": 362.96444392843745,
+            "r": 81.70126703999999,
+            "b": 355.99701592843746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "/gid00031 /gid00028 /gid00047 /gid00032",
+      "text": "/gid00031 /gid00028 /gid00047 /gid00032"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 82.22717008,
+            "t": 362.96444392843745,
+            "r": 85.71482047999999,
+            "b": 355.99701592843746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "/gid00046",
+      "text": "/gid00046"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 86.00587184,
+            "t": 369.2092046036375,
+            "r": 87.40374198399999,
+            "b": 364.59623312843746,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "/gid00001",
+      "text": "/gid00001"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.715999999999994,
+            "t": 347.97919864843755,
+            "r": 150.00279659999995,
+            "b": 329.4442829612867,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "Citation: Clodt, J.I. Block Copolymer Membranes-Progress and",
+      "text": "Citation: Clodt, J.I. Block Copolymer Membranes-Progress and"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.715999999999994,
+            "t": 324.12819864843755,
+            "r": 71.58225339999998,
+            "b": 317.5182829612867,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Challenges.",
+      "text": "Challenges."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 73.744,
+            "t": 324.2188580484376,
+            "r": 148.65004999999994,
+            "b": 317.5182829612867,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Membranes 2022 , 12 , 354.",
+      "text": "Membranes 2022 , 12 , 354."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.36799999999998,
+            "t": 312.2031986484376,
+            "r": 151.04870439999996,
+            "b": 293.66828296128665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "https://doi.org/10.3390/membranes 12040354",
+      "text": "https://doi.org/10.3390/membranes 12040354",
+      "hyperlink": "https://doi.org/10.3390/membranes12040354"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.71599999999998,
+            "t": 282.3751986484375,
+            "r": 111.90476500000001,
+            "b": 275.76528296128663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Received: 17 March 2022",
+      "text": "Received: 17 March 2022"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.44399999999998,
+            "t": 270.45019864843744,
+            "r": 112.65093980000002,
+            "b": 263.8402829612867,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Accepted: 23 March 2022",
+      "text": "Accepted: 23 March 2022"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.71599999999998,
+            "t": 258.5241986484375,
+            "r": 114.8477086,
+            "b": 251.91428296128663,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Published: 24 March 2022",
+      "text": "Published: 24 March 2022"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.42299999999999,
+            "t": 240.62119864843748,
+            "r": 153.09224179999993,
+            "b": 198.23528296128666,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+      "text": "Publisher's Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.444,
+            "t": 157.98419864843754,
+            "r": 153.20358680000004,
+            "b": 67.89628296128672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "Copyright: \u00a9 2022 by the author. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).",
+      "text": "Copyright: \u00a9 2022 by the author. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/)."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 166.394,
+            "t": 658.0526826484376,
+            "r": 553.1670128000001,
+            "b": 639.7394526707839,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "Helmholtz-Zentrum Hereon, Institute of Membrane Research, Max-Planck-Str. 1, 21502 Geesthacht, Germany; juliana.clodt@hereon.de",
+      "text": "Helmholtz-Zentrum Hereon, Institute of Membrane Research, Max-Planck-Str. 1, 21502 Geesthacht, Germany; juliana.clodt@hereon.de"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 166.095,
+            "t": 598.1465826484375,
+            "r": 560.9292787388,
+            "b": 438.0688188719012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1050
+          ]
+        }
+      ],
+      "orig": "Block copolymers are capable of providing more than one advantageous property due to their selected repeating units, which make them an outstanding candidate for polymerbased membranes. Since 'Asymmetric Superstructure Formed in a Block Copolymer via Phase Separation' was published in 2007 [1], a new field has moved into the focus of polymer and membrane scientists. Extrapolating block copolymers and their versatile self-assembly, various block copolymer membranes have gained growing importance with many promising applications in the last decade, including micro-, ultra-, and nanofiltration; cell separation; controlled drug delivery and optics; and gas separation. The Special Issue titled 'Block Copolymer Membranes-Progress and Challenges' in the journal Membranes aims to emphasize how broad the development of block copolymer membranes is. The discussed topics include the structural formation of flat sheet membranes under various conditions, upscaling opportunities, and the usage of block copolymer template-directed catalytic systems.",
+      "text": "Block copolymers are capable of providing more than one advantageous property due to their selected repeating units, which make them an outstanding candidate for polymerbased membranes. Since 'Asymmetric Superstructure Formed in a Block Copolymer via Phase Separation' was published in 2007 [1], a new field has moved into the focus of polymer and membrane scientists. Extrapolating block copolymers and their versatile self-assembly, various block copolymer membranes have gained growing importance with many promising applications in the last decade, including micro-, ultra-, and nanofiltration; cell separation; controlled drug delivery and optics; and gas separation. The Special Issue titled 'Block Copolymer Membranes-Progress and Challenges' in the journal Membranes aims to emphasize how broad the development of block copolymer membranes is. The discussed topics include the structural formation of flat sheet membranes under various conditions, upscaling opportunities, and the usage of block copolymer template-directed catalytic systems."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 165.975,
+            "t": 434.9585826484375,
+            "r": 561.0143792680002,
+            "b": 287.4328188719012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            997
+          ]
+        }
+      ],
+      "orig": "Sankhala et al. report a modification of the fabrication process of isoporous flat sheet membranes conventionally carried out via the evaporation-induced self-assembly of block copolymers in combination with non-solvent induced phase separation (SNIPS). As a new concept, a controlled evaporation is provided using a defined gas flow, and the process is introduced as gSNIPS (gas-flow-induced self-assembly of block copolymers in combination with non-solvent induced phase separation is introduced). Based on a systematic investigation of the gSNIPS concept, the window of parameters for the desired structure formation of the membranes was extended and the structure formation was accelerated. The concentration of the block copolymer can be decreased when the gSNIPS method is used, which will lower the costs of fabrication. Furthermore, the new method has a strong effect on the membrane substructure while the pore sizes remain constant, which will be interesting for performance studies [2].",
+      "text": "Sankhala et al. report a modification of the fabrication process of isoporous flat sheet membranes conventionally carried out via the evaporation-induced self-assembly of block copolymers in combination with non-solvent induced phase separation (SNIPS). As a new concept, a controlled evaporation is provided using a defined gas flow, and the process is introduced as gSNIPS (gas-flow-induced self-assembly of block copolymers in combination with non-solvent induced phase separation is introduced). Based on a systematic investigation of the gSNIPS concept, the window of parameters for the desired structure formation of the membranes was extended and the structure formation was accelerated. The concentration of the block copolymer can be decreased when the gSNIPS method is used, which will lower the costs of fabrication. Furthermore, the new method has a strong effect on the membrane substructure while the pore sizes remain constant, which will be interesting for performance studies [2]."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 165.895,
+            "t": 284.32258264843745,
+            "r": 561.021452714,
+            "b": 74.03281887190121,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1480
+          ]
+        }
+      ],
+      "orig": "Bucher et al. investigated the upscaling of block copolymer membranes using spraying techniques as a proof of concept. The concentration of block copolymers and consequently the amount of polymer and costs that are necessary for a particular area is strongly decreased by spraying the polymer compared to the commonly used doctor-blade technique. To upscale the spray coating process, three different approaches were pursued, namely air-brush, one-fluid nozzles, and two-fluid nozzles, which are generally used in the coating industry. The different spraying systems were successfully implemented in a membrane casting machine bearing a non-solvent precipitation to allow the phase-separation process. The system was tested using a of polystyreneblock -poly(4-vinylpyridine) diblock copolymer solution. The authors provide a detailed examination of the spray pattern and a discussion of limitations of the spraying technique itself. Two-fluid nozzles were identified to be the most promising. Using these nozzles allowed very thin films of around 150 nm thickness and a homogeneous surface to be obtained that exhibited isoporosity. As a limitation, it was found that the low-concentration polymer solution penetrated the support membrane, leading to pore blocking. The permeances were measured to be lower than 50 L/(m 2 hbar), and some membranes were completely blocked. It was identified that the use of fillers, other support materials, or increased viscosity was helpful [3].",
+      "text": "Bucher et al. investigated the upscaling of block copolymer membranes using spraying techniques as a proof of concept. The concentration of block copolymers and consequently the amount of polymer and costs that are necessary for a particular area is strongly decreased by spraying the polymer compared to the commonly used doctor-blade technique. To upscale the spray coating process, three different approaches were pursued, namely air-brush, one-fluid nozzles, and two-fluid nozzles, which are generally used in the coating industry. The different spraying systems were successfully implemented in a membrane casting machine bearing a non-solvent precipitation to allow the phase-separation process. The system was tested using a of polystyreneblock -poly(4-vinylpyridine) diblock copolymer solution. The authors provide a detailed examination of the spray pattern and a discussion of limitations of the spraying technique itself. Two-fluid nozzles were identified to be the most promising. Using these nozzles allowed very thin films of around 150 nm thickness and a homogeneous surface to be obtained that exhibited isoporosity. As a limitation, it was found that the low-concentration polymer solution penetrated the support membrane, leading to pore blocking. The permeances were measured to be lower than 50 L/(m 2 hbar), and some membranes were completely blocked. It was identified that the use of fillers, other support materials, or increased viscosity was helpful [3]."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.716,
+            "t": 26.783293948437517,
+            "r": 287.4833698,
+            "b": 19.12545267078383,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "Membranes 2022 , 12 , 354. https://doi.org/10.3390/membranes12040354",
+      "text": "Membranes 2022 , 12 , 354. https://doi.org/10.3390/membranes12040354",
+      "hyperlink": "https://doi.org/10.3390/membranes12040354"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 396.4426069,
+            "t": 26.679682648437506,
+            "r": 559.2717499000003,
+            "b": 19.12545267078383,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "https://www.mdpi.com/journal/membranes",
+      "text": "https://www.mdpi.com/journal/membranes",
+      "hyperlink": "https://www.mdpi.com/journal/membranes"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 35.716,
+            "t": 784.4342939484375,
+            "r": 119.3302,
+            "b": 776.7764526707838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Membranes 2022 , 12 , 354",
+      "text": "Membranes 2022 , 12 , 354"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 540.315,
+            "t": 784.3306826484375,
+            "r": 559.2758679000001,
+            "b": 776.7764526707838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "2 of 2",
+      "text": "2 of 2"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 35.71600000000001,
+            "t": 454.0288818484375,
+            "r": 85.51903740000003,
+            "b": 444.8187114348782,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 35.71600000000001,
+            "t": 439.05172984843756,
+            "r": 560.3960111680001,
+            "b": 418.9296223802811,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            173
+          ]
+        }
+      ],
+      "orig": "1. Peinemann, K.-V.; Abetz, V.; Simon, P.F.W. Asymmetric superstructure formed in a block copolymer via phase separation. Nat. Mater. 2007 , 6 , 992-996. [CrossRef] [PubMed]",
+      "text": "Peinemann, K.-V.; Abetz, V.; Simon, P.F.W. Asymmetric superstructure formed in a block copolymer via phase separation. Nat. Mater. 2007 , 6 , 992-996. [CrossRef] [PubMed]",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 35.71600000000001,
+            "t": 415.9211666484375,
+            "r": 559.277592832,
+            "b": 395.9156223802811,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "2. Sankhala, K.; Koll, J.; Abetz, V. Facilitated structure formation in isoporous block copolymer membranes upon controlled evaporation by gas flow. Membranes 2020 , 10 , 83. [CrossRef] [PubMed]",
+      "text": "Sankhala, K.; Koll, J.; Abetz, V. Facilitated structure formation in isoporous block copolymer membranes upon controlled evaporation by gas flow. Membranes 2020 , 10 , 83. [CrossRef] [PubMed]",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 35.71600000000001,
+            "t": 392.9071666484375,
+            "r": 559.2788481280003,
+            "b": 372.9016223802811,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "3. Bucher, T.; Clodt, J.I.; Abetz, C.; Bajer, B.; Filiz, V . Spraying of Ultrathin Isoporous Block Copolymer Membranes-A Story about Challenges and Limitations. Membranes 2020 , 10 , 404. [CrossRef] [PubMed]",
+      "text": "Bucher, T.; Clodt, J.I.; Abetz, C.; Bajer, B.; Filiz, V . Spraying of Ultrathin Isoporous Block Copolymer Membranes-A Story about Challenges and Limitations. Membranes 2020 , 10 , 404. [CrossRef] [PubMed]",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 35.71600000000001,
+            "t": 369.89416664843753,
+            "r": 559.2805786432001,
+            "b": 349.8886223802811,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "4. Kumar, L.; Singh, S.; Horechyy, A.; Fery, A.; Nandan, B. Block copolymer template-directed catalytic systems: Recent progress and perspectives. Membranes 2021 , 11 , 318. [CrossRef] [PubMed]",
+      "text": "Kumar, L.; Singh, S.; Horechyy, A.; Fery, A.; Nandan, B. Block copolymer template-directed catalytic systems: Recent progress and perspectives. Membranes 2021 , 11 , 318. [CrossRef] [PubMed]",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 166.065,
+            "t": 743.8425826484375,
+            "r": 560.5217884736002,
+            "b": 558.6578188719012,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1286
+          ]
+        }
+      ],
+      "orig": "Kumar et al. summarized the advances of block copolymer self-assembled structures in the field of template-assisted nano-catalysts. The review focuses on the usage of diblock, triblock, and other types of block copolymers studied in this research area, including tuneable periodicity, domain orientation, and degree of lateral orders of self-assembled block copolymers. With these approaches, catalysts can be fabricated and applied for the growth of single- and multi-walled carbon nanotubes. Block copolymer templates are also used for the fabrication of nanocatalysts, mesoporous nanoparticles and film catalysts, gyroid-based bicontinuous catalysts, and hollow-fibre membrane catalysts. The block copolymers discussed in the review paper includes the following segments: poly(acrylic acid) (PAA), poly(2-vinyl pyridine) (P2VP), poly(4-vinyl pyridine) (P4VP), poly(ethylene glycole) (PEG), poly(ethylene oxide) (PEO), poly(propylene oxide) (PPO), poly(L-lactide) (PLLA), and poly(ferrocenyldimethylsilane) (PFS). The catalysts reconsidered are based on bimetallic alloy catalysts composed of PtAu, PtIr, and AuAg, Au-CeO2 strawberry-like and Janus nanoparticles, trimetallic mesoporous catalysts made of Cu, Ni, and Au precursors, and mesoporous Au-SiO2 yolk-shell nanoparticles [4].",
+      "text": "Kumar et al. summarized the advances of block copolymer self-assembled structures in the field of template-assisted nano-catalysts. The review focuses on the usage of diblock, triblock, and other types of block copolymers studied in this research area, including tuneable periodicity, domain orientation, and degree of lateral orders of self-assembled block copolymers. With these approaches, catalysts can be fabricated and applied for the growth of single- and multi-walled carbon nanotubes. Block copolymer templates are also used for the fabrication of nanocatalysts, mesoporous nanoparticles and film catalysts, gyroid-based bicontinuous catalysts, and hollow-fibre membrane catalysts. The block copolymers discussed in the review paper includes the following segments: poly(acrylic acid) (PAA), poly(2-vinyl pyridine) (P2VP), poly(4-vinyl pyridine) (P4VP), poly(ethylene glycole) (PEG), poly(ethylene oxide) (PEO), poly(propylene oxide) (PPO), poly(L-lactide) (PLLA), and poly(ferrocenyldimethylsilane) (PFS). The catalysts reconsidered are based on bimetallic alloy catalysts composed of PtAu, PtIr, and AuAg, Au-CeO2 strawberry-like and Janus nanoparticles, trimetallic mesoporous catalysts made of Cu, Ni, and Au precursors, and mesoporous Au-SiO2 yolk-shell nanoparticles [4]."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 166.394,
+            "t": 555.5475826484376,
+            "r": 559.5560538799997,
+            "b": 508.44581887190117,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            332
+          ]
+        }
+      ],
+      "orig": "In summary, these contributions show the importance of the development in the research area of block copolymer membranes and templates. The Special Issue includes specific approaches to reduce the amounts of polymer used in the fabrication of block copolymer membranes, challenges, and the need for further development in the field.",
+      "text": "In summary, these contributions show the importance of the development in the research area of block copolymer membranes and templates. The Special Issue includes specific approaches to reduce the amounts of polymer used in the fabrication of block copolymer membranes, challenges, and the need for further development in the field."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 166.394,
+            "t": 493.5401666484375,
+            "r": 377.1038863999999,
+            "b": 485.04162238028107,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "Funding: This research received no external funding.",
+      "text": "Funding: This research received no external funding."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 166.394,
+            "t": 475.8471666484375,
+            "r": 418.08796319999976,
+            "b": 467.3486223802811,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "Conflicts of Interest: The authors declare no conflict of interest.",
+      "text": "Conflicts of Interest: The authors declare no conflict of interest."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.44921112060547,
+            "t": 791.9656295776367,
+            "r": 165.575927734375,
+            "b": 756.9458084106445,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.5738639831543,
+            "t": 372.97406005859375,
+            "r": 85.93680572509766,
+            "b": 355.150634765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.30409622192383,
+            "t": 186.15533447265625,
+            "r": 92.97476196289062,
+            "b": 164.50823974609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 515.51953125,
+            "t": 786.7825584411621,
+            "r": 558.7925415039062,
+            "b": 757.9057388305664,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 2
+    }
+  }
+}

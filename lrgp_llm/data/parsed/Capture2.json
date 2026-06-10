@@ -1,0 +1,43 @@
+{
+  "schema_name": "DoclingDocument",
+  "name": "Capture2",
+  "source_type": "csv",
+  "texts": [
+    {
+      "label": "title",
+      "text": "Données tabulaires — Capture2"
+    },
+    {
+      "label": "paragraph",
+      "text": "# Données tabulaires — Capture2\n\n| x       | Curve1   |\n|:--------|:---------|\n| 5,00591 | 24,945   |\n| 7,00086 | 24,5236  |\n| 8,99415 | 23,2778  |"
+    }
+  ],
+  "tables": [
+    {
+      "label": "table",
+      "caption": {
+        "text": "Capture2"
+      },
+      "data": {
+        "grid": [
+          [
+            "x",
+            "Curve1"
+          ],
+          [
+            "5,00591",
+            "24,945"
+          ],
+          [
+            "7,00086",
+            "24,5236"
+          ],
+          [
+            "8,99415",
+            "23,2778"
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+[
+   
+  {
+    "question": "Quel est l'effet de l'ajout de TETA (tétramine) à la MDEA dans un solvant aqueux pour l'absorption du CO2, et quel avantage énergétique cela procure-t-il lors de la régénération ?",
+    "answer": "La TETA permet d'augmenter la vitesse d'absorption du CO2 (même à fort taux de charge) par rapport à un solvant à base de MDEA seule. Ce gain de réactivité permet de limiter le débit de solvant nécessaire, ce qui réduit la consommation énergétique lors de l'étape de régénération du solvant.",
+    "type": "FACTUEL",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Quels ont été les premiers solvants employés pour le captage du CO2 par couplage de l'absorption et d'un contacteur membranaire depuis les années 90, et quel réactif n'avait pas encore été utilisé jusqu'aux travaux de Molina ?",
+    "answer": "Le premier solvant employé a été l'eau, suivi par des solvants chimiques de type amines comme la MEA, la MDEA et la DEA. L'usage de l'ammoniaque pour le captage via contacteur membranaire n'avait pas été utilisé jusqu'à l'étude de Molina.",
+    "type": "FACTUEL",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Dans l'étude de Lu et al. sur le captage du CO2 dans un contacteur de fibres creuses, quelles solutions ont été comparées et quelle conclusion en a été tirée concernant l'absorption ?",
+    "answer": "Deux solutions ont été comparées : une solution aqueuse de MDEA seule et une solution de MDEA activée avec de la pipérazine (PZ). Les résultats ont montré que l'absorption de CO2 avec la MDEA activée (MDEA + PZ) était remarquablement plus élevée que celle avec la MDEA seule.",
+    "type": "FACTUEL",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Quelle est la fraction massique de la solution de MEA (Monoéthanolamine) utilisée dans le module de contacteur membranaire lors de l'absorption du solvant, selon les travaux de Scholes ?",
+    "answer": "La fraction massique de la solution de MEA utilisée est de 30 % en poids (30 wt%).",
+    "type": "FACTUEL",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N1"
+  },
+  {
+    "question": "Selon les travaux d'Amann, quelle caractéristique de la TETA lui confère un avantage significatif sur la MEA pour l'absorption du CO2, et quelle est la conséquence directe sur le flux de transfert ?",
+    "answer": "La TETA est une tétramine, ce qui lui confère une plus grande capacité d'absorption par rapport à la MEA. Cela permet d'accélérer le flux d'absorption du CO2, même lorsque le taux de charge en CO2 dans le solvant augmente.",
+    "type": "FACTUEL",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Quel est l'objectif principal de l'étude publiée concernant les stratégies de modélisation pour le captage du CO2 ?",
+    "answer": "L'objectif principal de l'étude est de réaliser une analyse comparative critique des différentes stratégies de modélisation pour le captage du CO2 par absorption dans la MEA à l'aide de contacteurs membranaires.",
+    "type": "FACTUEL",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Quel matériau polymère a été utilisé par Lu et al. pour la conception des fibres creuses du contacteur membranaire destiné au captage du CO2 ?",
+    "answer": "Lu et al. ont utilisé des fibres creuses en PP (polypropylène) pour leur contacteur membranaire.",
+    "type": "FACTUEL",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N2"
+  },
+  {
+    "question": "En quelles unités spécifiques est exprimé le taux de charge du solvant riche en CO2 (CO2 rich solvent loading) à la sortie du contacteur membranaire lors des expériences avec la solution de MEA à 30 wt% ?",
+    "answer": "Le taux de charge du solvant riche en CO2 est exprimé en mol de CO2 par mol de MEA (mol CO2 / mol MEA).",
+    "type": "FACTUEL",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N2"
+  },
+
+  
+  {
+    "question": "Quel est le mécanisme de séparation régissant les membranes utilisées pour la séparation CO2/CH4 lors de l'épuration du biogaz, et quel est le principal compromis (trade-off) associé à ces membranes ?",
+    "answer": "Les membranes de séparation CO2/CH4 reposent sur un mécanisme de solution-diffusion. Le principal compromis observé pour ces membranes réside entre la sélectivité de séparation du CO2 et sa perméabilité.",
+    "type": "FACTUEL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Bien que les procédés de perméation gazeuse à un seul étage puissent générer un produit riche en méthane, quel est leur principal inconvénient opérationnel selon la littérature ?",
+    "answer": "Le principal inconvénient d'un procédé de perméation gazeuse à un seul étage (single stage) est qu'il engendre des pertes significatives de méthane (CH4) dans le flux de perméat.",
+    "type": "FACTUEL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Comment la température influence-t-elle la sélectivité CO2/CH4 d'une membrane, et comment cette évolution s'explique-t-elle du point de vue des énergies d'activation ?",
+    "answer": "La sélectivité CO2/CH4 diminue légèrement avec l'augmentation de la température. Cette diminution s'explique par une réduction de la différence d'énergie d'activation entre la perméation du CO2 et celle du CH4, un comportement qui illustre le compromis classique entre perméabilité et sélectivité.",
+    "type": "COMPARAISON",
+    "domaine": "CH4_CO2",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Quels sont les deux procédés membranaires fondamentalement distincts étudiés pour l'élimination efficace du CO2 contenu dans le CH4 ?",
+    "answer": "Les deux procédés sont : 1) l'utilisation d'un contacteur membranaire gaz-liquide pour l'absorption sélective du CO2 à partir du CH4, et 2) l'utilisation de membranes denses et fines de séparation de gaz (gas separation membranes).",
+    "type": "COMPARAISON",
+    "domaine": "CH4_CO2",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Quels ont été les premiers matériaux membranaires industriels envisagés dans les années 1980 pour la purification du gaz naturel, et par quel type de polymère ont-ils été suivis ?",
+    "answer": "Les premiers matériaux envisagés dans les années 1980 étaient des matériaux cellulosiques (notamment par la société Separex). Par la suite, des matériaux de type polyimides ont été proposés.",
+    "type": "FACTUEL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Pour quelles raisons thermodynamiques et cinétiques l'utilisation de la perméation gazeuse est-elle particulièrement favorable dans le cas de la purification du gaz naturel ?",
+    "answer": "C'est un cas de figure favorable car le mélange à traiter est déjà sous pression (avantage thermodynamique) et le composé cible à conserver, le méthane (CH4), est un gaz \"lent\" à traverser la membrane (avantage cinétique pour la rétention).",
+    "type": "FACTUEL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Lors du traitement du gaz naturel par des unités de perméation gazeuse, combien d'étages (stages) ces unités comportent-elles généralement et que devient le dioxyde de carbone (CO2) extrait ?",
+    "answer": "Les unités de traitement comportent généralement un ou deux étages. Le CO2 extrait est soit éliminé, soit réinjecté directement dans le gisement afin d'améliorer la productivité des puits.",
+    "type": "FACTUEL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Quelle grande famille de polymères est citée comme constituant une excellente option matérielle pour séparer le CO2 et le CH4 ?",
+    "answer": "Les polymères vitreux (glassy polymeric membrane materials) constituent une excellente option pour cette séparation.",
+    "type": "FACTUEL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N1"
+  },
+  {
+    "question": "Quelles sont les impuretés spécifiques éliminées du gaz naturel par les membranes de perméation gazeuse et quelle est la concentration cible finale en CH4 ?",
+    "answer": "Les membranes permettent d'éliminer le dioxyde de carbone (CO2), le sulfure d'hydrogène (H2S) ainsi qu'une partie de l'eau. La concentration cible en méthane (CH4) obtenue après traitement est de 98 % ou plus.",
+    "type": "FACTUEL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Outre la valorisation du biogaz, pour quelles autres applications la combinaison d'une haute sélectivité, d'une perméance adéquate et d'une bonne stabilité à long terme rend-elle les membranes nanocomposites prometteuses ?",
+    "answer": "Ces membranes sont également très prometteuses pour l'adoucissement du gaz naturel (natural gas sweetening) et pour la purification des gaz de décharge (landfill gas purification).",
+    "type": "FACTUEL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N2"
+  },
+
+
+  {
+    "question": "D'après les travaux de Dindore et al. publiés en 2004, sous quelles conditions de pression l'absorption du CO2 dans un contacteur membranaire à fibres creuses a-t-elle été étudiée ?",
+    "answer": "L'absorption du CO2 a été étudiée à des pressions élevées (elevated pressures).",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Selon l'étude de Makhloufi, quel phénomène indésirable se produit généralement après une utilisation prolongée des fibres creuses microporeuses pour l'absorption du CO2, et quelle en est la conséquence sur les performances ?",
+    "answer": "Le mouillage de la membrane (membrane wetting) se produit après une utilisation à long terme, ce qui a pour conséquence directe de diminuer le coefficient de transfert de matière global (overall mass transfer coefficient).",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Quel solvant de référence, utilisé à long terme pour l'absorption du CO2, est explicitement mentionné dans le corpus comme provoquant le mouillage de plusieurs matériaux membranaires ?",
+    "answer": "La MEA (monoéthanolamine) est explicitement mentionnée comme provoquant le mouillage de la membrane après une utilisation à long terme.",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Pour pallier le manque de données sur certains systèmes, quel nouveau solvant est évalué par Makhloufi pour le procédé d'absorption du CO2 dans des contacteurs gaz/liquide à fibres creuses microporeuses ?",
+    "answer": "L'ammoniaque (ammonia) est le solvant dont le potentiel est évalué pour le procédé d'absorption du CO2.",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Quel matériau polymère spécifique est mentionné dans le document IONADA Piasenta (2021) concernant la modélisation et la simulation de contacteurs à fibres creuses pour le captage du CO2 ?",
+    "answer": "Le PTFE (polytétrafluoroéthylène) est le matériau polymère mentionné.",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N1"
+  },
+  {
+    "question": "Dans le cadre de l'évaluation de la faisabilité du captage du CO2, quelles sont les deux étapes opératoires du procédé qui ont dû être modélisées et simulées selon la thèse de David Albarracin ?",
+    "answer": "Les deux étapes qui devaient être modélisées pour satisfaire les objectifs sont l'étape d'absorption et l'étape de désorption (absorption and desorption steps).",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Quel type spécifique de fibres creuses, caractérisé par son affinité avec l'eau et sa structure, est rapporté dans la littérature comme offrant des facteurs d'intensification impressionnants pour l'absorption du CO2 ?",
+    "answer": "Il s'agit des fibres creuses microporeuses hydrophobes (hydrophobic microporous hollow fibers).",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Dans quel volume du Journal of Membrane Science, et à quelles pages précisément, l'article de Dindore et al. de 2004 concernant l'absorption du CO2 à pression élevée a-t-il été publié ?",
+    "answer": "L'article a été publié dans le volume 235 (numéros 1-2), aux pages 99 à 109.",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N3"
+  },
+  {
+    "question": "D'après la légende de la Figure 2 citée dans le corpus, quelles sont les deux opérations simultanées ou complémentaires représentées sur le diagramme schématique du système de contacteur à fibres creuses ?",
+    "answer": "Les deux opérations représentées sont l'absorption et le stripping (désorption) du CO2.",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N1"
+  },
+  {
+    "question": "Selon les mots-clés de l'étude de Lee (2022), quel processus membranaire, constituant la phase inverse du captage, fait l'objet d'une modélisation théorique ?",
+    "answer": "Le processus modélisé théoriquement est le stripping du CO2 (CO2 stripping).",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2"
+  },
+
+
+  {
+    "question": "Dans le cadre de la modélisation rigoureuse développée par Soroodan Miandoab (Figure 4.4), quelles sont les conditions opératoires (pression, température et composition d'alimentation) appliquées à l'alimentation pour simuler la séparation d'un mélange de CO2 et H2 ?",
+    "answer": "Pour la simulation de la séparation, l'alimentation (feed) est composée de 60 % de CO2, avec une pression de 60 bara et une température de 100 °C.",
+    "type": "FACTUEL",
+    "domaine": "modélisation_membranaire",
+    "difficulté": "N1"
+  },
+  {
+    "question": "En séparant un mélange binaire de composants A et B où A est le composant le plus perméable et où la surface de la membrane est fixe, quel est l'impact de l'augmentation du \"stage-cut\" sur la fraction molaire de A dans les flux de rétentat et de perméat ?",
+    "answer": "Une augmentation du stage-cut entraîne une diminution de la fraction molaire de A dans le flux de rétentat (ce qui est souhaitable). Cependant, cela s'accompagne d'une diminution de la fraction molaire de A dans le flux de perméat, car le taux de perméation de B augmente également à un stage-cut plus élevé.",
+    "type": "FACTUEL",
+    "domaine": "modélisation_membranaire",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Dans le modèle membranaire d'Ehsan Soroodan Miandoab, comment est défini le paramètre de configuration d'écoulement et en combien de cellules le module membranaire est-il divisé pour résoudre les équations de bilan de masse et d'énergie ?",
+    "answer": "Le modèle membranaire opère en régime stationnaire en utilisant une configuration d'écoulement à contre-courant (counter-current flow configuration). Pour la résolution, le module membranaire est divisé en 100 cellules (100 cells).",
+    "type": "FACTUEL",
+    "domaine": "modélisation_membranaire",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Selon la terminologie IUPAC et les définitions rapportées par plusieurs sources (IUPAC, Paul, Soroodan Miandoab), comment est défini exactement le paramètre \"stage cut\" dans un système membranaire ?",
+    "answer": "Le stage-cut (\u03b8 ou q) est défini comme le rapport entre le débit de perméat (Q_permeate ou F_P) et le débit total d'alimentation entrant dans le module membranaire (Q_in ou F_F). Il représente la fraction de l'alimentation totale qui traverse la membrane en tant que perméat.",
+    "type": "FACTUEL",
+    "domaine": "modélisation_membranaire",
+    "difficulté": "N1"
+  },
+  {
+    "question": "Dans les simulations du module membranaire sous Aspen Custom Modeller (ACM), quelles sont les variables de conception qui sont fixées et quelle est la variable calculée par le modèle ?",
+    "answer": "Dans ces simulations, le stage-cut et le rapport de pression (pressure ratio) sont fixés par l'utilisateur, tandis que l'aire de la membrane (membrane area) est une variable calculée par le modèle.",
+    "type": "FACTUEL",
+    "domaine": "modélisation_membranaire",
+    "difficulté": "N2"
+  },
+  {
+    "question": "D'après Huang et al., cités dans l'étude d'Aspen Hysys, quelle est la plage de valeurs recommandées pour le rapport de pression (pressure ratio) afin que les procédés membranaires soient économiquement viables ?",
+    "answer": "Le rapport de pression optimal (défini comme la pression d'alimentation divisée par la pression de perméat) doit se situer dans la plage de 5 à 15 (5-15) pour assurer la viabilité économique du procédé.",
+    "type": "FACTUEL",
+    "domaine": "modélisation_membranaire",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Pour une membrane sélective au CO2 étudiée par Soroodan Miandoab (Figures 4.5 et 4.6), quelles sont les valeurs de sélectivité initiale (\u03b1_CO2/H2_0) et de différence d'énergie d'activation (\u0394E) utilisées dans la comparaison entre le modèle rigoureux et le modèle simplifié ?",
+    "answer": "Pour la membrane sélective au CO2, les valeurs utilisées sont une sélectivité initiale (\u03b1_CO2/H2_0) de 0,2 et une différence d'énergie d'activation (\u0394E) de 12 000 J/mol.",
+    "type": "FACTUEL",
+    "domaine": "modélisation_membranaire",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Dans l'exemple de configuration (b) pour la valorisation du biogaz avec plusieurs modules, quelle étape spécifique subit le perméat provenant du module 2 avant d'être renvoyé vers le module 1 ?",
+    "answer": "Dans la configuration (b), le perméat issu du module 2 est d'abord recompressé (recompressed) avant d'être recyclé (recycled) vers le module 1.",
+    "type": "FACTUEL",
+    "domaine": "modélisation_membranaire",
+    "difficulté": "N2"
+  },
+
+
+  {
+    "question": "Quel est le mécanisme régissant le transport des composés à travers les membranes denses en polymère (comme pour la perméation gazeuse ou la pervaporation) et quelle relation relie la perméabilité à la solubilité et à la diffusion ?",
+    "answer": "Le mécanisme de transport est le mécanisme de solution-diffusion. La perméabilité (P) est définie comme le produit de la solubilité (S) et du coefficient de diffusion (D), soit l'équation : P = S · D.",
+    "type": "FACTUEL",
+    "domaine": "perméabilité_matériaux",
+    "difficulté": "N1"
+  },
+  {
+    "question": "Quelle est l'unité la plus fréquemment utilisée pour exprimer la perméabilité des membranes polymères denses, et à quelle valeur correspond-elle dans le système d'unités associant le cm³(STP), le cm, la seconde et le cmHg ?",
+    "answer": "L'unité la plus fréquemment employée est le Barrer. 1 Barrer correspond à 10^(-10) cm³(STP) · cm / (s · cm² · cmHg), ce qui équivaut à 10^(-10) Ncm³ · cm · s^(-1) · cm^(-2) · cmHg^(-1).",
+    "type": "FACTUEL",
+    "domaine": "perméabilité_matériaux",
+    "difficulté": "N1"
+  },
+  {
+    "question": "Sur quelle plage d'ordres de grandeur (et entre quelles valeurs limites en Barrer) s'étendent généralement les valeurs de perméabilité pour les différents gaz dans les polymères denses ?",
+    "answer": "Les valeurs de perméabilité dans les polymères denses s'étendent sur huit ordres de grandeur, allant de 10^(-3) à 10^5 Barrer.",
+    "type": "FACTUEL",
+    "domaine": "perméabilité_matériaux",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Pour les polymères caoutchouteux denses comme le PDMS, quel est le paramètre moléculaire qui permet à certaines molécules de traverser la membrane plus rapidement que des molécules plus petites ?",
+    "answer": "C'est l'interaction chimique avec la structure du polymère (la condensabilité). Les molécules les plus condensables interagissent davantage, augmentant leur solubilité, ce qui leur permet de perméer plus rapidement malgré une taille potentiellement plus grande, suivant le mécanisme de solution-diffusion.",
+    "type": "FACTUEL",
+    "domaine": "perméabilité_matériaux",
+    "difficulté": "N2"
+  },
+  {
+    "question": "D'après les mesures effectuées sur des fibres creuses en PDMS pour des procédés d'absorption gaz-liquide (Nguyen, 2011), quelle est la valeur estimée de la perméabilité au CO2 exprimée en Barrer ?",
+    "answer": "La perméabilité au CO2 du PDMS a été estimée à 2900 Barrer (correspondant à un coefficient de transfert de matière de l'ordre de 1,3 * 10^-5 m/s).",
+    "type": "FACTUEL",
+    "domaine": "perméabilité_matériaux",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Dans le tableau 2 présentant les caractéristiques de transport des gaz, quelles sont les perméabilités respectives (en mélange) pour le méthane (CH4), le propane (C3H8) et le n-butane (nC4H10) à travers la membrane en PDMS ?",
+    "answer": "Les perméabilités en mélange à travers le PDMS sont : CH4 = 700 Barrer ; C3H8 = 2440 Barrer ; nC4H10 = 5300 Barrer.",
+    "type": "FACTUEL",
+    "domaine": "perméabilité_matériaux",
+    "difficulté": "N2"
+  },
+  {
+    "question": "En utilisant les données du tableau 2 pour les membranes en PDMS et en PHexMS (polyhexaméthylsiloxane), calculer la différence absolue de sélectivité mixte (mixed gas selectivity) C4/C1 entre ces deux matériaux.",
+    "answer": "Pour le PDMS, la sélectivité mixte C4/C1 est de 7,6. Pour le PHexMS, elle est de 15,5. La différence absolue est 15,5 - 7,6 = 7,9.",
+    "type": "CALCUL",
+    "domaine": "perméabilité_matériaux",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Dans la littérature issue du corpus (Nguyen, 2011), quels sont les trois matériaux polymères spécifiquement mentionnés comme étant les plus perméables au CO2 pour former des membranes denses ?",
+    "answer": "Les trois matériaux les plus perméables au CO2 cités sont le PTMSP, le PDMS et le Téflon AF2400.",
+    "type": "FACTUEL",
+    "domaine": "perméabilité_matériaux",
+    "difficulté": "N2"
+  },
+
+
+  {
+    "question": "Quel paramètre unique permet d'évaluer rapidement et facilement les performances du procédé de transfert de matière dans un contacteur membranaire selon les premières publications ?",
+    "answer": "L'évaluation est basée sur l'utilisation d'un paramètre unique : le coefficient global de transfert de matière constant, noté Kov.",
+    "type": "FACTUEL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Selon l'approche des résistances en série mentionnée pour les contacteurs à fibres creuses, comment s'exprime la résistance globale de transfert de matière ?",
+    "answer": "La résistance globale de transfert de matière s'exprime par l'inverse du coefficient global, soit 1/K, calculée à partir des résistances locales de transfert de matière.",
+    "type": "FACTUEL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Quelle est l'unité du coefficient global de transfert de matière (K) telle que mentionnée dans les travaux de Nguyen (2011) ?",
+    "answer": "Le coefficient global de transfert de matière (K) s'exprime en mètres par seconde [m/s].",
+    "type": "FACTUEL",
+    "domaine": "transfert_matière",
+    "difficulté": "N1"
+  },
+  {
+    "question": "D'après les articles de Chabanon et al. (2012, 2013), quel est l'avantage principal d'utiliser un coefficient global de transfert de matière constant (Kov) pour modéliser le transfert dans les contacteurs membranaires ?",
+    "answer": "L'avantage principal est d'inclure les différents mécanismes de transfert de matière dans un seul paramètre global, ce qui permet d'évaluer les performances du procédé de manière rapide et facile.",
+    "type": "FACTUEL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Quels sont les auteurs ayant historiquement proposé l'approche basée sur un coefficient global constant (Kov) dans les premières publications dédiées aux contacteurs membranaires ?",
+    "answer": "Cette approche a été historiquement proposée par Qi et Cussler (1985a, 1985b), Wickramasinghe et al. (1992), ainsi que Bottino et al. (2008).",
+    "type": "FACTUEL",
+    "domaine": "transfert_matière",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Dans l'étude de comparaison de Favre et Svendsen sur les contacteurs membranaires, combien de cas de simulation ont été réalisés et pour quel taux spécifique de capture de CO2 ?",
+    "answer": "L'étude s'appuie sur une série de 3700 études de simulation différentes, toutes réalisées avec un taux de capture de CO2 fixé à 90 %.",
+    "type": "FACTUEL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Selon les travaux de Kreulen (1993a), dans quels types de systèmes la notion de coefficient global de transfert de matière (Kov) est-elle employée ?",
+    "answer": "Elle est employée dans les systèmes gaz-liquide (avec volume de liquide) ainsi que dans les procédés d'absorption de gaz par membrane.",
+    "type": "FACTUEL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Dans un contacteur à fibres creuses modélisé par l'approche des résistances en série, sachant que la résistance globale de transfert de matière est l'inverse du coefficient global (1/K), calculer cette résistance globale en s/m si le coefficient global K est de 4 * 10^-5 m/s.",
+    "answer": "La résistance globale est 1 / (4 * 10^-5) = 25000 s/m.",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Une des 3700 simulations de contacteurs membranaires (avec un taux de capture de CO2 de 90%) a permis d'estimer une résistance globale au transfert de matière (1/K) de 5000 s/m. En utilisant l'unité standard donnée par Nguyen (2011), calculez le coefficient global de transfert de matière (K).",
+    "answer": "Le coefficient global se calcule par l'inverse de la résistance : K = 1 / 5000 = 2 * 10^-4 m/s.",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Sachant que le coefficient global de transfert de matière K s'exprime en m/s et sa résistance globale associée est 1/K, quelle est la résistance globale au transfert pour un contacteur dont le coefficient global a été évalué à 1.25 * 10^-4 m/s ?",
+    "answer": "La résistance globale se calcule via la formule 1/K, soit 1 / (1.25 * 10^-4) = 8000 s/m.",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2"
+  }
+
+
+]

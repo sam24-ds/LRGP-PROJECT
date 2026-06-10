@@ -1,0 +1,1601 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "CO2-removal-membrane(1)",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 14509639880479193905,
+    "filename": "CO2-removal-membrane(1).pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 55.0,
+            "t": 601.7620000000001,
+            "r": 302.4607999999999,
+            "b": 522.2205505007155,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            303
+          ]
+        }
+      ],
+      "orig": "Separex membrane systems are used primarily for bulk CO 2 removal from natural gas streams. The systems are modular, skid mounted units containing either spiral wound or hollow fiber membrane elements. The elements are housed in pressure tubes in various configurations depending on system requirements.",
+      "text": "Separex membrane systems are used primarily for bulk CO 2 removal from natural gas streams. The systems are modular, skid mounted units containing either spiral wound or hollow fiber membrane elements. The elements are housed in pressure tubes in various configurations depending on system requirements."
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 55.000400000000006,
+            "t": 506.96370000000013,
+            "r": 284.51980000000003,
+            "b": 469.42165050071543,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "The advantages of Separex membrane systems over conventional processes are site specific, but may include:",
+      "text": "The advantages of Separex membrane systems over conventional processes are site specific, but may include:"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.32,
+            "t": 459.38,
+            "r": 223.30769999999995,
+            "b": 445.1193505007153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "/L50189 Lower capital and energy costs",
+      "text": "/L50189 Lower capital and energy costs",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.32,
+            "t": 440.12,
+            "r": 303.8122999999999,
+            "b": 398.85875050071536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            124
+          ]
+        }
+      ],
+      "orig": "/L50189 Reduced space requirements, faster delivery time and lower installation costs due to smaller, lighter modular design",
+      "text": "/L50189 Reduced space requirements, faster delivery time and lower installation costs due to smaller, lighter modular design",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.32,
+            "t": 393.86,
+            "r": 286.4333999999999,
+            "b": 352.59875050071537,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            107
+          ]
+        }
+      ],
+      "orig": "/L50189 Lower operating costs and limited manpower requirements due to simplified operation and maintenance",
+      "text": "/L50189 Lower operating costs and limited manpower requirements due to simplified operation and maintenance",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.32,
+            "t": 347.6,
+            "r": 301.65629999999993,
+            "b": 319.83905050071536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "/L50189 Increased adaptability to changing feed flow and composition",
+      "text": "/L50189 Increased adaptability to changing feed flow and composition",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.32,
+            "t": 314.84,
+            "r": 254.73799999999994,
+            "b": 300.5793505007153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "/L50189 Elimination of dehydration equipment",
+      "text": "/L50189 Elimination of dehydration equipment",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.32,
+            "t": 295.58,
+            "r": 247.53739999999993,
+            "b": 281.3193505007153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            44
+          ]
+        }
+      ],
+      "orig": "/L50189 Faster, easier start-up and shutdown",
+      "text": "/L50189 Faster, easier start-up and shutdown",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 382.88,
+            "t": 751.56,
+            "r": 514.4052,
+            "b": 743.64,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "GAS PROCESSING",
+      "text": "GAS PROCESSING",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 327.07,
+            "t": 667.0998999999999,
+            "r": 574.996,
+            "b": 656.5399,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "SEPAREX TM MEMBRANE SYSTEMS",
+      "text": "SEPAREX TM MEMBRANE SYSTEMS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 325.0,
+            "t": 395.46000000000004,
+            "r": 419.67160000000024,
+            "b": 388.42,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "APPLICATIONS",
+      "text": "APPLICATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 325.0,
+            "t": 378.102,
+            "r": 556.9526000000003,
+            "b": 354.5596505007153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            86
+          ]
+        }
+      ],
+      "orig": "Separex membrane systems are typically used in the following applications and markets:",
+      "text": "Separex membrane systems are typically used in the following applications and markets:"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 347.32,
+            "t": 344.52,
+            "r": 577.2152000000007,
+            "b": 276.25875050071534,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "/L50189 Natural Gas Upgrading - Separex membrane systems remove carbon dioxide and water vapor to pipeline specifications and lower the H 2 S level. Systems can be installed either onshore or offshore, at the wellhead or at gathered facilities.",
+      "text": "/L50189 Natural Gas Upgrading - Separex membrane systems remove carbon dioxide and water vapor to pipeline specifications and lower the H 2 S level. Systems can be installed either onshore or offshore, at the wellhead or at gathered facilities.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 347.32,
+            "t": 271.26,
+            "r": 567.3579000000003,
+            "b": 175.9975505007153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            299
+          ]
+        }
+      ],
+      "orig": "/L50189 Enhanced Oil Recovery (EOR) Operations -Separex membrane systems are used to recover carbon dioxide from EOR floods for recycle injection.  Systems can be used as a baseload system, designed as part of the recovery plant, or as a debottlenecking unit upstream of the existing recovery plant.",
+      "text": "/L50189 Enhanced Oil Recovery (EOR) Operations -Separex membrane systems are used to recover carbon dioxide from EOR floods for recycle injection.  Systems can be used as a baseload system, designed as part of the recovery plant, or as a debottlenecking unit upstream of the existing recovery plant.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 347.32,
+            "t": 171.0,
+            "r": 564.4859999999999,
+            "b": 116.23875050071524,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "/L50189 Biogas Methane Recovery -  Separex membrane systems provide CO 2 removal and dehydration of the biogas/landfill off-gas (typically ~55% methane) to pipeline specification.",
+      "text": "/L50189 Biogas Methane Recovery -  Separex membrane systems provide CO 2 removal and dehydration of the biogas/landfill off-gas (typically ~55% methane) to pipeline specification.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.0,
+            "t": 718.7628000000001,
+            "r": 297.0623999999999,
+            "b": 583.2202505007155,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            514
+          ]
+        }
+      ],
+      "orig": "UOP offers complete membrane system design including new robust and comprehensive feed pretreatment schemes to extend membrane life. Improved pretreatment, in combination with the continuing development of advanced membranes, has even further enhanced the reliability and performance of membrane technology and made it the CO 2 removal technology of choice in a variety of processing conditions. As with all our processes, service is always readily available through UOP's worldwide technical service organization.",
+      "text": "UOP offers complete membrane system design including new robust and comprehensive feed pretreatment schemes to extend membrane life. Improved pretreatment, in combination with the continuing development of advanced membranes, has even further enhanced the reliability and performance of membrane technology and made it the CO 2 removal technology of choice in a variety of processing conditions. As with all our processes, service is always readily available through UOP's worldwide technical service organization."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.0,
+            "t": 560.12,
+            "r": 162.5708,
+            "b": 553.08,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "OPERATING RANGE",
+      "text": "OPERATING RANGE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 36.99989999999997,
+            "t": 542.7620000000001,
+            "r": 297.1103999999999,
+            "b": 449.22055050071526,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            342
+          ]
+        }
+      ],
+      "orig": "Commercial applications have demonstrated the versatility of Separex  membrane systems. Typical feed conditions range between 400 and 1400 psig with CO 2 levels from 3 to ~70%. Commercial systems have been designed and operated at feed flow rates ranging from 5 MSCFD to over 250 MMSCFD, with future plans for producing 500 MMSCFD and higher.",
+      "text": "Commercial applications have demonstrated the versatility of Separex  membrane systems. Typical feed conditions range between 400 and 1400 psig with CO 2 levels from 3 to ~70%. Commercial systems have been designed and operated at feed flow rates ranging from 5 MSCFD to over 250 MMSCFD, with future plans for producing 500 MMSCFD and higher."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.0,
+            "t": 426.12,
+            "r": 119.68200000000003,
+            "b": 419.08,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "EXPERIENCE",
+      "text": "EXPERIENCE",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.0,
+            "t": 408.762,
+            "r": 264.656,
+            "b": 385.2196505007153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "As of December 1999, over 75 Separex membrane systems have been put into operating service.",
+      "text": "As of December 1999, over 75 Separex membrane systems have been put into operating service."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.26,
+            "t": 72.68600000000004,
+            "r": 158.93280000000001,
+            "b": 65.74589127324748,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "\u00a91999 UOP LLC. All rights reserved",
+      "text": "\u00a91999 UOP LLC. All rights reserved"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 38.26,
+            "t": 63.08600000000001,
+            "r": 303.1719999999997,
+            "b": 36.945891273247526,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            245
+          ]
+        }
+      ],
+      "orig": "This information is not to be taken as a warranty or representation for which UOP assumes legal responsibility nor as permission or recommendation to practice any patented invention without a license. It is offered solely for your consideration.",
+      "text": "This information is not to be taken as a warranty or representation for which UOP assumes legal responsibility nor as permission or recommendation to practice any patented invention without a license. It is offered solely for your consideration."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 333.6929,
+            "t": 628.3723,
+            "r": 352.9385,
+            "b": 619.0762000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Feed",
+      "text": "Feed"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 509.0453,
+            "t": 678.9377,
+            "r": 531.5975000000001,
+            "b": 669.6416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Sales",
+      "text": "Sales"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 512.62415,
+            "t": 669.0377,
+            "r": 528.01865,
+            "b": 659.7416000000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Gas",
+      "text": "Gas"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 501.07777999999996,
+            "t": 582.79781,
+            "r": 539.57888,
+            "b": 573.5017100000001,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Permeate",
+      "text": "Permeate"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 366.56,
+            "t": 709.236,
+            "r": 521.2138000000002,
+            "b": 697.1231759656653,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "Single Stage Flow Scheme",
+      "text": "Single Stage Flow Scheme"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 315.4954,
+            "t": 436.9093,
+            "r": 332.9914,
+            "b": 428.4583,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Feed",
+      "text": "Feed"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 476.4064,
+            "t": 491.87769999999995,
+            "r": 496.90840000000003,
+            "b": 483.4267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Sales",
+      "text": "Sales"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 479.6599,
+            "t": 482.87769999999995,
+            "r": 493.6549,
+            "b": 474.4267,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Gas",
+      "text": "Gas"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 535.6632999999999,
+            "t": 431.97819999999996,
+            "r": 570.6642999999999,
+            "b": 423.5272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Permeate",
+      "text": "Permeate"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 371.11,
+            "t": 507.256,
+            "r": 513.5698000000001,
+            "b": 495.14317596566525,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Two Stage Flow Scheme",
+      "text": "Two Stage Flow Scheme"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 314.6,
+            "t": 229.91999999999996,
+            "r": 480.6283999999998,
+            "b": 222.88,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "FOR MORE INFORMATION",
+      "text": "FOR MORE INFORMATION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 314.6,
+            "t": 212.562,
+            "r": 573.0626000000005,
+            "b": 189.01965050071533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "For more information, contact your local UOP sales office or UOP's Gas Processing business in the USA at:",
+      "text": "For more information, contact your local UOP sales office or UOP's Gas Processing business in the USA at:"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 314.5989,
+            "t": 173.76279999999997,
+            "r": 345.1569,
+            "b": 164.22015050071536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Phone:",
+      "text": "Phone:"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 350.4369,
+            "t": 173.76279999999997,
+            "r": 412.7629,
+            "b": 164.22015050071536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "713-744-2860",
+      "text": "713-744-2860"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 314.5989,
+            "t": 159.7631,
+            "r": 336.9025,
+            "b": 150.2204505007153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Fax:",
+      "text": "Fax:"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 350.43249999999995,
+            "t": 159.7631,
+            "r": 412.7463999999999,
+            "b": 150.2204505007153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "713-744-2880",
+      "text": "713-744-2880"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 314.5989,
+            "t": 145.76340000000005,
+            "r": 438.92639999999983,
+            "b": 136.22075050071533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "E-mail: GasProc@uop.com",
+      "text": "E-mail: GasProc@uop.com"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 449.94,
+            "t": 87.83814598233994,
+            "r": 486.52101400673996,
+            "b": 70.92194128018002,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "uop",
+      "text": "uop"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 487.46,
+            "t": 86.28899999999999,
+            "r": 494.65999999999997,
+            "b": 82.38518884120174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "TM",
+      "text": "TM"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.73,
+            "t": 28.90599999999995,
+            "r": 111.59400000000002,
+            "b": 21.965891273247507,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "UOP 3205-5 899GP2E",
+      "text": "UOP 3205-5 899GP2E"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 449.94,
+            "t": 65.00199999999995,
+            "r": 573.7670000000004,
+            "b": 29.45975050071536,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "UOP LLC 25 East Algonquin Road Des Plaines, IL 60017-5017",
+      "text": "UOP LLC 25 East Algonquin Road Des Plaines, IL 60017-5017"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 35.407413482666016,
+            "t": 790.7588131427765,
+            "r": 166.84030151367188,
+            "b": 622.8423767089844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.13267517089844,
+            "t": 262.79425048828125,
+            "r": 306.3806457519531,
+            "b": 44.84698486328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 325.03106689453125,
+            "t": 604.3170928955078,
+            "r": 575.9066162109375,
+            "b": 404.9067687988281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 312.9057922363281,
+            "t": 720.3895034790039,
+            "r": 569.065185546875,
+            "b": 548.2872009277344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 312.625244140625,
+            "t": 519.3653869628906,
+            "r": 576.4232177734375,
+            "b": 326.22918701171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 448.7607116699219,
+            "t": 88.55853271484375,
+            "r": 495.0017395019531,
+            "b": 71.36175537109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

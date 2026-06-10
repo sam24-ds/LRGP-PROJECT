@@ -1,0 +1,4371 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "04-fiche-Amelie-CO2",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 16540543455462117804,
+    "filename": "04-fiche-Amelie-CO2.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/pictures/13"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 724.3839829101563,
+            "r": 186.98,
+            "b": 714.2905283647017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "TITRE DU PROJET:",
+      "text": "TITRE DU PROJET:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 710.5839829101564,
+            "r": 523.02436,
+            "b": 686.6905283647017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "AMELIORATION DE L'EFFICACITE ENERGETIQUE DES CENTRALES THERMIQUES INTEGRANT LE CAPTAGE DE CO2 ASSISTE PAR CONTACTEURS MEMBRANAIRES",
+      "text": "AMELIORATION DE L'EFFICACITE ENERGETIQUE DES CENTRALES THERMIQUES INTEGRANT LE CAPTAGE DE CO2 ASSISTE PAR CONTACTEURS MEMBRANAIRES"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 669.1839829101563,
+            "r": 245.93,
+            "b": 659.0905283647016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "IDENTIFICATION DU PROJET",
+      "text": "IDENTIFICATION DU PROJET",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 644.5907029101563,
+            "r": 136.57999999999998,
+            "b": 635.0852629101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Edition : 2009",
+      "text": "Edition : 2009"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 631.8707029101563,
+            "r": 365.95,
+            "b": 622.3652629101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "Partenaire (organisme) coordinateur : LRGP, CNRS 3349 - Nancy",
+      "text": "Partenaire (organisme) coordinateur : LRGP, CNRS 3349 - Nancy"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 619.2707029101563,
+            "r": 520.66,
+            "b": 609.7652629101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "Autres partenaires (organismes) du projet : LGC-Toulouse ; CEP Armines-Paris ; EDF R&D- Ch\u00e2tou",
+      "text": "Autres partenaires (organismes) du projet : LGC-Toulouse ; CEP Armines-Paris ; EDF R&D- Ch\u00e2tou"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 606.5507029101562,
+            "r": 310.01,
+            "b": 597.0452629101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "Projet labellis\u00e9 par le(s) p\u00f4le(s) de comp\u00e9titivit\u00e9 : NA",
+      "text": "Projet labellis\u00e9 par le(s) p\u00f4le(s) de comp\u00e9titivit\u00e9 : NA"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 593.9207029101563,
+            "r": 113.66000000000001,
+            "b": 584.4152629101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Contact :",
+      "text": "Contact :"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 212.45,
+            "t": 593.9207029101563,
+            "r": 290.33,
+            "b": 584.4152629101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "adresse courriel :",
+      "text": "adresse courriel :"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 581.3207029101562,
+            "r": 309.40999999999997,
+            "b": 571.8152629101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "Date de d\u00e9but / date de fin du projet : 03 janvier 2010",
+      "text": "Date de d\u00e9but / date de fin du projet : 03 janvier 2010"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 318.65,
+            "t": 581.3207029101562,
+            "r": 411.19,
+            "b": 571.8152629101562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "/  31 d\u00e9cembre 2012",
+      "text": "/  31 d\u00e9cembre 2012"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 554.1939829101564,
+            "r": 217.61,
+            "b": 544.1005283647017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "ELEMENTS FINANCIERS",
+      "text": "ELEMENTS FINANCIERS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 481.7139829101563,
+            "r": 194.54,
+            "b": 471.6205283647017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "RESUME DU PROJET",
+      "text": "RESUME DU PROJET",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 454.1139829101563,
+            "r": 119.78,
+            "b": 444.02052836470176,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Contexte",
+      "text": "Contexte",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 440.7259829101563,
+            "r": 524.1700000000001,
+            "b": 375.19398291015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            411
+          ]
+        }
+      ],
+      "orig": "Un nouveau type de centrale \u00e9lectrique devra prendre le relais des installations vieillissantes en assurant conjointement une meilleure efficacit\u00e9 \u00e9nerg\u00e9tique de la ressource et une minimisation des rejets de CO2 ; cela implique l'int\u00e9gration de m\u00e9thodes efficaces de captage du CO2 et la flexibilit\u00e9 de ces installations aux besoins de la production, et la minimisation du facteur carbone avec ou sans captage.",
+      "text": "Un nouveau type de centrale \u00e9lectrique devra prendre le relais des installations vieillissantes en assurant conjointement une meilleure efficacit\u00e9 \u00e9nerg\u00e9tique de la ressource et une minimisation des rejets de CO2 ; cela implique l'int\u00e9gration de m\u00e9thodes efficaces de captage du CO2 et la flexibilit\u00e9 de ces installations aux besoins de la production, et la minimisation du facteur carbone avec ou sans captage."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 371.7259829101563,
+            "r": 523.3659999999999,
+            "b": 292.3939829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            521
+          ]
+        }
+      ],
+      "orig": "Am\u00e9liE CO2 est un projet de recherche industriel de 36 mois port\u00e9 par trois centres de recherche  et deux acteurs industriels r\u00e9pondant \u00e0 l'axe 2 \u00ab Production d'\u00e9nergie avec r\u00e9duction simultan\u00e9e des \u00e9missions de CO2 et accroissement de l'efficacit\u00e9 de la production d'\u00e9nergie \u00bb. Il vise \u00e0 optimiser la production d'\u00e9nergie \u00e9lectrique par des centrales thermiques \u00e0 combustible fossile -1er terme source des sites industriels \u00e0 fort tonnage- et \u00e0 r\u00e9pondre ainsi au1er march\u00e9 de la production l'\u00e9nergie par post-combustion.",
+      "text": "Am\u00e9liE CO2 est un projet de recherche industriel de 36 mois port\u00e9 par trois centres de recherche  et deux acteurs industriels r\u00e9pondant \u00e0 l'axe 2 \u00ab Production d'\u00e9nergie avec r\u00e9duction simultan\u00e9e des \u00e9missions de CO2 et accroissement de l'efficacit\u00e9 de la production d'\u00e9nergie \u00bb. Il vise \u00e0 optimiser la production d'\u00e9nergie \u00e9lectrique par des centrales thermiques \u00e0 combustible fossile -1er terme source des sites industriels \u00e0 fort tonnage- et \u00e0 r\u00e9pondre ainsi au1er march\u00e9 de la production l'\u00e9nergie par post-combustion."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 274.6639829101564,
+            "r": 120.5,
+            "b": 264.5705283647018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Objectifs",
+      "text": "Objectifs",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 70.824,
+            "t": 261.2959829101562,
+            "r": 526.9099999999997,
+            "b": 112.96398291015635,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            967
+          ]
+        }
+      ],
+      "orig": "L'ambition du projet est la conception et la mod\u00e9lisation d'une centrale thermique \u00e9nerg\u00e9tique la plus efficace possible int\u00e9grant la r\u00e9duction simultan\u00e9e des \u00e9missions de CO2 de postcombustion, selon la m\u00e9thode actuellement la plus prometteuse utilisant le cycle carbonate d'ammonium - bicarbonate d'ammonium assist\u00e9 par contacteurs membranaires. L'int\u00e9r\u00eat des contacteurs membranaires sera : a) de confiner l'ammoniac en phase liquide tout en permettant l'absorption ou la d\u00e9sorption s\u00e9lective du dioxyde de carbone, b) d'\u00e9largir les plages op\u00e9ratoires du proc\u00e9d\u00e9 pour permettre un taux de captage de CO2 \u00e9lev\u00e9 (80-90%) sans perte significative d'ammoniac gazeux, induisant ainsi une r\u00e9duction des co\u00fbts \u00e9nerg\u00e9tiques et une simplification de la cha\u00eene de traitement , c) de r\u00e9g\u00e9n\u00e9rer la solution de carbonate dans des conditions favorables de temp\u00e9rature et/ou de pression, et d) de renforcer l'efficacit\u00e9 de la production d'\u00e9nergie en r\u00e9duisant le facteur carbone.",
+      "text": "L'ambition du projet est la conception et la mod\u00e9lisation d'une centrale thermique \u00e9nerg\u00e9tique la plus efficace possible int\u00e9grant la r\u00e9duction simultan\u00e9e des \u00e9missions de CO2 de postcombustion, selon la m\u00e9thode actuellement la plus prometteuse utilisant le cycle carbonate d'ammonium - bicarbonate d'ammonium assist\u00e9 par contacteurs membranaires. L'int\u00e9r\u00eat des contacteurs membranaires sera : a) de confiner l'ammoniac en phase liquide tout en permettant l'absorption ou la d\u00e9sorption s\u00e9lective du dioxyde de carbone, b) d'\u00e9largir les plages op\u00e9ratoires du proc\u00e9d\u00e9 pour permettre un taux de captage de CO2 \u00e9lev\u00e9 (80-90%) sans perte significative d'ammoniac gazeux, induisant ainsi une r\u00e9duction des co\u00fbts \u00e9nerg\u00e9tiques et une simplification de la cha\u00eene de traitement , c) de r\u00e9g\u00e9n\u00e9rer la solution de carbonate dans des conditions favorables de temp\u00e9rature et/ou de pression, et d) de renforcer l'efficacit\u00e9 de la production d'\u00e9nergie en r\u00e9duisant le facteur carbone."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 260.81,
+            "t": 767.6450629101563,
+            "r": 338.02,
+            "b": 755.8357210919745,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "Am\u00e9liE_C02",
+      "text": "Am\u00e9liE_C02",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 214.25,
+            "t": 95.59198291015628,
+            "r": 383.572,
+            "b": 87.51962931899607,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "S\u00e9minaire d'avancement des projets ANR",
+      "text": "S\u00e9minaire d'avancement des projets ANR"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 158.54,
+            "t": 74.83198291015628,
+            "r": 441.652,
+            "b": 56.439629318996026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "Programme Efficacit\u00e9 Energ\u00e9tique et r\u00e9duction des \u00e9missions de CO2 dans les Syst\u00e8mes Industriels, \u00e9dition 2009",
+      "text": "Programme Efficacit\u00e9 Energ\u00e9tique et r\u00e9duction des \u00e9missions de CO2 dans les Syst\u00e8mes Industriels, \u00e9dition 2009"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 251.81,
+            "t": 43.751982910156244,
+            "r": 345.892,
+            "b": 35.679629318996035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Lyon, 27 Octobre 2011",
+      "text": "Lyon, 27 Octobre 2011"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.824,
+            "t": 768.1839829101563,
+            "r": 187.1,
+            "b": 758.0905283647016,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Programme de travail",
+      "text": "Programme de travail",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.824,
+            "t": 754.8159829101563,
+            "r": 515.7839999999999,
+            "b": 661.6839829101564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            561
+          ]
+        }
+      ],
+      "orig": "La structuration scientifique du projet repose sur des besoins d'acquisition de connaissances fondamentales englobant les aspects mat\u00e9riaux et proc\u00e9d\u00e9s relay\u00e9 par un d\u00e9veloppement technologique initial visant \u00e0 qualifier la pertinence du concept de base et la faisabilit\u00e9 technique qui ouvrira la voie \u00e0 une int\u00e9gration innovante de la technologie de captage \u00e0 l'ammoniaque. Cette analyse fait ressortir une d\u00e9marche int\u00e9gr\u00e9e s'appuyant sur trois axes caract\u00e9ris\u00e9s par la production de connaissances, le d\u00e9veloppement technologique et l'innovation industrielle.",
+      "text": "La structuration scientifique du projet repose sur des besoins d'acquisition de connaissances fondamentales englobant les aspects mat\u00e9riaux et proc\u00e9d\u00e9s relay\u00e9 par un d\u00e9veloppement technologique initial visant \u00e0 qualifier la pertinence du concept de base et la faisabilit\u00e9 technique qui ouvrira la voie \u00e0 une int\u00e9gration innovante de la technologie de captage \u00e0 l'ammoniaque. Cette analyse fait ressortir une d\u00e9marche int\u00e9gr\u00e9e s'appuyant sur trois axes caract\u00e9ris\u00e9s par la production de connaissances, le d\u00e9veloppement technologique et l'innovation industrielle."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 70.824,
+            "t": 658.2159829101563,
+            "r": 504.46799999999985,
+            "b": 606.4839829101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            306
+          ]
+        }
+      ],
+      "orig": "Les travaux seront r\u00e9alis\u00e9s selon quatre t\u00e2ches compl\u00e9mentaires couvrant le domaine des mat\u00e9riaux membranaires, la fabrication de contacteurs membranaires, l'\u00e9tude du captage r\u00e9actif du dioxyde de carbone et l'int\u00e9gration des r\u00e9sultats pour la conception de centrales thermiques \u00e9nerg\u00e9tiquement optimis\u00e9es.",
+      "text": "Les travaux seront r\u00e9alis\u00e9s selon quatre t\u00e2ches compl\u00e9mentaires couvrant le domaine des mat\u00e9riaux membranaires, la fabrication de contacteurs membranaires, l'\u00e9tude du captage r\u00e9actif du dioxyde de carbone et l'int\u00e9gration des r\u00e9sultats pour la conception de centrales thermiques \u00e9nerg\u00e9tiquement optimis\u00e9es."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 214.25,
+            "t": 95.59198291015628,
+            "r": 383.572,
+            "b": 87.51962931899607,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "S\u00e9minaire d'avancement des projets ANR",
+      "text": "S\u00e9minaire d'avancement des projets ANR"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 158.54,
+            "t": 74.83198291015628,
+            "r": 441.652,
+            "b": 56.439629318996026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "Programme Efficacit\u00e9 Energ\u00e9tique et r\u00e9duction des \u00e9missions de CO2 dans les Syst\u00e8mes Industriels, \u00e9dition 2009",
+      "text": "Programme Efficacit\u00e9 Energ\u00e9tique et r\u00e9duction des \u00e9missions de CO2 dans les Syst\u00e8mes Industriels, \u00e9dition 2009"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 251.81,
+            "t": 43.751982910156244,
+            "r": 345.892,
+            "b": 35.679629318996035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Lyon, 27 Octobre 2011",
+      "text": "Lyon, 27 Octobre 2011"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.8,
+            "t": 521.5840073242188,
+            "r": 172.58,
+            "b": 511.4905527787642,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "ILLUSTRATIONS",
+      "text": "ILLUSTRATIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 70.8,
+            "t": 328.2407273242187,
+            "r": 194.39000000000001,
+            "b": 318.1213673242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Figure 1 : Cellule de Lewis",
+      "text": "Figure 1 : Cellule de Lewis"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 82.15276169424,
+            "t": 335.8875639490687,
+            "r": 119.47759121142,
+            "b": 332.1979133736187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Sonde Pt100",
+      "text": "Sonde Pt100"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 117.43862034995999,
+            "t": 336.8482592758687,
+            "r": 124.01399975526002,
+            "b": 333.1550026132163,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "\uf057\uf020",
+      "text": "\uf057\uf020"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 182.35993517550003,
+            "t": 350.7055395775687,
+            "r": 195.97031903898866,
+            "b": 347.7094323433687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Aiguil",
+      "text": "Aiguil"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 182.35993517550003,
+            "t": 346.51684462756873,
+            "r": 185.25667332906866,
+            "b": 343.52073739336873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "ll",
+      "text": "ll"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 195.72786248022,
+            "t": 350.7055395775687,
+            "r": 199.34733738222002,
+            "b": 347.7094323433687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "e",
+      "text": "e"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 174.97620637542002,
+            "t": 356.8071818275687,
+            "r": 193.31487921222,
+            "b": 353.8110745933687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Septum",
+      "text": "Septum"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 154.16422568892,
+            "t": 416.4183026688187,
+            "r": 168.50941121718,
+            "b": 413.4221954346187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Phase",
+      "text": "Phase"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 153.19903238172003,
+            "t": 412.4549836938187,
+            "r": 170.15023983942,
+            "b": 409.4588764596187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "vapeur",
+      "text": "vapeur"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.75273576443999,
+            "t": 403.2530475438187,
+            "r": 141.08585637636003,
+            "b": 400.2569403096187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Phase",
+      "text": "Phase"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 125.64276346116,
+            "t": 399.29522554381873,
+            "r": 142.29234801036,
+            "b": 396.29911830961873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "liquide",
+      "text": "liquide"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 192.39794557038,
+            "t": 377.7858811933687,
+            "r": 236.72042656476003,
+            "b": 374.5400983563187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Double enveloppe",
+      "text": "Double enveloppe"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 199.0095197247,
+            "t": 373.4322769933687,
+            "r": 231.79794069804,
+            "b": 370.1864941563187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "thermostat\u00e9e",
+      "text": "thermostat\u00e9e"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 73.272983268,
+            "t": 465.1050102438187,
+            "r": 98.03019159768,
+            "b": 462.1089030096187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "R\u00e9sistance",
+      "text": "R\u00e9sistance"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 73.41776226408,
+            "t": 460.7514060438187,
+            "r": 98.46452858592,
+            "b": 457.7552988096187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "chauffante",
+      "text": "chauffante"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 128.87616104028,
+            "t": 353.44055948881874,
+            "r": 159.4969187112,
+            "b": 349.75090891336873,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Agitateur",
+      "text": "Agitateur"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 125.64276346116,
+            "t": 347.0750624388187,
+            "r": 163.50247093608002,
+            "b": 343.3854118633687,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "magn\u00e9tique",
+      "text": "magn\u00e9tique"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 198.67170206718,
+            "t": 424.20508658086874,
+            "r": 223.35249926004002,
+            "b": 420.95930374381874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Agitateur",
+      "text": "Agitateur"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 195.82438181094,
+            "t": 420.2802464308687,
+            "r": 225.47592453587998,
+            "b": 417.0344635938187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "magn\u00e9tique",
+      "text": "magn\u00e9tique"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 152.33035840524002,
+            "t": 386.7154202442187,
+            "r": 170.68109615838,
+            "b": 383.94124687921874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Barreau",
+      "text": "Barreau"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 152.33035840524002,
+            "t": 383.05443489421873,
+            "r": 170.10198017406003,
+            "b": 380.2802615292187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "aimant\u00e9",
+      "text": "aimant\u00e9"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 141.5201933646,
+            "t": 489.0690947442187,
+            "r": 164.50385899230002,
+            "b": 486.2949213792187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Enveloppe",
+      "text": "Enveloppe"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 139.54154708484,
+            "t": 484.9133816442187,
+            "r": 167.3994389139,
+            "b": 482.1392082792187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "thermostat\u00e9e",
+      "text": "thermostat\u00e9e"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 80.17411541448,
+            "t": 498.0596502175687,
+            "r": 113.20383471462,
+            "b": 494.3699996421187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Acquisition",
+      "text": "Acquisition"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 89.9225678172,
+            "t": 492.8732543050687,
+            "r": 100.464891715092,
+            "b": 489.18360372961865,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "des",
+      "text": "des"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 84.56574496224,
+            "t": 487.2333579550687,
+            "r": 108.331217168772,
+            "b": 483.5437073796187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "donn\u00e9es",
+      "text": "donn\u00e9es"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 136.83900582468,
+            "t": 479.3232549058687,
+            "r": 158.33868674256001,
+            "b": 476.0774720688187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Capteur",
+      "text": "Capteur"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 136.83900582468,
+            "t": 476.2889247058687,
+            "r": 160.12429436088001,
+            "b": 473.0431418688187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Pression",
+      "text": "Pression"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 212.38549030698005,
+            "t": 487.5961583050687,
+            "r": 232.8113936706,
+            "b": 483.90650772961874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Pompe",
+      "text": "Pompe"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 218.12839048482,
+            "t": 484.3639370050687,
+            "r": 222.96642193716002,
+            "b": 480.6742864296187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "\u00e0",
+      "text": "\u00e0"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 212.2407113109,
+            "t": 479.94436910506874,
+            "r": 225.28288587444,
+            "b": 476.2547185296187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "vide",
+      "text": "vide"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 161.31872107854002,
+            "t": 497.7233342931187,
+            "r": 165.08181674465138,
+            "b": 494.6564180253187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "V",
+      "text": "V"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 165.08297497662,
+            "t": 497.6663416563187,
+            "r": 179.94695190750002,
+            "b": 494.6702344221187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "olume",
+      "text": "olume"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 159.24355546806,
+            "t": 493.7744833563187,
+            "r": 178.78871993886003,
+            "b": 490.77837612211874,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "variable",
+      "text": "variable"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 127.71792907164,
+            "t": 435.1712548692187,
+            "r": 146.05660190844,
+            "b": 432.3970815042187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Barreau",
+      "text": "Barreau"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 152.52339706668,
+            "t": 434.6105634192187,
+            "r": 170.2950188355,
+            "b": 431.8363900542187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "aimant\u00e9",
+      "text": "aimant\u00e9"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 319.01,
+            "t": 329.2922873242187,
+            "r": 441.76,
+            "b": 320.7167273242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Figure 2 : Absorption de CO2",
+      "text": "Figure 2 : Absorption de CO2"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 109.34,
+            "t": 141.6822873242187,
+            "r": 274.62403999999987,
+            "b": 133.1067273242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Figure 4 : Modification de fibres creuses",
+      "text": "Figure 4 : Modification de fibres creuses"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 518.23,
+            "t": 329.2922873242187,
+            "r": 716.59,
+            "b": 309.1967273242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "Figure 3 : Variation d'enthalpie de r\u00e9g\u00e9n\u00e9ration selon le taux de CO2",
+      "text": "Figure 3 : Variation d'enthalpie de r\u00e9g\u00e9n\u00e9ration selon le taux de CO2"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 326.69,
+            "t": 141.6822873242187,
+            "r": 489.16,
+            "b": 133.1067273242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "Figure 5 : Appareillage de temps retard",
+      "text": "Figure 5 : Appareillage de temps retard"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 513.55,
+            "t": 141.6822873242187,
+            "r": 706.39,
+            "b": 133.1067273242187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Figure 4 : Appareillage de mesures de sorption",
+      "text": "Figure 4 : Appareillage de mesures de sorption"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 337.49,
+            "t": 95.61600732421869,
+            "r": 506.812,
+            "b": 87.54365373305848,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "S\u00e9minaire d'avancement des projets ANR",
+      "text": "S\u00e9minaire d'avancement des projets ANR"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 281.81,
+            "t": 74.8560073242187,
+            "r": 564.8919999999999,
+            "b": 56.463653733058436,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "Programme Efficacit\u00e9 Energ\u00e9tique et r\u00e9duction des \u00e9missions de CO2 dans les Syst\u00e8mes Industriels, \u00e9dition 2009",
+      "text": "Programme Efficacit\u00e9 Energ\u00e9tique et r\u00e9duction des \u00e9missions de CO2 dans les Syst\u00e8mes Industriels, \u00e9dition 2009"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 375.17,
+            "t": 43.776007324218654,
+            "r": 469.252,
+            "b": 35.703653733058445,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Lyon, 27 Octobre 2011",
+      "text": "Lyon, 27 Octobre 2011"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.824,
+            "t": 754.3839829101563,
+            "r": 361.63,
+            "b": 744.2905283647017,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "PUBLICATIONS - COMMUNICATIONS MAJEURES",
+      "text": "PUBLICATIONS - COMMUNICATIONS MAJEURES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.824,
+            "t": 340.4539829101563,
+            "r": 132.26,
+            "b": 330.36052836470174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "BREVETS",
+      "text": "BREVETS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.824,
+            "t": 327.2607029101563,
+            "r": 209.81,
+            "b": 317.75526291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Etude de brevetabilit\u00e9 en cours",
+      "text": "Etude de brevetabilit\u00e9 en cours"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.824,
+            "t": 300.2539829101563,
+            "r": 190.22,
+            "b": 290.1605283647018,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "FAITS MARQUANTS",
+      "text": "FAITS MARQUANTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.824,
+            "t": 274.13598291015626,
+            "r": 453.76,
+            "b": 262.90926291015626,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "Identification de polym\u00e8res ayant des perms\u00e9lectivit\u00e9s pour le couple CO2/NH3",
+      "text": "Identification de polym\u00e8res ayant des perms\u00e9lectivit\u00e9s pour le couple CO2/NH3"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.824,
+            "t": 246.71070291015633,
+            "r": 326.69,
+            "b": 237.2052629101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "NB : Pas de communication souhait\u00e9e \u00e0 ce niveau",
+      "text": "NB : Pas de communication souhait\u00e9e \u00e0 ce niveau"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.824,
+            "t": 219.70398291015636,
+            "r": 232.25,
+            "b": 209.61052836470174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "RETOMBEES PREVISIBLES",
+      "text": "RETOMBEES PREVISIBLES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.824,
+            "t": 193.79070291015626,
+            "r": 89.424,
+            "b": 184.28526291015623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "NA",
+      "text": "NA"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.824,
+            "t": 166.78398291015628,
+            "r": 248.21,
+            "b": 156.69052836470178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "VERROUS RESTANT A LEVER",
+      "text": "VERROUS RESTANT A LEVER",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 70.824,
+            "t": 139.61598291015628,
+            "r": 500.38,
+            "b": 129.28398291015628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "Caract\u00e9risation et mod\u00e9lisation du captage des modules en absorption et en r\u00e9g\u00e9n\u00e9ration.",
+      "text": "Caract\u00e9risation et mod\u00e9lisation du captage des modules en absorption et en r\u00e9g\u00e9n\u00e9ration."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 214.25,
+            "t": 95.59198291015628,
+            "r": 383.572,
+            "b": 87.51962931899607,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "S\u00e9minaire d'avancement des projets ANR",
+      "text": "S\u00e9minaire d'avancement des projets ANR"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 158.54,
+            "t": 74.83198291015628,
+            "r": 441.652,
+            "b": 56.439629318996026,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            110
+          ]
+        }
+      ],
+      "orig": "Programme Efficacit\u00e9 Energ\u00e9tique et r\u00e9duction des \u00e9missions de CO2 dans les Syst\u00e8mes Industriels, \u00e9dition 2009",
+      "text": "Programme Efficacit\u00e9 Energ\u00e9tique et r\u00e9duction des \u00e9missions de CO2 dans les Syst\u00e8mes Industriels, \u00e9dition 2009"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 251.81,
+            "t": 43.751982910156244,
+            "r": 345.892,
+            "b": 35.679629318996035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Lyon, 27 Octobre 2011",
+      "text": "Lyon, 27 Octobre 2011"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.12125015258789,
+            "t": 96.90118408203125,
+            "r": 93.80714416503906,
+            "b": 43.9228515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 482.7032165527344,
+            "t": 91.86151123046875,
+            "r": 578.6038208007812,
+            "b": 51.26959228515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 42.30889892578125,
+            "t": 96.97259521484375,
+            "r": 93.81378936767578,
+            "b": 44.021484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 482.87298583984375,
+            "t": 92.0997314453125,
+            "r": 578.6328125,
+            "b": 51.32232666015625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 66.0254135131836,
+            "t": 510.8342971801758,
+            "r": 252.40931701660156,
+            "b": 332.4250793457031,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 262.3185119628906,
+            "t": 510.6668701171875,
+            "r": 485.0972595214844,
+            "b": 339.13116455078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 64.6124038696289,
+            "t": 294.6831359863281,
+            "r": 320.04437255859375,
+            "b": 133.12319946289062,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 41.58523941040039,
+            "t": 97.14620971679688,
+            "r": 93.90935516357422,
+            "b": 44.23590087890625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 335.9335021972656,
+            "t": 294.08648681640625,
+            "r": 476.8199768066406,
+            "b": 146.62109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 496.79840087890625,
+            "t": 510.9149627685547,
+            "r": 751.1558837890625,
+            "b": 338.1159362792969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 498.5633239746094,
+            "t": 293.36273193359375,
+            "r": 716.6253051757812,
+            "b": 145.5634765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 484.1138610839844,
+            "t": 92.74481201171875,
+            "r": 579.4110717773438,
+            "b": 52.15423583984375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.11817932128906,
+            "t": 96.8621826171875,
+            "r": 93.79144287109375,
+            "b": 43.98333740234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 482.75537109375,
+            "t": 91.9329833984375,
+            "r": 578.6238403320312,
+            "b": 51.29339599609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.51150512695312,
+            "t": 529.5933837890625,
+            "r": 526.3916625976562,
+            "b": 498.7532653808594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 81.384,
+              "t": 315.19927999999993,
+              "r": 202.94544000000002,
+              "b": 324.70471999999995,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Budget total du projet (M\u20ac)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 248.33,
+              "t": 315.19927999999993,
+              "r": 343.4309599999999,
+              "b": 324.70471999999995,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "dont Aide ANR (M\u20ac)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 394.75,
+              "t": 315.19927999999993,
+              "r": 503.97996,
+              "b": 324.70471999999995,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Nombre de personnes.an",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 131.42,
+              "t": 330.17287999999996,
+              "r": 180.39343999999997,
+              "b": 340.0749670718232,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "1 468 285",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 277.49,
+              "t": 332.45287999999994,
+              "r": 317.35544,
+              "b": 342.3549670718232,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "838 237",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 440.11,
+              "t": 332.33287999999993,
+              "r": 458.48832000000004,
+              "b": 342.2349670718232,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "197",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 2,
+        "num_cols": 3,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 81.384,
+                "t": 315.19927999999993,
+                "r": 202.94544000000002,
+                "b": 324.70471999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Budget total du projet (M\u20ac)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 248.33,
+                "t": 315.19927999999993,
+                "r": 343.4309599999999,
+                "b": 324.70471999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "dont Aide ANR (M\u20ac)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 394.75,
+                "t": 315.19927999999993,
+                "r": 503.97996,
+                "b": 324.70471999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Nombre de personnes.an",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 131.42,
+                "t": 330.17287999999996,
+                "r": 180.39343999999997,
+                "b": 340.0749670718232,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "1 468 285",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 277.49,
+                "t": 332.45287999999994,
+                "r": 317.35544,
+                "b": 342.3549670718232,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "838 237",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 440.11,
+                "t": 332.33287999999993,
+                "r": 458.48832000000004,
+                "b": 342.2349670718232,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "197",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.34485626220703,
+            "t": 717.0891418457031,
+            "r": 530.1842651367188,
+            "b": 370.7277526855469,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 136.7,
+              "t": 131.0293999999999,
+              "r": 458.4361999999998,
+              "b": 138.44683999999995,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 3,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 3,
+            "text": "Liste des publications monopartenaires (impliquant un seul partenaire)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 70.824,
+              "t": 220.66939999999988,
+              "r": 130.53708,
+              "b": 228.08683999999994,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 3,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "International",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 141.38,
+              "t": 144.94939999999986,
+              "r": 228.8793200000001,
+              "b": 162.08683999999994,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Revues \u00e0 comit\u00e9 de lecture",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 262.37,
+              "t": 144.70939999999996,
+              "r": 519.1636399999998,
+              "b": 189.68683999999996,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1. Toro-Molina, C., Rivera-Tinoco, R., Bouallou C., Adaptive Random Search Method + Genetic Algorithms for reaction kinetics modeling : CO 2 absorption systems, Chemical Engineering Transactions, Volume 25, 2011, Pages 19-24 2.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 141.38,
+              "t": 192.46939999999995,
+              "r": 242.46692000000004,
+              "b": 209.60683999999992,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Ouvrages ou chapitres d'ouvrage",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 141.38,
+              "t": 212.5093999999999,
+              "r": 216.1922,
+              "b": 229.64684,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Communications (conf\u00e9rence)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 262.37,
+              "t": 212.2693999999999,
+              "r": 522.8097199999994,
+              "b": 293.80953454545454,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1. Carol Toro Molina, Chakib Bouallou \u00ab Comparison of ammonia, monoethanolamine and methyldiethanolamine solvents to capture CO 2 \u00bb 2010 AIChE Annual Meeting: Salt Lake City, UT, November 7- 12, 2010. 2. Carol Toro Molina, Rodrigo Rivera Tinoco, Chakib Bouallou \u00ab Adaptive Random Search Method + Genetic Algorithms for Reaction Kinetics Modelling: CO 2 Absorption Systems\u00bb 14th International Conference on Process Integration, Modelling and Optimisation for Energy Saving and Pollution Reduction 8-11 May 2011 Florence, Italy.",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 70.824,
+              "t": 349.9394,
+              "r": 101.22323999999999,
+              "b": 357.35684,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 3,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "France",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 141.38,
+              "t": 306.6193999999999,
+              "r": 228.8793200000001,
+              "b": 323.75684,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Revues \u00e0 comit\u00e9 de lecture",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 141.38,
+              "t": 326.6593999999999,
+              "r": 242.46692000000004,
+              "b": 343.79684,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Ouvrages ou chapitres d'ouvrage",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 141.38,
+              "t": 346.57939999999996,
+              "r": 216.24920000000003,
+              "b": 363.71683999999993,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Communications (conf\u00e9rence)",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 262.37,
+              "t": 346.33939999999996,
+              "r": 523.3204,
+              "b": 400.3695345454545,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1. Carol Toro Molina, Chakib Bouallou \u00ab Absorption de CO 2 par une solution aqueuse d'ammoniaque \u00bb 6 \u00e8me Colloque Franco-Roumain de Chimie Appliqu\u00e9e (COFrRoCA), 7-10 juillet 2010, Orl\u00e9ans-France 2. MEMPRO4, Aix-enProvence, 6-8/10/2010, \u00ab Approche pr\u00e9dictive de la s\u00e9paration NH3/H2O \u00e0 l'aide de membranes polym\u00e8res denses \u00bb, C. Makhloufi, B. Belaissaoui, E. Favre, D. Roizard",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 70.824,
+              "t": 428.19939999999997,
+              "r": 117.75348,
+              "b": 445.33683999999994,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 3,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Actions de diffusion",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 141.38,
+              "t": 403.35939999999994,
+              "r": 200.34536000000003,
+              "b": 420.49683999999996,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Articles de vulgarisation",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 141.38,
+              "t": 433.1194,
+              "r": 210.58852000000002,
+              "b": 450.25683999999995,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Conf\u00e9rences de vulgarisation",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 141.38,
+              "t": 453.03939999999994,
+              "r": 171.10387999999998,
+              "b": 460.45683999999994,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 9,
+            "end_row_offset_idx": 10,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Autres",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 10,
+        "num_cols": 3,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 136.7,
+                "t": 131.0293999999999,
+                "r": 458.4361999999998,
+                "b": 138.44683999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 3,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 3,
+              "text": "Liste des publications monopartenaires (impliquant un seul partenaire)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 136.7,
+                "t": 131.0293999999999,
+                "r": 458.4361999999998,
+                "b": 138.44683999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 3,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 3,
+              "text": "Liste des publications monopartenaires (impliquant un seul partenaire)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 136.7,
+                "t": 131.0293999999999,
+                "r": 458.4361999999998,
+                "b": 138.44683999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 3,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 3,
+              "text": "Liste des publications monopartenaires (impliquant un seul partenaire)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 70.824,
+                "t": 220.66939999999988,
+                "r": 130.53708,
+                "b": 228.08683999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "International",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 141.38,
+                "t": 144.94939999999986,
+                "r": 228.8793200000001,
+                "b": 162.08683999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Revues \u00e0 comit\u00e9 de lecture",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 262.37,
+                "t": 144.70939999999996,
+                "r": 519.1636399999998,
+                "b": 189.68683999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1. Toro-Molina, C., Rivera-Tinoco, R., Bouallou C., Adaptive Random Search Method + Genetic Algorithms for reaction kinetics modeling : CO 2 absorption systems, Chemical Engineering Transactions, Volume 25, 2011, Pages 19-24 2.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 70.824,
+                "t": 220.66939999999988,
+                "r": 130.53708,
+                "b": 228.08683999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "International",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 141.38,
+                "t": 192.46939999999995,
+                "r": 242.46692000000004,
+                "b": 209.60683999999992,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Ouvrages ou chapitres d'ouvrage",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 70.824,
+                "t": 220.66939999999988,
+                "r": 130.53708,
+                "b": 228.08683999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "International",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 141.38,
+                "t": 212.5093999999999,
+                "r": 216.1922,
+                "b": 229.64684,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Communications (conf\u00e9rence)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 262.37,
+                "t": 212.2693999999999,
+                "r": 522.8097199999994,
+                "b": 293.80953454545454,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1. Carol Toro Molina, Chakib Bouallou \u00ab Comparison of ammonia, monoethanolamine and methyldiethanolamine solvents to capture CO 2 \u00bb 2010 AIChE Annual Meeting: Salt Lake City, UT, November 7- 12, 2010. 2. Carol Toro Molina, Rodrigo Rivera Tinoco, Chakib Bouallou \u00ab Adaptive Random Search Method + Genetic Algorithms for Reaction Kinetics Modelling: CO 2 Absorption Systems\u00bb 14th International Conference on Process Integration, Modelling and Optimisation for Energy Saving and Pollution Reduction 8-11 May 2011 Florence, Italy.",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 70.824,
+                "t": 349.9394,
+                "r": 101.22323999999999,
+                "b": 357.35684,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "France",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 141.38,
+                "t": 306.6193999999999,
+                "r": 228.8793200000001,
+                "b": 323.75684,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Revues \u00e0 comit\u00e9 de lecture",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 70.824,
+                "t": 349.9394,
+                "r": 101.22323999999999,
+                "b": 357.35684,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "France",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 141.38,
+                "t": 326.6593999999999,
+                "r": 242.46692000000004,
+                "b": 343.79684,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Ouvrages ou chapitres d'ouvrage",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 70.824,
+                "t": 349.9394,
+                "r": 101.22323999999999,
+                "b": 357.35684,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "France",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 141.38,
+                "t": 346.57939999999996,
+                "r": 216.24920000000003,
+                "b": 363.71683999999993,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Communications (conf\u00e9rence)",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 262.37,
+                "t": 346.33939999999996,
+                "r": 523.3204,
+                "b": 400.3695345454545,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1. Carol Toro Molina, Chakib Bouallou \u00ab Absorption de CO 2 par une solution aqueuse d'ammoniaque \u00bb 6 \u00e8me Colloque Franco-Roumain de Chimie Appliqu\u00e9e (COFrRoCA), 7-10 juillet 2010, Orl\u00e9ans-France 2. MEMPRO4, Aix-enProvence, 6-8/10/2010, \u00ab Approche pr\u00e9dictive de la s\u00e9paration NH3/H2O \u00e0 l'aide de membranes polym\u00e8res denses \u00bb, C. Makhloufi, B. Belaissaoui, E. Favre, D. Roizard",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 70.824,
+                "t": 428.19939999999997,
+                "r": 117.75348,
+                "b": 445.33683999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Actions de diffusion",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 141.38,
+                "t": 403.35939999999994,
+                "r": 200.34536000000003,
+                "b": 420.49683999999996,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Articles de vulgarisation",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 70.824,
+                "t": 428.19939999999997,
+                "r": 117.75348,
+                "b": 445.33683999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Actions de diffusion",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 141.38,
+                "t": 433.1194,
+                "r": 210.58852000000002,
+                "b": 450.25683999999995,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Conf\u00e9rences de vulgarisation",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 70.824,
+                "t": 428.19939999999997,
+                "r": 117.75348,
+                "b": 445.33683999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 3,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Actions de diffusion",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 141.38,
+                "t": 453.03939999999994,
+                "r": 171.10387999999998,
+                "b": 460.45683999999994,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Autres",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 9,
+              "end_row_offset_idx": 10,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 841.9199829101562,
+        "height": 595.3200073242188
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.3200073242188,
+        "height": 841.9199829101562
+      },
+      "page_no": 4
+    }
+  }
+}

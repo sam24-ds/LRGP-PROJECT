@@ -1,0 +1,81 @@
+Tu es un expert en génie des procédés et séparation membranaire au LRGP Nancy.
+À partir du contexte scientifique ci-dessous extrait du corpus du laboratoire,
+génère exactement 8 questions de benchmark de qualité scientifique.
+
+Contraintes strictes :
+- Baser les questions UNIQUEMENT sur les informations présentes dans le contexte
+- Types demandés : CALCUL, FACTUEL
+- Pour les CALCUL : inclure toutes les données numériques nécessaires dans la question
+- Pour les FACTUEL : question précise avec réponse vérifiable dans le contexte
+- Priorité aux niveaux N2 et N3, quelques N4
+- Réponses complètes avec valeurs numériques et unités
+
+Réponds UNIQUEMENT avec un tableau JSON valide sans texte avant ni après :
+[
+  {
+    "question": "...",
+    "answer": "...",
+    "type": "CALCUL|FACTUEL|COMPARAISON",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N1|N2|N3|N4"
+  }
+]
+
+Contexte scientifique :
+[Doc 1 — Source: These_AMANN]
+En ce qui concerne le solvant développé dans cette étude, les résultats expérimentaux ont montré que le mélange d'amines MDEA et TETA était t rès intéressante. La TETA, qui est une tétramine,  a  une  grande  capacité  d'absorption  par  r apport  à  la  MEA.  Elle  permet  donc d'accélérer le flux d'absorption du CO 2 même lorsque le taux de charge en CO 2 augmente. Les simulations utilisant ce procédé ont montré des rés ultats prometteurs par rapport à autres options étudiées.
+
+---
+
+[Doc 2 — Source: Thèse_Molina_CO2 postcomb]
+Le couplage de l'absorption et d'un contacteur membranaire pour le captage de CO 2 se réalise depuis les années 90 . Le premier solvant employé a été l'eau et ensuite ont été employés des solvants chimiques comme la MEA , la MDEA et la DEA . L'usage de l'ammoniaque pour capter le CO 2 à travers un contacteur membranaire n'a pas été utilisé jusqu'à présent. Pour bien coupler ces deux méthodes, il faut
+
+---
+
+[Doc 3 — Source: Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA]
+Le couplage de l'absorption et d'un contacteur membranaire pour le captage de CO 2 se réalise depuis les années 90 . Le premier solvant employé a été l'eau et ensuite ont été employés des solvants chimiques comme la MEA , la MDEA et la DEA . L'usage de l'ammoniaque pour capter le CO 2 à travers un contacteur membranaire n'a pas été utilisé jusqu'à présent. Pour bien coupler ces deux méthodes, il faut
+
+---
+
+[Doc 4 — Source: 1-s2.0-S1383586619349020-main]
+Fig. 6. CO2 rich solvent loading (mol CO2/mol MEA) in the 30 wt% MEA solution exiting the membrane contactor module undertaking solvent absorption.
+
+---
+
+[Doc 5 — Source: 2020 Scholes_Contactor_Pilot_plant_paper_revised_2_240115_165610]
+Figure  6: CO2  rich  solvent  loading  (mol  CO2/mol  MEA)  in  the  30  wt%  MEA  solution  exiting  the membrane contactor module undertaking solvent absorption.
+
+---
+
+[Doc 6 — Source: Thèse_Molina_CO2 postcomb]
+Lu et al. [60] ont examiné l'absorption à travers une membrane pour le captage de CO 2 dans un contacteur de fibres creuses de PP . Ils ont employé deux solutions pour absorber le CO 2 , une solution aqueuse de MDEA et une solution de MDEA activée avec PZ . Leurs résultats ont montré que l'utilisation d'un contacteur membranaire avec des alcanolamines telles que la MDEA activée avec PZ peut être complètement appliquée au captage du CO 2 . D'ailleurs, l'absorption de CO 2 avec la MDEA activée était remarquablement plus élevée que celle avec la MDEA seule.
+
+---
+
+[Doc 7 — Source: Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA]
+Lu et al. [60] ont examiné l'absorption à travers une membrane pour le captage de CO 2 dans un contacteur de fibres creuses de PP . Ils ont employé deux solutions pour absorber le CO 2 , une solution aqueuse de MDEA et une solution de MDEA activée avec PZ . Leurs résultats ont montré que l'utilisation d'un contacteur membranaire avec des alcanolamines telles que la MDEA activée avec PZ peut être complètement appliquée au captage du CO 2 . D'ailleurs, l'absorption de CO 2 avec la MDEA activée était remarquablement plus élevée que celle avec la MDEA seule.
+
+---
+
+[Doc 8 — Source: CES 2012 revised manuscript_docx]
+This study intended to achieve a critical comparative analysis of modeling strategies for CO 2 capture by absorption in MEA thanks to membrane contactors. The conclusions can be summarized as follows:
+
+---
+
+[Doc 9 — Source: CES 2012 revised manuscript_docx]
+This study intended to achieve a critical comparative analysis of modeling strategies for CO 2 capture by absorption in MEA thanks to membrane contactors. The conclusions can be summarized as follows:
+
+---
+
+[Doc 10 — Source: These_AMANN]
+Dans cette optique, des mesures préliminaires d'abs orption du CO2 avec différentes amines ont amené à proposer un solvant aqueux à base du mé lange MDEA-TETA. Ce solvant permet d'augmenter la vitesse d'absorption du CO2 en comparaison avec un solvant à base de MDEA. Ce gain au niveau de la réactivité permet, en plus, de limiter le débit de solvant et de réduire la consommation énergétique au moment de la régénérati on du solvant.
+
+---
+
+[Doc 11 — Source: Chabanon_2013_CES]
+This study intended to achieve a critical comparative analysis of modeling strategies for CO2 capture by absorption in MEA thanks to membrane contactors. The conclusions can be summarized as follows:
+
+---
+
+[Doc 12 — Source: 1-s2.0-S0009250912005787-main]
+This study intended to achieve a critical comparative analysis of modeling strategies for CO2 capture by absorption in MEA thanks to membrane contactors. The conclusions can be summarized as follows:

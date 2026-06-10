@@ -1,0 +1,2793 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1-s2.0-S0011916406000865-main",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 40824079276076365,
+    "filename": "1-s2.0-S0011916406000865-main.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/groups/3"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 202.956,
+            "t": 644.1795950585938,
+            "r": 341.2150000000002,
+            "b": 632.0025950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Desalination 189 (2006) 165-169",
+      "text": "Desalination 189 (2006) 165-169"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.796,
+            "t": 586.9710950585937,
+            "r": 466.449825,
+            "b": 546.5985950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Pilot test of vacuum membrane distillation for seawater desalination on a ship",
+      "text": "Pilot test of vacuum membrane distillation for seawater desalination on a ship",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 178.236,
+            "t": 523.5270950585938,
+            "r": 366.04799999999966,
+            "b": 508.58259505859377,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Ying Xu, Bao-ku Zhu, You-yi Xu*",
+      "text": "Ying Xu, Bao-ku Zhu, You-yi Xu*"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 116.556,
+            "t": 501.36309505859373,
+            "r": 427.62019999999995,
+            "b": 479.44659505859374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            136
+          ]
+        }
+      ],
+      "orig": "Institute of Polymer Science, Zhejiang University, Hang Zhou 310027, P .R. China Tel./Fax +86 (571) 87953011; email: opl-yyxu@zju.edu.cn",
+      "text": "Institute of Polymer Science, Zhejiang University, Hang Zhou 310027, P .R. China Tel./Fax +86 (571) 87953011; email: opl-yyxu@zju.edu.cn"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 165.036,
+            "t": 466.6485950585938,
+            "r": 379.1437000000001,
+            "b": 455.57859505859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Received 23 November 2004; accepted 20 June 2005",
+      "text": "Received 23 November 2004; accepted 20 June 2005"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 45.275999999999996,
+            "t": 411.3285950585938,
+            "r": 82.717,
+            "b": 400.25859505859376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 45.275999999999996,
+            "t": 393.6885950585938,
+            "r": 498.9112000000004,
+            "b": 334.6185950585937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            514
+          ]
+        }
+      ],
+      "orig": "In this paper, a pilot vacuum membrane distillation device, using polypropylene hollow fiber, was designed and installed on a seagoing vessel to investigate the operating conditions. During operation, the incoming seawater was heated by the waste-heat generated from the vessel engine. It was found that this device could reach a desalting degree of 99.99% and a membrane flux of 5.4 kg/m 2 h at 55\u00b0C and -0.093 Mpa. The results obtained from this pilot test are in accord with the previous lab experiment results.",
+      "text": "In this paper, a pilot vacuum membrane distillation device, using polypropylene hollow fiber, was designed and installed on a seagoing vessel to investigate the operating conditions. During operation, the incoming seawater was heated by the waste-heat generated from the vessel engine. It was found that this device could reach a desalting degree of 99.99% and a membrane flux of 5.4 kg/m 2 h at 55\u00b0C and -0.093 Mpa. The results obtained from this pilot test are in accord with the previous lab experiment results."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 45.27600000000001,
+            "t": 328.0485950585938,
+            "r": 467.75199999999836,
+            "b": 316.9785950585937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "Keywords: Vacuum membrane distillation; Polypropylene hollow fiber; Pilot test; Seawater; Desalination",
+      "text": "Keywords: Vacuum membrane distillation; Polypropylene hollow fiber; Pilot test; Seawater; Desalination"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 45.276,
+            "t": 280.21959505859377,
+            "r": 115.83000000000003,
+            "b": 268.0425950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 45.276,
+            "t": 261.7395950585938,
+            "r": 258.01380000000023,
+            "b": 108.79889505859376,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            571
+          ]
+        }
+      ],
+      "orig": "During the last twenty years, an increasing number of studies have been made on hydrophilic microporous membranes in seawater desalination. Among these studies, the primary one was membrane distillation (MD). It is believed to have a great potential due to low energy requirements and low operational pressure as well as high construction  compactness  in  several  cases.  It  can achieve a desalting efficiency of 100%, while the reverse osmosis process (RO) can only reach a desalting efficiency of 95-98%. Compared with other membrane processes, an outstanding advan-",
+      "text": "During the last twenty years, an increasing number of studies have been made on hydrophilic microporous membranes in seawater desalination. Among these studies, the primary one was membrane distillation (MD). It is believed to have a great potential due to low energy requirements and low operational pressure as well as high construction  compactness  in  several  cases.  It  can achieve a desalting efficiency of 100%, while the reverse osmosis process (RO) can only reach a desalting efficiency of 95-98%. Compared with other membrane processes, an outstanding advan-"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 45.276,
+            "t": 90.80859505859371,
+            "r": 140.29810000000003,
+            "b": 79.73859505859377,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "*Corresponding author.",
+      "text": "*Corresponding author."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.8149,
+            "t": 56.68887795859371,
+            "r": 163.5376782999999,
+            "b": 48.79193777146088,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "doi:10.1016/j.desal.2005.06.024",
+      "text": "doi:10.1016/j.desal.2005.06.024"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 286.3564,
+            "t": 280.4560950585938,
+            "r": 499.05537000000027,
+            "b": 114.6750950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            606
+          ]
+        }
+      ],
+      "orig": "tage of MD is that it can concentrate the water solution of a non-volatile solute to an extremely high concentration, even to the supersaturated state. However, RO can hardly be used to concentrate  high  concentration  solutions,  because  RO relates  to  the  solution's  osmotic  pressure;  the higher the concentration is, the higher the osmotic pressure. MD is not related to osmotic pressure; it can concentrate a solution as long as there is enough of  a  temperature  difference  and  the membrane has sufficient integrity. Moreover, MD has a higher flux than RO when the concentration is high [1].",
+      "text": "tage of MD is that it can concentrate the water solution of a non-volatile solute to an extremely high concentration, even to the supersaturated state. However, RO can hardly be used to concentrate  high  concentration  solutions,  because  RO relates  to  the  solution's  osmotic  pressure;  the higher the concentration is, the higher the osmotic pressure. MD is not related to osmotic pressure; it can concentrate a solution as long as there is enough of  a  temperature  difference  and  the membrane has sufficient integrity. Moreover, MD has a higher flux than RO when the concentration is high [1]."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 286.3564,
+            "t": 114.13169505859378,
+            "r": 499.00873000000007,
+            "b": 89.1143950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Besides desalination, MD has also been demonstrated  in  other  applications  such  as  the",
+      "text": "Besides desalination, MD has also been demonstrated  in  other  applications  such  as  the"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 45.276,
+            "t": 67.56309505859372,
+            "r": 332.8096499999998,
+            "b": 57.046595058593766,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "0011-9164/06/$- See front matter \u00a9 2006 Elsevier B.V.  All rights reserved",
+      "text": "0011-9164/06/$- See front matter \u00a9 2006 Elsevier B.V.  All rights reserved"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 45.376,
+            "t": 671.8865950585938,
+            "r": 59.77609999999999,
+            "b": 664.0493829373817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "166",
+      "text": "166"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 183.259,
+            "t": 671.8865950585938,
+            "r": 360.99022500000035,
+            "b": 664.0493829373817,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Y. Xu et al. / Desalination 189 (2006) 165-169",
+      "text": "Y. Xu et al. / Desalination 189 (2006) 165-169"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 45.376,
+            "t": 643.6025950585937,
+            "r": 258.0968600000002,
+            "b": 301.85492839192716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1278
+          ]
+        }
+      ],
+      "orig": "treatment  of  wastewater,  the  concentration  of liquid  food,  the  removal  of  alcohols  and  other VOCs from aqueous solutions, and even in wine productions [2]. But during the process of seawater desalting in MD, hot seawater on one side of the membrane (40-60\u00b0C) can easily exchange heat with the seawater on the other side (<30\u00b0C), which blocks the progress of MD, and slows down the speed of MD. This factor limits its application in  seawater desalting. To increase the speed of MD in desalination, a new kind of MD has been developed in recent years-vacuum membrane distillation (VMD). In VMD, seawater goes through on one side of the membrane and vacuum pumping is carried through on the other side of the membrane to speed up the evaporation of the seawater and the migration and diffusion of water vapor. Freshwater can be obtained by water vapor condensation. By increasing the temperature of inlet seawater (to 40-60\u00b0C), the flux of MD can be greatly raised [3]. In this work, a VMD device of polypropylene (PP) hollow fiber was designed and setup on a ship for studying operation conditions and seeking possible application in desalination of seawater, especially by utilizing the waste heat generated by a vessel's engine as the heat source for a VMD process.",
+      "text": "treatment  of  wastewater,  the  concentration  of liquid  food,  the  removal  of  alcohols  and  other VOCs from aqueous solutions, and even in wine productions [2]. But during the process of seawater desalting in MD, hot seawater on one side of the membrane (40-60\u00b0C) can easily exchange heat with the seawater on the other side (<30\u00b0C), which blocks the progress of MD, and slows down the speed of MD. This factor limits its application in  seawater desalting. To increase the speed of MD in desalination, a new kind of MD has been developed in recent years-vacuum membrane distillation (VMD). In VMD, seawater goes through on one side of the membrane and vacuum pumping is carried through on the other side of the membrane to speed up the evaporation of the seawater and the migration and diffusion of water vapor. Freshwater can be obtained by water vapor condensation. By increasing the temperature of inlet seawater (to 40-60\u00b0C), the flux of MD can be greatly raised [3]. In this work, a VMD device of polypropylene (PP) hollow fiber was designed and setup on a ship for studying operation conditions and seeking possible application in desalination of seawater, especially by utilizing the waste heat generated by a vessel's engine as the heat source for a VMD process."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 45.376,
+            "t": 278.2045950585938,
+            "r": 120.25838999999998,
+            "b": 269.12992839192714,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "2. Experimental",
+      "text": "2. Experimental",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 45.376,
+            "t": 259.7245950585938,
+            "r": 161.54183,
+            "b": 250.64992839192712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "2.1. Materials and module",
+      "text": "2.1. Materials and module",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 45.37099999999998,
+            "t": 241.24459505859386,
+            "r": 258.0524000000001,
+            "b": 78.57792839192712,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            619
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.332,
+            "t": 643.6145950585937,
+            "r": 499.01337000000063,
+            "b": 570.5969283919271,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            620,
+            898
+          ]
+        }
+      ],
+      "orig": "The microporous PP hollow fiber membrane prepared by the authors [4,5] by a melt-stretching process has an inner diameter of 327 \u00b5m, wall thickness of 53 \u00b5m and its permeability of N 2 is 7.48\u00d710 -2 cm 3 /cm 2 s cm Hg. Three bundles of PP hollow fiber membranes were sealed into a polyvinyl chloride (PVC) cylinder to form the module of VMD. Each PP hollow fiber bundle has 5,000 hollow fiber membranes and an effective length of 800 mm. The total membrane area was 12.3 m 2 . Before VMD operation, a water pressure of 0.3 Mpa was applied to the module in order to detect  the  leakage.  In  order  to  investigate  the influence  of  module  structure  on  the  VMD performance, two kinds of modules were adopted. For the first one, the modules were polypropylene hollow fiber  bundles  without  a  shell.  For  the second one, each polypropylene hollow fiber bundle was fixed into a shell of ABS.",
+      "text": "The microporous PP hollow fiber membrane prepared by the authors [4,5] by a melt-stretching process has an inner diameter of 327 \u00b5m, wall thickness of 53 \u00b5m and its permeability of N 2 is 7.48\u00d710 -2 cm 3 /cm 2 s cm Hg. Three bundles of PP hollow fiber membranes were sealed into a polyvinyl chloride (PVC) cylinder to form the module of VMD. Each PP hollow fiber bundle has 5,000 hollow fiber membranes and an effective length of 800 mm. The total membrane area was 12.3 m 2 . Before VMD operation, a water pressure of 0.3 Mpa was applied to the module in order to detect  the  leakage.  In  order  to  investigate  the influence  of  module  structure  on  the  VMD performance, two kinds of modules were adopted. For the first one, the modules were polypropylene hollow fiber  bundles  without  a  shell.  For  the second one, each polypropylene hollow fiber bundle was fixed into a shell of ABS."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.33639999999997,
+            "t": 554.0833950585937,
+            "r": 408.1514999999997,
+            "b": 545.0087283919271,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "2.2. Equipment and process",
+      "text": "2.2. Equipment and process",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.3397,
+            "t": 535.6033950585937,
+            "r": 499.04438999999905,
+            "b": 372.96872839192713,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            574
+          ]
+        }
+      ],
+      "orig": "The structure and flow process of VMD and the actual VMD device are presented in Fig. 1. The seagoing vessel has two diesel engines, each having a power of 136 kW. The power of the engine is relatively small; the temperature of the level-one cooling water is about 65\u00b0C, while the temperature of the level-two cooling water is about 35\u00b0C. During operation, the level-one cooling water with flow of 1,800 kg/h was used as hot seawater for  the VMD process. For ease and convenience in installing and transporting, the device was designed to be assembled from separable parts.",
+      "text": "The structure and flow process of VMD and the actual VMD device are presented in Fig. 1. The seagoing vessel has two diesel engines, each having a power of 136 kW. The power of the engine is relatively small; the temperature of the level-one cooling water is about 65\u00b0C, while the temperature of the level-two cooling water is about 35\u00b0C. During operation, the level-one cooling water with flow of 1,800 kg/h was used as hot seawater for  the VMD process. For ease and convenience in installing and transporting, the device was designed to be assembled from separable parts."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.3397,
+            "t": 369.2063950585938,
+            "r": 499.0372400000008,
+            "b": 219.40872839192718,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            559
+          ]
+        }
+      ],
+      "orig": "Hot seawater circulation :  The  waste  heat calorifier heats the seawater. The hot seawater is pumped to the candle filter. After being filtered, it is delivered to the inner side of the PP hollow fiber membrane module and evaporates. The residual seawater back flows to the waste heat calorifier. This hot seawater circulation design greatly relieves the burden of the core-type filter. In addition,  the  design  sufficiently  utilizes  the  heat capacity of the hot seawater, which facilitates the higher temperature of VMD and speeds up the desalination.",
+      "text": "Hot seawater circulation :  The  waste  heat calorifier heats the seawater. The hot seawater is pumped to the candle filter. After being filtered, it is delivered to the inner side of the PP hollow fiber membrane module and evaporates. The residual seawater back flows to the waste heat calorifier. This hot seawater circulation design greatly relieves the burden of the core-type filter. In addition,  the  design  sufficiently  utilizes  the  heat capacity of the hot seawater, which facilitates the higher temperature of VMD and speeds up the desalination."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.3397,
+            "t": 215.64639505859384,
+            "r": 499.02326999999985,
+            "b": 181.0187283919272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            134
+          ]
+        }
+      ],
+      "orig": "Condensation  system :  Cold  seawater  is pumped through an injector and the tube condenser by pump 1 and then flows out of the ship.",
+      "text": "Condensation  system :  Cold  seawater  is pumped through an injector and the tube condenser by pump 1 and then flows out of the ship."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 286.3397,
+            "t": 177.25639505859385,
+            "r": 499.0137,
+            "b": 78.68572839192723,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            371
+          ]
+        }
+      ],
+      "orig": "Vacuum system : Once pump 1 is started and the cold seawater flows through the injector, the jet  current  generates  negative  pressure  in  the pump-line next to the injector. A high degree of vacuum is induced at the outside of the PP membrane module, the condenser as well as the freshwater tank. The vacuum can be removed by the release valve on the freshwater tank.",
+      "text": "Vacuum system : Once pump 1 is started and the cold seawater flows through the injector, the jet  current  generates  negative  pressure  in  the pump-line next to the injector. A high degree of vacuum is induced at the outside of the PP membrane module, the condenser as well as the freshwater tank. The vacuum can be removed by the release valve on the freshwater tank."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 183.276,
+            "t": 674.0430950585938,
+            "r": 361.00627500000036,
+            "b": 663.5265950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Y. Xu et al. / Desalination 189 (2006) 165-169",
+      "text": "Y. Xu et al. / Desalination 189 (2006) 165-169"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 484.59605,
+            "t": 674.0430950585938,
+            "r": 498.99614999999994,
+            "b": 663.5265950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "167",
+      "text": "167"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 45.276,
+            "t": 101.64309505859376,
+            "r": 498.8934000000006,
+            "b": 79.72659505859372,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "Fig. 1. VMD for seawater desalination, (a) structure and technical process; (b) real device and (c) device being installed into a seagoing vessel.",
+      "text": "Fig. 1. VMD for seawater desalination, (a) structure and technical process; (b) real device and (c) device being installed into a seagoing vessel."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 138.87570000000002,
+            "t": 122.76349505859378,
+            "r": 150.00400000000005,
+            "b": 112.24699505859371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(b)",
+      "text": "(b)"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 385.4444000000001,
+            "t": 122.76349505859378,
+            "r": 396.0407000000001,
+            "b": 112.24699505859371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(c)",
+      "text": "(c)"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 61.475400000000036,
+            "t": 637.9237950585938,
+            "r": 72.03750000000004,
+            "b": 627.4072950585937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "(a)",
+      "text": "(a)"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 45.376,
+            "t": 674.0430950585938,
+            "r": 59.77609999999999,
+            "b": 663.5265950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "168",
+      "text": "168"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 183.25615000000002,
+            "t": 674.0430950585938,
+            "r": 360.98642500000034,
+            "b": 663.5265950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Y. Xu et al. / Desalination 189 (2006) 165-169",
+      "text": "Y. Xu et al. / Desalination 189 (2006) 165-169"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 45.375699999999995,
+            "t": 646.0995950585938,
+            "r": 258.05839000000014,
+            "b": 582.8011950585937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "Freshwater collection system :  Water  vapor condenses in the condenser under the negative pressure and flows into the freshwater tank with the operation of a balance pipe. After the atmosphere valve opens, the freshwater can flow out.",
+      "text": "Freshwater collection system :  Water  vapor condenses in the condenser under the negative pressure and flows into the freshwater tank with the operation of a balance pipe. After the atmosphere valve opens, the freshwater can flow out."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 45.376799999999974,
+            "t": 582.1378950585938,
+            "r": 258.1256000000001,
+            "b": 518.7195950585939,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "Seawater refilling and releasing system : The seawater in the hot seawater box is continuously refilled through the leading valve. Concentrated seawater is released through the ball valve below the hot seawater box.",
+      "text": "Seawater refilling and releasing system : The seawater in the hot seawater box is continuously refilled through the leading valve. Concentrated seawater is released through the ball valve below the hot seawater box."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 45.37569999999997,
+            "t": 505.3391950585939,
+            "r": 178.33930000000004,
+            "b": 493.1621950585939,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "2.3. Test of VMD performance",
+      "text": "2.3. Test of VMD performance",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 45.37559999999999,
+            "t": 486.85959505859375,
+            "r": 257.89571,
+            "b": 461.9621950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "The membrane distillation flux ( J , kg/m 2 \u00b7h) is characterized by Eq. (1):",
+      "text": "The membrane distillation flux ( J , kg/m 2 \u00b7h) is characterized by Eq. (1):"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.65660017999999,
+            "t": 448.6309071185937,
+            "r": 257.8952,
+            "b": 418.4996205985937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "V d J S t \u22c5 = \u22c5 (1)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 45.375200000000035,
+            "t": 409.0999950585938,
+            "r": 258.03875000000005,
+            "b": 306.4349950585937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            399
+          ]
+        }
+      ],
+      "orig": "where V is volume of freshwater (l); d is density of freshwater (kg/l); S is the effective membrane area (m 2 ), and t is the running time of VMD. The salt concentration in the feed water ( C 1 , mg/l) is obtained from Hg(NO 3 ) titration. The salt concentration in the fresh water ( C 2 , mg/l) is calculated from conductivity measurement. The desalting degree ( \u03b7 , %) was calculated from Eq. (2):",
+      "text": "where V is volume of freshwater (l); d is density of freshwater (kg/l); S is the effective membrane area (m 2 ), and t is the running time of VMD. The salt concentration in the feed water ( C 1 , mg/l) is obtained from Hg(NO 3 ) titration. The salt concentration in the fresh water ( C 2 , mg/l) is calculated from conductivity measurement. The desalting degree ( \u03b7 , %) was calculated from Eq. (2):"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 286.33570000000003,
+            "t": 646.0996950585937,
+            "r": 402.1272000000003,
+            "b": 633.9226950585937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "3. Results and discussion",
+      "text": "3. Results and discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 286.33570000000003,
+            "t": 627.7395950585937,
+            "r": 498.9806599999993,
+            "b": 589.8819950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "3.1. Effect of temperature on the flux in the pilot test and comparison between the lab experiment and the pilot test",
+      "text": "3.1. Effect of temperature on the flux in the pilot test and comparison between the lab experiment and the pilot test",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 286.33570000000003,
+            "t": 583.5800950585939,
+            "r": 499.02699999999913,
+            "b": 379.3989950585937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            787
+          ]
+        }
+      ],
+      "orig": "In  the  pilot  test,  the  feed  speed  was  set  to 500 l/h. As is shown in Table 1, the membrane distillation  flux  increased  with  increasing  the temperature of feeding seawater. The membrane distillation flux reached 5.4 kg/m 2 h at 55\u00b0C; correspondingly, the distillation flux of this device was 66.0 kg/h. In our previous lab experiment with VMD, an aqueous solution of about 35 g/l NaCl was prepared by dissolving edible salt and iodide in deionized water as simulated seawater. The feed speed was set to 75 l/h. The downstream vacuum degree was held to a value as high as possible under the operation temperature. Fig. 2 indicates that the pilot test results matched the lab experiment results; the fluxes in both lab experiment and pilot test increased with the temperature.",
+      "text": "In  the  pilot  test,  the  feed  speed  was  set  to 500 l/h. As is shown in Table 1, the membrane distillation  flux  increased  with  increasing  the temperature of feeding seawater. The membrane distillation flux reached 5.4 kg/m 2 h at 55\u00b0C; correspondingly, the distillation flux of this device was 66.0 kg/h. In our previous lab experiment with VMD, an aqueous solution of about 35 g/l NaCl was prepared by dissolving edible salt and iodide in deionized water as simulated seawater. The feed speed was set to 75 l/h. The downstream vacuum degree was held to a value as high as possible under the operation temperature. Fig. 2 indicates that the pilot test results matched the lab experiment results; the fluxes in both lab experiment and pilot test increased with the temperature."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 286.3365,
+            "t": 366.01969505859364,
+            "r": 380.43248000000034,
+            "b": 353.8426950585937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "3.2. Desalting degree",
+      "text": "3.2. Desalting degree",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "formula",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.056386380000006,
+            "t": 293.86640708859375,
+            "r": 257.8952,
+            "b": 262.66945165859374,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "1 2 1 100% C C C -\u03b7= \u00d7 (2)",
+      "text": ""
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 286.3365,
+            "t": 347.5396950585936,
+            "r": 499.0284299999993,
+            "b": 220.15969505859357,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            475
+          ]
+        }
+      ],
+      "orig": "Desalting degree is another important factor for  VMD. In  theory,  if  the  membrane  is  not broken, the desalting rate of VMD can be 100%. To prolong the life of the PP membrane and membrane module, the broken rate of membrane must be reduced. In this study, the PP hollow fiber membranes were specifically prepared for VMD desalination processes and the wall thickness (e.g. the membrane thickness) was as large as 53 \u00b5m to improve the membrane's strength and durability.",
+      "text": "Desalting degree is another important factor for  VMD. In  theory,  if  the  membrane  is  not broken, the desalting rate of VMD can be 100%. To prolong the life of the PP membrane and membrane module, the broken rate of membrane must be reduced. In this study, the PP hollow fiber membranes were specifically prepared for VMD desalination processes and the wall thickness (e.g. the membrane thickness) was as large as 53 \u00b5m to improve the membrane's strength and durability."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 45.376,
+            "t": 188.52309505859375,
+            "r": 295.71335000000005,
+            "b": 166.6065950585937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Table 1 Membrane distillation flux of the designed VMD desalting device",
+      "text": "Table 1 Membrane distillation flux of the designed VMD desalting device"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 183.276,
+            "t": 674.0430950585938,
+            "r": 361.00627500000036,
+            "b": 663.5265950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Y. Xu et al. / Desalination 189 (2006) 165-169",
+      "text": "Y. Xu et al. / Desalination 189 (2006) 165-169"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 484.59605,
+            "t": 674.0430950585938,
+            "r": 498.99614999999994,
+            "b": 663.5265950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "169",
+      "text": "169"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 45.276,
+            "t": 480.60309505859374,
+            "r": 257.9486999999999,
+            "b": 458.68659505859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Fig. 2. Results comparison between lab experiment and pilot test.",
+      "text": "Fig. 2. Results comparison between lab experiment and pilot test."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 45.276,
+            "t": 441.49959505859374,
+            "r": 257.9609999999997,
+            "b": 262.8782950585937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            680
+          ]
+        }
+      ],
+      "orig": "Throughout a five month experiment, the desalting degree of this device still held to 99.99%. The salt content in freshwater was below 3 mg/l and meets the requirements of drinking water. Despite the durability of the membrane, one outlet at the bottom of the membrane distillation chamber is also designed to ensure that low-salt-content freshwater can be obtained even when some fibers are broken. If the PP membrane breaks during the desalting  process,  the  seeping  seawater  in  the membrane distillation  chamber  can  flow  out through vacuum generated by a water injector, without interrupting the desalting process, thus the desalting rate will not be affected greatly.",
+      "text": "Throughout a five month experiment, the desalting degree of this device still held to 99.99%. The salt content in freshwater was below 3 mg/l and meets the requirements of drinking water. Despite the durability of the membrane, one outlet at the bottom of the membrane distillation chamber is also designed to ensure that low-salt-content freshwater can be obtained even when some fibers are broken. If the PP membrane breaks during the desalting  process,  the  seeping  seawater  in  the membrane distillation  chamber  can  flow  out through vacuum generated by a water injector, without interrupting the desalting process, thus the desalting rate will not be affected greatly."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 286.356,
+            "t": 646.0995950585938,
+            "r": 354.03240000000017,
+            "b": 633.9225950585937,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "4. Conclusions",
+      "text": "4. Conclusions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 286.356,
+            "t": 627.7394950585938,
+            "r": 499.03769999999895,
+            "b": 500.36089505859394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            486
+          ]
+        }
+      ],
+      "orig": "After  a  five  month  experiment  of  seawater desalination on a seagoing vessel, the designed device still displayed a high degree of desalting and a high usage of waste heat. The membrane distillation flux reached 5.4 kg/m 2 h at 55\u00b0C and -0.093 Mpa while the desalting rate reached 99.99%. The results indicate that this device can be developed into practical applications in preparation of freshwater from seawater, especially in the field where sufficient waste heat is available.",
+      "text": "After  a  five  month  experiment  of  seawater desalination on a seagoing vessel, the designed device still displayed a high degree of desalting and a high usage of waste heat. The membrane distillation flux reached 5.4 kg/m 2 h at 55\u00b0C and -0.093 Mpa while the desalting rate reached 99.99%. The results indicate that this device can be developed into practical applications in preparation of freshwater from seawater, especially in the field where sufficient waste heat is available."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 286.3564,
+            "t": 479.7798950585939,
+            "r": 376.95790000000017,
+            "b": 467.60289505859396,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Acknowledgements",
+      "text": "Acknowledgements",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 286.3564,
+            "t": 461.2998950585939,
+            "r": 499.03370000000007,
+            "b": 423.56219505859394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            118
+          ]
+        }
+      ],
+      "orig": "Financial  support  from  the  National  Basic Research Program of China (No:2003CB615705) is gratefully acknowledged.",
+      "text": "Financial  support  from  the  National  Basic Research Program of China (No:2003CB615705) is gratefully acknowledged."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 286.3564,
+            "t": 397.3403950585939,
+            "r": 337.11711000000014,
+            "b": 385.16339505859395,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 286.356,
+            "t": 378.48309505859373,
+            "r": 498.90966500000053,
+            "b": 356.56659505859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "[1] S. Kimura, S. Nakao and S. Shimatani, J. Membr. Sci., 33 (1987) 285-298.",
+      "text": "S. Kimura, S. Nakao and S. Shimatani, J. Membr. Sci., 33 (1987) 285-298.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 286.356,
+            "t": 355.6830950585938,
+            "r": 498.9231549999995,
+            "b": 333.7665950585938,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "[2] K.W. Lawson and D.R. Lloyd, J. Membr. Sci., 124 (1997) 1-25.",
+      "text": "K.W. Lawson and D.R. Lloyd, J. Membr. Sci., 124 (1997) 1-25.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 286.356,
+            "t": 332.8830950585938,
+            "r": 498.8802149999998,
+            "b": 310.96659505859384,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            89
+          ]
+        }
+      ],
+      "orig": "[3] J.M. Li, Z.K. Xu, Z.M. Liu, W.F. Yuan and H. Xiang, Desalination, 155 (2003) 153-156.",
+      "text": "J.M. Li, Z.K. Xu, Z.M. Liu, W.F. Yuan and H. Xiang, Desalination, 155 (2003) 153-156.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 286.356,
+            "t": 310.08309505859387,
+            "r": 498.85779500000007,
+            "b": 288.1665950585939,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "[4] Z.K. Xu, J.L. Wang, L.Q. Shen, Y.Y. Xu and D.F. Meng, J. Membr. Sci., 196 (2002) 221-229.",
+      "text": "Z.K. Xu, J.L. Wang, L.Q. Shen, Y.Y. Xu and D.F. Meng, J. Membr. Sci., 196 (2002) 221-229.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 286.356,
+            "t": 287.2830950585939,
+            "r": 498.9022550000008,
+            "b": 265.36659505859393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            76
+          ]
+        }
+      ],
+      "orig": "[5] L.Q. Shen, Z.K. Xu and Y.Y. Xu, J. Appl. Polym. Sci., 84 (2002) 203-210.",
+      "text": "L.Q. Shen, Z.K. Xu and Y.Y. Xu, J. Appl. Polym. Sci., 84 (2002) 203-210.",
+      "enumerated": true,
+      "marker": "[5]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 44.873626708984375,
+            "t": 693.6412506103516,
+            "r": 96.5874252319336,
+            "b": 633.4827270507812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 47.0019416809082,
+            "t": 643.8300476074219,
+            "r": 498.5689697265625,
+            "b": 111.6966552734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 45.52803421020508,
+            "t": 645.6484985351562,
+            "r": 257.9546203613281,
+            "b": 489.00318908691406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 44.958717346191406,
+            "t": 152.75439453125,
+            "r": 499.8560485839844,
+            "b": 83.436279296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 48.256,
+              "t": 593.0085183,
+              "r": 142.31189196,
+              "b": 618.7967892,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Technological conditions Feed temperature",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 115.11507642,
+              "t": 608.2485183,
+              "r": 232.12846529000012,
+              "b": 618.7967892,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "(\u00b0C) Operating pressure",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 275.17532041000004,
+              "t": 593.00831552,
+              "r": 374.6906810349999,
+              "b": 614.4767892,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Membrane distillation flux (kg/m 2 h)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 388.69567617999996,
+              "t": 593.0086281,
+              "r": 447.64116725000014,
+              "b": 614.4767892,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Distillation flux (kg/h)",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 48.256,
+              "t": 623.4885183,
+              "r": 57.69513022,
+              "b": 634.0367892,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "45",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 161.77140310000001,
+              "t": 623.4885183,
+              "r": 187.28640309000002,
+              "b": 634.0367892,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "0.0935",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 275.15626301,
+              "t": 623.4885183,
+              "r": 286.88799845,
+              "b": 634.0367892,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "3.0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 388.6831005500001,
+              "t": 623.4885183,
+              "r": 404.98003616000017,
+              "b": 634.0367892,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "37.5",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 48.256,
+              "t": 634.5285183,
+              "r": 57.69513022,
+              "b": 645.0767892,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "52",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 161.77140310000001,
+              "t": 634.5285183,
+              "r": 187.28640309000002,
+              "b": 645.0767892,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "0.0930",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 275.15626301,
+              "t": 634.5285183,
+              "r": 286.88799845,
+              "b": 645.0767892,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "4.2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 388.6831005500001,
+              "t": 634.5285183,
+              "r": 404.98003616000017,
+              "b": 645.0767892,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "56.7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 48.256,
+              "t": 645.4484085,
+              "r": 57.69513022,
+              "b": 655.9966794,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "55",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 161.77140310000001,
+              "t": 645.4484085,
+              "r": 187.28640309000002,
+              "b": 655.9966794,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "0.0930",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 275.15626301,
+              "t": 645.4484085,
+              "r": 286.88799845,
+              "b": 655.9966794,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "5.4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 388.6831005500001,
+              "t": 645.4484085,
+              "r": 404.98003616000017,
+              "b": 655.9966794,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "66.0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 4,
+        "num_cols": 4,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 48.256,
+                "t": 593.0085183,
+                "r": 142.31189196,
+                "b": 618.7967892,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Technological conditions Feed temperature",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 115.11507642,
+                "t": 608.2485183,
+                "r": 232.12846529000012,
+                "b": 618.7967892,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "(\u00b0C) Operating pressure",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 275.17532041000004,
+                "t": 593.00831552,
+                "r": 374.6906810349999,
+                "b": 614.4767892,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Membrane distillation flux (kg/m 2 h)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 388.69567617999996,
+                "t": 593.0086281,
+                "r": 447.64116725000014,
+                "b": 614.4767892,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Distillation flux (kg/h)",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 48.256,
+                "t": 623.4885183,
+                "r": 57.69513022,
+                "b": 634.0367892,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "45",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.77140310000001,
+                "t": 623.4885183,
+                "r": 187.28640309000002,
+                "b": 634.0367892,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "0.0935",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 275.15626301,
+                "t": 623.4885183,
+                "r": 286.88799845,
+                "b": 634.0367892,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "3.0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 388.6831005500001,
+                "t": 623.4885183,
+                "r": 404.98003616000017,
+                "b": 634.0367892,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "37.5",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 48.256,
+                "t": 634.5285183,
+                "r": 57.69513022,
+                "b": 645.0767892,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "52",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.77140310000001,
+                "t": 634.5285183,
+                "r": 187.28640309000002,
+                "b": 645.0767892,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "0.0930",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 275.15626301,
+                "t": 634.5285183,
+                "r": 286.88799845,
+                "b": 645.0767892,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "4.2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 388.6831005500001,
+                "t": 634.5285183,
+                "r": 404.98003616000017,
+                "b": 645.0767892,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "56.7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 48.256,
+                "t": 645.4484085,
+                "r": 57.69513022,
+                "b": 655.9966794,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "55",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 161.77140310000001,
+                "t": 645.4484085,
+                "r": 187.28640309000002,
+                "b": 655.9966794,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "0.0930",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 275.15626301,
+                "t": 645.4484085,
+                "r": 286.88799845,
+                "b": 655.9966794,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "5.4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 388.6831005500001,
+                "t": 645.4484085,
+                "r": 404.98003616000017,
+                "b": 655.9966794,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "66.0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 544.251953125,
+        "height": 742.6771850585938
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 544.251953125,
+        "height": 742.6771850585938
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 544.251953125,
+        "height": 742.6771850585938
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 544.251953125,
+        "height": 742.6771850585938
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 544.251953125,
+        "height": 742.6771850585938
+      },
+      "page_no": 5
+    }
+  }
+}

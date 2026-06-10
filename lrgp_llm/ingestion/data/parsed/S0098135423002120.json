@@ -1,0 +1,6594 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "S0098135423002120",
+  "origin": {
+    "mimetype": "text/html",
+    "binary_hash": 9391302401089577379,
+    "filename": "S0098135423002120.htm"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/314"
+      },
+      {
+        "$ref": "#/texts/326"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "furniture",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "furniture",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "furniture",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "furniture",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "furniture",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/texts/9"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "furniture",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "name": "header-1",
+      "label": "section"
+    },
+    {
+      "self_ref": "#/groups/7",
+      "parent": {
+        "$ref": "#/texts/15"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/8",
+      "parent": {
+        "$ref": "#/texts/21"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/9",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/10",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/11",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/12",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/13",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/14",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/15",
+      "parent": {
+        "$ref": "#/texts/47"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/16",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/17",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/18",
+      "parent": {
+        "$ref": "#/texts/87"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/19",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/146"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/20",
+      "parent": {
+        "$ref": "#/texts/101"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/21",
+      "parent": {
+        "$ref": "#/texts/106"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/22",
+      "parent": {
+        "$ref": "#/texts/111"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/23",
+      "parent": {
+        "$ref": "#/texts/116"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/24",
+      "parent": {
+        "$ref": "#/texts/121"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/25",
+      "parent": {
+        "$ref": "#/texts/126"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/26",
+      "parent": {
+        "$ref": "#/texts/131"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/27",
+      "parent": {
+        "$ref": "#/texts/136"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/28",
+      "parent": {
+        "$ref": "#/texts/141"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/29",
+      "parent": {
+        "$ref": "#/texts/146"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/30",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/31",
+      "parent": {
+        "$ref": "#/texts/154"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/156"
+        },
+        {
+          "$ref": "#/texts/157"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/32",
+      "parent": {
+        "$ref": "#/texts/159"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/161"
+        },
+        {
+          "$ref": "#/texts/162"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/33",
+      "parent": {
+        "$ref": "#/texts/164"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/166"
+        },
+        {
+          "$ref": "#/texts/167"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/34",
+      "parent": {
+        "$ref": "#/texts/169"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/171"
+        },
+        {
+          "$ref": "#/texts/172"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/35",
+      "parent": {
+        "$ref": "#/texts/174"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/176"
+        },
+        {
+          "$ref": "#/texts/177"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/36",
+      "parent": {
+        "$ref": "#/texts/179"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/181"
+        },
+        {
+          "$ref": "#/texts/182"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/37",
+      "parent": {
+        "$ref": "#/texts/184"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/186"
+        },
+        {
+          "$ref": "#/texts/187"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/38",
+      "parent": {
+        "$ref": "#/texts/189"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/191"
+        },
+        {
+          "$ref": "#/texts/192"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/39",
+      "parent": {
+        "$ref": "#/texts/194"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/196"
+        },
+        {
+          "$ref": "#/texts/197"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/40",
+      "parent": {
+        "$ref": "#/texts/199"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/201"
+        },
+        {
+          "$ref": "#/texts/202"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/41",
+      "parent": {
+        "$ref": "#/texts/204"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/206"
+        },
+        {
+          "$ref": "#/texts/207"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/42",
+      "parent": {
+        "$ref": "#/texts/209"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/211"
+        },
+        {
+          "$ref": "#/texts/212"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/43",
+      "parent": {
+        "$ref": "#/texts/214"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/216"
+        },
+        {
+          "$ref": "#/texts/217"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/44",
+      "parent": {
+        "$ref": "#/texts/219"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/221"
+        },
+        {
+          "$ref": "#/texts/222"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/45",
+      "parent": {
+        "$ref": "#/texts/223"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/224"
+        },
+        {
+          "$ref": "#/texts/225"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/46",
+      "parent": {
+        "$ref": "#/texts/227"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/229"
+        },
+        {
+          "$ref": "#/texts/230"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/47",
+      "parent": {
+        "$ref": "#/texts/232"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/234"
+        },
+        {
+          "$ref": "#/texts/235"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/48",
+      "parent": {
+        "$ref": "#/texts/241"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/243"
+        },
+        {
+          "$ref": "#/texts/244"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/49",
+      "parent": {
+        "$ref": "#/texts/246"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/248"
+        },
+        {
+          "$ref": "#/texts/249"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/50",
+      "parent": {
+        "$ref": "#/texts/251"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/253"
+        },
+        {
+          "$ref": "#/texts/254"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/51",
+      "parent": {
+        "$ref": "#/texts/256"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/258"
+        },
+        {
+          "$ref": "#/texts/259"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/52",
+      "parent": {
+        "$ref": "#/texts/261"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/263"
+        },
+        {
+          "$ref": "#/texts/264"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/53",
+      "parent": {
+        "$ref": "#/texts/266"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/268"
+        },
+        {
+          "$ref": "#/texts/269"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/54",
+      "parent": {
+        "$ref": "#/texts/271"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/273"
+        },
+        {
+          "$ref": "#/texts/274"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/55",
+      "parent": {
+        "$ref": "#/texts/276"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/278"
+        },
+        {
+          "$ref": "#/texts/279"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/56",
+      "parent": {
+        "$ref": "#/texts/281"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/283"
+        },
+        {
+          "$ref": "#/texts/284"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/57",
+      "parent": {
+        "$ref": "#/texts/292"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/293"
+        },
+        {
+          "$ref": "#/texts/296"
+        },
+        {
+          "$ref": "#/texts/299"
+        },
+        {
+          "$ref": "#/texts/302"
+        },
+        {
+          "$ref": "#/texts/305"
+        },
+        {
+          "$ref": "#/texts/308"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/58",
+      "parent": {
+        "$ref": "#/texts/293"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/294"
+        },
+        {
+          "$ref": "#/texts/295"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/59",
+      "parent": {
+        "$ref": "#/texts/296"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/297"
+        },
+        {
+          "$ref": "#/texts/298"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/60",
+      "parent": {
+        "$ref": "#/texts/299"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/300"
+        },
+        {
+          "$ref": "#/texts/301"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/61",
+      "parent": {
+        "$ref": "#/texts/302"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/303"
+        },
+        {
+          "$ref": "#/texts/304"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/62",
+      "parent": {
+        "$ref": "#/texts/305"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/306"
+        },
+        {
+          "$ref": "#/texts/307"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/63",
+      "parent": {
+        "$ref": "#/texts/308"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/309"
+        },
+        {
+          "$ref": "#/texts/310"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "inline"
+    },
+    {
+      "self_ref": "#/groups/64",
+      "parent": {
+        "$ref": "#/texts/312"
+      },
+      "children": [
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/groups/65"
+        },
+        {
+          "$ref": "#/groups/66"
+        },
+        {
+          "$ref": "#/texts/325"
+        },
+        {
+          "$ref": "#/pictures/4"
+        }
+      ],
+      "content_layer": "furniture",
+      "name": "footer",
+      "label": "section"
+    },
+    {
+      "self_ref": "#/groups/65",
+      "parent": {
+        "$ref": "#/groups/64"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/315"
+        },
+        {
+          "$ref": "#/texts/316"
+        },
+        {
+          "$ref": "#/texts/317"
+        },
+        {
+          "$ref": "#/texts/318"
+        },
+        {
+          "$ref": "#/texts/319"
+        },
+        {
+          "$ref": "#/texts/320"
+        },
+        {
+          "$ref": "#/texts/321"
+        }
+      ],
+      "content_layer": "furniture",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/66",
+      "parent": {
+        "$ref": "#/groups/64"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/322"
+        },
+        {
+          "$ref": "#/texts/323"
+        },
+        {
+          "$ref": "#/texts/324"
+        }
+      ],
+      "content_layer": "furniture",
+      "name": "group",
+      "label": "inline"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "title",
+      "prov": [],
+      "orig": "Data augmentation driven by optimization for membrane separation process synthesis - ScienceDirect",
+      "text": "Data augmentation driven by optimization for membrane separation process synthesis - ScienceDirect"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "text",
+      "prov": [],
+      "orig": "Skip to main content",
+      "text": "Skip to main content",
+      "hyperlink": "#screen-reader-main-content"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "text",
+      "prov": [],
+      "orig": "Skip to article",
+      "text": "Skip to article",
+      "hyperlink": "#screen-reader-main-title"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "caption",
+      "prov": [],
+      "orig": "Elsevier logo",
+      "text": "Elsevier logo",
+      "hyperlink": "\\"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Journals & Books",
+      "text": "Journals & Books",
+      "hyperlink": "\\browse\\journals-and-books",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Search",
+      "text": "Search",
+      "hyperlink": "\\search",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "text",
+      "prov": [],
+      "orig": "Register",
+      "text": "Register",
+      "hyperlink": "\\user\\register?targetURL=%2Fscience%2Farticle%2Fpii%2FS0098135423002120"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "text",
+      "prov": [],
+      "orig": "Sign in",
+      "text": "Sign in",
+      "hyperlink": "\\user\\login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0098135423002120&from=globalheader"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/5"
+        }
+      ],
+      "content_layer": "furniture",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "text",
+      "prov": [],
+      "orig": "Access through",
+      "text": "Access through",
+      "hyperlink": "\\user\\institution\\login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0098135423002120"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "text",
+      "prov": [],
+      "orig": "your institution",
+      "text": "your institution",
+      "formatting": {
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      },
+      "hyperlink": "\\user\\institution\\login?targetUrl=%2Fscience%2Farticle%2Fpii%2FS0098135423002120"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Purchase PDF",
+      "text": "Purchase PDF",
+      "hyperlink": "\\getaccess\\pii\\S0098135423002120\\purchase",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "text",
+      "prov": [],
+      "orig": "Search ScienceDirect",
+      "text": "Search ScienceDirect"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "text",
+      "prov": [],
+      "orig": "Search ScienceDirect",
+      "text": "Search ScienceDirect"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/7"
+        },
+        {
+          "$ref": "#/pictures/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Article preview",
+      "text": "Article preview",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "hyperlink": "#preview-section-abstract",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Introduction",
+      "text": "Introduction",
+      "hyperlink": "#preview-section-introduction",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Section snippets",
+      "text": "Section snippets",
+      "hyperlink": "#preview-section-snippets",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "References (77)",
+      "text": "References (77)",
+      "hyperlink": "#preview-section-references",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [],
+      "orig": "Elsevier",
+      "text": "Elsevier",
+      "hyperlink": "\\journal\\computers-and-chemical-engineering"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/8"
+        },
+        {
+          "$ref": "#/pictures/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Computers & Chemical Engineering",
+      "text": "Computers & Chemical Engineering",
+      "hyperlink": "\\journal\\computers-and-chemical-engineering",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Volume 177",
+      "text": "Volume 177",
+      "hyperlink": "\\journal\\computers-and-chemical-engineering\\vol\\177\\suppl\\C"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": ", September 2023 , 108342",
+      "text": ", September 2023 , 108342"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [],
+      "orig": "Computers & Chemical Engineering",
+      "text": "Computers & Chemical Engineering",
+      "hyperlink": "\\journal\\computers-and-chemical-engineering\\vol\\177\\suppl\\C"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/groups/9"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/groups/10"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/groups/11"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/groups/12"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/groups/13"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/groups/14"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/289"
+        },
+        {
+          "$ref": "#/texts/292"
+        },
+        {
+          "$ref": "#/texts/312"
+        }
+      ],
+      "content_layer": "body",
+      "label": "title",
+      "prov": [],
+      "orig": "Data augmentation driven by optimization for membrane separation process synthesis",
+      "text": "Data augmentation driven by optimization for membrane separation process synthesis"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Author links open overlay panel",
+      "text": "Author links open overlay panel"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Bernardetta Addis",
+      "text": "Bernardetta Addis"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "a",
+      "text": "a",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "super"
+      }
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": ",",
+      "text": ","
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Christophe Castel",
+      "text": "Christophe Castel"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "b",
+      "text": "b",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "super"
+      }
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": ",",
+      "text": ","
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Amalia Macali",
+      "text": "Amalia Macali"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "a b",
+      "text": "a b",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "super"
+      }
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": ",",
+      "text": ","
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Ruth Misener",
+      "text": "Ruth Misener"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "c",
+      "text": "c",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "super"
+      }
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": ",",
+      "text": ","
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Veronica Piccialli",
+      "text": "Veronica Piccialli"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "d",
+      "text": "d",
+      "formatting": {
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "super"
+      }
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Show more",
+      "text": "Show more"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Add to Mendeley",
+      "text": "Add to Mendeley"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Share",
+      "text": "Share"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Cite",
+      "text": "Cite"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "https://doi.org/10.1016/j.compchemeng.2023.108342",
+      "text": "https://doi.org/10.1016/j.compchemeng.2023.108342",
+      "hyperlink": "https://doi.org/10.1016/j.compchemeng.2023.108342"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Get rights and content",
+      "text": "Get rights and content",
+      "hyperlink": "https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0098135423002120&orderBeanReset=true"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/15"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "This paper proposes a new",
+      "text": "This paper proposes a new"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "hybrid strategy",
+      "text": "hybrid strategy",
+      "hyperlink": "\\topics\\engineering\\hybrid-strategy"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "to optimally design",
+      "text": "to optimally design"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "membrane separation",
+      "text": "membrane separation",
+      "hyperlink": "\\topics\\engineering\\membranes-separation"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "problems. We formulate the problem as a Non-Linear Programming (NLP) model. A common approach to represent the physical behavior of the membrane is to discretize the system of differential equations that govern the separation process. Instead, we represent the input/output behavior of the single membrane by an",
+      "text": "problems. We formulate the problem as a Non-Linear Programming (NLP) model. A common approach to represent the physical behavior of the membrane is to discretize the system of differential equations that govern the separation process. Instead, we represent the input/output behavior of the single membrane by an"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "artificial neural network",
+      "text": "artificial neural network",
+      "hyperlink": "\\topics\\chemical-engineering\\neural-network"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(ANN) predictor. The ANN is trained on a dataset obtained through the MEMSIC simulator. The equation form of the trained predictor (shape and weights) is then inserted in the NLP model at the place of the discretized system of differential equations.",
+      "text": "(ANN) predictor. The ANN is trained on a dataset obtained through the MEMSIC simulator. The equation form of the trained predictor (shape and weights) is then inserted in the NLP model at the place of the discretized system of differential equations."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/texts/47"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "To improve the ANN accuracy without an excessive computational burden, we propose data augmentation strategies to target the regions where densify the dataset. We compare a data augmentation strategy from the literature with a novel one that densifies the dataset around the stationary points visited by a global optimization algorithm.",
+      "text": "To improve the ANN accuracy without an excessive computational burden, we propose data augmentation strategies to target the regions where densify the dataset. We compare a data augmentation strategy from the literature with a novel one that densifies the dataset around the stationary points visited by a global optimization algorithm."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/texts/47"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Our approach was validated using a relevant industrial case study: hydrogen purification. Validation by simulation is performed on the obtained solutions. The computational results show that a data augmentation smartly coupled with optimization can produce a robust and reliable design tool.",
+      "text": "Our approach was validated using a relevant industrial case study: hydrogen purification. Validation by simulation is performed on the obtained solutions. The computational results show that a data augmentation smartly coupled with optimization can produce a robust and reliable design tool."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/groups/16"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/groups/17"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Introduction",
+      "text": "Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Recent research represents membranes using machine learning models such as artificial neural networks (ANN) (Wang and Lin, 2021, Piron et al., 1997, Wessling et al., 1994, Richard Bowen et al., 2000, Himmelblau, 2000, Hamachi et al., 1999, Dornier et al., 1995a, Niu et al., 2022). One reason to represent membrane behavior with an ANN surrogate is that we may wish to integrate the ANN into a larger decision-making problem such as identifying manufacturing conditions. But ANNs may have difficulty extrapolating to new regimes (Schweidtmann et al., 2021). The challenge is that optimal decision-making problems (Kim and Boukouvala, 2020), for instance choosing process conditions holistically, may select regions where the trained ANN is inaccurate. This paper investigates data augmentation strategies, illustrated in Fig. 1 that, together with our optimization approach, give confidence in the result of the optimal decision making problem.",
+      "text": "Recent research represents membranes using machine learning models such as artificial neural networks (ANN) (Wang and Lin, 2021, Piron et al., 1997, Wessling et al., 1994, Richard Bowen et al., 2000, Himmelblau, 2000, Hamachi et al., 1999, Dornier et al., 1995a, Niu et al., 2022). One reason to represent membrane behavior with an ANN surrogate is that we may wish to integrate the ANN into a larger decision-making problem such as identifying manufacturing conditions. But ANNs may have difficulty extrapolating to new regimes (Schweidtmann et al., 2021). The challenge is that optimal decision-making problems (Kim and Boukouvala, 2020), for instance choosing process conditions holistically, may select regions where the trained ANN is inaccurate. This paper investigates data augmentation strategies, illustrated in Fig. 1 that, together with our optimization approach, give confidence in the result of the optimal decision making problem."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Membrane gas separation by means of synthetic polymeric membranes is a well-established technology for several industrial applications such as production of nitrogen from air, hydrogen recovery from ammonia plants and refineries, natural and biogas treatment, and vapor recovery from vent and process gas streams (Baker, 2012). Among the numerous advantages brought by membrane processes, the most reported are a small environmental footprint due to a solvent free technology, a facilitated operability, an easy up and down scaling. Membrane separation processes are based on two pillars, membrane separation performance, derived from intrinsic material separation performance (selectivity and permeability) and process design, namely the choice of operating conditions and interconnections between the selected equipments. Membranes for gas separation are constituted by selective materials that have a selective permeation capacity with respect to different gases. Membrane processes are, for most of them, pressure driven separation processes. The fastest components (highest permeabilities) are preferentially recovered on low pressure side (permeate) while the slowest ones are collected on the high pressure side (retentate) (Sridhar et al., 2014) (see Fig. 2).",
+      "text": "Membrane gas separation by means of synthetic polymeric membranes is a well-established technology for several industrial applications such as production of nitrogen from air, hydrogen recovery from ammonia plants and refineries, natural and biogas treatment, and vapor recovery from vent and process gas streams (Baker, 2012). Among the numerous advantages brought by membrane processes, the most reported are a small environmental footprint due to a solvent free technology, a facilitated operability, an easy up and down scaling. Membrane separation processes are based on two pillars, membrane separation performance, derived from intrinsic material separation performance (selectivity and permeability) and process design, namely the choice of operating conditions and interconnections between the selected equipments. Membranes for gas separation are constituted by selective materials that have a selective permeation capacity with respect to different gases. Membrane processes are, for most of them, pressure driven separation processes. The fastest components (highest permeabilities) are preferentially recovered on low pressure side (permeate) while the slowest ones are collected on the high pressure side (retentate) (Sridhar et al., 2014) (see Fig. 2)."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "The CO 2 / H 2 separation chosen as a case study to illustrate the proposed methodology is of very high industrial interest. Numerous studies focus on membrane technology applied to H 2 purification and/or CO 2 capture from syngas produced from Integrated Gasification Combined Cycle or Blast furnace Gas in the steel industry. Both CO 2 and H 2 selective materials commercially exist that exhibit quite interesting selectivities (around 10-20) for both H 2 and CO 2 selective membranes (Merkel et al., 2012, Lin et al., 2014b, Arias et al., 2016, Lin et al., 2014a, Lin et al., 2015, Ritter and Ebner, 2007).",
+      "text": "The CO 2 / H 2 separation chosen as a case study to illustrate the proposed methodology is of very high industrial interest. Numerous studies focus on membrane technology applied to H 2 purification and/or CO 2 capture from syngas produced from Integrated Gasification Combined Cycle or Blast furnace Gas in the steel industry. Both CO 2 and H 2 selective materials commercially exist that exhibit quite interesting selectivities (around 10-20) for both H 2 and CO 2 selective membranes (Merkel et al., 2012, Lin et al., 2014b, Arias et al., 2016, Lin et al., 2014a, Lin et al., 2015, Ritter and Ebner, 2007)."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Separation performances, mainly purity and recovery rate for the targeted component, depend on different design choices including: material properties, membrane area, applied high and low pressures for each module. Considering the entire process architecture, several separation stages (membranes) may be necessary to increase the requested",
+      "text": "Separation performances, mainly purity and recovery rate for the targeted component, depend on different design choices including: material properties, membrane area, applied high and low pressures for each module. Considering the entire process architecture, several separation stages (membranes) may be necessary to increase the requested"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "purity",
+      "text": "purity",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": ", recycling between stages (from permeate or retentate sides) can be useful and necessary to increase recovery rate. Multiple process configurations are possible for such a multi-stage membrane separation, i.e. number of membrane stages, type of membrane material per stage, membrane surface of each stage, upstream and downstream pressure of each stage and stream's connections between stages including partial or total recycling. The entire set of combinations can obviously not be assessed.",
+      "text": ", recycling between stages (from permeate or retentate sides) can be useful and necessary to increase recovery rate. Multiple process configurations are possible for such a multi-stage membrane separation, i.e. number of membrane stages, type of membrane material per stage, membrane surface of each stage, upstream and downstream pressure of each stage and stream's connections between stages including partial or total recycling. The entire set of combinations can obviously not be assessed."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Optimal process design aims to explore the full set of meaningful configurations (Qi and Henson, 2000, Ohs et al., 2016, Uppaluri et al., 2004, Gabrielli et al., 2017, Arias et al., 2016, Scholz et al., 2015).",
+      "text": "Optimal process design aims to explore the full set of meaningful configurations (Qi and Henson, 2000, Ohs et al., 2016, Uppaluri et al., 2004, Gabrielli et al., 2017, Arias et al., 2016, Scholz et al., 2015)."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Ram\u00edrez-Santos et al. (2018) develop a nonlinear optimization formulation, and use a multistart optimization algorithm based on a combination of smart random generation and local search, an adaptation of Monotonic Basin Hopping (Wales and Doye, 1997, Locatelli and Schoen, 2013), to address CO 2 /CH 4 separation. The Ram\u00edrez-Santos et al. (2018) optimization formulation is the starting point for our CO 2 /H 2 separation model, which we solve with a multistart approach. However, we replace the membrane functioning equations used in Ram\u00edrez-Santos et al. (2018) with an ANN representing membrane behavior and thereby overcome the numerical difficulties arising from discretizing the differential equation.",
+      "text": "Ram\u00edrez-Santos et al. (2018) develop a nonlinear optimization formulation, and use a multistart optimization algorithm based on a combination of smart random generation and local search, an adaptation of Monotonic Basin Hopping (Wales and Doye, 1997, Locatelli and Schoen, 2013), to address CO 2 /CH 4 separation. The Ram\u00edrez-Santos et al. (2018) optimization formulation is the starting point for our CO 2 /H 2 separation model, which we solve with a multistart approach. However, we replace the membrane functioning equations used in Ram\u00edrez-Santos et al. (2018) with an ANN representing membrane behavior and thereby overcome the numerical difficulties arising from discretizing the differential equation."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Machine learning has been widely used to predict different chemical processes and membrane gas separation (McBride1 and Sundmacher, 2018, Kajero et al., 2017, Henao and Maravelias, 2011, Fahmi and Cremaschi, 2012, Dornier et al., 1995b, Alam et al., 2022, Granacher et al., 2021, Khayet and Cojocaru, 2012, Liu et al., 2009, Richard Bowen et al., 2000, Schmitt et al., 2018, Yangali-Quintanilla et al., 2009, Di Pretoro et al., 2022). Prior work has represented physical phenomena with ANNs: these ANNs replace complex differential equations that may lead to numerical problems (Bhosekar and Ierapetritou, 2018, Cozad et al., 2014, McBride1 and Sundmacher, 2018, Rall et al., 2020b, Henao and Maravelias, 2011, Eason and Cremaschi, 2014, Mencarelli et al., 2020).",
+      "text": "Machine learning has been widely used to predict different chemical processes and membrane gas separation (McBride1 and Sundmacher, 2018, Kajero et al., 2017, Henao and Maravelias, 2011, Fahmi and Cremaschi, 2012, Dornier et al., 1995b, Alam et al., 2022, Granacher et al., 2021, Khayet and Cojocaru, 2012, Liu et al., 2009, Richard Bowen et al., 2000, Schmitt et al., 2018, Yangali-Quintanilla et al., 2009, Di Pretoro et al., 2022). Prior work has represented physical phenomena with ANNs: these ANNs replace complex differential equations that may lead to numerical problems (Bhosekar and Ierapetritou, 2018, Cozad et al., 2014, McBride1 and Sundmacher, 2018, Rall et al., 2020b, Henao and Maravelias, 2011, Eason and Cremaschi, 2014, Mencarelli et al., 2020)."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "These papers typically choose bounds for the ANN input variables and generate sample points within these bounds (Ibrahim et al., 2018, Fahmi and Cremaschi, 2012, Henao and Maravelias, 2011, Rall et al., 2019, Rall et al., 2020a, Hu et al., 2021, Asghari et al., 2020), e.g. using a Latin Hypercube (Nuchitprasittichai and Cremaschi, 2012, Cozad et al., 2014, Eason and Cremaschi, 2014, Rall et al., 2020b, Bhosekar and Ierapetritou, 2018). Our paper uses the MEMSIC module (Bounaceur et al., 2017) to simulate a gas permeation membrane embedded into process simulation software. The sampled inputs and the simulator outputs create the dataset to train the ANN.",
+      "text": "These papers typically choose bounds for the ANN input variables and generate sample points within these bounds (Ibrahim et al., 2018, Fahmi and Cremaschi, 2012, Henao and Maravelias, 2011, Rall et al., 2019, Rall et al., 2020a, Hu et al., 2021, Asghari et al., 2020), e.g. using a Latin Hypercube (Nuchitprasittichai and Cremaschi, 2012, Cozad et al., 2014, Eason and Cremaschi, 2014, Rall et al., 2020b, Bhosekar and Ierapetritou, 2018). Our paper uses the MEMSIC module (Bounaceur et al., 2017) to simulate a gas permeation membrane embedded into process simulation software. The sampled inputs and the simulator outputs create the dataset to train the ANN."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Obviously, the size of the training dataset is important (Satyanarayana and Davidson, 2005). Increasing the number of sampling points may increase the ANN accuracy, but it has many drawbacks: generating the data points via the simulator is computationally expensive, the network training becomes more time consuming, and the model itself becomes more complex.",
+      "text": "Obviously, the size of the training dataset is important (Satyanarayana and Davidson, 2005). Increasing the number of sampling points may increase the ANN accuracy, but it has many drawbacks: generating the data points via the simulator is computationally expensive, the network training becomes more time consuming, and the model itself becomes more complex."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Data augmentation has received significant attention in the recent machine learning literature due to the increasing need of producing accurate datasets in reasonable time (Brendel et al., 2017, Papernot et al., 2017, Goodfellow et al., 2014, Antoniou et al., 2017, Volpi et al., 2018, Gao et al., 2019, Sinha et al., 2017, Gao et al., 2020, Magar et al., 2022, Zhou et al., 2020, Devabhaktuni and Zhang, 2000). In chemical and process systems engineering, prior research (i) starts from a small dataset, (ii) integrates new points into areas of interest, and (iii) decides a set of stopping criteria (Eason and Cremaschi, 2014, Asghari et al., 2020, Garud et al., 2017, Tran et al., 2017). Several authors propose sampling-based approaches to automatically augment the data-driven ANN with additional input/output pairs in a region of interest (Eason and Cremaschi, 2014, Cozad et al., 2014, Nuchitprasittichai and Cremaschi, 2012, Garud et al., 2017, Tsymbalov et al., 2018). Adding points to the dataset is important because the membrane behavior is represented by the dataset used for training rather than by mathematical equations (Niu et al., 2022).",
+      "text": "Data augmentation has received significant attention in the recent machine learning literature due to the increasing need of producing accurate datasets in reasonable time (Brendel et al., 2017, Papernot et al., 2017, Goodfellow et al., 2014, Antoniou et al., 2017, Volpi et al., 2018, Gao et al., 2019, Sinha et al., 2017, Gao et al., 2020, Magar et al., 2022, Zhou et al., 2020, Devabhaktuni and Zhang, 2000). In chemical and process systems engineering, prior research (i) starts from a small dataset, (ii) integrates new points into areas of interest, and (iii) decides a set of stopping criteria (Eason and Cremaschi, 2014, Asghari et al., 2020, Garud et al., 2017, Tran et al., 2017). Several authors propose sampling-based approaches to automatically augment the data-driven ANN with additional input/output pairs in a region of interest (Eason and Cremaschi, 2014, Cozad et al., 2014, Nuchitprasittichai and Cremaschi, 2012, Garud et al., 2017, Tsymbalov et al., 2018). Adding points to the dataset is important because the membrane behavior is represented by the dataset used for training rather than by mathematical equations (Niu et al., 2022)."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "In this paper, we use a machine learning model to represent the input/output membrane separation behavior. The resulting surrogate model is inserted into the mathematical programming model allowing us to explore the space of optimal process designs for our case study. The critical point is that the quality of the machine learning model influences the quality of the solutions. Indeed, any solution produced by the mathematical model needs to be simulated by MEMSIC to get the \"real\" performance of that design. The solution of the mathematical model has a predicted purity that always meets the requirements (or the problem would be infeasible), but if the purity estimate is wrong, then the simulation may produce a useless design. If the model was overestimating the purity, the purity requirements will not be satisfied in practice, and the solution must be discarded; if it was underestimating the purity, there may be a large error in the flows or in the areas which may result in too expensive designs.",
+      "text": "In this paper, we use a machine learning model to represent the input/output membrane separation behavior. The resulting surrogate model is inserted into the mathematical programming model allowing us to explore the space of optimal process designs for our case study. The critical point is that the quality of the machine learning model influences the quality of the solutions. Indeed, any solution produced by the mathematical model needs to be simulated by MEMSIC to get the \"real\" performance of that design. The solution of the mathematical model has a predicted purity that always meets the requirements (or the problem would be infeasible), but if the purity estimate is wrong, then the simulation may produce a useless design. If the model was overestimating the purity, the purity requirements will not be satisfied in practice, and the solution must be discarded; if it was underestimating the purity, there may be a large error in the flows or in the areas which may result in too expensive designs."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "As a first step, we build a large training dataset to get an accurate representation of the membrane behavior on the entire span of the membrane functioning. The resulting model can be used successfully in the optimization process, but the computational cost to obtain it is too high. Therefore, the entire process is too expensive to be extensively used in other case studies. To address this issue, we develop a data augmentation algorithm,",
+      "text": "As a first step, we build a large training dataset to get an accurate representation of the membrane behavior on the entire span of the membrane functioning. The resulting model can be used successfully in the optimization process, but the computational cost to obtain it is too high. Therefore, the entire process is too expensive to be extensively used in other case studies. To address this issue, we develop a data augmentation algorithm,"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "ADORO",
+      "text": "ADORO",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(Augmented Dataset driven by Optimization by Random Oscillation), that guides the dataset generation in the regions around the stationary points found by our multistart optimization algorithm for different performances requests (purity and recovery). The core idea is that the model accuracy must be high not everywhere, but only around some regions of interest, namely, the regions around the local optimum points. Unfortunately, these regions are unknown beforehand, not even approximately. Indeed, in multi-stage systems, even the composition of the single stage cannot be determined apriori.",
+      "text": "(Augmented Dataset driven by Optimization by Random Oscillation), that guides the dataset generation in the regions around the stationary points found by our multistart optimization algorithm for different performances requests (purity and recovery). The core idea is that the model accuracy must be high not everywhere, but only around some regions of interest, namely, the regions around the local optimum points. Unfortunately, these regions are unknown beforehand, not even approximately. Indeed, in multi-stage systems, even the composition of the single stage cannot be determined apriori."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Prior work perturbs points close to a global solution, so our focus on multistart is effectively an acknowledgment that, in process operation, there may be limited variation around a few data points (Qin and Chiang, 2019, Thebelt et al., 2022). In our case, only perturbing around the global solution leads to generating too few additional data points and only focusing on solutions that, after scrutiny, turn out to be non-robust. Considering different operating conditions improves both the quality and the robustness of the machine learning model.",
+      "text": "Prior work perturbs points close to a global solution, so our focus on multistart is effectively an acknowledgment that, in process operation, there may be limited variation around a few data points (Qin and Chiang, 2019, Thebelt et al., 2022). In our case, only perturbing around the global solution leads to generating too few additional data points and only focusing on solutions that, after scrutiny, turn out to be non-robust. Considering different operating conditions improves both the quality and the robustness of the machine learning model."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "We compare the new algorithm ADORO with more traditional adversarial augmented data (AAD) approaches from the machine learning literature (Papernot et al., 2017, Volpi et al., 2018). These adversarial data augmentation techniques are mainly used in image recognition, natural language processing, and computer vision. The AugLiChem (Magar et al., 2022) library has been developed for chemical structures: AugLiChem perturbs crystals through random perturbation, axis change, random rotation, etc.",
+      "text": "We compare the new algorithm ADORO with more traditional adversarial augmented data (AAD) approaches from the machine learning literature (Papernot et al., 2017, Volpi et al., 2018). These adversarial data augmentation techniques are mainly used in image recognition, natural language processing, and computer vision. The AugLiChem (Magar et al., 2022) library has been developed for chemical structures: AugLiChem perturbs crystals through random perturbation, axis change, random rotation, etc."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/texts/57"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "The rest of the paper is organized as follows: in Section 2 we detail the machine learning model built starting from the large reference dataset. In Section 3, we describe two data augmentation techniques, one from the literature and our proposal (ADORO), and in Section 4 we discuss the obtained results. Finally, we draw conclusions in Section 5.",
+      "text": "The rest of the paper is organized as follows: in Section 2 we detail the machine learning model built starting from the large reference dataset. In Section 3, we describe two data augmentation techniques, one from the literature and our proposal (ADORO), and in Section 4 we discuss the obtained results. Finally, we draw conclusions in Section 5."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Section snippets",
+      "text": "Section snippets",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Neural network",
+      "text": "Neural network",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/texts/78"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Our machine learning model mimics the stand-alone Fortran version of the MEMSIC simulator described in Fig. 3(a) and Appendix A.",
+      "text": "Our machine learning model mimics the stand-alone Fortran version of the MEMSIC simulator described in Fig. 3(a) and Appendix A."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/texts/78"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "We capture the nonlinear input-output relation using a shallow, multi-layer perceptron network, with one layer of neurons and sigmoid activation. This simple network has useful theoretical approximation properties (Pinkus, 1996). Additionally, because the trained network is then inserted into an optimization problem as equality constraints, the single layer keeps these",
+      "text": "We capture the nonlinear input-output relation using a shallow, multi-layer perceptron network, with one layer of neurons and sigmoid activation. This simple network has useful theoretical approximation properties (Pinkus, 1996). Additionally, because the trained network is then inserted into an optimization problem as equality constraints, the single layer keeps these"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/82"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Data augmentation",
+      "text": "Data augmentation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/texts/81"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Surrogate models have the advantage of reducing computational time in the optimization phase, as they lead to simplified models. Nevertheless, to be effectively used in an optimization strategy, a surrogate model needs two key elements: a high quality in terms of accuracy and a reasonable overall \"creation\" time. High accuracy is necessary for a large span of the variables to obtain a correct description of the optimization problem (feasible region and objective function shape). It is not",
+      "text": "Surrogate models have the advantage of reducing computational time in the optimization phase, as they lead to simplified models. Nevertheless, to be effectively used in an optimization strategy, a surrogate model needs two key elements: a high quality in terms of accuracy and a reasonable overall \"creation\" time. High accuracy is necessary for a large span of the variables to obtain a correct description of the optimization problem (feasible region and objective function shape). It is not"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Discussion",
+      "text": "Discussion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/texts/83"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "We now summarize the experimental results using some global metrics to compare the two proposed augmentation strategies. We chose three indicators to evaluate the effectiveness of the method by means of the quality of the solutions: the overall cost and the simulated purity (see Fig. 15) and the design (Fig. 16). The design and the cost allow us to evaluate the solution for the industrial application, the simulated purity translates into the practical feasibility of the solutions. Furthermore,",
+      "text": "We now summarize the experimental results using some global metrics to compare the two proposed augmentation strategies. We chose three indicators to evaluate the effectiveness of the method by means of the quality of the solutions: the overall cost and the simulated purity (see Fig. 15) and the design (Fig. 16). The design and the cost allow us to evaluate the solution for the industrial application, the simulated purity translates into the practical feasibility of the solutions. Furthermore,"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/86"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Conclusion",
+      "text": "Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/texts/85"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "It is already well-known that data-driven, machine learning models are vulnerable to inaccuracies outside the domain of their training data (Schweidtmann et al., 2021). It is also well-known that adversarial data augmentation is a useful tool for increasing the trustworthiness of machine learning models. This paper explores the possibility of augmenting the training data with points selected by multistart optimization procedure. This data augmentation strategy implicitly uses the way",
+      "text": "It is already well-known that data-driven, machine learning models are vulnerable to inaccuracies outside the domain of their training data (Schweidtmann et al., 2021). It is also well-known that adversarial data augmentation is a useful tool for increasing the trustworthiness of machine learning models. This paper explores the possibility of augmenting the training data with points selected by multistart optimization procedure. This data augmentation strategy implicitly uses the way"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "CRediT authorship contribution statement",
+      "text": "CRediT authorship contribution statement",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Bernardetta Addis:",
+      "text": "Bernardetta Addis:",
+      "formatting": {
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Wrote (and revised) the methods and computational results sections, Formulated the idea of using machine learning in the optimization model and supervised the development of the ADORO data-augmentation strategy. Supervised all the computational experiments and the analysis of the results.",
+      "text": "Wrote (and revised) the methods and computational results sections, Formulated the idea of using machine learning in the optimization model and supervised the development of the ADORO data-augmentation strategy. Supervised all the computational experiments and the analysis of the results."
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Christophe Castel:",
+      "text": "Christophe Castel:",
+      "formatting": {
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Proposed the case study and provided the simulation tools and the physical knowledge of the problem, Analysis of the results, Provided feedback on the industrial point of",
+      "text": "Proposed the case study and provided the simulation tools and the physical knowledge of the problem, Analysis of the results, Provided feedback on the industrial point of"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/93"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Declaration of competing interest",
+      "text": "Declaration of competing interest",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/texts/92"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+      "text": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Acknowledgments",
+      "text": "Acknowledgments",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/texts/94"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Amalia Macali gratefully acknowledges the Dreams funding granted by the University of Lorraine, France .",
+      "text": "Amalia Macali gratefully acknowledges the Dreams funding granted by the University of Lorraine, France ."
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/texts/94"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Ruth Misener gratefully acknowledges an Engineering & Physical Sciences Research Council Fellowship, UK (grant no. EP/P016871/1 ) and a BASF/Royal Academy of Engineering Research Chair in Data-Driven Optimization .",
+      "text": "Ruth Misener gratefully acknowledges an Engineering & Physical Sciences Research Council Fellowship, UK (grant no. EP/P016871/1 ) and a BASF/Royal Academy of Engineering Research Chair in Data-Driven Optimization ."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/texts/94"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Veronica Piccialli gratefully acknowledges the SEED-PNR H2OptLearn funding granted by Sapienza University of Rome, Italy .",
+      "text": "Veronica Piccialli gratefully acknowledges the SEED-PNR H2OptLearn funding granted by Sapienza University of Rome, Italy ."
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/texts/94"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Part of the experiments presented in this paper were carried",
+      "text": "Part of the experiments presented in this paper were carried"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/texts/94"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Recommended articles",
+      "text": "Recommended articles"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/19"
+        },
+        {
+          "$ref": "#/groups/30"
+        },
+        {
+          "$ref": "#/texts/153"
+        },
+        {
+          "$ref": "#/texts/154"
+        },
+        {
+          "$ref": "#/texts/158"
+        },
+        {
+          "$ref": "#/texts/159"
+        },
+        {
+          "$ref": "#/texts/163"
+        },
+        {
+          "$ref": "#/texts/164"
+        },
+        {
+          "$ref": "#/texts/168"
+        },
+        {
+          "$ref": "#/texts/169"
+        },
+        {
+          "$ref": "#/texts/173"
+        },
+        {
+          "$ref": "#/texts/174"
+        },
+        {
+          "$ref": "#/texts/178"
+        },
+        {
+          "$ref": "#/texts/179"
+        },
+        {
+          "$ref": "#/texts/183"
+        },
+        {
+          "$ref": "#/texts/184"
+        },
+        {
+          "$ref": "#/texts/188"
+        },
+        {
+          "$ref": "#/texts/189"
+        },
+        {
+          "$ref": "#/texts/193"
+        },
+        {
+          "$ref": "#/texts/194"
+        },
+        {
+          "$ref": "#/texts/198"
+        },
+        {
+          "$ref": "#/texts/199"
+        },
+        {
+          "$ref": "#/texts/203"
+        },
+        {
+          "$ref": "#/texts/204"
+        },
+        {
+          "$ref": "#/texts/208"
+        },
+        {
+          "$ref": "#/texts/209"
+        },
+        {
+          "$ref": "#/texts/213"
+        },
+        {
+          "$ref": "#/texts/214"
+        },
+        {
+          "$ref": "#/texts/218"
+        },
+        {
+          "$ref": "#/texts/219"
+        },
+        {
+          "$ref": "#/texts/223"
+        },
+        {
+          "$ref": "#/texts/226"
+        },
+        {
+          "$ref": "#/texts/227"
+        },
+        {
+          "$ref": "#/texts/231"
+        },
+        {
+          "$ref": "#/texts/232"
+        },
+        {
+          "$ref": "#/texts/236"
+        },
+        {
+          "$ref": "#/texts/237"
+        },
+        {
+          "$ref": "#/texts/240"
+        },
+        {
+          "$ref": "#/texts/241"
+        },
+        {
+          "$ref": "#/texts/245"
+        },
+        {
+          "$ref": "#/texts/246"
+        },
+        {
+          "$ref": "#/texts/250"
+        },
+        {
+          "$ref": "#/texts/251"
+        },
+        {
+          "$ref": "#/texts/255"
+        },
+        {
+          "$ref": "#/texts/256"
+        },
+        {
+          "$ref": "#/texts/260"
+        },
+        {
+          "$ref": "#/texts/261"
+        },
+        {
+          "$ref": "#/texts/265"
+        },
+        {
+          "$ref": "#/texts/266"
+        },
+        {
+          "$ref": "#/texts/270"
+        },
+        {
+          "$ref": "#/texts/271"
+        },
+        {
+          "$ref": "#/texts/275"
+        },
+        {
+          "$ref": "#/texts/276"
+        },
+        {
+          "$ref": "#/texts/280"
+        },
+        {
+          "$ref": "#/texts/281"
+        },
+        {
+          "$ref": "#/texts/285"
+        },
+        {
+          "$ref": "#/texts/286"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "References (77)",
+      "text": "References (77)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/20"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Alam G.",
+      "text": "Alam G."
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Applications of artificial intelligence in water treatment for optimization and automation of adsorption processes: Recent advances and prospects",
+      "text": "Applications of artificial intelligence in water treatment for optimization and automation of adsorption processes: Recent advances and prospects",
+      "hyperlink": "\\science\\article\\pii\\S1385894721015965"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Chem. Eng. J. (2022)",
+      "text": "Chem. Eng. J. (2022)"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/21"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Arias A.M.",
+      "text": "Arias A.M."
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Optimization of multi-stage membrane systems for CO2 capture from flue gas",
+      "text": "Optimization of multi-stage membrane systems for CO2 capture from flue gas",
+      "hyperlink": "\\science\\article\\pii\\S1750583616304662"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Int. J. Greenh. Gas Control (2016)",
+      "text": "Int. J. Greenh. Gas Control (2016)"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/22"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Bhosekar A.",
+      "text": "Bhosekar A."
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Advances in surrogate based modeling, feasibility analysis, and optimization: A review",
+      "text": "Advances in surrogate based modeling, feasibility analysis, and optimization: A review",
+      "hyperlink": "\\science\\article\\pii\\S0098135417303228"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Comput. Chem. Eng. (2018)",
+      "text": "Comput. Chem. Eng. (2018)"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/23"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/23"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Bounaceur R.",
+      "text": "Bounaceur R."
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/23"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/23"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Rigorous variable permeability modelling and process simulation for the design of polymeric membrane gas separation units: MEMSIC simulation tool",
+      "text": "Rigorous variable permeability modelling and process simulation for the design of polymeric membrane gas separation units: MEMSIC simulation tool",
+      "hyperlink": "\\science\\article\\pii\\S0376738816310742"
+    },
+    {
+      "self_ref": "#/texts/120",
+      "parent": {
+        "$ref": "#/groups/23"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "J. Membr. Sci. (2017)",
+      "text": "J. Membr. Sci. (2017)"
+    },
+    {
+      "self_ref": "#/texts/121",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/122",
+      "parent": {
+        "$ref": "#/groups/24"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Di Pretoro A.",
+      "text": "Di Pretoro A."
+    },
+    {
+      "self_ref": "#/texts/123",
+      "parent": {
+        "$ref": "#/groups/24"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/124",
+      "parent": {
+        "$ref": "#/groups/24"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Demand response scheduling using derivative-based dynamic surrogate models",
+      "text": "Demand response scheduling using derivative-based dynamic surrogate models",
+      "hyperlink": "\\science\\article\\pii\\S0098135422000540"
+    },
+    {
+      "self_ref": "#/texts/125",
+      "parent": {
+        "$ref": "#/groups/24"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Comput. Chem. Eng. (2022)",
+      "text": "Comput. Chem. Eng. (2022)"
+    },
+    {
+      "self_ref": "#/texts/126",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/127",
+      "parent": {
+        "$ref": "#/groups/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Dornier M.",
+      "text": "Dornier M."
+    },
+    {
+      "self_ref": "#/texts/128",
+      "parent": {
+        "$ref": "#/groups/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/129",
+      "parent": {
+        "$ref": "#/groups/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Dynamic modeling of crossflow microfiltration using neural networks",
+      "text": "Dynamic modeling of crossflow microfiltration using neural networks",
+      "hyperlink": "\\science\\article\\pii\\0376738894001955"
+    },
+    {
+      "self_ref": "#/texts/130",
+      "parent": {
+        "$ref": "#/groups/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "J. Membr. Sci. (1995)",
+      "text": "J. Membr. Sci. (1995)"
+    },
+    {
+      "self_ref": "#/texts/131",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/26"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/132",
+      "parent": {
+        "$ref": "#/groups/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Dornier M.",
+      "text": "Dornier M."
+    },
+    {
+      "self_ref": "#/texts/133",
+      "parent": {
+        "$ref": "#/groups/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/134",
+      "parent": {
+        "$ref": "#/groups/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Interest of neural networks for the optimization of the crossflow filtration process",
+      "text": "Interest of neural networks for the optimization of the crossflow filtration process",
+      "hyperlink": "\\science\\article\\pii\\S0023643895943641"
+    },
+    {
+      "self_ref": "#/texts/135",
+      "parent": {
+        "$ref": "#/groups/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "LWT - Food Sci. Technol. (1995)",
+      "text": "LWT - Food Sci. Technol. (1995)"
+    },
+    {
+      "self_ref": "#/texts/136",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/137",
+      "parent": {
+        "$ref": "#/groups/27"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Eason J.",
+      "text": "Eason J."
+    },
+    {
+      "self_ref": "#/texts/138",
+      "parent": {
+        "$ref": "#/groups/27"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/139",
+      "parent": {
+        "$ref": "#/groups/27"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Adaptive sequential sampling for surrogate model generation with artificial neural networks",
+      "text": "Adaptive sequential sampling for surrogate model generation with artificial neural networks",
+      "hyperlink": "\\science\\article\\pii\\S0098135414001719"
+    },
+    {
+      "self_ref": "#/texts/140",
+      "parent": {
+        "$ref": "#/groups/27"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Comput. Chem. Eng. (2014)",
+      "text": "Comput. Chem. Eng. (2014)"
+    },
+    {
+      "self_ref": "#/texts/141",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/28"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/142",
+      "parent": {
+        "$ref": "#/groups/28"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Fahmi I.",
+      "text": "Fahmi I."
+    },
+    {
+      "self_ref": "#/texts/143",
+      "parent": {
+        "$ref": "#/groups/28"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/144",
+      "parent": {
+        "$ref": "#/groups/28"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Process synthesis of biodiesel production plant using artificial neural networks as the surrogate models",
+      "text": "Process synthesis of biodiesel production plant using artificial neural networks as the surrogate models",
+      "hyperlink": "\\science\\article\\pii\\S0098135412001822"
+    },
+    {
+      "self_ref": "#/texts/145",
+      "parent": {
+        "$ref": "#/groups/28"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Comput. Chem. Eng. (2012)",
+      "text": "Comput. Chem. Eng. (2012)"
+    },
+    {
+      "self_ref": "#/texts/146",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/147",
+      "parent": {
+        "$ref": "#/groups/29"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Gabrielli P.",
+      "text": "Gabrielli P."
+    },
+    {
+      "self_ref": "#/texts/148",
+      "parent": {
+        "$ref": "#/groups/29"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/149",
+      "parent": {
+        "$ref": "#/groups/29"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "On the optimal design of membrane-based gas separation processes",
+      "text": "On the optimal design of membrane-based gas separation processes",
+      "hyperlink": "\\science\\article\\pii\\S0376738816311048"
+    },
+    {
+      "self_ref": "#/texts/150",
+      "parent": {
+        "$ref": "#/groups/29"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "J. Membr. Sci. (2017)",
+      "text": "J. Membr. Sci. (2017)"
+    },
+    {
+      "self_ref": "#/texts/151",
+      "parent": {
+        "$ref": "#/groups/30"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Gao X.",
+      "text": "Gao X."
+    },
+    {
+      "self_ref": "#/texts/152",
+      "parent": {
+        "$ref": "#/groups/30"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/153",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Data augmentation in fault diagnosis based on the wasserstein generative adversarial network with gradient penalty",
+      "text": "Data augmentation in fault diagnosis based on the wasserstein generative adversarial network with gradient penalty",
+      "hyperlink": "\\science\\article\\pii\\S0925231219304953",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/154",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/155"
+        },
+        {
+          "$ref": "#/groups/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Neurocomputing",
+      "text": "Neurocomputing",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/155",
+      "parent": {
+        "$ref": "#/texts/154"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2020)",
+      "text": "(2020)"
+    },
+    {
+      "self_ref": "#/texts/156",
+      "parent": {
+        "$ref": "#/groups/31"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Garud S.S.",
+      "text": "Garud S.S."
+    },
+    {
+      "self_ref": "#/texts/157",
+      "parent": {
+        "$ref": "#/groups/31"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/158",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Smart sampling algorithm for surrogate model development",
+      "text": "Smart sampling algorithm for surrogate model development",
+      "hyperlink": "\\science\\article\\pii\\S0098135416303210",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/159",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/160"
+        },
+        {
+          "$ref": "#/groups/32"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Comput. Chem. Eng.",
+      "text": "Comput. Chem. Eng.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/160",
+      "parent": {
+        "$ref": "#/texts/159"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2017)",
+      "text": "(2017)"
+    },
+    {
+      "self_ref": "#/texts/161",
+      "parent": {
+        "$ref": "#/groups/32"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Hamachi M.",
+      "text": "Hamachi M."
+    },
+    {
+      "self_ref": "#/texts/162",
+      "parent": {
+        "$ref": "#/groups/32"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/163",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Dynamic modelling of crossflow microfiltration of bentonite suspension using recurrent neural networks",
+      "text": "Dynamic modelling of crossflow microfiltration of bentonite suspension using recurrent neural networks",
+      "hyperlink": "\\science\\article\\pii\\S0255270199000045",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/164",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/165"
+        },
+        {
+          "$ref": "#/groups/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Chem. Eng. Process.: Process Intensif.",
+      "text": "Chem. Eng. Process.: Process Intensif.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/165",
+      "parent": {
+        "$ref": "#/texts/164"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(1999)",
+      "text": "(1999)"
+    },
+    {
+      "self_ref": "#/texts/166",
+      "parent": {
+        "$ref": "#/groups/33"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Hu J.",
+      "text": "Hu J."
+    },
+    {
+      "self_ref": "#/texts/167",
+      "parent": {
+        "$ref": "#/groups/33"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/168",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Artificial intelligence for performance prediction of organic solvent nanofiltration membranes",
+      "text": "Artificial intelligence for performance prediction of organic solvent nanofiltration membranes",
+      "hyperlink": "\\science\\article\\pii\\S0376738820310905",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/169",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/170"
+        },
+        {
+          "$ref": "#/groups/34"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "J. Membr. Sci.",
+      "text": "J. Membr. Sci.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/170",
+      "parent": {
+        "$ref": "#/texts/169"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2021)",
+      "text": "(2021)"
+    },
+    {
+      "self_ref": "#/texts/171",
+      "parent": {
+        "$ref": "#/groups/34"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Ibrahim D.",
+      "text": "Ibrahim D."
+    },
+    {
+      "self_ref": "#/texts/172",
+      "parent": {
+        "$ref": "#/groups/34"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/173",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Optimization-based design of crude oil distillation units using surrogate column models and a support vector machine",
+      "text": "Optimization-based design of crude oil distillation units using surrogate column models and a support vector machine",
+      "hyperlink": "\\science\\article\\pii\\S0263876218301126",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/174",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/175"
+        },
+        {
+          "$ref": "#/groups/35"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Chem. Eng. Res. Des.",
+      "text": "Chem. Eng. Res. Des.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/175",
+      "parent": {
+        "$ref": "#/texts/174"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2018)",
+      "text": "(2018)"
+    },
+    {
+      "self_ref": "#/texts/176",
+      "parent": {
+        "$ref": "#/groups/35"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Kajero O.T.",
+      "text": "Kajero O.T."
+    },
+    {
+      "self_ref": "#/texts/177",
+      "parent": {
+        "$ref": "#/groups/35"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/178",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Meta-modelling in chemical process system engineering",
+      "text": "Meta-modelling in chemical process system engineering",
+      "hyperlink": "\\science\\article\\pii\\S1876107016304345",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/179",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/180"
+        },
+        {
+          "$ref": "#/groups/36"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "J. Taiwan Inst. Chem. Eng.",
+      "text": "J. Taiwan Inst. Chem. Eng.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/180",
+      "parent": {
+        "$ref": "#/texts/179"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2017)",
+      "text": "(2017)"
+    },
+    {
+      "self_ref": "#/texts/181",
+      "parent": {
+        "$ref": "#/groups/36"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Khayet M.",
+      "text": "Khayet M."
+    },
+    {
+      "self_ref": "#/texts/182",
+      "parent": {
+        "$ref": "#/groups/36"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/183",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Artificial neural network modeling and optimization of desalination by air gap membrane distillation",
+      "text": "Artificial neural network modeling and optimization of desalination by air gap membrane distillation",
+      "hyperlink": "\\science\\article\\pii\\S1383586611006459",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/184",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/185"
+        },
+        {
+          "$ref": "#/groups/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Sep. Purif. Technol.",
+      "text": "Sep. Purif. Technol.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/185",
+      "parent": {
+        "$ref": "#/texts/184"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2012)",
+      "text": "(2012)"
+    },
+    {
+      "self_ref": "#/texts/186",
+      "parent": {
+        "$ref": "#/groups/37"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Kim S.H.",
+      "text": "Kim S.H."
+    },
+    {
+      "self_ref": "#/texts/187",
+      "parent": {
+        "$ref": "#/groups/37"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/188",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Surrogate-based optimization for mixed-integer nonlinear problems",
+      "text": "Surrogate-based optimization for mixed-integer nonlinear problems",
+      "hyperlink": "\\science\\article\\pii\\S0098135419306970",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/189",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/190"
+        },
+        {
+          "$ref": "#/groups/38"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Comput. Chem. Eng.",
+      "text": "Comput. Chem. Eng.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/190",
+      "parent": {
+        "$ref": "#/texts/189"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2020)",
+      "text": "(2020)"
+    },
+    {
+      "self_ref": "#/texts/191",
+      "parent": {
+        "$ref": "#/groups/38"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Lin H.",
+      "text": "Lin H."
+    },
+    {
+      "self_ref": "#/texts/192",
+      "parent": {
+        "$ref": "#/groups/38"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/193",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "CO2-selective membranes for hydrogen production and CO2 capture \u2013 Part II: Techno-economic analysis",
+      "text": "CO2-selective membranes for hydrogen production and CO2 capture - Part II: Techno-economic analysis",
+      "hyperlink": "\\science\\article\\pii\\S0376738815001635",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/194",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/195"
+        },
+        {
+          "$ref": "#/groups/39"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "J. Membr. Sci.",
+      "text": "J. Membr. Sci.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/195",
+      "parent": {
+        "$ref": "#/texts/194"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2015)",
+      "text": "(2015)"
+    },
+    {
+      "self_ref": "#/texts/196",
+      "parent": {
+        "$ref": "#/groups/39"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Lin H.",
+      "text": "Lin H."
+    },
+    {
+      "self_ref": "#/texts/197",
+      "parent": {
+        "$ref": "#/groups/39"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/198",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "CO2-selective membranes for hydrogen production and CO2 capture \u2013 Part I: Membrane development",
+      "text": "CO2-selective membranes for hydrogen production and CO2 capture - Part I: Membrane development",
+      "hyperlink": "\\science\\article\\pii\\S0376738814000337",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/199",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/200"
+        },
+        {
+          "$ref": "#/groups/40"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "J. Membr. Sci.",
+      "text": "J. Membr. Sci.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/200",
+      "parent": {
+        "$ref": "#/texts/199"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2014)",
+      "text": "(2014)"
+    },
+    {
+      "self_ref": "#/texts/201",
+      "parent": {
+        "$ref": "#/groups/40"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Lin H.",
+      "text": "Lin H."
+    },
+    {
+      "self_ref": "#/texts/202",
+      "parent": {
+        "$ref": "#/groups/40"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/203",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "CO2-selective membranes for hydrogen production and CO2 capture \u2013 Part I: Membrane development",
+      "text": "CO2-selective membranes for hydrogen production and CO2 capture - Part I: Membrane development",
+      "hyperlink": "\\science\\article\\pii\\S0376738814000337",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/204",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/205"
+        },
+        {
+          "$ref": "#/groups/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "J. Membr. Sci.",
+      "text": "J. Membr. Sci.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/205",
+      "parent": {
+        "$ref": "#/texts/204"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2014)",
+      "text": "(2014)"
+    },
+    {
+      "self_ref": "#/texts/206",
+      "parent": {
+        "$ref": "#/groups/41"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Liu Q.-F.",
+      "text": "Liu Q.-F."
+    },
+    {
+      "self_ref": "#/texts/207",
+      "parent": {
+        "$ref": "#/groups/41"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/208",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Prediction of microfiltration membrane fouling using artificial neural network models",
+      "text": "Prediction of microfiltration membrane fouling using artificial neural network models",
+      "hyperlink": "\\science\\article\\pii\\S1383586609003694",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/209",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/210"
+        },
+        {
+          "$ref": "#/groups/42"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Sep. Purif. Technol.",
+      "text": "Sep. Purif. Technol.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/210",
+      "parent": {
+        "$ref": "#/texts/209"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2009)",
+      "text": "(2009)"
+    },
+    {
+      "self_ref": "#/texts/211",
+      "parent": {
+        "$ref": "#/groups/42"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Mencarelli L.",
+      "text": "Mencarelli L."
+    },
+    {
+      "self_ref": "#/texts/212",
+      "parent": {
+        "$ref": "#/groups/42"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/213",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "A review on superstructure optimization approaches in process system engineering",
+      "text": "A review on superstructure optimization approaches in process system engineering",
+      "hyperlink": "\\science\\article\\pii\\S0098135419313924",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/214",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/215"
+        },
+        {
+          "$ref": "#/groups/43"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Comput. Chem. Eng.",
+      "text": "Comput. Chem. Eng.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/215",
+      "parent": {
+        "$ref": "#/texts/214"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2020)",
+      "text": "(2020)"
+    },
+    {
+      "self_ref": "#/texts/216",
+      "parent": {
+        "$ref": "#/groups/43"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Merkel T.C.",
+      "text": "Merkel T.C."
+    },
+    {
+      "self_ref": "#/texts/217",
+      "parent": {
+        "$ref": "#/groups/43"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/218",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Carbon dioxide capture with membranes at an IGCC power plant",
+      "text": "Carbon dioxide capture with membranes at an IGCC power plant",
+      "hyperlink": "\\science\\article\\pii\\S0376738811008283",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/219",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/220"
+        },
+        {
+          "$ref": "#/groups/44"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "J. Membr. Sci.",
+      "text": "J. Membr. Sci.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/220",
+      "parent": {
+        "$ref": "#/texts/219"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2012)",
+      "text": "(2012)"
+    },
+    {
+      "self_ref": "#/texts/221",
+      "parent": {
+        "$ref": "#/groups/44"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Neveux T.",
+      "text": "Neveux T."
+    },
+    {
+      "self_ref": "#/texts/222",
+      "parent": {
+        "$ref": "#/groups/44"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/223",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/45"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "A comparison of process synthesis approaches for multistage separation processes by gas permeation",
+      "text": "A comparison of process synthesis approaches for multistage separation processes by gas permeation",
+      "hyperlink": "\\science\\article\\pii\\B9780323958790501156",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/224",
+      "parent": {
+        "$ref": "#/groups/45"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Niu C.",
+      "text": "Niu C."
+    },
+    {
+      "self_ref": "#/texts/225",
+      "parent": {
+        "$ref": "#/groups/45"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/226",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Artificial intelligence-incorporated membrane fouling prediction for membrane-based processes in the past 20 years: A critical review",
+      "text": "Artificial intelligence-incorporated membrane fouling prediction for membrane-based processes in the past 20 years: A critical review",
+      "hyperlink": "\\science\\article\\pii\\S0043135422002627",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/227",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/228"
+        },
+        {
+          "$ref": "#/groups/46"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Water Res.",
+      "text": "Water Res.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/228",
+      "parent": {
+        "$ref": "#/texts/227"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2022)",
+      "text": "(2022)"
+    },
+    {
+      "self_ref": "#/texts/229",
+      "parent": {
+        "$ref": "#/groups/46"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Ohs B.",
+      "text": "Ohs B."
+    },
+    {
+      "self_ref": "#/texts/230",
+      "parent": {
+        "$ref": "#/groups/46"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/231",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Optimization of membrane based nitrogen removal from natural gas",
+      "text": "Optimization of membrane based nitrogen removal from natural gas",
+      "hyperlink": "\\science\\article\\pii\\S0376738815302374",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/232",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/233"
+        },
+        {
+          "$ref": "#/groups/47"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "J. Membr. Sci.",
+      "text": "J. Membr. Sci.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/233",
+      "parent": {
+        "$ref": "#/texts/232"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2016)",
+      "text": "(2016)"
+    },
+    {
+      "self_ref": "#/texts/234",
+      "parent": {
+        "$ref": "#/groups/47"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Paulson J.A.",
+      "text": "Paulson J.A."
+    },
+    {
+      "self_ref": "#/texts/235",
+      "parent": {
+        "$ref": "#/groups/47"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/236",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "COBALT: Constrained Bayesian optimization of computationally expensive grey-box models exploiting derivative information",
+      "text": "COBALT: Constrained Bayesian optimization of computationally expensive grey-box models exploiting derivative information",
+      "hyperlink": "\\science\\article\\pii\\S0098135422000436",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/237",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/238"
+        },
+        {
+          "$ref": "#/texts/239"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Comput. Chem. Eng.",
+      "text": "Comput. Chem. Eng.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/238",
+      "parent": {
+        "$ref": "#/texts/237"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2022)",
+      "text": "(2022)"
+    },
+    {
+      "self_ref": "#/texts/239",
+      "parent": {
+        "$ref": "#/texts/237"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Pinkus A.",
+      "text": "Pinkus A."
+    },
+    {
+      "self_ref": "#/texts/240",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "TDI-subspaces ofc(rd) and some density problems from neural networks",
+      "text": "TDI-subspaces ofc(rd) and some density problems from neural networks",
+      "hyperlink": "\\science\\article\\pii\\S0021904596900428",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/241",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/242"
+        },
+        {
+          "$ref": "#/groups/48"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "J. Approx. Theory",
+      "text": "J. Approx. Theory",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/242",
+      "parent": {
+        "$ref": "#/texts/241"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(1996)",
+      "text": "(1996)"
+    },
+    {
+      "self_ref": "#/texts/243",
+      "parent": {
+        "$ref": "#/groups/48"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Piron E.",
+      "text": "Piron E."
+    },
+    {
+      "self_ref": "#/texts/244",
+      "parent": {
+        "$ref": "#/groups/48"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/245",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Application of artificial neural networks for crossflow microfiltration modelling: \u201cblack-box\u201d and semi-physical approaches",
+      "text": "Application of artificial neural networks for crossflow microfiltration modelling: \"black-box\" and semi-physical approaches",
+      "hyperlink": "\\science\\article\\pii\\S0098135496003328",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/246",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/247"
+        },
+        {
+          "$ref": "#/groups/49"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Comput. Chem. Eng.",
+      "text": "Comput. Chem. Eng.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/247",
+      "parent": {
+        "$ref": "#/texts/246"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(1997)",
+      "text": "(1997)"
+    },
+    {
+      "self_ref": "#/texts/248",
+      "parent": {
+        "$ref": "#/groups/49"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Qi R.",
+      "text": "Qi R."
+    },
+    {
+      "self_ref": "#/texts/249",
+      "parent": {
+        "$ref": "#/groups/49"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/250",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Membrane system design for multicomponent gas mixtures via mixed-integer nonlinear programming",
+      "text": "Membrane system design for multicomponent gas mixtures via mixed-integer nonlinear programming",
+      "hyperlink": "\\science\\article\\pii\\S0098135400006256",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/251",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/252"
+        },
+        {
+          "$ref": "#/groups/50"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Comput. Chem. Eng.",
+      "text": "Comput. Chem. Eng.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/252",
+      "parent": {
+        "$ref": "#/texts/251"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2000)",
+      "text": "(2000)"
+    },
+    {
+      "self_ref": "#/texts/253",
+      "parent": {
+        "$ref": "#/groups/50"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Qin S.J.",
+      "text": "Qin S.J."
+    },
+    {
+      "self_ref": "#/texts/254",
+      "parent": {
+        "$ref": "#/groups/50"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/255",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Advances and opportunities in machine learning for process data analytics",
+      "text": "Advances and opportunities in machine learning for process data analytics",
+      "hyperlink": "\\science\\article\\pii\\S0098135419302248",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/256",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/257"
+        },
+        {
+          "$ref": "#/groups/51"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Comput. Chem. Eng.",
+      "text": "Comput. Chem. Eng.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/257",
+      "parent": {
+        "$ref": "#/texts/256"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2019)",
+      "text": "(2019)"
+    },
+    {
+      "self_ref": "#/texts/258",
+      "parent": {
+        "$ref": "#/groups/51"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Rall D.",
+      "text": "Rall D."
+    },
+    {
+      "self_ref": "#/texts/259",
+      "parent": {
+        "$ref": "#/groups/51"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/260",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Rational design of ion separation membranes",
+      "text": "Rational design of ion separation membranes",
+      "hyperlink": "\\science\\article\\pii\\S0376738818324293",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/261",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/262"
+        },
+        {
+          "$ref": "#/groups/52"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "J. Membr. Sci.",
+      "text": "J. Membr. Sci.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/262",
+      "parent": {
+        "$ref": "#/texts/261"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2019)",
+      "text": "(2019)"
+    },
+    {
+      "self_ref": "#/texts/263",
+      "parent": {
+        "$ref": "#/groups/52"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Rall D.",
+      "text": "Rall D."
+    },
+    {
+      "self_ref": "#/texts/264",
+      "parent": {
+        "$ref": "#/groups/52"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/265",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Simultaneous rational design of ion separation membranes and processes",
+      "text": "Simultaneous rational design of ion separation membranes and processes",
+      "hyperlink": "\\science\\article\\pii\\S0376738819322112",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/266",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/267"
+        },
+        {
+          "$ref": "#/groups/53"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "J. Membr. Sci.",
+      "text": "J. Membr. Sci.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/267",
+      "parent": {
+        "$ref": "#/texts/266"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2020)",
+      "text": "(2020)"
+    },
+    {
+      "self_ref": "#/texts/268",
+      "parent": {
+        "$ref": "#/groups/53"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Rall D.",
+      "text": "Rall D."
+    },
+    {
+      "self_ref": "#/texts/269",
+      "parent": {
+        "$ref": "#/groups/53"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/270",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Multi-scale membrane process optimization with high-fidelity ion transport models through machine learning",
+      "text": "Multi-scale membrane process optimization with high-fidelity ion transport models through machine learning",
+      "hyperlink": "\\science\\article\\pii\\S0376738820307869",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/271",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/272"
+        },
+        {
+          "$ref": "#/groups/54"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "J. Membr. Sci.",
+      "text": "J. Membr. Sci.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/272",
+      "parent": {
+        "$ref": "#/texts/271"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2020)",
+      "text": "(2020)"
+    },
+    {
+      "self_ref": "#/texts/273",
+      "parent": {
+        "$ref": "#/groups/54"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Ram\u00edrez-Santos \u00c1.",
+      "text": "Ram\u00edrez-Santos \u00c1."
+    },
+    {
+      "self_ref": "#/texts/274",
+      "parent": {
+        "$ref": "#/groups/54"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/275",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Optimization of multistage membrane gas separation processes. Example of application to CO2 capture from blast furnace gas",
+      "text": "Optimization of multistage membrane gas separation processes. Example of application to CO2 capture from blast furnace gas",
+      "hyperlink": "\\science\\article\\pii\\S0376738818317824",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/276",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/277"
+        },
+        {
+          "$ref": "#/groups/55"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "J. Membr. Sci.",
+      "text": "J. Membr. Sci.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/277",
+      "parent": {
+        "$ref": "#/texts/276"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2018)",
+      "text": "(2018)"
+    },
+    {
+      "self_ref": "#/texts/278",
+      "parent": {
+        "$ref": "#/groups/55"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Richard Bowen W.",
+      "text": "Richard Bowen W."
+    },
+    {
+      "self_ref": "#/texts/279",
+      "parent": {
+        "$ref": "#/groups/55"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/280",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Predicting salt rejections at nanofiltration membranes using artificial neural networks",
+      "text": "Predicting salt rejections at nanofiltration membranes using artificial neural networks",
+      "hyperlink": "\\science\\article\\pii\\S0011916400000576",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/281",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/282"
+        },
+        {
+          "$ref": "#/groups/56"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Desalination",
+      "text": "Desalination",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/282",
+      "parent": {
+        "$ref": "#/texts/281"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2000)",
+      "text": "(2000)"
+    },
+    {
+      "self_ref": "#/texts/283",
+      "parent": {
+        "$ref": "#/groups/56"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Schmitt F.",
+      "text": "Schmitt F."
+    },
+    {
+      "self_ref": "#/texts/284",
+      "parent": {
+        "$ref": "#/groups/56"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "et al.",
+      "text": "et al.",
+      "formatting": {
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      }
+    },
+    {
+      "self_ref": "#/texts/285",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Development of artificial neural networks to predict membrane fouling in an anoxic-aerobic membrane bioreactor treating domestic wastewater",
+      "text": "Development of artificial neural networks to predict membrane fouling in an anoxic-aerobic membrane bioreactor treating domestic wastewater",
+      "hyperlink": "\\science\\article\\pii\\S1369703X18300469",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/286",
+      "parent": {
+        "$ref": "#/texts/100"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/287"
+        },
+        {
+          "$ref": "#/texts/288"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Biochem. Eng. J.",
+      "text": "Biochem. Eng. J.",
+      "level": 2
+    },
+    {
+      "self_ref": "#/texts/287",
+      "parent": {
+        "$ref": "#/texts/286"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "(2018)",
+      "text": "(2018)"
+    },
+    {
+      "self_ref": "#/texts/288",
+      "parent": {
+        "$ref": "#/texts/286"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "View more references",
+      "text": "View more references"
+    },
+    {
+      "self_ref": "#/texts/289",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/290"
+        },
+        {
+          "$ref": "#/texts/291"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Cited by (0)",
+      "text": "Cited by (0)",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/290",
+      "parent": {
+        "$ref": "#/texts/289"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "View full text",
+      "text": "View full text",
+      "hyperlink": "\\science\\article\\pii\\S0098135423002120"
+    },
+    {
+      "self_ref": "#/texts/291",
+      "parent": {
+        "$ref": "#/texts/289"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "\u00a9 2023 Elsevier Ltd. All rights reserved.",
+      "text": "\u00a9 2023 Elsevier Ltd. All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/292",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/57"
+        },
+        {
+          "$ref": "#/texts/311"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Recommended articles",
+      "text": "Recommended articles",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/293",
+      "parent": {
+        "$ref": "#/groups/57"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/58"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/294",
+      "parent": {
+        "$ref": "#/groups/58"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "A comparison of process synthesis approaches for multistage separation processes by gas permeation",
+      "text": "A comparison of process synthesis approaches for multistage separation processes by gas permeation",
+      "hyperlink": "\\science\\article\\pii\\B9780323958790501156"
+    },
+    {
+      "self_ref": "#/texts/295",
+      "parent": {
+        "$ref": "#/groups/58"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Computer Aided Chemical Engineering, Volume 51, 2022, pp. 685-690 Thibaut Neveux , ..., Eric Favre",
+      "text": "Computer Aided Chemical Engineering, Volume 51, 2022, pp. 685-690 Thibaut Neveux , ..., Eric Favre"
+    },
+    {
+      "self_ref": "#/texts/296",
+      "parent": {
+        "$ref": "#/groups/57"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/59"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/297",
+      "parent": {
+        "$ref": "#/groups/59"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Quantifying space-time load shifting flexibility in electricity markets",
+      "text": "Quantifying space-time load shifting flexibility in electricity markets",
+      "hyperlink": "\\science\\article\\pii\\S0098135423002089"
+    },
+    {
+      "self_ref": "#/texts/298",
+      "parent": {
+        "$ref": "#/groups/59"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Computers & Chemical Engineering, Volume 177, 2023, Article 108338 Weiqi Zhang , Victor M. Zavala",
+      "text": "Computers & Chemical Engineering, Volume 177, 2023, Article 108338 Weiqi Zhang , Victor M. Zavala"
+    },
+    {
+      "self_ref": "#/texts/299",
+      "parent": {
+        "$ref": "#/groups/57"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/60"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/300",
+      "parent": {
+        "$ref": "#/groups/60"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Solving the pooling problem at scale with extensible solver GALINI",
+      "text": "Solving the pooling problem at scale with extensible solver GALINI",
+      "hyperlink": "\\science\\article\\pii\\S0098135422000059"
+    },
+    {
+      "self_ref": "#/texts/301",
+      "parent": {
+        "$ref": "#/groups/60"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Computers & Chemical Engineering, Volume 159, 2022, Article 107660 Francesco Ceccon , Ruth Misener",
+      "text": "Computers & Chemical Engineering, Volume 159, 2022, Article 107660 Francesco Ceccon , Ruth Misener"
+    },
+    {
+      "self_ref": "#/texts/302",
+      "parent": {
+        "$ref": "#/groups/57"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/61"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/303",
+      "parent": {
+        "$ref": "#/groups/61"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Neural network models for atmospheric residue desulfurization using real plant data with novel training strategies",
+      "text": "Neural network models for atmospheric residue desulfurization using real plant data with novel training strategies",
+      "hyperlink": "\\science\\article\\pii\\S009813542300203X"
+    },
+    {
+      "self_ref": "#/texts/304",
+      "parent": {
+        "$ref": "#/groups/61"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Computers & Chemical Engineering, Volume 177, 2023, Article 108333 Yungun Jung , ..., Yeonsoo Kim",
+      "text": "Computers & Chemical Engineering, Volume 177, 2023, Article 108333 Yungun Jung , ..., Yeonsoo Kim"
+    },
+    {
+      "self_ref": "#/texts/305",
+      "parent": {
+        "$ref": "#/groups/57"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/62"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/306",
+      "parent": {
+        "$ref": "#/groups/62"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Directional modifier adaptation based on input selection for real-time optimization",
+      "text": "Directional modifier adaptation based on input selection for real-time optimization",
+      "hyperlink": "\\science\\article\\pii\\S0098135423002211"
+    },
+    {
+      "self_ref": "#/texts/307",
+      "parent": {
+        "$ref": "#/groups/62"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Computers & Chemical Engineering, Volume 177, 2023, Article 108351 Gabriel D. Patr\u00f3n , Luis Ricardez-Sandoval",
+      "text": "Computers & Chemical Engineering, Volume 177, 2023, Article 108351 Gabriel D. Patr\u00f3n , Luis Ricardez-Sandoval"
+    },
+    {
+      "self_ref": "#/texts/308",
+      "parent": {
+        "$ref": "#/groups/57"
+      },
+      "children": [
+        {
+          "$ref": "#/groups/63"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [],
+      "orig": "",
+      "text": "",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/309",
+      "parent": {
+        "$ref": "#/groups/63"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "An integrated framework for sustainable process design by hybrid and intensified equipment",
+      "text": "An integrated framework for sustainable process design by hybrid and intensified equipment",
+      "hyperlink": "\\science\\article\\pii\\S0098135423001588"
+    },
+    {
+      "self_ref": "#/texts/310",
+      "parent": {
+        "$ref": "#/groups/63"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Computers & Chemical Engineering, Volume 176, 2023, Article 108288 Shuang Xu , ..., Anjan K. Tula",
+      "text": "Computers & Chemical Engineering, Volume 176, 2023, Article 108288 Shuang Xu , ..., Anjan K. Tula"
+    },
+    {
+      "self_ref": "#/texts/311",
+      "parent": {
+        "$ref": "#/texts/292"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "Show 3 more articles",
+      "text": "Show 3 more articles"
+    },
+    {
+      "self_ref": "#/texts/312",
+      "parent": {
+        "$ref": "#/texts/25"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/313"
+        },
+        {
+          "$ref": "#/groups/64"
+        }
+      ],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [],
+      "orig": "Article Metrics",
+      "text": "Article Metrics",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/313",
+      "parent": {
+        "$ref": "#/texts/312"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [],
+      "orig": "View article metrics",
+      "text": "View article metrics",
+      "hyperlink": "https://plu.mx/plum/a/?doi=10.1016/j.compchemeng.2023.108342"
+    },
+    {
+      "self_ref": "#/texts/314",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "caption",
+      "prov": [],
+      "orig": "Elsevier logo with wordmark",
+      "text": "Elsevier logo with wordmark",
+      "hyperlink": "https://www.elsevier.com/"
+    },
+    {
+      "self_ref": "#/texts/315",
+      "parent": {
+        "$ref": "#/groups/65"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "list_item",
+      "prov": [],
+      "orig": "About ScienceDirect",
+      "text": "About ScienceDirect",
+      "hyperlink": "https://www.elsevier.com/solutions/sciencedirect",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/316",
+      "parent": {
+        "$ref": "#/groups/65"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Remote access",
+      "text": "Remote access",
+      "hyperlink": "\\user\\institution\\login?targetURL=%2Fscience%2Farticle%2Fpii%2FS0098135423002120",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/317",
+      "parent": {
+        "$ref": "#/groups/65"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Shopping cart",
+      "text": "Shopping cart",
+      "hyperlink": "https://sd-cart.elsevier.com/?",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/318",
+      "parent": {
+        "$ref": "#/groups/65"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Advertise",
+      "text": "Advertise",
+      "hyperlink": "http://elsmediakits.com/",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/319",
+      "parent": {
+        "$ref": "#/groups/65"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Contact and support",
+      "text": "Contact and support",
+      "hyperlink": "https://service.elsevier.com/app/contact/supporthub/sciencedirect/",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/320",
+      "parent": {
+        "$ref": "#/groups/65"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Terms and conditions",
+      "text": "Terms and conditions",
+      "hyperlink": "https://www.elsevier.com/legal/elsevier-website-terms-and-conditions",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/321",
+      "parent": {
+        "$ref": "#/groups/65"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "list_item",
+      "prov": [],
+      "orig": "Privacy policy",
+      "text": "Privacy policy",
+      "hyperlink": "https://www.elsevier.com/legal/privacy-policy",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/322",
+      "parent": {
+        "$ref": "#/groups/66"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "text",
+      "prov": [],
+      "orig": "We use cookies to help provide and enhance our service and tailor content and ads. By continuing you agree to the",
+      "text": "We use cookies to help provide and enhance our service and tailor content and ads. By continuing you agree to the"
+    },
+    {
+      "self_ref": "#/texts/323",
+      "parent": {
+        "$ref": "#/groups/66"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "text",
+      "prov": [],
+      "orig": "use of cookies",
+      "text": "use of cookies",
+      "formatting": {
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "strikethrough": false,
+        "script": "baseline"
+      },
+      "hyperlink": "https://www.sciencedirect.com/legal/use-of-cookies"
+    },
+    {
+      "self_ref": "#/texts/324",
+      "parent": {
+        "$ref": "#/groups/66"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "text",
+      "prov": [],
+      "orig": ".",
+      "text": "."
+    },
+    {
+      "self_ref": "#/texts/325",
+      "parent": {
+        "$ref": "#/groups/64"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "text",
+      "prov": [],
+      "orig": "All content on this site: Copyright \u00a9 2023 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.",
+      "text": "All content on this site: Copyright \u00a9 2023 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply."
+    },
+    {
+      "self_ref": "#/texts/326",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "caption",
+      "prov": [],
+      "orig": "RELX group home page",
+      "text": "RELX group home page",
+      "hyperlink": "https://www.relx.com/"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "picture",
+      "prov": [],
+      "captions": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/texts/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [],
+      "captions": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/texts/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [],
+      "captions": [
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/groups/64"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "picture",
+      "prov": [],
+      "captions": [
+        {
+          "$ref": "#/texts/314"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/groups/64"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "picture",
+      "prov": [],
+      "captions": [
+        {
+          "$ref": "#/texts/326"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {}
+}

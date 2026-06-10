@@ -1,0 +1,3603 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Liqui-Flux Case Study Controls Corrosion in Cooling Water LF-1047 POD",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12663747262331901740,
+    "filename": "Liqui-Flux Case Study Controls Corrosion in Cooling Water LF-1047 POD.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/tables/3"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 201.3797,
+            "t": 748.7118784,
+            "r": 253.43821183999998,
+            "b": 742.7798519208619,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Filtration Modules",
+      "text": "Filtration Modules"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0,
+            "t": 691.612,
+            "r": 519.4732000000002,
+            "b": 606.906864292589,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            103
+          ]
+        }
+      ],
+      "orig": "Integration of 3M \u2122  Liqui-Flux \u2122 Ultrafiltration and 3M \u2122  Liqui-Cel \u2122 Membrane Contactor Technologies",
+      "text": "Integration of 3M \u2122  Liqui-Flux \u2122 Ultrafiltration and 3M \u2122  Liqui-Cel \u2122 Membrane Contactor Technologies",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0,
+            "t": 596.262,
+            "r": 571.2006,
+            "b": 558.3801270452358,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "High Quality Water and Corrosion Control in a Cooling Water System at an International Amusement Park",
+      "text": "High Quality Water and Corrosion Control in a Cooling Water System at an International Amusement Park"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0003,
+            "t": 416.59,
+            "r": 232.09730000000008,
+            "b": 191.88895200783543,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            637
+          ]
+        }
+      ],
+      "orig": "In 2013, an international amusement park in Shanghai realized that they needed to improve the quality of their make-up to the cooling water circulation system to effectively control contamination, scaling and corrosion and to protect downstream system components. To accomplish its goals, the resort enlisted Goldstone to design and build a system using proven membrane technologies that effectively removed suspended solids, colloidal substances, chemical oxygen demand (COD), salt, and dissolved gases from the system. Ultrafiltration (UF), reverse osmosis (RO) and gas transfer membrane (GTM) technologies were included in the design.",
+      "text": "In 2013, an international amusement park in Shanghai realized that they needed to improve the quality of their make-up to the cooling water circulation system to effectively control contamination, scaling and corrosion and to protect downstream system components. To accomplish its goals, the resort enlisted Goldstone to design and build a system using proven membrane technologies that effectively removed suspended solids, colloidal substances, chemical oxygen demand (COD), salt, and dissolved gases from the system. Ultrafiltration (UF), reverse osmosis (RO) and gas transfer membrane (GTM) technologies were included in the design."
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 57.0003,
+            "t": 184.09000000000003,
+            "r": 220.4583000000001,
+            "b": 79.38895200783543,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            274
+          ]
+        }
+      ],
+      "orig": "For optimal results, Goldstone selected 3M \u2122  Liqui-Flux \u2122 W10 Ultrafiltration Modules as pre-treatment to reverse osmosis (RO) and 3M \u2122  Liqui-Cel \u2122  EXF10x28 Series Membrane Contactor Membrane Contactors as the post-treatment to remove dissolved oxygen and carbon dioxide.",
+      "text": "For optimal results, Goldstone selected 3M \u2122  Liqui-Flux \u2122 W10 Ultrafiltration Modules as pre-treatment to reverse osmosis (RO) and 3M \u2122  Liqui-Cel \u2122  EXF10x28 Series Membrane Contactor Membrane Contactors as the post-treatment to remove dissolved oxygen and carbon dioxide."
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 56.8752,
+            "t": 783.974,
+            "r": 586.8166000000002,
+            "b": 775.1507372473533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "Technical Brief |   Integration of 3M \u2122  Liqui-Flux \u2122  Ultrafiltration and 3M \u2122  Liqui-Cel \u2122  Membrane Contactor Technologies",
+      "text": "Technical Brief |   Integration of 3M \u2122  Liqui-Flux \u2122  Ultrafiltration and 3M \u2122  Liqui-Cel \u2122  Membrane Contactor Technologies"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.0,
+            "t": 752.707,
+            "r": 149.768,
+            "b": 741.2367584215592,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "System Design",
+      "text": "System Design",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.0,
+            "t": 734.08,
+            "r": 223.2,
+            "b": 617.3789520078354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "The entire system is designed to handle 960 ton/day of recirculated cooling water with two independent UF units with a capacity of 640 ton/day for each rack and degassing units with a capacity of 480 ton/day for each rack. Splitting the UF and degassing systems into two racks allowed for a more mobile and modular system design.",
+      "text": "The entire system is designed to handle 960 ton/day of recirculated cooling water with two independent UF units with a capacity of 640 ton/day for each rack and degassing units with a capacity of 480 ton/day for each rack. Splitting the UF and degassing systems into two racks allowed for a more mobile and modular system design."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.0,
+            "t": 609.58,
+            "r": 226.66799999999995,
+            "b": 408.87895200783544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            573
+          ]
+        }
+      ],
+      "orig": "The UF plant is designed to operate with a 65 LMH flux with 40 minutes of filtration time and 250 LMH backwash flux. A backpressure above 2.0 bar is maintained due to downstream equipment requirements and piping demands. The feed water pressure is expected to remain above 3.5 bar. In operation, the feed water pressure is maintained at 4.0 bar and module tolerance pressure is 4.0 bar at 30\u02daC. An in-line turbidity meter is installed for real-time monitoring of the outlet water and a chemical enhanced backwash (CEB) system is installed with a cycle time of once per day.",
+      "text": "The UF plant is designed to operate with a 65 LMH flux with 40 minutes of filtration time and 250 LMH backwash flux. A backpressure above 2.0 bar is maintained due to downstream equipment requirements and piping demands. The feed water pressure is expected to remain above 3.5 bar. In operation, the feed water pressure is maintained at 4.0 bar and module tolerance pressure is 4.0 bar at 30\u02daC. An in-line turbidity meter is installed for real-time monitoring of the outlet water and a chemical enhanced backwash (CEB) system is installed with a cycle time of once per day."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.0,
+            "t": 401.08,
+            "r": 222.59800000000004,
+            "b": 284.37895200783544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            333
+          ]
+        }
+      ],
+      "orig": "3M \u2122  Liqui-Cel \u2122  Membrane Contactors, also known as gas transfer membranes, were installed four in parallel and two in series to improve oxygen removal efficiency. The Liqui-Cel membrane contactor operates in combo mode (a nitrogen sweep gas and vacuum are applied to the degassing units) to further enhance gas removal efficiency.",
+      "text": "3M \u2122  Liqui-Cel \u2122  Membrane Contactors, also known as gas transfer membranes, were installed four in parallel and two in series to improve oxygen removal efficiency. The Liqui-Cel membrane contactor operates in combo mode (a nitrogen sweep gas and vacuum are applied to the degassing units) to further enhance gas removal efficiency."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 57.0,
+            "t": 276.5799999999999,
+            "r": 219.50800000000004,
+            "b": 183.87895200783544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "Liqui-Cel membrane contactors can achieve a low dissolved oxygen concentration of <10 ppb, which is difficult with conventional gas removal processes. The compact design of the Liqui-Cel membrane contactors also enabled the system builder to design small skids.",
+      "text": "Liqui-Cel membrane contactors can achieve a low dissolved oxygen concentration of <10 ppb, which is difficult with conventional gas removal processes. The compact design of the Liqui-Cel membrane contactors also enabled the system builder to design small skids."
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 237.9,
+            "t": 752.707,
+            "r": 299.3510000000001,
+            "b": 741.2367584215592,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Operation",
+      "text": "Operation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 237.9,
+            "t": 734.08,
+            "r": 406.02799999999996,
+            "b": 569.3789520078354,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            453
+          ]
+        }
+      ],
+      "orig": "The system was commissioned in June of 2014. The Transmembrane Pressure (TMP) of the ultrafiltration units is maintained between 0.18 bar and 0.20 bar during filtration. A Chemical Enhanced Backwash (CEB) cycle is performed daily with CEB1 and CEB2 running every other day. Since commissioning turbidity remains consistently at 0.03 NTU with an SDI15 of around 2.0. The produced water from the UF continues to fully meet the RO inlet water requirements.",
+      "text": "The system was commissioned in June of 2014. The Transmembrane Pressure (TMP) of the ultrafiltration units is maintained between 0.18 bar and 0.20 bar during filtration. A Chemical Enhanced Backwash (CEB) cycle is performed daily with CEB1 and CEB2 running every other day. Since commissioning turbidity remains consistently at 0.03 NTU with an SDI15 of around 2.0. The produced water from the UF continues to fully meet the RO inlet water requirements."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 237.9,
+            "t": 561.58,
+            "r": 407.279,
+            "b": 456.87895200783544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            304
+          ]
+        }
+      ],
+      "orig": "Dissolved oxygen levels remain below 5 ppb, which exceeds the customer's expectations. In addition, the system only uses one quarter of the nitrogen sweep gas that was anticipated based on the original design, even when operating at full operating capacity. No chemicals are needed to operate the system.",
+      "text": "Dissolved oxygen levels remain below 5 ppb, which exceeds the customer's expectations. In addition, the system only uses one quarter of the nitrogen sweep gas that was anticipated based on the original design, even when operating at full operating capacity. No chemicals are needed to operate the system."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 237.9,
+            "t": 449.08,
+            "r": 407.44800000000004,
+            "b": 380.37895200783544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "The integration of 3M ultrafiltration and degassing membrane technologies before and after RO not only exceed design requirements, but continue to produce high quality water with low operating costs.",
+      "text": "The integration of 3M ultrafiltration and degassing membrane technologies before and after RO not only exceed design requirements, but continue to produce high quality water with low operating costs."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 237.9,
+            "t": 372.58,
+            "r": 399.348,
+            "b": 219.87895200783544,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            429
+          ]
+        }
+      ],
+      "orig": "The 3M \u2122  Liqui-Flux \u2122  Ultrafiltration Modules easily tolerate the customer's pressure and harsh water requirements, and the LiquiCel membrane contactors continue to efficiently remove dissolved oxygen with minimal maintenance. The system outperforms traditional RO pre-treatment and gas removal processes. It also provides an efficient, cost effective solution for cleaning circulating water and reducing the risk of corrosion.",
+      "text": "The 3M \u2122  Liqui-Flux \u2122  Ultrafiltration Modules easily tolerate the customer's pressure and harsh water requirements, and the LiquiCel membrane contactors continue to efficiently remove dissolved oxygen with minimal maintenance. The system outperforms traditional RO pre-treatment and gas removal processes. It also provides an efficient, cost effective solution for cleaning circulating water and reducing the risk of corrosion."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 418.5,
+            "t": 616.832,
+            "r": 595.4775999999999,
+            "b": 599.7733897978826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "3M \u2122  Liqui-Flux \u2122  W10 Ultrafiltration Modules as pre-treatment to reverse osmosis",
+      "text": "3M \u2122  Liqui-Flux \u2122  W10 Ultrafiltration Modules as pre-treatment to reverse osmosis"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 418.5,
+            "t": 444.55420000000004,
+            "r": 586.6865000000001,
+            "b": 427.4955897978826,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "3M \u2122  Liqui-Cel \u2122  EXF-10x28 Series Membrane Contactor",
+      "text": "3M \u2122  Liqui-Cel \u2122  EXF-10x28 Series Membrane Contactor"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.8752,
+            "t": 783.974,
+            "r": 586.8166000000002,
+            "b": 775.1507372473533,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            125
+          ]
+        }
+      ],
+      "orig": "Technical Brief |   Integration of 3M \u2122  Liqui-Flux \u2122  Ultrafiltration and 3M \u2122  Liqui-Cel \u2122  Membrane Contactor Technologies",
+      "text": "Technical Brief |   Integration of 3M \u2122  Liqui-Flux \u2122  Ultrafiltration and 3M \u2122  Liqui-Cel \u2122  Membrane Contactor Technologies"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.0,
+            "t": 747.667,
+            "r": 158.673,
+            "b": 736.1967584215593,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Process Diagram",
+      "text": "Process Diagram",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 284.0702,
+            "t": 607.6349411,
+            "r": 374.6199923,
+            "b": 597.3400463528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "3M \u2122  Liqui-Flux \u2122",
+      "text": "3M \u2122  Liqui-Flux \u2122"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 270.12227989999997,
+            "t": 593.6334611,
+            "r": 388.55146489999976,
+            "b": 583.3385663528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Ultrafiltration Module",
+      "text": "Ultrafiltration Module"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 108.47519329999997,
+            "t": 713.4627941,
+            "r": 131.93934019999995,
+            "b": 703.1678993528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "Raw",
+      "text": "Raw"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 103.21297039999997,
+            "t": 699.4613141,
+            "r": 137.20156309999996,
+            "b": 689.1664193528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Water",
+      "text": "Water"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.78334779999997,
+            "t": 685.4598341,
+            "r": 133.63118569999995,
+            "b": 675.1649393528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Tank",
+      "text": "Tank"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 201.43335259999998,
+            "t": 621.6947606,
+            "r": 256.5525122,
+            "b": 611.3998658528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Ex-Heater",
+      "text": "Ex-Heater"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 264.77838169999995,
+            "t": 697.4544353,
+            "r": 288.48755449999993,
+            "b": 687.1595405528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Disc",
+      "text": "Disc"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 262.37479429999996,
+            "t": 683.4529553,
+            "r": 290.8911418999999,
+            "b": 673.1580605528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Filter",
+      "text": "Filter"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 382.47248899999994,
+            "t": 697.839476,
+            "r": 397.2907219999999,
+            "b": 687.5445812528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "UF",
+      "text": "UF"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 376.45185259999994,
+            "t": 683.837996,
+            "r": 403.2996904999999,
+            "b": 673.5431012528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Tank",
+      "text": "Tank"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 479.57275279999993,
+            "t": 699.4029746,
+            "r": 513.3979948999998,
+            "b": 689.1080798528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Guard",
+      "text": "Guard"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 482.2330339999999,
+            "t": 685.4014946,
+            "r": 510.7493815999999,
+            "b": 675.1065998528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Filter",
+      "text": "Filter"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 524.004116,
+            "t": 539.2960508,
+            "r": 540.8408957,
+            "b": 529.0011560528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "RO",
+      "text": "RO"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 372.7764641,
+            "t": 479.1596942,
+            "r": 419.2497097999999,
+            "b": 468.86479945283924,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "RO Tank",
+      "text": "RO Tank"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 301.0888865,
+            "t": 538.1292608,
+            "r": 366.2191042999999,
+            "b": 527.8343660528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Guard Filter",
+      "text": "Guard Filter"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 126.12872600000003,
+            "t": 480.3381521,
+            "r": 167.87647220000008,
+            "b": 470.04325735283925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "DI Tank",
+      "text": "DI Tank"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.410324100000025,
+            "t": 507.2793332,
+            "r": 87.13460420000001,
+            "b": 496.98443845283924,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "POU",
+      "text": "POU"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 188.785349,
+            "t": 449.8732652,
+            "r": 267.6953567000001,
+            "b": 439.57837045283924,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Vacuum Pump",
+      "text": "Vacuum Pump"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 204.0586301,
+            "t": 574.0547249,
+            "r": 217.2783608,
+            "b": 563.7598301528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "N2",
+      "text": "N2"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 143.5839044,
+            "t": 563.5069433,
+            "r": 156.8036351,
+            "b": 553.2120485528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2
+          ]
+        }
+      ],
+      "orig": "N2",
+      "text": "N2"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 216.3449288,
+            "t": 557.2646168,
+            "r": 302.5816923,
+            "b": 546.9666463528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "3M \u2122  Liqui-Cel \u2122",
+      "text": "3M \u2122  Liqui-Cel \u2122"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 228.3388446,
+            "t": 543.2600611,
+            "r": 290.5520873999999,
+            "b": 532.9651663528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Membrane",
+      "text": "Membrane"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 231.5941887,
+            "t": 529.2585811,
+            "r": 287.2850754,
+            "b": 518.9636863528393,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Contactor",
+      "text": "Contactor"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.0006,
+            "t": 314.1933,
+            "r": 588.5699000000004,
+            "b": 300.01701607314726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            251
+          ]
+        }
+      ],
+      "orig": "Technical Information: The technical information, recommendations and other statements contained in this document are based upon tests or experience that 3M believes are reliable, but the accuracy or completeness of such information is not guaranteed.",
+      "text": "Technical Information: The technical information, recommendations and other statements contained in this document are based upon tests or experience that 3M believes are reliable, but the accuracy or completeness of such information is not guaranteed."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.0007,
+            "t": 293.6933,
+            "r": 582.2141999999999,
+            "b": 271.51701607314726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            423
+          ]
+        }
+      ],
+      "orig": "Product Use: Many factors beyond 3M's control and uniquely within user's knowledge and control can affect the use and performance of a 3M product in a particular application. Given the variety of factors that can affect the use and performance of a 3M product, user is solely responsible for evaluating the 3M product and determining whether it is fit for a particular purpose and suitable for user's method of application.",
+      "text": "Product Use: Many factors beyond 3M's control and uniquely within user's knowledge and control can affect the use and performance of a 3M product in a particular application. Given the variety of factors that can affect the use and performance of a 3M product, user is solely responsible for evaluating the 3M product and determining whether it is fit for a particular purpose and suitable for user's method of application."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.0007,
+            "t": 265.1933,
+            "r": 571.1180999999998,
+            "b": 227.01701607314726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            719
+          ]
+        }
+      ],
+      "orig": "Warranty, Limited Remedy, and Disclaimer: Unless an aditional warranty is specifically stated on the applicable 3M product packaging or product literature, 3M warrants that each 3M product meets the applicable 3M product specification at the time 3M ships the product. 3M MAKES NO OTHER WARANTIES OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARANTY OR CONDITION OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR ANY IMPLIED WARANTY OR CONDITION ARISING OUT OF A COURSE OF DEALING, CUSTOM OR USAGE OF TRADE. If the 3M product does not conform to this warranty, then the sole and exclusive remedy is, at 3M's option, replacement of the 3M product or refund of the purchase price.",
+      "text": "Warranty, Limited Remedy, and Disclaimer: Unless an aditional warranty is specifically stated on the applicable 3M product packaging or product literature, 3M warrants that each 3M product meets the applicable 3M product specification at the time 3M ships the product. 3M MAKES NO OTHER WARANTIES OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARANTY OR CONDITION OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR ANY IMPLIED WARANTY OR CONDITION ARISING OUT OF A COURSE OF DEALING, CUSTOM OR USAGE OF TRADE. If the 3M product does not conform to this warranty, then the sole and exclusive remedy is, at 3M's option, replacement of the 3M product or refund of the purchase price."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.0007,
+            "t": 220.69330000000002,
+            "r": 525.5219,
+            "b": 206.51701607314726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            297
+          ]
+        }
+      ],
+      "orig": "Limitation of Liability: Except where prohibited by law, 3M will not be liable for any loss or damage arising from the 3M product, whether direct, indirect, special, incidental or consequential, regardless of the legal theory asserted, including warranty, contract, negligence or strict liability.",
+      "text": "Limitation of Liability: Except where prohibited by law, 3M will not be liable for any loss or damage arising from the 3M product, whether direct, indirect, special, incidental or consequential, regardless of the legal theory asserted, including warranty, contract, negligence or strict liability."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.0007,
+            "t": 200.19330000000002,
+            "r": 509.9118999999998,
+            "b": 186.01701607314726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            164
+          ]
+        }
+      ],
+      "orig": "3M, Liqui-Flux and Liqui-Cel are trademarks of 3M Company. All other trademarks are the property of their respective owners. \u00a9 2017 3M Company. All rights reserved.",
+      "text": "3M, Liqui-Flux and Liqui-Cel are trademarks of 3M Company. All other trademarks are the property of their respective owners. \u00a9 2017 3M Company. All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.0,
+            "t": 84.78300000000002,
+            "r": 109.70300000000006,
+            "b": 78.60671607314725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Phone: +1 980 859 5400",
+      "text": "Phone: +1 980 859 5400"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.0,
+            "t": 76.78300000000002,
+            "r": 98.61500000000004,
+            "b": 70.60671607314725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Fax: +1 704 587 8610",
+      "text": "Fax: +1 704 587 8610"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 154.4268,
+            "t": 92.78300000000002,
+            "r": 229.71039999999996,
+            "b": 86.60671607314725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "42289 Wuppertal Germany",
+      "text": "42289 Wuppertal Germany"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 154.4268,
+            "t": 84.78300000000002,
+            "r": 208.59979999999996,
+            "b": 78.60671607314725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Phone: +49 202 609 - 0",
+      "text": "Phone: +49 202 609 - 0"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 154.4268,
+            "t": 76.78300000000002,
+            "r": 201.62709999999993,
+            "b": 70.60671607314725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Fax: +49 202 609 - 241",
+      "text": "Fax: +49 202 609 - 241"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 555.5465,
+            "t": 106.78300000000002,
+            "r": 598.7641,
+            "b": 92.69226640548482,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "LF-1047 Rev. 07/2017",
+      "text": "LF-1047 Rev. 07/2017"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 510.2111,
+            "t": 89.90999999999997,
+            "r": 597.0010999999998,
+            "b": 81.0867372473532,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "3M.com/Liqui-Cel",
+      "text": "3M.com/Liqui-Cel"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 506.5614,
+            "t": 78.90999999999997,
+            "r": 597.0014,
+            "b": 70.0867372473532,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "3M.com/Liqui-Flux",
+      "text": "3M.com/Liqui-Flux"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 57.0,
+            "t": 124.78300000000002,
+            "r": 139.9423,
+            "b": 86.60671607314725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "Separation and Purification Sciences Division 13840 South Lakes Drive Charlotte, North Carolina 28273 USA",
+      "text": "Separation and Purification Sciences Division 13840 South Lakes Drive Charlotte, North Carolina 28273 USA"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 154.4268,
+            "t": 124.78300000000002,
+            "r": 237.3691000000001,
+            "b": 94.60671607314725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "3M Deutschland GmbH Separation and Purification Sciences Division \u00d6hder Stra\u00dfe 28",
+      "text": "3M Deutschland GmbH Separation and Purification Sciences Division \u00d6hder Stra\u00dfe 28"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 55.74801254272461,
+            "t": 778.0186805725098,
+            "r": 126.42140197753906,
+            "b": 740.9316253662109,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 55.20122528076172,
+            "t": 538.179931640625,
+            "r": 598.4523315429688,
+            "b": 431.02099609375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 417.4613342285156,
+            "t": 754.3973770141602,
+            "r": 597.8843383789062,
+            "b": 623.0678253173828,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 417.6173400878906,
+            "t": 582.0925903320312,
+            "r": 597.942138671875,
+            "b": 451.33489990234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 62.055057525634766,
+            "t": 714.392951965332,
+            "r": 596.4193725585938,
+            "b": 402.77862548828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 55.70806121826172,
+            "t": 163.018798828125,
+            "r": 102.00653839111328,
+            "b": 138.394287109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 240.6061248779297,
+            "t": 417.1193542480469,
+            "r": 597.1494750976562,
+            "b": 353.7178649902344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 246.4251,
+              "t": 421.194,
+              "r": 317.1925950000002,
+              "b": 429.1349364773821,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "System Summary",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4251,
+              "t": 434.84799999999996,
+              "r": 288.63702000000006,
+              "b": 441.9066102021174,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Application",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 443.2112,
+              "t": 434.84799999999996,
+              "r": 569.12876,
+              "b": 441.8088383937316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Water Purification of Cooling Water",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4251,
+              "t": 447.08799999999997,
+              "r": 278.1361,
+              "b": 454.1466102021174,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Location",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 477.1867,
+              "t": 447.08799999999997,
+              "r": 533.5779400000001,
+              "b": 454.0488383937316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Shanghai, China",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4251,
+              "t": 459.328,
+              "r": 346.26325999999995,
+              "b": 466.3866102021174,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "OEM/Systemmanufacturer",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 487.1468,
+              "t": 459.328,
+              "r": 523.6161599999999,
+              "b": 466.2888383937316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Goldstone",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4251,
+              "t": 471.5055,
+              "r": 279.05266,
+              "b": 478.56411020211743,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "End-user",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 453.4728,
+              "t": 471.5055,
+              "r": 557.2948800000003,
+              "b": 478.46633839373163,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "International amusement park",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 421.194,
+                "r": 317.1925950000002,
+                "b": 429.1349364773821,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "System Summary",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 421.194,
+                "r": 317.1925950000002,
+                "b": 429.1349364773821,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "System Summary",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 434.84799999999996,
+                "r": 288.63702000000006,
+                "b": 441.9066102021174,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Application",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 443.2112,
+                "t": 434.84799999999996,
+                "r": 569.12876,
+                "b": 441.8088383937316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Water Purification of Cooling Water",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 447.08799999999997,
+                "r": 278.1361,
+                "b": 454.1466102021174,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Location",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 477.1867,
+                "t": 447.08799999999997,
+                "r": 533.5779400000001,
+                "b": 454.0488383937316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Shanghai, China",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 459.328,
+                "r": 346.26325999999995,
+                "b": 466.3866102021174,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "OEM/Systemmanufacturer",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 487.1468,
+                "t": 459.328,
+                "r": 523.6161599999999,
+                "b": 466.2888383937316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Goldstone",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 471.5055,
+                "r": 279.05266,
+                "b": 478.56411020211743,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "End-user",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 453.4728,
+                "t": 471.5055,
+                "r": 557.2948800000003,
+                "b": 478.46633839373163,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "International amusement park",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 239.3823699951172,
+            "t": 349.587890625,
+            "r": 597.383056640625,
+            "b": 309.56109619140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 246.4251,
+              "t": 489.59400000000005,
+              "r": 385.71315000000004,
+              "b": 497.53493647738213,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Design & Operating Specifications",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4251,
+              "t": 503.248,
+              "r": 312.4098199999999,
+              "b": 510.30661020211744,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Feedwatersource",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 487.1991,
+              "t": 503.248,
+              "r": 523.5651,
+              "b": 510.20883839373164,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "City water",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4251,
+              "t": 515.4255,
+              "r": 297.78514000000007,
+              "b": 522.4841102021174,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Plant capacity",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 483.3995,
+              "t": 515.4255,
+              "r": 527.3647400000001,
+              "b": 522.3863383937316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "960ton/day",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 3,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 489.59400000000005,
+                "r": 385.71315000000004,
+                "b": 497.53493647738213,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Design & Operating Specifications",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 489.59400000000005,
+                "r": 385.71315000000004,
+                "b": 497.53493647738213,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Design & Operating Specifications",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 503.248,
+                "r": 312.4098199999999,
+                "b": 510.30661020211744,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Feedwatersource",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 487.1991,
+                "t": 503.248,
+                "r": 523.5651,
+                "b": 510.20883839373164,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "City water",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 515.4255,
+                "r": 297.78514000000007,
+                "b": 522.4841102021174,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Plant capacity",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 483.3995,
+                "t": 515.4255,
+                "r": 527.3647400000001,
+                "b": 522.3863383937316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "960ton/day",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 239.298828125,
+            "t": 305.06719970703125,
+            "r": 597.4069213867188,
+            "b": 216.08502197265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 246.4251,
+              "t": 534.474,
+              "r": 301.5349800000003,
+              "b": 542.4149364773821,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Ultrafiltration",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4251,
+              "t": 549.549224,
+              "r": 325.56922,
+              "b": 566.9066102021175,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "3M \u2122 Liqui-Flux \u2122 W10 UltrafiltationModules",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 455.2029,
+              "t": 554.848,
+              "r": 555.2629799999995,
+              "b": 561.8088383937315,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "10 modules, ROpre-filtration",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4252,
+              "t": 572.549224,
+              "r": 373.8469800000002,
+              "b": 579.9066102021175,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "3M \u2122 Liqui-Flux \u2122 Ultrafiltration, Flux",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 462.4517,
+              "t": 572.848,
+              "r": 549.4625799999997,
+              "b": 592.0488383937316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "65 LMH flux, 40 minutes SDI: \u22642",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4252,
+              "t": 596.9055,
+              "r": 370.7953999999999,
+              "b": 603.9641102021174,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Outlet water quality specifications",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 449.3007,
+              "t": 596.968,
+              "r": 560.9181000000001,
+              "b": 615.7463383937317,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Turbidity: <0.2NTU Bacterial removal rate:\u226599.99%",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 4,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 534.474,
+                "r": 301.5349800000003,
+                "b": 542.4149364773821,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Ultrafiltration",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 534.474,
+                "r": 301.5349800000003,
+                "b": 542.4149364773821,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Ultrafiltration",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4251,
+                "t": 549.549224,
+                "r": 325.56922,
+                "b": 566.9066102021175,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "3M \u2122 Liqui-Flux \u2122 W10 UltrafiltationModules",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 455.2029,
+                "t": 554.848,
+                "r": 555.2629799999995,
+                "b": 561.8088383937315,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "10 modules, ROpre-filtration",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4252,
+                "t": 572.549224,
+                "r": 373.8469800000002,
+                "b": 579.9066102021175,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "3M \u2122 Liqui-Flux \u2122 Ultrafiltration, Flux",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 462.4517,
+                "t": 572.848,
+                "r": 549.4625799999997,
+                "b": 592.0488383937316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "65 LMH flux, 40 minutes SDI: \u22642",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4252,
+                "t": 596.9055,
+                "r": 370.7953999999999,
+                "b": 603.9641102021174,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Outlet water quality specifications",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 449.3007,
+                "t": 596.968,
+                "r": 560.9181000000001,
+                "b": 615.7463383937317,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Turbidity: <0.2NTU Bacterial removal rate:\u226599.99%",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 239.87120056152344,
+            "t": 211.071044921875,
+            "r": 597.1612548828125,
+            "b": 122.60772705078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 246.4252,
+              "t": 627.594,
+              "r": 340.0134999999999,
+              "b": 635.5349364773821,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 2,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 2,
+            "text": "Dissolved Gas Removal",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4252,
+              "t": 641.829224,
+              "r": 368.14267999999976,
+              "b": 659.1866102021174,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "3M \u2122 Liqui-Cel \u2122 EXF-10x28 Series MembraneContactor",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 474.7065,
+              "t": 647.128,
+              "r": 536.0614999999999,
+              "b": 654.0888383937316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "8 pcs, O2 removal",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4252,
+              "t": 665.248,
+              "r": 284.89639999999997,
+              "b": 672.3066102021174,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Sweepgas",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 444.4539,
+              "t": 665.248,
+              "r": 566.3122,
+              "b": 672.2088383937316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Nitrogen, 99.99% purity, <4 Nm3/h",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4252,
+              "t": 677.488,
+              "r": 294.31508,
+              "b": 684.5466102021174,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Vacuumlevel",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 493.3775,
+              "t": 677.488,
+              "r": 517.38362,
+              "b": 684.4488383937316,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "50 torr",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4252,
+              "t": 689.7280000000001,
+              "r": 310.0004,
+              "b": 696.7866102021175,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "DissolvedO2 inlet",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 490.7239,
+              "t": 689.7280000000001,
+              "r": 519.93146,
+              "b": 696.6888383937317,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "8-9ppm",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 246.4252,
+              "t": 701.9055,
+              "r": 363.87983999999955,
+              "b": 708.9641102021175,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Dissolved O2outlet specification",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 491.1742,
+              "t": 701.9055,
+              "r": 519.4804,
+              "b": 708.8663383937317,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "<10 ppb",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 6,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 246.4252,
+                "t": 627.594,
+                "r": 340.0134999999999,
+                "b": 635.5349364773821,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Dissolved Gas Removal",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 246.4252,
+                "t": 627.594,
+                "r": 340.0134999999999,
+                "b": 635.5349364773821,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 2,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 2,
+              "text": "Dissolved Gas Removal",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4252,
+                "t": 641.829224,
+                "r": 368.14267999999976,
+                "b": 659.1866102021174,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "3M \u2122 Liqui-Cel \u2122 EXF-10x28 Series MembraneContactor",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 474.7065,
+                "t": 647.128,
+                "r": 536.0614999999999,
+                "b": 654.0888383937316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "8 pcs, O2 removal",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4252,
+                "t": 665.248,
+                "r": 284.89639999999997,
+                "b": 672.3066102021174,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Sweepgas",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 444.4539,
+                "t": 665.248,
+                "r": 566.3122,
+                "b": 672.2088383937316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Nitrogen, 99.99% purity, <4 Nm3/h",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4252,
+                "t": 677.488,
+                "r": 294.31508,
+                "b": 684.5466102021174,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Vacuumlevel",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 493.3775,
+                "t": 677.488,
+                "r": 517.38362,
+                "b": 684.4488383937316,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "50 torr",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4252,
+                "t": 689.7280000000001,
+                "r": 310.0004,
+                "b": 696.7866102021175,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "DissolvedO2 inlet",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 490.7239,
+                "t": 689.7280000000001,
+                "r": 519.93146,
+                "b": 696.6888383937317,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "8-9ppm",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 246.4252,
+                "t": 701.9055,
+                "r": 363.87983999999955,
+                "b": 708.9641102021175,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Dissolved O2outlet specification",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 491.1742,
+                "t": 701.9055,
+                "r": 519.4804,
+                "b": 708.8663383937317,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "<10 ppb",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 654.0,
+        "height": 834.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 654.0,
+        "height": 834.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 654.0,
+        "height": 834.0
+      },
+      "page_no": 3
+    }
+  }
+}

@@ -1,0 +1,2319 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1-s2.0-S2214714422001131-main",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 12448848256277278990,
+    "filename": "1-s2.0-S2214714422001131-main.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 207.48798584000002,
+            "t": 756.4190140505312,
+            "r": 552.1578088400001,
+            "b": 750.0876460505312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            67
+          ]
+        }
+      ],
+      "orig": "- R X U Q D O  R I  : D W H U  3 U R F H V V  ( Q J L Q H H U L Q J",
+      "text": "- R X U Q D O  R I  : D W H U  3 U R F H V V  ( Q J L Q H H U L Q J",
+      "hyperlink": "https://doi.org/10.1016/j.jwpe.2022.102670"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 228.416,
+            "t": 730.2229368695312,
+            "r": 371.40278204000003,
+            "b": 722.9120027905178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Contents lists available at ScienceDirect",
+      "text": "Contents lists available at ScienceDirect"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 181.587,
+            "t": 706.2847722695312,
+            "r": 420.01811775,
+            "b": 693.4907981579091,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Journal of Water Process Engineering",
+      "text": "Journal of Water Process Engineering",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 204.151,
+            "t": 674.4859667695312,
+            "r": 395.68924021,
+            "b": 667.8110080195312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "journal homepage: www.elsevier.com/locate/jwpe",
+      "text": "journal homepage: www.elsevier.com/locate/jwpe"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.5874,
+            "t": 623.5650281695313,
+            "r": 325.82929383999993,
+            "b": 613.8780244621734,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Membrane distillation for sustainable wastewater treatment",
+      "text": "Membrane distillation for sustainable wastewater treatment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.5874,
+            "t": 593.6623524695311,
+            "r": 126.12200835,
+            "b": 587.2654112784776,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "A R T I C L E  I N F O",
+      "text": "A R T I C L E  I N F O",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.5874,
+            "t": 574.7222286695312,
+            "r": 108.24002307999999,
+            "b": 526.0148467194475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            109
+          ]
+        }
+      ],
+      "orig": "Keywords Membrane distillation Wastewater treatment Membrane development Processes development Sustainability",
+      "text": "Keywords Membrane distillation Wastewater treatment Membrane development Processes development Sustainability"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.5874,
+            "t": 414.9539368695312,
+            "r": 100.17181324,
+            "b": 407.6430027905178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.587399999999946,
+            "t": 394.03481539953117,
+            "r": 291.02701588,
+            "b": 303.0458014205178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            626
+          ]
+        }
+      ],
+      "orig": "Human activities require freshwater for food production, industrial activities and freshwater requirements have led to a global water crisis. The  world  population  will  increase  up  to  9  billion  people  in  2040, whereby over 6 billion people will be living in metropolis and urban centers.  As  a  result,  providing  fresh  water  for  modern  societies  will become increasingly challenging and seawater desalination as well as wastewater  treatment  appear  as  the  two  only  viable  options  ([1,2], 19 -40, [3], 138). In both scenarii, membrane technologies will play a significant role to sustain water demand.",
+      "text": "Human activities require freshwater for food production, industrial activities and freshwater requirements have led to a global water crisis. The  world  population  will  increase  up  to  9  billion  people  in  2040, whereby over 6 billion people will be living in metropolis and urban centers.  As  a  result,  providing  fresh  water  for  modern  societies  will become increasingly challenging and seawater desalination as well as wastewater  treatment  appear  as  the  two  only  viable  options  ([1,2], 19 -40, [3], 138). In both scenarii, membrane technologies will play a significant role to sustain water demand."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.587399999999974,
+            "t": 299.9254686195312,
+            "r": 291.03100093,
+            "b": 114.77052015051777,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1273
+          ]
+        }
+      ],
+      "orig": "Among the well-developed membrane technologies for water treatment,  the  membrane  distillation  (MD)  process  is  a  non-isothermal technology,  developed  primarily  towards  seawater  desalination.  The MD process utilizes a hydrophobic membrane with a porous structure, which acts on a vapor pressure difference generated across the membrane  wall.  MD  technology  offers  advantages  compared  to  classical membrane  desalination  technologies  since  operating  at  low  working pressures ( < 1 bar), which prevents typical fouling/scaling challenges ([4], 94 -196). MD also generally offers high selectivity with a theoretical 100% rejection for all non-volatile solutes. The low sensitivity to solutes concentration in the feed stream and the fact that the osmotic pressure of the solution does not affect separation, support the application  of  MD  to  concentrate  brines  up  to  the  crystallization  point. However, there are also some disadvantages which MD processes suffer from, including low productivity compared with RO, pore wetting risk (which is the most important bottleneck for MD membranes), highly energy intensive, etc. Furthermore, MD processes suffer from the lack of specific membranes, which enable the process to perform for a long-term",
+      "text": "Among the well-developed membrane technologies for water treatment,  the  membrane  distillation  (MD)  process  is  a  non-isothermal technology,  developed  primarily  towards  seawater  desalination.  The MD process utilizes a hydrophobic membrane with a porous structure, which acts on a vapor pressure difference generated across the membrane  wall.  MD  technology  offers  advantages  compared  to  classical membrane  desalination  technologies  since  operating  at  low  working pressures ( < 1 bar), which prevents typical fouling/scaling challenges ([4], 94 -196). MD also generally offers high selectivity with a theoretical 100% rejection for all non-volatile solutes. The low sensitivity to solutes concentration in the feed stream and the fact that the osmotic pressure of the solution does not affect separation, support the application  of  MD  to  concentrate  brines  up  to  the  crystallization  point. However, there are also some disadvantages which MD processes suffer from, including low productivity compared with RO, pore wetting risk (which is the most important bottleneck for MD membranes), highly energy intensive, etc. Furthermore, MD processes suffer from the lack of specific membranes, which enable the process to perform for a long-term"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.5874,
+            "t": 94.27448276953123,
+            "r": 190.50141399999995,
+            "b": 87.69472465498268,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "https://doi.org/10.1016/j.jwpe.2022.102670",
+      "text": "https://doi.org/10.1016/j.jwpe.2022.102670"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.51798584,
+            "t": 75.16901405053125,
+            "r": 373.60890084000005,
+            "b": 59.21764605053124,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "$ Y D L O D E O H  R Q O L Q H       ) H E U X D U \\ \u2039           ( O V H Y L H U  / W G    $ O O  U L J K W V  U H V H U Y H G",
+      "text": "$ Y D L O D E O H  R Q O L Q H       ) H E U X D U \\ \u2039           ( O V H Y L H U  / W G    $ O O  U L J K W V  U H V H U Y H G"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 201.997,
+            "t": 593.6623524695311,
+            "r": 269.1467573,
+            "b": 587.2654112784776,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "A B S T R A C T",
+      "text": "A B S T R A C T",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 201.997,
+            "t": 574.2370827695312,
+            "r": 559.7905438,
+            "b": 472.0175637549827,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1174
+          ]
+        }
+      ],
+      "orig": "Membrane distillation (MD) process is a non-isothermal membrane technology, which has been widely used for seawater desalination and water treatment for past 50 years. During the last decade, the MD process opportunities  applied  to  wastewater  treatment  have  also  attracted  considerable  attention.  Challenging  wastewater streams, such as colored effluent in textile industry, oily wastewater, fruit and dairy processing effluent, phenolic contaminated streams, and refinery/petrochemical wastewater samples, have been successfully treated using different MD configurations. As a result, MD has been playing a dominant role in providing of sustainable, costeffective, and innovative wastewater treatment technology for a greener approach in water process engineering. Due to its immense potential and versatility, MD has recently shed some light on how we can reduce the risk of challenging wastewater streams. This special issue, titled ' VSI: Membrane distillation for wastewater treatment ' (SI: MD for WWT), was oriented towards the publication of both recent progress made and future perspectives on the applications of the MD process for wastewater treatment.",
+      "text": "Membrane distillation (MD) process is a non-isothermal membrane technology, which has been widely used for seawater desalination and water treatment for past 50 years. During the last decade, the MD process opportunities  applied  to  wastewater  treatment  have  also  attracted  considerable  attention.  Challenging  wastewater streams, such as colored effluent in textile industry, oily wastewater, fruit and dairy processing effluent, phenolic contaminated streams, and refinery/petrochemical wastewater samples, have been successfully treated using different MD configurations. As a result, MD has been playing a dominant role in providing of sustainable, costeffective, and innovative wastewater treatment technology for a greener approach in water process engineering. Due to its immense potential and versatility, MD has recently shed some light on how we can reduce the risk of challenging wastewater streams. This special issue, titled ' VSI: Membrane distillation for wastewater treatment ' (SI: MD for WWT), was oriented towards the publication of both recent progress made and future perspectives on the applications of the MD process for wastewater treatment."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.59262118000004,
+            "t": 414.9539368695312,
+            "r": 492.18516679000015,
+            "b": 407.6430027905178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "operation ([5], 107 -124; [6], 56 -84; [7], 105,273).",
+      "text": "operation ([5], 107 -124; [6], 56 -84; [7], 105,273)."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.59262118000004,
+            "t": 404.5226699895312,
+            "r": 559.9876045000001,
+            "b": 334.45357449051784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            473
+          ]
+        }
+      ],
+      "orig": "MD has lately been playing a promising role in providing sustainable, cost-effective and innovative wastewater treatment technology towards greener approaches in water process engineering. Challenging wastewater streams, such as textile effluents, oily wastewater, food processing effluent,  industrial wastewaters and refinery or petrochemical wastewater samples, were successfully treated using different MD configurations ([8], 101,315; [9], 2283 -2294; [10], 101 -112).",
+      "text": "MD has lately been playing a promising role in providing sustainable, cost-effective and innovative wastewater treatment technology towards greener approaches in water process engineering. Challenging wastewater streams, such as textile effluents, oily wastewater, food processing effluent,  industrial wastewaters and refinery or petrochemical wastewater samples, were successfully treated using different MD configurations ([8], 101,315; [9], 2283 -2294; [10], 101 -112)."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.59262118000004,
+            "t": 331.27665397953115,
+            "r": 560.0059357299999,
+            "b": 250.77549459051784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            517
+          ]
+        }
+      ],
+      "orig": "This  special  issue,  entitled ' Membrane distillation for wastewater treatment ' (VSI: MD for WWT), was oriented towards perspectives on the applications of the MD process in wastewater treatment. Fourteen original research and review papers have been accepted and published in this VSI on membrane materials development with antifouling and anti-wetting properties for MD-based  effluent treatment, process modeling as well as process optimization and integration to enhance the overall performance and efficiency.",
+      "text": "This  special  issue,  entitled ' Membrane distillation for wastewater treatment ' (VSI: MD for WWT), was oriented towards perspectives on the applications of the MD process in wastewater treatment. Fourteen original research and review papers have been accepted and published in this VSI on membrane materials development with antifouling and anti-wetting properties for MD-based  effluent treatment, process modeling as well as process optimization and integration to enhance the overall performance and efficiency."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.59262118000004,
+            "t": 237.16730719953125,
+            "r": 538.1590946200001,
+            "b": 219.36772152051776,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "2. Development of MD membrane materials for wastewater treatment",
+      "text": "2. Development of MD membrane materials for wastewater treatment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 306.59262118000004,
+            "t": 205.75953412953118,
+            "r": 560.0075297499999,
+            "b": 114.76773591051779,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            557
+          ]
+        }
+      ],
+      "orig": "The design of MD membranes enabling low fouling propensity was evaluated for textile wastewaters treatment ([11], 102,317) through the development of a new mixed matrix membrane for DCMD-based treatment of textile effluent. In this work, the authors used MIL101(Fe) for impregnating  of  PVDF-HFP  membranes  to  dye  removal  industrial wastewater. Using the most suitable membrane (20% PVDF-HFP/0.5% MIL101(Fe))  and  the  optimized  operating  parameters,  the  predicted responses  were  permeate  flux:  6.75  L \u22c5 m 2 \u22c5 h 1 and  dye  rejection: 98.14%.",
+      "text": "The design of MD membranes enabling low fouling propensity was evaluated for textile wastewaters treatment ([11], 102,317) through the development of a new mixed matrix membrane for DCMD-based treatment of textile effluent. In this work, the authors used MIL101(Fe) for impregnating  of  PVDF-HFP  membranes  to  dye  removal  industrial wastewater. Using the most suitable membrane (20% PVDF-HFP/0.5% MIL101(Fe))  and  the  optimized  operating  parameters,  the  predicted responses  were  permeate  flux:  6.75  L \u22c5 m 2 \u22c5 h 1 and  dye  rejection: 98.14%."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 118.1468965,
+            "t": 756.7062286695312,
+            "r": 594.5002818397994,
+            "b": 750.8576465194476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "- R X U Q D O  R I  : D W H U  3 U R F H V V  ( Q J L Q H H ee",
+      "text": "- R X U Q D O  R I  : D W H U  3 U R F H V V  ( Q J L Q H H ee"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.5874,
+            "t": 757.0964337495312,
+            "r": 121.10786445999999,
+            "b": 750.8576465194476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "M.M.A. Shirazi and L.F. Dum \u00b4",
+      "text": "M.M.A. Shirazi and L.F. Dum \u00b4"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.58788707000001,
+            "t": 738.2169368695312,
+            "r": 291.03069099000004,
+            "b": 553.0608813205178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1213
+          ]
+        }
+      ],
+      "orig": "TiO2  nanoparticles were used for enhancing the membrane performance in dye wastewater treatment. The new membrane was then used under Taguchi-optimized operating conditions. Obtained results revealed  that  nanoparticle  incorporated  membrane  showed  higher permeate flux than the unmodified membrane ([12], 102,610). Antiwetting hollow fiber membranes were fabricated using PVDF polymer and silica sol. The developed membrane was used for treatment of highly saline produced water using the DCMD process. The obtained results revealed that the membrane could perform properly after 60 h continuous  operation  and  the  salt  rejection  remained  over  99%,  while  the permeate flux reduced only about 7%, which is quite interesting ([13], 102,345).  Small  molecular  weight  additives  are  also  promising  for fabricating MD membranes enable to process high salinity wastewater. PVDF hollow fiber membranes were fabricated with addition of small molecular weight additives for treating the hypersaline brine (100,000 mg \u22c5 L 1 )  via  the  DCMD process. It was concluded that the fabricated membrane could perform promisingly when the highly saline solution is introduced to the MD system ([14], 102,528).",
+      "text": "TiO2  nanoparticles were used for enhancing the membrane performance in dye wastewater treatment. The new membrane was then used under Taguchi-optimized operating conditions. Obtained results revealed  that  nanoparticle  incorporated  membrane  showed  higher permeate flux than the unmodified membrane ([12], 102,610). Antiwetting hollow fiber membranes were fabricated using PVDF polymer and silica sol. The developed membrane was used for treatment of highly saline produced water using the DCMD process. The obtained results revealed that the membrane could perform properly after 60 h continuous  operation  and  the  salt  rejection  remained  over  99%,  while  the permeate flux reduced only about 7%, which is quite interesting ([13], 102,345).  Small  molecular  weight  additives  are  also  promising  for fabricating MD membranes enable to process high salinity wastewater. PVDF hollow fiber membranes were fabricated with addition of small molecular weight additives for treating the hypersaline brine (100,000 mg \u22c5 L 1 )  via  the  DCMD process. It was concluded that the fabricated membrane could perform promisingly when the highly saline solution is introduced to the MD system ([14], 102,528)."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.58789412,
+            "t": 549.9405485195311,
+            "r": 291.02960153000004,
+            "b": 427.5427359105178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            820
+          ]
+        }
+      ],
+      "orig": "Membrane distillation is also promising technology for resource recovery. When it is integrated with the crystallization technique, water and  salts  can  be  recovered  simultaneously  ([15],  102,393).  Specific membranes were  fabricated  for  membrane  distillation  crystallization (MDCr).  The  results  demonstrated  improved  porosity  and  hydrophobicity for the TiO2  modified membrane with nanocomposite structure, which resulted in higher permeate flux and better salt rejection. Using real tannery industry wastewater, the optimized membrane showed 5.9 kg \u22c5 m 2 \u22c5 h 1 permeate flux and 99.97% salt rejection. Furthermore, the crystallization  of  salts  revealed  cubic  NaCl  crystals  and  monoclinic Na2SO4  crystals in the wastewater. MD can also be applied for simultaneous water and nutrient recovery.",
+      "text": "Membrane distillation is also promising technology for resource recovery. When it is integrated with the crystallization technique, water and  salts  can  be  recovered  simultaneously  ([15],  102,393).  Specific membranes were  fabricated  for  membrane  distillation  crystallization (MDCr).  The  results  demonstrated  improved  porosity  and  hydrophobicity for the TiO2  modified membrane with nanocomposite structure, which resulted in higher permeate flux and better salt rejection. Using real tannery industry wastewater, the optimized membrane showed 5.9 kg \u22c5 m 2 \u22c5 h 1 permeate flux and 99.97% salt rejection. Furthermore, the crystallization  of  salts  revealed  cubic  NaCl  crystals  and  monoclinic Na2SO4  crystals in the wastewater. MD can also be applied for simultaneous water and nutrient recovery."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.58789412,
+            "t": 424.3658153995312,
+            "r": 291.03147132,
+            "b": 333.3760267305178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            641
+          ]
+        }
+      ],
+      "orig": "The application of MD process was comprehensively investigated for water and nutrients recovery from fish farm wastewater using a modified membrane with super-hydrophobic properties (water contact angle: 153.3 \u25e6 ;  and  low  contact  angle  hysteresis:  8.4 \u25e6 ).  The  obtained  results revealed  a  steady  permeate  flux  with  a  slight  reduction  of  1.4 kg \u22c5 m 2 \u22c5 h 1 .  The authors discussed it was due to the low fouling tendency of the surface-printed membrane. The authors concluded that in feed concentration process, except for ammonia ( > 86%), rejection of all selected inorganic substances is higher than 99% ([16], 102,573).",
+      "text": "The application of MD process was comprehensively investigated for water and nutrients recovery from fish farm wastewater using a modified membrane with super-hydrophobic properties (water contact angle: 153.3 \u25e6 ;  and  low  contact  angle  hysteresis:  8.4 \u25e6 ).  The  obtained  results revealed  a  steady  permeate  flux  with  a  slight  reduction  of  1.4 kg \u22c5 m 2 \u22c5 h 1 .  The authors discussed it was due to the low fouling tendency of the surface-printed membrane. The authors concluded that in feed concentration process, except for ammonia ( > 86%), rejection of all selected inorganic substances is higher than 99% ([16], 102,573)."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.588016259999996,
+            "t": 319.1437805095312,
+            "r": 266.61362182,
+            "b": 311.8328464305178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "3. Development of MD processes for wastewater treatment",
+      "text": "3. Development of MD processes for wastewater treatment",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.588016259999996,
+            "t": 298.2238620295312,
+            "r": 291.0244441,
+            "b": 207.23484805051783,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            578
+          ]
+        }
+      ],
+      "orig": "The stepwise flux decline during the initial stages of MD processes is really  important  to  provide  a  deep  understanding  of  the  membrane performance. Membrane fouling for a DCMD-based system was monitored ([17], 102,296) in real-time using THE in-situ optical coherence tomography (OCT) technology. This innovative technique could investigate the effect of operating parameters, including feed temperature, flow rate in the feed channel, and the dye concentration. As a result, the fouling  phenomenon of the MD membrane could be monitored nondestructively in real-time.",
+      "text": "The stepwise flux decline during the initial stages of MD processes is really  important  to  provide  a  deep  understanding  of  the  membrane performance. Membrane fouling for a DCMD-based system was monitored ([17], 102,296) in real-time using THE in-situ optical coherence tomography (OCT) technology. This innovative technique could investigate the effect of operating parameters, including feed temperature, flow rate in the feed channel, and the dye concentration. As a result, the fouling  phenomenon of the MD membrane could be monitored nondestructively in real-time."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.588016259999996,
+            "t": 204.0579275395312,
+            "r": 291.02992565,
+            "b": 113.06784137051784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            626
+          ]
+        }
+      ],
+      "orig": "When textile wastewater is addressed to be treated using the MD process, the concentration of dye matters (Tolentino [18], 102,611). The effect of dye concentration, up to 3000 mg \u22c5 L 1 , was investigated on the membrane fouling and the permeate flux of the DCMD process. The obtained  results  revealed  that:  increasing  the  dye  concentration  can seriously reduce the permeate flux, higher scale factor was observed for the  disperse  dye,  and  the  dye  concentration  did  not  affect  the  color rejection. Furthermore, the dye concentration influence is stronger to disperse dyes group than the reactive dyes group.",
+      "text": "When textile wastewater is addressed to be treated using the MD process, the concentration of dye matters (Tolentino [18], 102,611). The effect of dye concentration, up to 3000 mg \u22c5 L 1 , was investigated on the membrane fouling and the permeate flux of the DCMD process. The obtained  results  revealed  that:  increasing  the  dye  concentration  can seriously reduce the permeate flux, higher scale factor was observed for the  disperse  dye,  and  the  dye  concentration  did  not  affect  the  color rejection. Furthermore, the dye concentration influence is stronger to disperse dyes group than the reactive dyes group."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 37.58871574999998,
+            "t": 109.94750856953124,
+            "r": 291.01956452,
+            "b": 50.30967995051776,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            436
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.59313992,
+            "t": 738.2113633295312,
+            "r": 559.97855912,
+            "b": 720.4125746605179,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            437,
+            565
+          ]
+        }
+      ],
+      "orig": "The effect  of  the  dye  on  the  performance  of  the  commercial  MD membranes (PVDF, PTFE and PP) for treatment of textile effluent was investigated ([19], 102,339). The obtained results highlighted the effect of different dyes on the LEP value for various membranes. For instance, acid  class  of  dyes  presented  very  low  LEP  values  with  a  higher  propensity to wetting, while high LEP values were observed for reactive and disperse dyes. This means stable MD operation could be achieved for treating reactive- and disperse-dye contaminated wastewater.",
+      "text": "The effect  of  the  dye  on  the  performance  of  the  commercial  MD membranes (PVDF, PTFE and PP) for treatment of textile effluent was investigated ([19], 102,339). The obtained results highlighted the effect of different dyes on the LEP value for various membranes. For instance, acid  class  of  dyes  presented  very  low  LEP  values  with  a  higher  propensity to wetting, while high LEP values were observed for reactive and disperse dyes. This means stable MD operation could be achieved for treating reactive- and disperse-dye contaminated wastewater."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.59313992,
+            "t": 717.2922418595314,
+            "r": 560.02321779,
+            "b": 615.8210267305178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            666
+          ]
+        }
+      ],
+      "orig": "Integration  of  membrane  distillation  with  membrane  bioreactor, which is also known as the MDBR technology, is a promising approach for wastewater treatment. This hybrid process was used for treating the textile effluent (COD: 3000 mg \u22c5 L 1 ). Results revealed that the anerobic MDBR system could  attain  almost  99%  inorganic  salt  rejection  irrespective  of  the  operating  temperatures  (35 -50 \u25e6 C)  and  high  initial permeate fluxes of 5.9 -11.5 L \u22c5 m 2 \u22c5 h 1 . The investigated process could remove almost 40 -69% of COD and 43 -74% of color, respectively. The overall MD performance was in the range of 99% for COD as well as color ([20], 102,603).",
+      "text": "Integration  of  membrane  distillation  with  membrane  bioreactor, which is also known as the MDBR technology, is a promising approach for wastewater treatment. This hybrid process was used for treating the textile effluent (COD: 3000 mg \u22c5 L 1 ). Results revealed that the anerobic MDBR system could  attain  almost  99%  inorganic  salt  rejection  irrespective  of  the  operating  temperatures  (35 -50 \u25e6 C)  and  high  initial permeate fluxes of 5.9 -11.5 L \u22c5 m 2 \u22c5 h 1 . The investigated process could remove almost 40 -69% of COD and 43 -74% of color, respectively. The overall MD performance was in the range of 99% for COD as well as color ([20], 102,603)."
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.59635406999996,
+            "t": 612.7006939295312,
+            "r": 560.01126264,
+            "b": 532.1429468305179,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            494
+          ]
+        }
+      ],
+      "orig": "Further  to  these,  a  new  approach  in  modeling  of  mass  transport within a DCMD membrane was investigated. It was comprehensively discussed that the equimolar diffusion assumption underestimates the permeate flux by up to \u205315%. However, the neglection of Knudsen diffusion  significantly  overestimates  the  permeate  flux,  more  than > 150%. It was discussed that the Fick's law could be safely used to estimate  the  transmembrane  flux  of  water  vapor  molecules  ([21], 102,460).",
+      "text": "Further  to  these,  a  new  approach  in  modeling  of  mass  transport within a DCMD membrane was investigated. It was comprehensively discussed that the equimolar diffusion assumption underestimates the permeate flux by up to \u205315%. However, the neglection of Knudsen diffusion  significantly  overestimates  the  permeate  flux,  more  than > 150%. It was discussed that the Fick's law could be safely used to estimate  the  transmembrane  flux  of  water  vapor  molecules  ([21], 102,460)."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.59635406999996,
+            "t": 517.9107006095312,
+            "r": 368.1518274,
+            "b": 510.59976653051785,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "4. Perspectives",
+      "text": "4. Perspectives",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.59635406999996,
+            "t": 496.9907821295312,
+            "r": 560.01763872,
+            "b": 416.4338320405178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            558
+          ]
+        }
+      ],
+      "orig": "Fabricating  novel  membranes  with  antifouling  and  antiwetting properties  as  well  as  high  permeate  flux  and  complete  contaminant rejection  can  help  to  develop  the  application  of  MD  processes  for wastewater treatment, especially challenging industrial effluents which are hard to be treated via the conventional technique. Incorporation of nanoparticles into the membrane structure can enhance these properties. However, the nanoparticle release into the environment after long term operation should be investigated as a potential risk.",
+      "text": "Fabricating  novel  membranes  with  antifouling  and  antiwetting properties  as  well  as  high  permeate  flux  and  complete  contaminant rejection  can  help  to  develop  the  application  of  MD  processes  for wastewater treatment, especially challenging industrial effluents which are hard to be treated via the conventional technique. Incorporation of nanoparticles into the membrane structure can enhance these properties. However, the nanoparticle release into the environment after long term operation should be investigated as a potential risk."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.59635406999996,
+            "t": 413.3134992395312,
+            "r": 560.02321779,
+            "b": 301.34414820051785,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            709
+          ]
+        }
+      ],
+      "orig": "MD processes also need further development with emphasis on energy efficiency. New configurations and module design towards higher energy efficiency, lower temperature and concentration polarizations, as well as utilizing new energy resources should be taken into consideration.  The  MD  process  can  be  integrated  with  renewable  energy sources, such as solar and geothermal energy, and promisingly the waste thermal energy in the industry, as well. Furthermore, the MD process can also enjoy the waste cooling energy in industries and natural cold environment, for instance, in Canada, North America and Scandinavian countries, where cold weather ( < 5 \u25e6 C) is available, at least six months of a year.",
+      "text": "MD processes also need further development with emphasis on energy efficiency. New configurations and module design towards higher energy efficiency, lower temperature and concentration polarizations, as well as utilizing new energy resources should be taken into consideration.  The  MD  process  can  be  integrated  with  renewable  energy sources, such as solar and geothermal energy, and promisingly the waste thermal energy in the industry, as well. Furthermore, the MD process can also enjoy the waste cooling energy in industries and natural cold environment, for instance, in Canada, North America and Scandinavian countries, where cold weather ( < 5 \u25e6 C) is available, at least six months of a year."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 306.59726487,
+            "t": 298.2238153995312,
+            "r": 560.0185495200001,
+            "b": 50.31070551051778,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1670
+          ]
+        }
+      ],
+      "orig": "Furthermore, standalone MD processes have not had much luck in treating the wastewater streams. This is due to the high fouling tendency and  pore  wetting  risk  of  hydrophobic  membranes  when  highly contaminated wastewater sample is introduced in the feed stream. Hybridization  of  MD  processes  with  other  technologies  is  a  promising strategy for enhancing the overall efficiency of wastewater treatment. Hybrid MD processes can improve pollution and fouling/scaling mitigation, while recovery of water and valuable resources from an effluent stream  can  efficiently  be  achieved.  For  instance,  MD-crystallization, instead of water losses and evaporation in ponds, can be integrated to RO system to efficiently recover valuable metals such as Li and Rb from RO brine and industrial wastewater. This approach may also decrease the production cost for fresh water with recovering value-added metals and ions. Nutrients and P recovery from urine and digested sludge can also be achieved by hybridizing MD with the forward osmosis (MD-FO) process. This approach is also practical for lowering the pore wetting risk and enhancing the process efficiency for phosphorus and ammonia recovery from effluent sources. Furthermore, MD can be integrated with the membrane-bioreactor technology (MBR), which is also known as MDBR. Using this hybrid process can efficiently remove a wide range of contaminants, recover water and energy recovery, simultaneously with efficient wastewater treatment via a compact system. Furthermore, energy recovery/generation can be achieved by integration of MD and reverse electrodialysis (MD-RED) and pressure-retarded osmosis (MD-",
+      "text": "Furthermore, standalone MD processes have not had much luck in treating the wastewater streams. This is due to the high fouling tendency and  pore  wetting  risk  of  hydrophobic  membranes  when  highly contaminated wastewater sample is introduced in the feed stream. Hybridization  of  MD  processes  with  other  technologies  is  a  promising strategy for enhancing the overall efficiency of wastewater treatment. Hybrid MD processes can improve pollution and fouling/scaling mitigation, while recovery of water and valuable resources from an effluent stream  can  efficiently  be  achieved.  For  instance,  MD-crystallization, instead of water losses and evaporation in ponds, can be integrated to RO system to efficiently recover valuable metals such as Li and Rb from RO brine and industrial wastewater. This approach may also decrease the production cost for fresh water with recovering value-added metals and ions. Nutrients and P recovery from urine and digested sludge can also be achieved by hybridizing MD with the forward osmosis (MD-FO) process. This approach is also practical for lowering the pore wetting risk and enhancing the process efficiency for phosphorus and ammonia recovery from effluent sources. Furthermore, MD can be integrated with the membrane-bioreactor technology (MBR), which is also known as MDBR. Using this hybrid process can efficiently remove a wide range of contaminants, recover water and energy recovery, simultaneously with efficient wastewater treatment via a compact system. Furthermore, energy recovery/generation can be achieved by integration of MD and reverse electrodialysis (MD-RED) and pressure-retarded osmosis (MD-"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 296.2079858398,
+            "t": 35.89878405078116,
+            "r": 300.48628183980003,
+            "b": 30.050110171182496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "D",
+      "text": "D"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 118.1468965,
+            "t": 756.7062286695312,
+            "r": 594.5002818397994,
+            "b": 750.8576465194476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            62
+          ]
+        }
+      ],
+      "orig": "- R X U Q D O  R I  : D W H U  3 U R F H V V  ( Q J L Q H H ee",
+      "text": "- R X U Q D O  R I  : D W H U  3 U R F H V V  ( Q J L Q H H ee"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.5874,
+            "t": 757.0964337495312,
+            "r": 121.10786445999999,
+            "b": 750.8576465194476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "M.M.A. Shirazi and L.F. Dum \u00b4",
+      "text": "M.M.A. Shirazi and L.F. Dum \u00b4"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.5874,
+            "t": 738.2169368695312,
+            "r": 60.764450800000006,
+            "b": 730.9060027905178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "PRO).",
+      "text": "PRO)."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.587399999999946,
+            "t": 727.7290822795312,
+            "r": 291.03100093,
+            "b": 553.0619884005179,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1170
+          ]
+        }
+      ],
+      "orig": "The  emergence  of  niche  applications  for  MD  in  the  wastewater treatment  area,  as  demonstrated  in  this  VSI,  will  further  progress  in selective resource recovery and process integration capabilities. Several start-up  companies  such  as  Memsift  Ltd.,  Condorchem,  or  Memsys, provide key-in-hand scalable solutions outside from the classical water desalination area, in the pharmaceutical and petro-chemical processing and waste treatment streams, supporting process intensification leading to lower finite waste and wastewater rejects, towards a circular economy approach. Key challenges in the area however remain related to both the membrane materials development, requiring surfaces ultra-resistant to wetting and fouling as well as stronger chemistries to operate in nonpure  water  conditions,  and  to  integration  of  MD  systems  into  a broader energy mix scheme, whereby waste-heat or waste-electricity, generated as surplus from renewables for instance, are coupled to MD pilots and units. Such approaches have the potential to enable MD as a truly competitive technique of choice to support its application in water process engineering.",
+      "text": "The  emergence  of  niche  applications  for  MD  in  the  wastewater treatment  area,  as  demonstrated  in  this  VSI,  will  further  progress  in selective resource recovery and process integration capabilities. Several start-up  companies  such  as  Memsift  Ltd.,  Condorchem,  or  Memsys, provide key-in-hand scalable solutions outside from the classical water desalination area, in the pharmaceutical and petro-chemical processing and waste treatment streams, supporting process intensification leading to lower finite waste and wastewater rejects, towards a circular economy approach. Key challenges in the area however remain related to both the membrane materials development, requiring surfaces ultra-resistant to wetting and fouling as well as stronger chemistries to operate in nonpure  water  conditions,  and  to  integration  of  MD  systems  into  a broader energy mix scheme, whereby waste-heat or waste-electricity, generated as surplus from renewables for instance, are coupled to MD pilots and units. Such approaches have the potential to enable MD as a truly competitive technique of choice to support its application in water process engineering."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.5874,
+            "t": 531.5171754295312,
+            "r": 81.1360264,
+            "b": 524.2062413505179,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.9889,
+            "t": 512.0762286695312,
+            "r": 284.88110198000004,
+            "b": 498.2341806894476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "[1] John C. Radcliffe, Declan Page, Water reuse and recycling in Australia -history, current situation and future perspectives, Water Cycle 1 (2020) 19 -40.",
+      "text": "John C. Radcliffe, Declan Page, Water reuse and recycling in Australia -history, current situation and future perspectives, Water Cycle 1 (2020) 19 -40.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0005",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.98890000000002,
+            "t": 496.1460425195312,
+            "r": 288.5472444800001,
+            "b": 466.3731707994476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "[2] Jiaqi Yang, Mathias Monnot, Lionel Ercolei, Philippe Moulin, Membrane-based processes used in municipal wastewater treatment for water reuse: state-of-the-art and performance, Analysis. 10 (2020), https://doi.org/10.3390/ membranes10060131.",
+      "text": "Jiaqi Yang, Mathias Monnot, Lionel Ercolei, Philippe Moulin, Membrane-based processes used in municipal wastewater treatment for water reuse: state-of-the-art and performance, Analysis. 10 (2020), https://doi.org/10.3390/ membranes10060131.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.98890000000001,
+            "t": 464.2282871195312,
+            "r": 288.32472556999994,
+            "b": 442.4488812294476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            193
+          ]
+        }
+      ],
+      "orig": "[3] Hiroo Takabatake, Masahide Taniguchi, Masaru Kurihara, Advanced technologies for stabilization and high performance of seawater Ro membrane desalination plants, Membranes 11 (2) (2021) 138.",
+      "text": "Hiroo Takabatake, Masahide Taniguchi, Masaru Kurihara, Advanced technologies for stabilization and high performance of seawater Ro membrane desalination plants, Membranes 11 (2) (2021) 138.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0015",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.9889,
+            "t": 440.7509481395312,
+            "r": 283.00850015000003,
+            "b": 418.5252292494476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "[4] Lucy Mar Camacho, Ludovic Dum \u00b4 ee, Jianhua Zhang, Jun-de Li, Mikel Duke, Juan Gomez, Stephen Gray, Advances in membrane distillation for water desalination and purification applications, Water 5 (1) (2013) 94 -196.",
+      "text": "Lucy Mar Camacho, Ludovic Dum \u00b4 ee, Jianhua Zhang, Jun-de Li, Mikel Duke, Juan Gomez, Stephen Gray, Advances in membrane distillation for water desalination and purification applications, Water 5 (1) (2013) 94 -196.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0020",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.9889,
+            "t": 416.43645348953123,
+            "r": 284.58270985999997,
+            "b": 394.6576851894476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            166
+          ]
+        }
+      ],
+      "orig": "[5] Ying Shi, Lyly Leow Chang, Hui Ting, Ooi Boon Seng, Membrane distillation for water recovery and its fouling phenomena, J. Membr. Sci. Res. 6 (1) (2020) 107 -124.",
+      "text": "Ying Shi, Lyly Leow Chang, Hui Ting, Ooi Boon Seng, Membrane distillation for water recovery and its fouling phenomena, J. Membr. Sci. Res. 6 (1) (2020) 107 -124.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0025",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.98890000000003,
+            "t": 392.5121639195312,
+            "r": 277.71076484,
+            "b": 378.67011593944756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "[6] Enrico Drioli, Aamer Ali, Francesca Macedonio, Membrane distillation: recent developments and perspectives, Desalination 356 (2015) 56 -84.",
+      "text": "Enrico Drioli, Aamer Ali, Francesca Macedonio, Membrane distillation: recent developments and perspectives, Desalination 356 (2015) 56 -84.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0030",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.98890000000009,
+            "t": 376.5819777695312,
+            "r": 288.57083531,
+            "b": 346.80910604944756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            321
+          ]
+        }
+      ],
+      "orig": "[7] Aamer Ali, Cejna Anna Quist-Jensen, Mads Koustrup J \u00f8 rgensen, Anna Siekierka, Morten Lykkegaard Christensen, Marek Bryjak, Claus H \u00b4 elix-Nielsen, Enrico Drioli, A review of membrane crystallization, forward osmosis and membrane capacitive deionization for liquid mining, Resour. Conserv. Recycl. 168 (2021), 105273.",
+      "text": "Aamer Ali, Cejna Anna Quist-Jensen, Mads Koustrup J \u00f8 rgensen, Anna Siekierka, Morten Lykkegaard Christensen, Marek Bryjak, Claus H \u00b4 elix-Nielsen, Enrico Drioli, A review of membrane crystallization, forward osmosis and membrane capacitive deionization for liquid mining, Resour. Conserv. Recycl. 168 (2021), 105273.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0035",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.9889,
+            "t": 344.6642223695312,
+            "r": 285.21456155,
+            "b": 314.9480961594476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "[8] Mohammad Mahdi A. Shirazi, Saeed Bazgir, Fereshteh Meshkani, A novel duallayer, gas-assisted electrospun, Nanofibrous SAN4-HIPS membrane for industrial textile wastewater treatment by direct contact membrane distillation (DCMD), J. Water Proc. Eng. 36 (2020), 101315.",
+      "text": "Mohammad Mahdi A. Shirazi, Saeed Bazgir, Fereshteh Meshkani, A novel duallayer, gas-assisted electrospun, Nanofibrous SAN4-HIPS membrane for industrial textile wastewater treatment by direct contact membrane distillation (DCMD), J. Water Proc. Eng. 36 (2020), 101315.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0040",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 40.9889,
+            "t": 312.8032124795312,
+            "r": 286.9188396200001,
+            "b": 291.02380658944764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            242
+          ]
+        }
+      ],
+      "orig": "[9] A.S. Niknejad, S. Bazgir, M. Ardjmand, M.M.A. Shirazi, Spent caustic wastewater treatment using direct contact membrane distillation with electroblown styreneacrylonitrile membrane, Int. J. Environ. Sci. Technol. 18 (8) (2021) 2283 -2294.",
+      "text": "A.S. Niknejad, S. Bazgir, M. Ardjmand, M.M.A. Shirazi, Spent caustic wastewater treatment using direct contact membrane distillation with electroblown styreneacrylonitrile membrane, Int. J. Environ. Sci. Technol. 18 (8) (2021) 2283 -2294.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0045",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.58799494,
+            "t": 288.8789229095312,
+            "r": 288.55043243,
+            "b": 267.0995170194476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            177
+          ]
+        }
+      ],
+      "orig": "[10] A. Shirazi, Mohammad Mahdi, Ali Kargari, A review on applications of membrane distillation (MD) process for wastewater treatment, J. Membr. Sci. Res. 1 (3) (2015) 101 -112.",
+      "text": "A. Shirazi, Mohammad Mahdi, Ali Kargari, A review on applications of membrane distillation (MD) process for wastewater treatment, J. Membr. Sci. Res. 1 (3) (2015) 101 -112.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0050",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 37.58799494,
+            "t": 265.0113788495312,
+            "r": 288.5740232599999,
+            "b": 235.2385071294476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "[11] Anshul Yadav, Raj Vardhan Patel, Pawan Kumar Labhasetwar, Vinod Kumar Shahi, Novel MIL101 (Fe) impregnated poly (vinylidene fluoride-co-hexafluoropropylene) mixed matrix membranes for dye removal from textile industry wastewater, J. Water Proc. Eng. 43 (2021), 102317.",
+      "text": "Anshul Yadav, Raj Vardhan Patel, Pawan Kumar Labhasetwar, Vinod Kumar Shahi, Novel MIL101 (Fe) impregnated poly (vinylidene fluoride-co-hexafluoropropylene) mixed matrix membranes for dye removal from textile industry wastewater, J. Water Proc. Eng. 43 (2021), 102317.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0055",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59231666,
+            "t": 738.2217505895312,
+            "r": 553.2299811799999,
+            "b": 716.4423446994475,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            224
+          ]
+        }
+      ],
+      "orig": "[12] Appanu Sushvanth Reddy, Sarita Kalla, Z.V.P. Murthy, Nano-particles enhanced hydrophobic membranes: high-performance study for dye wastewater treatment using membrane distillation, J. Water Proc. Eng. 46 (2022), 102610.",
+      "text": "Appanu Sushvanth Reddy, Sarita Kalla, Z.V.P. Murthy, Nano-particles enhanced hydrophobic membranes: high-performance study for dye wastewater treatment using membrane distillation, J. Water Proc. Eng. 46 (2022), 102610.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0060",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59231666,
+            "t": 714.2974610195312,
+            "r": 557.55857969,
+            "b": 684.5245892994476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            279
+          ]
+        }
+      ],
+      "orig": "[13] Lusi Zou, Yu Zhang, Yu Jianjia, Shangwen Zha, Rong Guan, Shufang Jiang, Study of a poly (vinylidene fluoride)/hydrophobic silica sol hybrid hollow fiber membrane for treatment of produced water via direct contact membrane distillation, J. Water Proc. Eng. 44 (2021), 102345.",
+      "text": "Lusi Zou, Yu Zhang, Yu Jianjia, Shangwen Zha, Rong Guan, Shufang Jiang, Study of a poly (vinylidene fluoride)/hydrophobic silica sol hybrid hollow fiber membrane for treatment of produced water via direct contact membrane distillation, J. Water Proc. Eng. 44 (2021), 102345.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0065",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59231666,
+            "t": 682.4364511295312,
+            "r": 554.4248248399999,
+            "b": 660.6570452394476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "[14] Lusi Zou, Guoyin Zhang, Yu. Jianjia, Desirable PVDF hollow fiber membrane engineered with synergism between small molecular weight additives for DCMD treating of a hypersaline brine, J. Water Proc. Eng. 45 (2022), 102528.",
+      "text": "Lusi Zou, Guoyin Zhang, Yu. Jianjia, Desirable PVDF hollow fiber membrane engineered with synergism between small molecular weight additives for DCMD treating of a hypersaline brine, J. Water Proc. Eng. 45 (2022), 102528.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0070",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59231666,
+            "t": 658.5121615595311,
+            "r": 553.7993490499998,
+            "b": 620.8025695194476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            345
+          ]
+        }
+      ],
+      "orig": "[15] Anshul Yadav, Khushboo Singh, Asit Baran Panda, Pawan Kumar Labhasetwar, Vinod Kumar Shahi, Membrane distillation crystallization for simultaneous recovery of water and salt from tannery industry wastewater using TiO2 modified poly (vinylidene fluoride-Co-hexafluoropropylene) nanocomposite membranes, J. Water Proc. Eng. 44 (2021), 102393.",
+      "text": "Anshul Yadav, Khushboo Singh, Asit Baran Panda, Pawan Kumar Labhasetwar, Vinod Kumar Shahi, Membrane distillation crystallization for simultaneous recovery of water and salt from tannery industry wastewater using TiO2 modified poly (vinylidene fluoride-Co-hexafluoropropylene) nanocomposite membranes, J. Water Proc. Eng. 44 (2021), 102393.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0075",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59231666,
+            "t": 618.6576858395312,
+            "r": 554.5147250299999,
+            "b": 596.8782799494476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "[16] Guang Hui Teoh, Zeinab Abbas Jawad, Boon Seng Ooi, Siew Chun Low, Simultaneous water reclamation and nutrient recovery of aquaculture wastewater using membrane distillation, J. Water Proc. Eng. 46 (2022), 102573.",
+      "text": "Guang Hui Teoh, Zeinab Abbas Jawad, Boon Seng Ooi, Siew Chun Low, Simultaneous water reclamation and nutrient recovery of aquaculture wastewater using membrane distillation, J. Water Proc. Eng. 46 (2022), 102573.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0080",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59231666,
+            "t": 594.7333962695312,
+            "r": 557.55730451,
+            "b": 565.0172700594476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            257
+          ]
+        }
+      ],
+      "orig": "[17] Harun Elcik, Luca Fortunato, Johannes S. Vrouwenvelder, Noreddine Ghaffour, Real-time membrane fouling analysis for the assessment of reclamation potential of textile wastewater processed by membrane distillation, J. Water Proc. Eng. 43 (2021), 102296.",
+      "text": "Harun Elcik, Luca Fortunato, Johannes S. Vrouwenvelder, Noreddine Ghaffour, Real-time membrane fouling analysis for the assessment of reclamation potential of textile wastewater processed by membrane distillation, J. Water Proc. Eng. 43 (2021), 102296.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0085",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59231666,
+            "t": 564.5097174995312,
+            "r": 556.6634033299999,
+            "b": 533.0995146594476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            307
+          ]
+        }
+      ],
+      "orig": "[18] Tolentino Filho, Carlos Magno, Regilene de Sousa, Carolina D ' \u00b4 Avila Silva, Kramer Cavalcanti, Miguel Angelo Granato, Ricardo Antonio Francisco Machado, Cintia Marangoni, Membrane distillation for the recovery textile wastewater: influence of dye concentration, J. Water Proc. Eng. 46 (2022), 102611.",
+      "text": "Tolentino Filho, Carlos Magno, Regilene de Sousa, Carolina D ' \u00b4 Avila Silva, Kramer Cavalcanti, Miguel Angelo Granato, Ricardo Antonio Francisco Machado, Cintia Marangoni, Membrane distillation for the recovery textile wastewater: influence of dye concentration, J. Water Proc. Eng. 46 (2022), 102611.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0090",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59231666,
+            "t": 531.0113764895312,
+            "r": 551.0022417199999,
+            "b": 493.24567652944756,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "[19] Regilene de Sousa Silva, Heloisa Ramlow, Bianca de Castro Santos, Helo\u00edsa Bremm Madalosso, Ricardo Antonio Francisco Machado, Cintia Marangoni, Membrane distillation: experimental evaluation of liquid entry pressure in commercial membranes with textile dye solutions, J. Water Proc. Eng. 44 (2021), 102339.",
+      "text": "Regilene de Sousa Silva, Heloisa Ramlow, Bianca de Castro Santos, Helo\u00edsa Bremm Madalosso, Ricardo Antonio Francisco Machado, Cintia Marangoni, Membrane distillation: experimental evaluation of liquid entry pressure in commercial membranes with textile dye solutions, J. Water Proc. Eng. 44 (2021), 102339.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0095",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59231666,
+            "t": 491.1569007695312,
+            "r": 549.67477934,
+            "b": 461.3846666394476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            266
+          ]
+        }
+      ],
+      "orig": "[20] Kamran Manzoor, Sher Jamal Khan, Maria Yasmeen, Yousuf Jamal, Muhammad Arshad, Assessment of anaerobic membrane distillation bioreactor hybrid system at mesophilic and thermophilic temperatures treating textile wastewater, J. Water Proc. Eng. 46 (2022), 102603.",
+      "text": "Kamran Manzoor, Sher Jamal Khan, Maria Yasmeen, Yousuf Jamal, Muhammad Arshad, Assessment of anaerobic membrane distillation bioreactor hybrid system at mesophilic and thermophilic temperatures treating textile wastewater, J. Water Proc. Eng. 46 (2022), 102603.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0100",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.59231666,
+            "t": 459.23914536953123,
+            "r": 556.8820966999999,
+            "b": 429.5230191594476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            277
+          ]
+        }
+      ],
+      "orig": "[21] M.S. Ismail, A.M. Mohamed, D. Poggio, M. Walker, M. Pourkashanian, Modelling mass transport within the membrane of direct contact membrane distillation modules used for desalination and wastewater treatment: Scrutinising assumptions, J. Water Proc. Eng. 45 (2022), 102460.",
+      "text": "M.S. Ismail, A.M. Mohamed, D. Poggio, M. Walker, M. Pourkashanian, Modelling mass transport within the membrane of direct contact membrane distillation modules used for desalination and wastewater treatment: Scrutinising assumptions, J. Water Proc. Eng. 45 (2022), 102460.",
+      "hyperlink": "http://refhub.elsevier.com/S2214-7144(22)00113-1/rf0105",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 355.578,
+            "t": 417.3160931695312,
+            "r": 559.99115041,
+            "b": 397.6090027905178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            116
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 321.505,
+            "t": 396.3960931695312,
+            "r": 560.01825589,
+            "b": 376.68873591051783,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            117,
+            206
+          ]
+        }
+      ],
+      "orig": "Mohammad Mahdi A. Shirazi a,* , Ludovic F. Dum \u00b4 ee b,c,d,** a Membrane Industry Development Institute, Tehran, Iran b Khalifa University, Department of Chemical Engineering, Abu Dhabi, United Arab Emirates",
+      "text": "Mohammad Mahdi A. Shirazi a,* , Ludovic F. Dum \u00b4 ee b,c,d,** a Membrane Industry Development Institute, Tehran, Iran b Khalifa University, Department of Chemical Engineering, Abu Dhabi, United Arab Emirates"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 306.595,
+            "t": 375.4760931695312,
+            "r": 560.02038321,
+            "b": 355.7697359105178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        },
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 337.096,
+            "t": 354.5570931695312,
+            "r": 560.01894328,
+            "b": 334.84973591051784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            106,
+            210
+          ]
+        }
+      ],
+      "orig": "c Research and Innovation Center on CO2 and Hydrogen, Khalifa University, Abu Dhabi, United Arab Emirates d Center for Membrane and Advanced Water Technology, Khalifa University, Abu Dhabi, United Arab Emirates",
+      "text": "c Research and Innovation Center on CO2 and Hydrogen, Khalifa University, Abu Dhabi, United Arab Emirates d Center for Membrane and Advanced Water Technology, Khalifa University, Abu Dhabi, United Arab Emirates"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 321.165,
+            "t": 321.67509316953124,
+            "r": 560.02049645,
+            "b": 301.96773591051783,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "* Correspondence to: M. Shirazi, Membrane Industry Development Institute, Tehran, Iran.",
+      "text": "* Correspondence to: M. Shirazi, Membrane Industry Development Institute, Tehran, Iran."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 310.337,
+            "t": 288.79309316953123,
+            "r": 559.9968333200001,
+            "b": 258.6548813205178,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            138
+          ]
+        }
+      ],
+      "orig": "** Correspondence to: L. Dum \u00b4 ee, Center for Membrane and Advanced Water Technology, Khalifa University, Abu Dhabi, United Arab Emirates.",
+      "text": "** Correspondence to: L. Dum \u00b4 ee, Center for Membrane and Advanced Water Technology, Khalifa University, Abu Dhabi, United Arab Emirates."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 320.14384691000004,
+            "t": 255.47796080953117,
+            "r": 560.01994661,
+            "b": 237.73575985051775,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "E-mail addresses: che.shirazi@gmail.com (M.M.A. Shirazi), ludovic. dumee@ku.ac.ae (L.F. Dum \u00b4 ee).",
+      "text": "E-mail addresses: che.shirazi@gmail.com (M.M.A. Shirazi), ludovic. dumee@ku.ac.ae (L.F. Dum \u00b4 ee)."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 296.2079858398,
+            "t": 35.89878405078116,
+            "r": 299.5681378398,
+            "b": 30.050110171182496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "u",
+      "text": "u"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.1638069152832,
+            "t": 732.8598022460938,
+            "r": 96.59880065917969,
+            "b": 665.4547119140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 499.3590393066406,
+            "t": 739.1776313781738,
+            "r": 558.1450805664062,
+            "b": 666.0861892700195,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 499.8710632324219,
+            "t": 646.3188323974609,
+            "r": 529.7491455078125,
+            "b": 616.6237945556641,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 793.7009887695312
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 793.7009887695312
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 793.7009887695312
+      },
+      "page_no": 3
+    }
+  }
+}

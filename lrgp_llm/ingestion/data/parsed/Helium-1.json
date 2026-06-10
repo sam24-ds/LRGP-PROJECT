@@ -1,0 +1,3141 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Helium-1",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 9250514918516650639,
+    "filename": "Helium-1.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.9103,
+            "t": 649.5112146484374,
+            "r": 164.12109999999998,
+            "b": 638.9291536071448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "ISSUE 53 |  15/06/2021",
+      "text": "ISSUE 53 |  15/06/2021"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 236.2857,
+            "t": 649.5112146484374,
+            "r": 553.0793,
+            "b": 638.9291536071448,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "Topics Chemistry | Earth science | Physics | Science and society",
+      "text": "Topics Chemistry | Earth science | Physics | Science and society"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 444.76,
+            "t": 340.9061146484375,
+            "r": 569.3507,
+            "b": 333.9234959965446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "Helen Warren/Wikimedia, CC BY-SA 2.5",
+      "text": "Helen Warren/Wikimedia, CC BY-SA 2.5"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.3464,
+            "t": 326.2646646484375,
+            "r": 405.8179,
+            "b": 295.4518901252768,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            25
+          ]
+        }
+      ],
+      "orig": "Elements in focus: helium",
+      "text": "Elements in focus: helium",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.3465,
+            "t": 280.62071464843757,
+            "r": 77.75649999999999,
+            "b": 272.79216886746804,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Melissa Lord",
+      "text": "Melissa Lord"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.3464,
+            "t": 254.30111464843753,
+            "r": 464.9167999999996,
+            "b": 224.06128470389035,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Helium: gas of awe, wonder, and worry. Is it time to give this noble gas the respect it deserves?",
+      "text": "Helium: gas of awe, wonder, and worry. Is it time to give this noble gas the respect it deserves?"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.3465,
+            "t": 196.90611464843755,
+            "r": 288.88304999999986,
+            "b": 101.27907260090547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            420
+          ]
+        }
+      ],
+      "orig": "Helium: such an inspiring gas to meet. The second most common element in the universe, the stuff of stars, is less dense than air, so if you lose your grip on a helium balloon, it rises into the air.  Breathing a mouthful of helium can make you sound like Donald Duck, and the reason lies in vocal folds and the speed of sound in helium. However, don't try this at home: the risk assessment includes potential death. [1]",
+      "text": "Helium: such an inspiring gas to meet. The second most common element in the universe, the stuff of stars, is less dense than air, so if you lose your grip on a helium balloon, it rises into the air.  Breathing a mouthful of helium can make you sound like Donald Duck, and the reason lies in vocal folds and the speed of sound in helium. However, don't try this at home: the risk assessment includes potential death. [1]"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.3465,
+            "t": 80.90611464843755,
+            "r": 288.8545500000001,
+            "b": 43.279072600905465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "What do we know about helium? Where do we get it from? What do we use it for? What of our future relationship with this unreactive and fascinating gas?",
+      "text": "What do we know about helium? Where do we get it from? What do we use it for? What of our future relationship with this unreactive and fascinating gas?"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 308.9764,
+            "t": 195.83011464843753,
+            "r": 375.44040000000007,
+            "b": 181.88373862663911,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Discovery",
+      "text": "Discovery",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 308.9764,
+            "t": 167.90611464843755,
+            "r": 569.4987000000002,
+            "b": 101.27907260090547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "The word helium comes from Helios, Greek for the Sun, because this element was actually discovered in the Sun before it was known on Earth.  The spectrum of the Sun's corona, the 'crown' of hot gas surrounding the Sun's glowing surface, was analysed during a solar eclipse in 1868.",
+      "text": "The word helium comes from Helios, Greek for the Sun, because this element was actually discovered in the Sun before it was known on Earth.  The spectrum of the Sun's corona, the 'crown' of hot gas surrounding the Sun's glowing surface, was analysed during a solar eclipse in 1868."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 308.9764,
+            "t": 80.90611464843755,
+            "r": 569.4949,
+            "b": 43.279072600905465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            183
+          ]
+        }
+      ],
+      "orig": "Different elements absorb different colours of light, giving a 'bar code' for the different elements present. In addition to the bar codes for known elements like hydrogen and sodium,",
+      "text": "Different elements absorb different colours of light, giving a 'bar code' for the different elements present. In addition to the bar codes for known elements like hydrogen and sodium,"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.3464,
+            "t": 25.338114648437568,
+            "r": 214.90629999999996,
+            "b": 17.493278136175945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "www.scienceinschool.org/2021/issue53/helium",
+      "text": "www.scienceinschool.org/2021/issue53/helium",
+      "hyperlink": "https://www.scienceinschool.org/article/2021/elements-in-focus-helium/"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 562.5507,
+            "t": 22.490114648437498,
+            "r": 567.5907,
+            "b": 14.661568867468077,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.3465,
+            "t": 818.0783146484374,
+            "r": 104.18870000000004,
+            "b": 810.1417688674679,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Issue 53 | 31/03/2021",
+      "text": "Issue 53 | 31/03/2021"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.6231,
+            "t": 620.4563146484375,
+            "r": 492.3289999999989,
+            "b": 600.5878525412286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "The Sun's spectrum, showing the characteristic bar codes caused by different elements absorbing photons (light) of specific energies.",
+      "text": "The Sun's spectrum, showing the characteristic bar codes caused by different elements absorbing photons (light) of specific energies."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 80.6231,
+            "t": 595.7643146484374,
+            "r": 125.12709999999998,
+            "b": 588.7816959965446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "Public domain",
+      "text": "Public domain"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.3578,
+            "t": 544.9061146484374,
+            "r": 288.8572999999999,
+            "b": 492.7790726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "Jules Janssen from France found a set of lines that didn't fit with any known element, and Norman Lockyer from England suggested that the Sun contained an element unknown on Earth and gave it the name helium.",
+      "text": "Jules Janssen from France found a set of lines that didn't fit with any known element, and Norman Lockyer from England suggested that the Sun contained an element unknown on Earth and gave it the name helium."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.3578,
+            "t": 472.4061146484375,
+            "r": 288.8382999999999,
+            "b": 405.7790726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            279
+          ]
+        }
+      ],
+      "orig": "In 1881 the same pattern was discovered in gas from Mount Vesuvius  in  Italy.  Eventually,  helium  was  collected:    a  very low-density, unreactive gas to join argon, xenon, and krypton, and in 1902, Mendeleev added a new column to his periodic table for these 'noble gases'.",
+      "text": "In 1881 the same pattern was discovered in gas from Mount Vesuvius  in  Italy.  Eventually,  helium  was  collected:    a  very low-density, unreactive gas to join argon, xenon, and krypton, and in 1902, Mendeleev added a new column to his periodic table for these 'noble gases'."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.3578,
+            "t": 225.59811464843756,
+            "r": 288.2876999999999,
+            "b": 188.7296525412287,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "An image of the Sun's corona taken during the total solar eclipse of 21 August 2017.  The white glow of the corona is sculpted by the Sun's magnetic field.",
+      "text": "An image of the Sun's corona taken during the total solar eclipse of 21 August 2017.  The white glow of the corona is sculpted by the Sun's magnetic field."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.3578,
+            "t": 182.90611464843755,
+            "r": 164.1477,
+            "b": 175.9234959965446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "ESO/P. Hor\u00e1lek/Solar Wind Sherpas project",
+      "text": "ESO/P. Hor\u00e1lek/Solar Wind Sherpas project",
+      "hyperlink": "http://project.ifa.hawaii.edu/solarwindsherpas/"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.3578,
+            "t": 136.83011464843753,
+            "r": 264.27459999999996,
+            "b": 122.88373862663911,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            32
+          ]
+        }
+      ],
+      "orig": "Where do we get our helium from?",
+      "text": "Where do we get our helium from?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.3578,
+            "t": 109.90611464843755,
+            "r": 288.8858000000001,
+            "b": 43.279072600905465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.9764,
+            "t": 544.9061146484374,
+            "r": 569.4948999999999,
+            "b": 507.2790726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            299,
+            478
+          ]
+        }
+      ],
+      "orig": "Helium  is  the  second  most  common  element  in  the  Universe; it  was formed during the Big Bang and there is lots in stars, which release energy by fusing hydrogen atoms to give helium. However, Earth's helium is produced by alpha decay within the Earth's crust. Radioactive elements, such as isotopes of uranium, emit alpha particles, which are helium nuclei. These doubly positively charged alpha particles pick up a couple of electrons and there you are: a helium atom.",
+      "text": "Helium  is  the  second  most  common  element  in  the  Universe; it  was formed during the Big Bang and there is lots in stars, which release energy by fusing hydrogen atoms to give helium. However, Earth's helium is produced by alpha decay within the Earth's crust. Radioactive elements, such as isotopes of uranium, emit alpha particles, which are helium nuclei. These doubly positively charged alpha particles pick up a couple of electrons and there you are: a helium atom."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.9764,
+            "t": 486.9061146484375,
+            "r": 569.4949,
+            "b": 420.2790726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            275
+          ]
+        }
+      ],
+      "orig": "The very small helium atoms find their way through gaps between particles in permeable rocks, so helium leaks out of the  Earth  over  millions  of  years.  There  are  just  a  few  rare wells of helium gas, which form when pockets of helium are trapped by impermeable rock.",
+      "text": "The very small helium atoms find their way through gaps between particles in permeable rocks, so helium leaks out of the  Earth  over  millions  of  years.  There  are  just  a  few  rare wells of helium gas, which form when pockets of helium are trapped by impermeable rock."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.9764,
+            "t": 399.9061146484375,
+            "r": 569.5138999999987,
+            "b": 289.77907260090547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            490
+          ]
+        }
+      ],
+      "orig": "Examples can be found in Qatar, the USA, Russia, and Algeria. Some of these are becoming depleted, and the geopolitics of others makes supply unreliable. The largest well is estimated to about seven times the annual global consumption, [2] and the estimated total US known reserves might supply twenty years. However, helium is an element, so we can't synthesise more of it, and we have used millions, or even billions, of years' accumulation of this precious element in just a few decades.",
+      "text": "Examples can be found in Qatar, the USA, Russia, and Algeria. Some of these are becoming depleted, and the geopolitics of others makes supply unreliable. The largest well is estimated to about seven times the annual global consumption, [2] and the estimated total US known reserves might supply twenty years. However, helium is an element, so we can't synthesise more of it, and we have used millions, or even billions, of years' accumulation of this precious element in just a few decades."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 308.9764,
+            "t": 269.40611464843755,
+            "r": 569.5043999999999,
+            "b": 217.27907260090547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "Helium  is  unique  amongst  the  light  elements  in  that  it  is a  product  of  the  Earth,  rather  than  the  star  debris  that preceded it. All of Earth's helium has been made during its own history.",
+      "text": "Helium  is  unique  amongst  the  light  elements  in  that  it  is a  product  of  the  Earth,  rather  than  the  star  debris  that preceded it. All of Earth's helium has been made during its own history."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 307.9207,
+            "t": 63.45711464843748,
+            "r": 522.265599999999,
+            "b": 43.58865254122861,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "Alpha decay to give an alpha particle or helium nucleus. Red=protons, blue=neutrons. Public Domain",
+      "text": "Alpha decay to give an alpha particle or helium nucleus. Red=protons, blue=neutrons. Public Domain"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 28.3464,
+            "t": 25.338114648437568,
+            "r": 214.90629999999996,
+            "b": 17.493278136175945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "www.scienceinschool.org/2021/issue53/helium",
+      "text": "www.scienceinschool.org/2021/issue53/helium",
+      "hyperlink": "https://www.scienceinschool.org/article/2021/elements-in-focus-helium/"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 562.5507,
+            "t": 22.490114648437498,
+            "r": 567.5907,
+            "b": 14.661568867468077,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "2",
+      "text": "2"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 28.3465,
+            "t": 818.0783146484374,
+            "r": 104.18870000000004,
+            "b": 810.1417688674679,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Issue 53 | 31/03/2021",
+      "text": "Issue 53 | 31/03/2021"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 28.6529,
+            "t": 605.9523146484374,
+            "r": 257.12380000000013,
+            "b": 586.0838525412286,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            127
+          ]
+        }
+      ],
+      "orig": "A helium gas anticline (helium well). Originally published by Physics World. \u00a9 IOP Publishing. Reproduced with kind permission.",
+      "text": "A helium gas anticline (helium well). Originally published by Physics World. \u00a9 IOP Publishing. Reproduced with kind permission."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 28.3465,
+            "t": 513.8301146484375,
+            "r": 187.43290000000002,
+            "b": 499.8837386266391,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Where does helium go?",
+      "text": "Where does helium go?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 28.3465,
+            "t": 486.9061146484375,
+            "r": 288.84599999999995,
+            "b": 420.2790726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            273
+          ]
+        }
+      ],
+      "orig": "Why have billions of years of helium release from rocks not given  Earth  a  helium  atmosphere?  Helium  atoms  are  lowmass, and so they are fast-moving particles in air. Any helium atoms high enough and fast enough can escape gravity's pull: Earth leaks helium to space.",
+      "text": "Why have billions of years of helium release from rocks not given  Earth  a  helium  atmosphere?  Helium  atoms  are  lowmass, and so they are fast-moving particles in air. Any helium atoms high enough and fast enough can escape gravity's pull: Earth leaks helium to space."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.0157,
+            "t": 388.60181464843754,
+            "r": 106.21769999999998,
+            "b": 377.2703841307263,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Helium Facts",
+      "text": "Helium Facts",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.0157,
+            "t": 368.61471464843754,
+            "r": 137.12952499999997,
+            "b": 359.98767260090557,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "\u2981  Element name: Helium",
+      "text": "\u2981  Element name: Helium",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.0157,
+            "t": 353.8313146484375,
+            "r": 91.03885,
+            "b": 345.20427260090554,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "\u2981  Symbol: He",
+      "text": "\u2981  Symbol: He",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.0157,
+            "t": 339.0478146484375,
+            "r": 116.40812499999998,
+            "b": 330.42077260090554,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "\u2981  Atomic number: 2",
+      "text": "\u2981  Atomic number: 2",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.0157,
+            "t": 324.26441464843754,
+            "r": 152.60739999999996,
+            "b": 315.63737260090556,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            29
+          ]
+        }
+      ],
+      "orig": "\u2981  Relative atomic mass: 4.00",
+      "text": "\u2981  Relative atomic mass: 4.00",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.0157,
+            "t": 309.48091464843753,
+            "r": 264.9045725,
+            "b": 286.35387260090556,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "\u2981    Density: 0.178\u00d710-3 g/cm3 at room temperature - only hydrogen is less dense",
+      "text": "\u2981    Density: 0.178\u00d710-3 g/cm3 at room temperature - only hydrogen is less dense",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.0157,
+            "t": 280.19741464843753,
+            "r": 236.7168,
+            "b": 257.07037260090556,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            66
+          ]
+        }
+      ],
+      "orig": "\u2981    Boiling point: -269\u00b0C or 4 kelvin, the lowest of any material",
+      "text": "\u2981    Boiling point: -269\u00b0C or 4 kelvin, the lowest of any material",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.0157,
+            "t": 250.9140146484375,
+            "r": 197.70532500000002,
+            "b": 242.28697260090553,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "\u2981  Periodic table group: 18 (noble gases)",
+      "text": "\u2981  Periodic table group: 18 (noble gases)",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 34.0157,
+            "t": 236.1305146484375,
+            "r": 251.2109,
+            "b": 213.00347260090552,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "\u2981    Abundance in Earth's crust: 2-6 parts per million on the endangered list.",
+      "text": "\u2981    Abundance in Earth's crust: 2-6 parts per million on the endangered list.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 28.3465,
+            "t": 165.83011464843753,
+            "r": 240.55289999999997,
+            "b": 151.88373862663911,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "What makes helium so useful?",
+      "text": "What makes helium so useful?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 28.3465,
+            "t": 138.90611464843755,
+            "r": 288.87355,
+            "b": 43.279072600905465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            380
+          ]
+        }
+      ],
+      "orig": "The biggest application of helium is in cryogenics. Liquid helium is a 'magic ticket' towards absolute zero - the lowest temperature possible. Helium condenses at -269oC (4\u00a0K), and at  this  temperature, most metals become superconductors and  let  an  electric  current  flow  with  zero  resistance.  This means that helium is key wherever very strong electromagnets are needed.",
+      "text": "The biggest application of helium is in cryogenics. Liquid helium is a 'magic ticket' towards absolute zero - the lowest temperature possible. Helium condenses at -269oC (4\u00a0K), and at  this  temperature, most metals become superconductors and  let  an  electric  current  flow  with  zero  resistance.  This means that helium is key wherever very strong electromagnets are needed."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.9764,
+            "t": 777.2501146484375,
+            "r": 569.6214000000002,
+            "b": 666.7790726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            468
+          ]
+        }
+      ],
+      "orig": "An  example  is  magnetic  resonance  imaging  (MRI)  scanners. They make details like torn ligaments, tumours, and heart  defects  visible  without  surgery,  which  has  transformed medical diagnosis. They account for about 30-35% of the helium used each year globally, [3,4]  but they remain rare in many parts of the world, so this demand should grow. Do you know anyone who has had an MRI scan, possibly a lifesaving one? This wouldn't be possible without helium.",
+      "text": "An  example  is  magnetic  resonance  imaging  (MRI)  scanners. They make details like torn ligaments, tumours, and heart  defects  visible  without  surgery,  which  has  transformed medical diagnosis. They account for about 30-35% of the helium used each year globally, [3,4]  but they remain rare in many parts of the world, so this demand should grow. Do you know anyone who has had an MRI scan, possibly a lifesaving one? This wouldn't be possible without helium."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.9764,
+            "t": 646.4061146484374,
+            "r": 569.4939500000003,
+            "b": 550.6690177562986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            385
+          ]
+        }
+      ],
+      "orig": "In scientific research, we know about the structures of proteins and other complex molecules thanks to nuclear magnetic  resonance  (NMR)  spectrometers,  the  cousins  of  MRI. Particle accelerators such as those at CERN, the birthplace of the world-wide-web and the site of the hunt for the Higgs Boson, also depend on vast electromagnets cooled by helium to steer charged particles.",
+      "text": "In scientific research, we know about the structures of proteins and other complex molecules thanks to nuclear magnetic  resonance  (NMR)  spectrometers,  the  cousins  of  MRI. Particle accelerators such as those at CERN, the birthplace of the world-wide-web and the site of the hunt for the Higgs Boson, also depend on vast electromagnets cooled by helium to steer charged particles."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.9764,
+            "t": 312.59811464843756,
+            "r": 406.78330000000005,
+            "b": 292.9234959965446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "A medical MRI Scanner Jan Ainali/Wikipedia, CC-BY-3.0",
+      "text": "A medical MRI Scanner Jan Ainali/Wikipedia, CC-BY-3.0"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.9764,
+            "t": 269.40611464843755,
+            "r": 569.4778000000001,
+            "b": 188.27907260090547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            337
+          ]
+        }
+      ],
+      "orig": "As a noble gas, helium is also inert, which makes it useful in applications where a non-reactive atmosphere is needed, for example, in certain kinds of welding and to purge production lines of other more reactive substances. Semiconductor manufacture for electronics relies on helium because of its inert nature and fluid properties. [5]",
+      "text": "As a noble gas, helium is also inert, which makes it useful in applications where a non-reactive atmosphere is needed, for example, in certain kinds of welding and to purge production lines of other more reactive substances. Semiconductor manufacture for electronics relies on helium because of its inert nature and fluid properties. [5]"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.9764,
+            "t": 167.90611464843755,
+            "r": 569.4759,
+            "b": 101.27907260090547,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            301
+          ]
+        }
+      ],
+      "orig": "Helium's inertness also means that it is non-toxic. Deep-sea divers use helium in their breathing mix to reduce the nitrogen absorbed into the blood during deep dives. Nitrogen dissolved in the blood can form bubbles when the diver surfaces, leading to 'the bends', which is painful and can be deadly.",
+      "text": "Helium's inertness also means that it is non-toxic. Deep-sea divers use helium in their breathing mix to reduce the nitrogen absorbed into the blood during deep dives. Nitrogen dissolved in the blood can form bubbles when the diver surfaces, leading to 'the bends', which is painful and can be deadly."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 308.9764,
+            "t": 80.90611464843755,
+            "r": 569.4768499999998,
+            "b": 43.279072600905465,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "Finally,  the  small  size  of  helium  atoms  means  that  helium gas can find its way through gaps on the atomic scale, which makes it useful in research and industry to check for leaks.",
+      "text": "Finally,  the  small  size  of  helium  atoms  means  that  helium gas can find its way through gaps on the atomic scale, which makes it useful in research and industry to check for leaks."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 28.3464,
+            "t": 25.338114648437568,
+            "r": 214.90629999999996,
+            "b": 17.493278136175945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "www.scienceinschool.org/2021/issue53/helium",
+      "text": "www.scienceinschool.org/2021/issue53/helium",
+      "hyperlink": "https://www.scienceinschool.org/article/2021/elements-in-focus-helium/"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 562.5507,
+            "t": 22.490114648437498,
+            "r": 567.5907,
+            "b": 14.661568867468077,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "3",
+      "text": "3"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 28.3465,
+            "t": 818.0783146484374,
+            "r": 104.18870000000004,
+            "b": 810.1417688674679,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Issue 53 | 31/03/2021",
+      "text": "Issue 53 | 31/03/2021"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 28.3465,
+            "t": 603.2043146484375,
+            "r": 278.0245,
+            "b": 571.5296959965447,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "Electromagnets before they are connected together at the Large Hadron Collider, CERN. The helium cooling system is visible. Copyright: CERN",
+      "text": "Electromagnets before they are connected together at the Large Hadron Collider, CERN. The helium cooling system is visible. Copyright: CERN"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 28.3464,
+            "t": 542.8301146484375,
+            "r": 256.6648,
+            "b": 528.8837386266391,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Helium: an endangered element?",
+      "text": "Helium: an endangered element?",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 28.3464,
+            "t": 515.9061146484374,
+            "r": 288.85539999999986,
+            "b": 478.2790726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.9764,
+            "t": 776.9061146484374,
+            "r": 569.5053499999997,
+            "b": 753.7790726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            182,
+            305
+          ]
+        }
+      ],
+      "orig": "So, we have a problem. Modern life depends on the use of an element that is not only finite but leaks away from the Earth, and whose usage is quickly outstripping reserves. Radioac- tive decay in the Earth is producing more as you read this article, but at a rate that is tiny compared to the rate of use.",
+      "text": "So, we have a problem. Modern life depends on the use of an element that is not only finite but leaks away from the Earth, and whose usage is quickly outstripping reserves. Radioac- tive decay in the Earth is producing more as you read this article, but at a rate that is tiny compared to the rate of use."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.9764,
+            "t": 733.7501146484375,
+            "r": 569.6414000000002,
+            "b": 681.1690177562986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "Helium is a key element in our lives, but how common is this  knowledge? Does it need a better press along with the  scientific  campaign [6] for  its  conservation,  recycling, and reuse?",
+      "text": "Helium is a key element in our lives, but how common is this  knowledge? Does it need a better press along with the  scientific  campaign [6] for  its  conservation,  recycling, and reuse?"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.9764,
+            "t": 661.7286446484376,
+            "r": 569.6363999999987,
+            "b": 594.1690177562986,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            300
+          ]
+        }
+      ],
+      "orig": "Meanwhile, 17% of our global consumption [4] is  used to fill balloons. A precious and important gas is lost to space and the balloons fall as litter, endangering wildlife. [7] Should we rethink the ethics of this?  Are party balloons really worth serious helium shortages for future generations? [8]",
+      "text": "Meanwhile, 17% of our global consumption [4] is  used to fill balloons. A precious and important gas is lost to space and the balloons fall as litter, endangering wildlife. [7] Should we rethink the ethics of this?  Are party balloons really worth serious helium shortages for future generations? [8]"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.9764,
+            "t": 571.8301146484375,
+            "r": 443.8884,
+            "b": 557.8837386266391,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Acknowledgements",
+      "text": "Acknowledgements",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 308.9764,
+            "t": 544.9061146484374,
+            "r": 569.4720999999982,
+            "b": 507.2790726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "The author was inspired to write this article a/f_shortter attending an impassioned lecture by Professor David Cole Hamilton, author of the Elements in Danger version of the periodic table.",
+      "text": "The author was inspired to write this article a/f_shortter attending an impassioned lecture by Professor David Cole Hamilton, author of the Elements in Danger version of the periodic table."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 42.5197,
+            "t": 69.91301464843752,
+            "r": 473.5754,
+            "b": 50.044552541228654,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            189
+          ]
+        }
+      ],
+      "orig": "Elements in danger: this version of the periodic table highlight the elements that we're at risk of running out of. Note that helium is in the red (highest risk) category. EuChemS, CC-BY-ND",
+      "text": "Elements in danger: this version of the periodic table highlight the elements that we're at risk of running out of. Note that helium is in the red (highest risk) category. EuChemS, CC-BY-ND"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 28.3464,
+            "t": 25.338114648437568,
+            "r": 214.90629999999996,
+            "b": 17.493278136175945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "www.scienceinschool.org/2021/issue53/helium",
+      "text": "www.scienceinschool.org/2021/issue53/helium",
+      "hyperlink": "https://www.scienceinschool.org/article/2021/elements-in-focus-helium/"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 562.5507,
+            "t": 22.490114648437498,
+            "r": 567.5907,
+            "b": 14.661568867468077,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "4",
+      "text": "4"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 28.3465,
+            "t": 818.1503146484374,
+            "r": 114.01670000000004,
+            "b": 810.1704781361759,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Issue 53 | 31/03/2021",
+      "text": "Issue 53 | 31/03/2021"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 28.3465,
+            "t": 762.3301146484375,
+            "r": 105.00250000000003,
+            "b": 748.3837386266391,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 28.3465,
+            "t": 729.0156146484375,
+            "r": 280.6543999999998,
+            "b": 676.8790726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "1. An article in The Times on the deaths caused by helium misuse in the UK: https://www.thetimes.co.uk/article/ more-than-500-deaths-are-linked-to-helium-misuse226h83spt.",
+      "text": "An article in The Times on the deaths caused by helium misuse in the UK: https://www.thetimes.co.uk/article/ more-than-500-deaths-are-linked-to-helium-misuse226h83spt.",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 28.3464,
+            "t": 671.0061146484375,
+            "r": 284.17740000000003,
+            "b": 633.3790726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "2. A news article on the discovery of a helium well: https:// www.ox.ac.uk/news/2016-06-28-huge-  helium-discoverylife-saving-find.",
+      "text": "A news article on the discovery of a helium well: https:// www.ox.ac.uk/news/2016-06-28-huge-  helium-discoverylife-saving-find.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 28.3464,
+            "t": 627.5061146484375,
+            "r": 280.9114,
+            "b": 560.8638598626582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            264
+          ]
+        }
+      ],
+      "orig": "3. Olafsdottir AH, Sverdrup HU (2020) Assessing the Past and Future Sustainability of Global Helium Resources, Extraction, Supply and Use, Using the Integrated Assessment Model WORLD7. Biophysical Economics and Sustainability 5 :6. doi: 10.1007/s41247-020-00072-5.",
+      "text": "Olafsdottir AH, Sverdrup HU (2020) Assessing the Past and Future Sustainability of Global Helium Resources, Extraction, Supply and Use, Using the Integrated Assessment Model WORLD7. Biophysical Economics and Sustainability 5 :6. doi: 10.1007/s41247-020-00072-5.",
+      "hyperlink": "https://link.springer.com/article/10.1007/s41247-020-00072-5",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 28.3464,
+            "t": 555.0061146484375,
+            "r": 261.6142,
+            "b": 531.8790726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "4. More details on the uses of helium in a table from Ref. [3] .",
+      "text": "More details on the uses of helium in a table from Ref. [3] .",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 28.3464,
+            "t": 526.0061146484375,
+            "r": 281.3694,
+            "b": 502.87907260090554,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            106
+          ]
+        }
+      ],
+      "orig": "5. The uses of helium in electronics explained in a   special feature by gasworld: https://bit.ly/3eh62cW.",
+      "text": "The uses of helium in electronics explained in a   special feature by gasworld: https://bit.ly/3eh62cW.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 28.3464,
+            "t": 497.0061146484375,
+            "r": 282.648,
+            "b": 473.87907260090554,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "6.  A YouTube video to raise awareness of helium conservation: https://youtu.be/sHXu65zbpx8.",
+      "text": " A YouTube video to raise awareness of helium conservation: https://youtu.be/sHXu65zbpx8.",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 28.3464,
+            "t": 468.0061146484375,
+            "r": 276.48639999999983,
+            "b": 430.37907260090554,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "7. An article by the Royal Society of Chemistry on helium and other elements in danger: https://www.rsc.org/ news-events/opinions/2019/jan/elements-in-danger/.",
+      "text": "An article by the Royal Society of Chemistry on helium and other elements in danger: https://www.rsc.org/ news-events/opinions/2019/jan/elements-in-danger/.",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 28.3464,
+            "t": 424.5061146484375,
+            "r": 280.06694999999985,
+            "b": 386.87907260090554,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "8.  The website for the US campaign against the release of balloons and the misuse of helium: https://balloonsblow.org/.",
+      "text": " The website for the US campaign against the release of balloons and the misuse of helium: https://balloonsblow.org/.",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 38.6738,
+            "t": 343.9915146484375,
+            "r": 163.22679999999994,
+            "b": 332.68361518703716,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "AUTHOR BIOGRAPHY",
+      "text": "AUTHOR BIOGRAPHY",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 39.685,
+            "t": 316.9574146484375,
+            "r": 277.2783280000001,
+            "b": 182.28287260090553,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            533
+          ]
+        }
+      ],
+      "orig": "Melissa Lord was a physics teacher for many years, and was head of science at Altrincham Girls' Grammar School near Manchester. She is a Regional Representative for the Ogden Trust, a UK charity promoting the teaching and learning of physics, and also leads the New Teacher Subject Days in physics for the PTI, a charity providing training to develop teachers' subject knowledge. She is a Trustee at Catalyst Science Discovery Centre and Museum in Widnes, Cheshire, and volunteers with the Sustainability Physics for Schools project.",
+      "text": "Melissa Lord was a physics teacher for many years, and was head of science at Altrincham Girls' Grammar School near Manchester. She is a Regional Representative for the Ogden Trust, a UK charity promoting the teaching and learning of physics, and also leads the New Teacher Subject Days in physics for the PTI, a charity providing training to develop teachers' subject knowledge. She is a Trustee at Catalyst Science Discovery Centre and Museum in Widnes, Cheshire, and volunteers with the Sustainability Physics for Schools project."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 28.3465,
+            "t": 138.61901464843754,
+            "r": 54.5465,
+            "b": 129.92063044736028,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "CC-BY",
+      "text": "CC-BY",
+      "hyperlink": "https://www.scienceinschool.org/copyright/",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 308.9764,
+            "t": 762.3936146484375,
+            "r": 372.3684,
+            "b": 748.4472386266391,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Resource",
+      "text": "Resource",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 308.9764,
+            "t": 729.0791146484374,
+            "r": 548.9014000000001,
+            "b": 705.9425726009055,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "\u2981 Read a BBC Newsround article on helium suitable for school students.",
+      "text": "\u2981 Read a BBC Newsround article on helium suitable for school students.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 308.9764,
+            "t": 697.2350146484374,
+            "r": 549.3753,
+            "b": 688.6079726009054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "\u2981 The elements in danger version of the periodic table.",
+      "text": "\u2981 The elements in danger version of the periodic table.",
+      "hyperlink": "https://www.euchems.eu/euchems-periodic-table/",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 308.9764,
+            "t": 679.9003146484374,
+            "r": 559.3539999999996,
+            "b": 642.2732726009054,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "\u2981 Elemental Escapades! A Periodic Table Adventure is a short 2D puzzle game in which you play as Jan, a janitor inadvertently transported across time and space.",
+      "text": "\u2981 Elemental Escapades! A Periodic Table Adventure is a short 2D puzzle game in which you play as Jan, a janitor inadvertently transported across time and space.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 308.9764,
+            "t": 633.5657146484375,
+            "r": 565.2145499999998,
+            "b": 595.9234598626582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "\u2981 Learn more about the Sun's spectrum and what the stars are made of. Ribeiro CI, Ahlgren O (2016) What are stars made of? Science in School 37 :34-39.",
+      "text": "\u2981 Learn more about the Sun's spectrum and what the stars are made of. Ribeiro CI, Ahlgren O (2016) What are stars made of? Science in School 37 :34-39.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 308.9764,
+            "t": 587.2310146484375,
+            "r": 566.3840000000001,
+            "b": 535.0887598626582,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            191
+          ]
+        }
+      ],
+      "orig": "\u2981 Read an article on fusion and how it aims to produce energy by reproducing the solar conditions. R\u00fcth C (2012) Harnessing the power of the Sun: fusion reactors. Science in School 22 :42-48.",
+      "text": "\u2981 Read an article on fusion and how it aims to produce energy by reproducing the solar conditions. R\u00fcth C (2012) Harnessing the power of the Sun: fusion reactors. Science in School 22 :42-48.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 308.9764,
+            "t": 526.3964146484375,
+            "r": 515.2995000000001,
+            "b": 503.26937260090557,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "\u2981 Read other articles from the elements in the spotlight series:",
+      "text": "\u2981 Read other articles from the elements in the spotlight series:",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 323.1496,
+            "t": 494.5617146484375,
+            "r": 564.1997,
+            "b": 471.4194598626581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            105
+          ]
+        }
+      ],
+      "orig": "-   Beryllium. Piergrossi JW, Espuny MC (2018) Elements in focus: beryllium. Science in School 45 :18-22.",
+      "text": "  Beryllium. Piergrossi JW, Espuny MC (2018) Elements in focus: beryllium. Science in School 45 :18-22.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 323.1496,
+            "t": 465.5617146484375,
+            "r": 553.2964999999999,
+            "b": 427.9194598626581,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "-   Molybdenum. Batsmanova A, Liabin M, Stepanova Y, Watt S (2017) Elements in focus: molybdenum. Science in School 41 :30-34.",
+      "text": "  Molybdenum. Batsmanova A, Liabin M, Stepanova Y, Watt S (2017) Elements in focus: molybdenum. Science in School 41 :30-34.",
+      "enumerated": false,
+      "marker": "-"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 28.3464,
+            "t": 25.338114648437568,
+            "r": 214.90629999999996,
+            "b": 17.493278136175945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "www.scienceinschool.org/2021/issue53/helium",
+      "text": "www.scienceinschool.org/2021/issue53/helium",
+      "hyperlink": "https://www.scienceinschool.org/article/2021/elements-in-focus-helium/"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 562.5507,
+            "t": 22.490114648437498,
+            "r": 567.5907,
+            "b": 14.661568867468077,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "5",
+      "text": "5"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 27.85987663269043,
+            "t": 814.7476463317871,
+            "r": 456.288818359375,
+            "b": 682.3410797119141,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 26.810882568359375,
+            "t": 620.117431640625,
+            "r": 567.4271850585938,
+            "b": 348.4985656738281,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 58.412841796875,
+            "t": 783.4234619140625,
+            "r": 526.6932373046875,
+            "b": 577.5547180175781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 27.017189025878906,
+            "t": 385.8456726074219,
+            "r": 286.7642822265625,
+            "b": 232.49896240234375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 314.2937316894531,
+            "t": 205.84295654296875,
+            "r": 531.760986328125,
+            "b": 71.46734619140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 27.060340881347656,
+            "t": 781.999382019043,
+            "r": 286.9477844238281,
+            "b": 616.2301483154297,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 307.69183349609375,
+            "t": 530.5309753417969,
+            "r": 564.847412109375,
+            "b": 318.97674560546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 27.248632431030273,
+            "t": 777.4281616210938,
+            "r": 286.7365417480469,
+            "b": 610.7601318359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/59"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 41.3212890625,
+            "t": 433.9022216796875,
+            "r": 540.326171875,
+            "b": 80.085205078125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/59"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 97.79373168945312,
+            "t": 124.352783203125,
+            "r": 275.9573059082031,
+            "b": 70.94476318359375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.2760009765625,
+        "height": 841.8900146484375
+      },
+      "page_no": 5
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_name": "DoclingDocument",
+  "name": "pmp_waterpermeance_AM",
+  "source_type": "csv",
+  "texts": [
+    {
+      "label": "title",
+      "text": "Données tabulaires — pmp_waterpermeance_AM"
+    },
+    {
+      "label": "paragraph",
+      "text": "# Données tabulaires — pmp_waterpermeance_AM\n\n| x      | Water flux   |\n|:-------|:-------------|\n| 45,643 | 0,0015102    |\n| 55,02  | 0,0027368    |\n| 55,021 | 0,0029605    |\n| 62,22  | 0,0050608    |\n| 62,626 | 0,0054858    |\n| 66,568 | 0,0071998    |\n| 66,607 | 0,0076156    |\n| 66,624 | 0,0074077    |"
+    }
+  ],
+  "tables": [
+    {
+      "label": "table",
+      "caption": {
+        "text": "pmp_waterpermeance_AM"
+      },
+      "data": {
+        "grid": [
+          [
+            "x",
+            "Water flux"
+          ],
+          [
+            "45,643",
+            "0,0015102"
+          ],
+          [
+            "55,02",
+            "0,0027368"
+          ],
+          [
+            "55,021",
+            "0,0029605"
+          ],
+          [
+            "62,22",
+            "0,0050608"
+          ],
+          [
+            "62,626",
+            "0,0054858"
+          ],
+          [
+            "66,568",
+            "0,0071998"
+          ],
+          [
+            "66,607",
+            "0,0076156"
+          ],
+          [
+            "66,624",
+            "0,0074077"
+          ]
+        ]
+      }
+    }
+  ]
+}

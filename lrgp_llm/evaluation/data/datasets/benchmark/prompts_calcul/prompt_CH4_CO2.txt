@@ -1,0 +1,80 @@
+Tu es un expert en génie des procédés et séparation membranaire au LRGP Nancy.
+À partir du contexte scientifique ci-dessous extrait du corpus du laboratoire,
+génère exactement 7 questions de benchmark de qualité scientifique.
+
+Contraintes strictes :
+- Baser les questions UNIQUEMENT sur les informations présentes dans le contexte
+- Types demandés : CALCUL
+- Pour les CALCUL : inclure toutes les données numériques nécessaires dans la question
+- Priorité aux niveaux N2 et N3, quelques N4
+- Réponses complètes avec valeurs numériques et unités
+
+Réponds UNIQUEMENT avec un tableau JSON valide sans texte avant ni après :
+[
+  {
+    "question": "...",
+    "answer": "...",
+    "type": "CALCUL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N1|N2|N3|N4"
+  }
+]
+
+Contexte scientifique :
+[Doc 1 — Source: 36587495]
+known fact that gas permeation membranes are an excellent technology to separate CO 2 and CH 4 [2, 93, 117]. Single stage gas permeation processes can be used to generate a CH 4 rich product gas, though significant CH 4 losses are observed in the permeate.
+
+---
+
+[Doc 2 — Source: 4887]
+known fact that gas permeation membranes are an excellent technology to separate CO 2 and CH 4 [2, 93, 117]. Single stage gas permeation processes can be used to generate a CH 4 rich product gas, though significant CH 4 losses are observed in the permeate.
+
+---
+
+[Doc 3 — Source: 1-s2.0-S138589471932755X-main]
+Keywords: Biogas separation CO2/CH4 separation 3-stage membrane process
+
+---
+
+[Doc 4 — Source: Shamim Haider_PhD(1)]
+The major separation in biogas upgrading process is CO2/ CH4 separation. The membranes for CO2/CH4 separation are based on solution-diffusion mechanism, there is usually a trade-off between CO2 separation selectivity and permeability.
+
+---
+
+[Doc 5 — Source: 4887]
+The separation of CO 2 and CH 4 can be done by utilizing glassy polymeric membrane materials. Table 5.1 shows the typical permeances of the biogas components for such a membrane material as well as the process conditions applied to the dynamic simulations.
+
+---
+
+[Doc 6 — Source: 36587495]
+The separation of CO 2 and CH 4 can be done by utilizing glassy polymeric membrane materials. Table 5.1 shows the typical permeances of the biogas components for such a membrane material as well as the process conditions applied to the dynamic simulations.
+
+---
+
+[Doc 7 — Source: Advanced_Two_Stage_Nanocomposite_Membran]
+Remarkably, the CO 2 /CH 4 selectivity of the primary membrane reduced slightly with increasing temperature due to the lower activation energy difference between CO 2 and CH 4 permeation. These observations align with the general trade-off between permeability and selectivity in membrane gas separation processes. The selectivity can be formulated as follows:
+
+---
+
+[Doc 8 — Source: thesis_K_Simons]
+This  thesis  investigates  the  potential  of  membrane  technology  for  the effective removal of CO2 from CH4. The work focuses on two distinctively different membrane processes to accomplish the separation, i.e. 1) the use of  a  gas-liquid  membrane  contactor  for  the  selective  absorption  of  CO 2 from  CH4  and  2)  the  use  of  thin,  dense  gas  separation  membranes  to establish the separation.
+
+---
+
+[Doc 9 — Source: 42493210-j2810-1]
+L'utilisation de membranes pour purifier le gaz naturel (élimination de CO 2  et H 2 S pour obtenir une concentration en CH 4  de 98 % ou plus) a été envisagée dès les années 1980 avec des matériaux cellulosiques (société Separex). Des matériaux de type polyimides ont été proposés par d'autres sociétés par la suite. La perméation gazeuse s'est graduellement imposée en substitut ou en complément du procédé de référence (absorption aux amines). Le fait que le mélange à traiter est sous pression et que le composé cible est lent  constitue  un  cas  de  figure  favorable.  Par  ailleurs,  la  perméation gazeuse permet d'éliminer (pour partie) l'eau contenue dans le gaz naturel. Les unités comportent un ou deux étages, et le CO 2  est soit éliminé soit reinjecté dans le gisement pour améliorer la productivité des puits.
+
+---
+
+[Doc 10 — Source: Advanced_Two_Stage_Nanocomposite_Membran]
+Integrating high selectivity, suitable permeance, and excellent long-term stability makes this membrane system a promising technology for efficient CO 2 /CH 4 separation in various applications, including biogas upgrading, natural gas sweetening, and landfill gas purification.
+
+---
+
+[Doc 11 — Source: Rapport AFF19_014_2 - ORANO_cc]
+La séparation de mélanges de gaz par procédés membranaires (perméation gazeuse) est couramment employée dans différents secteurs industriels à large échelle (séparation des gaz de l’air, purification du gaz naturel et du biogaz, purification d’hydrogène, récupération de composés organiques volatils de l’air…).
+
+---
+
+[Doc 12 — Source: thesis_K_Simons]
+This  thesis  investigates  the  potential  of  membrane  technology  for  the effective removal of CO2 from CH4. The work focuses on two distinctively different membrane processes to accomplish the separation, i.e. the use of a  gas-liquid  membrane  contactor  for  the  selective  absorption  of  CO2 (described  in  Chapter  2  to  4)  and  the  use  of  thin,  dense  gas  separation membranes to establish the separation (described in Chapter 5 and 6).

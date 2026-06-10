@@ -1,0 +1,5023 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Feron_Decab",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 6523328249802899962,
+    "filename": "Feron_Decab.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/groups/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.639990000000004,
+            "t": 659.48402,
+            "r": 244.10493939999978,
+            "b": 629.5070361054173,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "Greenhouse Gas Control Technologies, Volume 11 M. Wilson, T. Morris, J. Gale, K. Thambimuthu (Eds.) \u00a9 2005 Elsevier Ltd. All rights reserved",
+      "text": "Greenhouse Gas Control Technologies, Volume 11 M. Wilson, T. Morris, J. Gale, K. Thambimuthu (Eds.) \u00a9 2005 Elsevier Ltd. All rights reserved"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 421.29431830000016,
+            "t": 659.48402,
+            "r": 441.05969800000014,
+            "b": 651.4670361054173,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "11^^",
+      "text": "11^^"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 46.760000000000005,
+            "t": 610.64408,
+            "r": 424.149089,
+            "b": 602.6270961054173,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "NEW SOLVENTS BASED ON AMINO-ACID SALTS FOR  CO2 CAPTURE  FROM",
+      "text": "NEW SOLVENTS BASED ON AMINO-ACID SALTS FOR  CO2 CAPTURE  FROM",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 202.28000000000003,
+            "t": 592.16404,
+            "r": 268.4634305,
+            "b": 584.1470561054173,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "FLUE  GASES",
+      "text": "FLUE  GASES"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 126.31999000000003,
+            "t": 571.3980300000001,
+            "r": 344.61581170000034,
+            "b": 563.5470783162519,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            58
+          ]
+        }
+      ],
+      "orig": "Paul H.M. Feron (p.h.m.feron@mep.tno.nl), Nick ten Asbroek",
+      "text": "Paul H.M. Feron (p.h.m.feron@mep.tno.nl), Nick ten Asbroek"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 52.27998000000004,
+            "t": 550.7580800000001,
+            "r": 419.0205695999999,
+            "b": 542.9071283162519,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "TNO Environment, Energy and Process Innovation, P.O. Box 342, 7300 AH, Apeldoorn, the Netherlands",
+      "text": "TNO Environment, Energy and Process Innovation, P.O. Box 342, 7300 AH, Apeldoorn, the Netherlands"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.599990000000034,
+            "t": 530.2440700000001,
+            "r": 81.90793000000005,
+            "b": 522.2270861054174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "ABSTRACT",
+      "text": "ABSTRACT"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.599990000000034,
+            "t": 516.0780800000001,
+            "r": 439.4854301999997,
+            "b": 398.667108316252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1360
+          ]
+        }
+      ],
+      "orig": "This paper  discusses  the use of amino-acid  salt  solutions  as an  alternative  to amine based  solutions.  Important solvent  characteristics  are  reactivity,  cyclic  loading,  temperature  stability,  stability  towards  oxygen  and  binding energy.  As a first option  amino-acid  salt  solutions  are  particularly  suitable  for  application  with poly-olefm membrane contactors. Membrane contactors provide the opportunity for  reduction  of the size of the absorber  and result in modular scale up to the required size. This will reduce investment costs, provided membrane module costs are low. A second option is provided by the interesting  feature of several amino-acid  salts to produce precipitates when absorbing CO2. It has been shown that this allows the driving force to be maintained at increased loading. The increased loading also leads to low energy consumption for solvent regeneration. To achieve this, however, the heat exchanger needs to be integrated into the regenerator. Results of a preliminary economic evaluation are presented. It is shown that this new technology has the potential to half the investment costs and half the energy consumption  for regeneration. The excellent perspective has resulted in further  fundamental  research  to provide a firm  basis for  the novel capture process based on precipitating solvents.",
+      "text": "This paper  discusses  the use of amino-acid  salt  solutions  as an  alternative  to amine based  solutions.  Important solvent  characteristics  are  reactivity,  cyclic  loading,  temperature  stability,  stability  towards  oxygen  and  binding energy.  As a first option  amino-acid  salt  solutions  are  particularly  suitable  for  application  with poly-olefm membrane contactors. Membrane contactors provide the opportunity for  reduction  of the size of the absorber  and result in modular scale up to the required size. This will reduce investment costs, provided membrane module costs are low. A second option is provided by the interesting  feature of several amino-acid  salts to produce precipitates when absorbing CO2. It has been shown that this allows the driving force to be maintained at increased loading. The increased loading also leads to low energy consumption for solvent regeneration. To achieve this, however, the heat exchanger needs to be integrated into the regenerator. Results of a preliminary economic evaluation are presented. It is shown that this new technology has the potential to half the investment costs and half the energy consumption  for regeneration. The excellent perspective has resulted in further  fundamental  research  to provide a firm  basis for  the novel capture process based on precipitating solvents."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.719980000000035,
+            "t": 384.9240600000001,
+            "r": 103.59210000000004,
+            "b": 376.9070761054174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "INTRODUCTION",
+      "text": "INTRODUCTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.719980000000035,
+            "t": 364.87805000000014,
+            "r": 439.03840990000026,
+            "b": 267.387078316252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1104
+          ]
+        }
+      ],
+      "orig": "The large existing  stock  of conventional  power plants and boilers, but  also the likelihood  that  any new power plants  will  be  primarily  built  along  existing,  proven,  lowest  cost  procedures,  requires  the  development  of  postcombustion  C02-capture  technologies,  particularly,  if  energy  conversion  processes  are  going  to  be  severely constrained in C02-emissions. At present the leading technology for C02-capture from  flue gases is solvent based. The available solvents, but also alternative solvents currently  being  investigated,  are almost  exclusively based on aqueous amine solutions. The capital and operating costs associated with these technologies are such that application is only to be expected when CO2 can be traded at 50 -  60 Euro/tonne avoided (full  chain costs). Hence, technology development  is  needed  to  reduce  these  costs  and  make  the  technology  more  acceptable  in  a  liberalised  power generation market. This paper focuses  on a novel range of solvents for CO2 capture from  flue gases and  off-gases, the salt solutions of amino-acids.",
+      "text": "The large existing  stock  of conventional  power plants and boilers, but  also the likelihood  that  any new power plants  will  be  primarily  built  along  existing,  proven,  lowest  cost  procedures,  requires  the  development  of  postcombustion  C02-capture  technologies,  particularly,  if  energy  conversion  processes  are  going  to  be  severely constrained in C02-emissions. At present the leading technology for C02-capture from  flue gases is solvent based. The available solvents, but also alternative solvents currently  being  investigated,  are almost  exclusively based on aqueous amine solutions. The capital and operating costs associated with these technologies are such that application is only to be expected when CO2 can be traded at 50 -  60 Euro/tonne avoided (full  chain costs). Hence, technology development  is  needed  to  reduce  these  costs  and  make  the  technology  more  acceptable  in  a  liberalised  power generation market. This paper focuses  on a novel range of solvents for CO2 capture from  flue gases and  off-gases, the salt solutions of amino-acids."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.95999000000003,
+            "t": 254.12404000000015,
+            "r": 109.97898040000003,
+            "b": 246.10705610541743,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "PREVIOUS WORK",
+      "text": "PREVIOUS WORK",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.83998000000003,
+            "t": 234.0780400000001,
+            "r": 439.4848999000003,
+            "b": 76.82701831625184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1874
+          ]
+        }
+      ],
+      "orig": "Aqueous salt solutions of amino-acids have been used commercially for removal of acid gases by absorption  from various gas streams. The range of Alkazid processes marketed by BASF in the past is the best example of this [1]. For  treatment  of  natural  gas  and  syngas, however,  these processes  have  been  superseded  by  alkanolamine-based solutions over the past decades. The latter processes have been shown to be superior in terms solvent stability and regeneration energy requirement, amongst other things. In recent years the interest in amino-acid salt solutions has attracted further  attention, particularly for CO2 capture from  feed  gases in which  oxygen is present. Erga et. al. [2] investigated  a  number  of  solvent  candidates,  including  the  potassium salts  of  glycine  and  sarcosine.  High regeneration  temperatures  were  needed  for  the  amino-acid  salts,  which  also  resulted  in  some degradation  of  the solvents,  as  noted  by  discolouring  of  the  solution  and  an  unpleasant  smell  of  the  C02-product.  Hook  [3]  has investigated a range of solvents, mostly sterically hindered amines, for C02-removal from air in submarines. These solvents  were  compared  to  mono-ethanolamine (MEA).  The  so-called  Alkazid-M  solution appeared  to  be comparable to MEA in terms of reaction rates and loading capacity and appeared to be a suitable candidate for C02removal from feed gases containing  oxygen. Kumar et. al. [4] measured reaction rates of two types of amino-acid salt solutions (potassium  glycinate and potassium taurate) and found these to be faster  than for MEA, illustrating a potential  for reduction  of absorber sizes. Feron  and Jansen  [5] and Kumar et. al. [6] used salts solutions of aminoacids for membrane gas absorption. These solutions appeared to enable the use of gas-liquid contactors using poly-",
+      "text": "Aqueous salt solutions of amino-acids have been used commercially for removal of acid gases by absorption  from various gas streams. The range of Alkazid processes marketed by BASF in the past is the best example of this [1]. For  treatment  of  natural  gas  and  syngas, however,  these processes  have  been  superseded  by  alkanolamine-based solutions over the past decades. The latter processes have been shown to be superior in terms solvent stability and regeneration energy requirement, amongst other things. In recent years the interest in amino-acid salt solutions has attracted further  attention, particularly for CO2 capture from  feed  gases in which  oxygen is present. Erga et. al. [2] investigated  a  number  of  solvent  candidates,  including  the  potassium salts  of  glycine  and  sarcosine.  High regeneration  temperatures  were  needed  for  the  amino-acid  salts,  which  also  resulted  in  some degradation  of  the solvents,  as  noted  by  discolouring  of  the  solution  and  an  unpleasant  smell  of  the  C02-product.  Hook  [3]  has investigated a range of solvents, mostly sterically hindered amines, for C02-removal from air in submarines. These solvents  were  compared  to  mono-ethanolamine (MEA).  The  so-called  Alkazid-M  solution appeared  to  be comparable to MEA in terms of reaction rates and loading capacity and appeared to be a suitable candidate for C02removal from feed gases containing  oxygen. Kumar et. al. [4] measured reaction rates of two types of amino-acid salt solutions (potassium  glycinate and potassium taurate) and found these to be faster  than for MEA, illustrating a potential  for reduction  of absorber sizes. Feron  and Jansen  [5] and Kumar et. al. [6] used salts solutions of aminoacids for membrane gas absorption. These solutions appeared to enable the use of gas-liquid contactors using poly-"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.12001,
+            "t": 661.51806,
+            "r": 51.620139999999985,
+            "b": 653.6671083162519,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1154",
+      "text": "1154"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.28,
+            "t": 624.43804,
+            "r": 438.65035120000016,
+            "b": 606.5070683162519,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            226
+          ]
+        }
+      ],
+      "orig": "olefin  membranes for C02-removal  and development work on these hybrid systems has been carried out aiming at C02-production for the horticultural industry in the Netherlands and several small scale spin-off applications [7].",
+      "text": "olefin  membranes for C02-removal  and development work on these hybrid systems has been carried out aiming at C02-production for the horticultural industry in the Netherlands and several small scale spin-off applications [7]."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.28,
+            "t": 593.24403,
+            "r": 240.5213619000002,
+            "b": 585.2270461054172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            38
+          ]
+        }
+      ],
+      "orig": "APPLICATION IN MEMBRANE GAS ABSORPTION",
+      "text": "APPLICATION IN MEMBRANE GAS ABSORPTION",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.2,
+            "t": 572.958,
+            "r": 254.93605311840005,
+            "b": 565.1070483162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "The principle of membrane gas absorption is shown in  figure  1.",
+      "text": "The principle of membrane gas absorption is shown in  figure  1."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 150.60001,
+            "t": 400.04402,
+            "r": 319.79391069999997,
+            "b": 392.02703610541727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            46
+          ]
+        }
+      ],
+      "orig": "Figure 1: Principle of membrane gas absorption",
+      "text": "Figure 1: Principle of membrane gas absorption"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 277.92001,
+            "t": 413.27002,
+            "r": 303.7500109000002,
+            "b": 408.64502,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "absorption",
+      "text": "absorption"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 283.92001,
+            "t": 407.75003,
+            "r": 297.8542600000001,
+            "b": 403.12503,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "liquid",
+      "text": "liquid"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.40001,
+            "t": 380.71801000000005,
+            "r": 441.8613012222003,
+            "b": 284.30705831625187,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1138
+          ]
+        }
+      ],
+      "orig": "The essential  element  in  a  membrane  absorber  is a porous,  water  repellent,  polymeric  membrane. The gas phase remains separated from the liquid absorbent as a result of the hydrophobicity of the membrane. A flue gas stream is fed along one side of the membrane. The components to be removed  fi^om  the gas stream will diffuse  through the gas  filled pores of the membrane. On the other side of the membrane they will be absorbed into the absorption liquid. The use of a membrane absorber leads to a number of advantages: Gas and liquid flow are independent resulting in avoidance of problems encountered in packed/tray columns such as  flooding,  foaming, channelling and entrainment; No need to have a  wash  section  after  the absorber  to recover  absorption  liquid  which  is carried over; Operation  at  thermodynamically optimal conditions, not dictated by the hydrodynamic conditions of the contacting equipment; Operation not influenced by the orientation of the absorber which is important in oif-shore applications and zero-gravity applications; Equipment will be compact through the use of hollow  fibre  membrane.",
+      "text": "The essential  element  in  a  membrane  absorber  is a porous,  water  repellent,  polymeric  membrane. The gas phase remains separated from the liquid absorbent as a result of the hydrophobicity of the membrane. A flue gas stream is fed along one side of the membrane. The components to be removed  fi^om  the gas stream will diffuse  through the gas  filled pores of the membrane. On the other side of the membrane they will be absorbed into the absorption liquid. The use of a membrane absorber leads to a number of advantages: Gas and liquid flow are independent resulting in avoidance of problems encountered in packed/tray columns such as  flooding,  foaming, channelling and entrainment; No need to have a  wash  section  after  the absorber  to recover  absorption  liquid  which  is carried over; Operation  at  thermodynamically optimal conditions, not dictated by the hydrodynamic conditions of the contacting equipment; Operation not influenced by the orientation of the absorber which is important in oif-shore applications and zero-gravity applications; Equipment will be compact through the use of hollow  fibre  membrane."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.52,
+            "t": 270.79803000000004,
+            "r": 439.3215399000006,
+            "b": 143.42705831625176,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1497
+          ]
+        }
+      ],
+      "orig": "The choice of a suitable combination  of absorption  liquid and membrane is very important. The hydrophobicity and  pore  characteristics  of  the  membrane  material  should  be  such  that  the  pores  remain  gas-filled  at  an  excess pressure  of preferably  more than  1 bar  on  the  liquid  side. Commercially  available porous polyolefin  membranes appear not to be suitable for operation with the usual absorption liquids, i.e. aqueous solutions of ethanolamines, as a result  of their  low surface  tension  and chemical  interactions. In  the course of time such liquids  will  seep through these membranes. This can be resolved through the use of absorptions liquid with surface tension  similar to water. TNO  is  currently  developing  the  membrane  gas  absorption  process  for  acid  gas  removal  based  on  a  patented working method using dedicated absorption liquids (CORAL) based on mixtures of salts and amino-acids and poly\u00ad olefin  membranes. This paves the way towards the use of inexpensive poly-olefin  membranes, developed  for  e.g. medical  applications  (artificial  lungs),  which  is  believed  to  be  essential  for  economic  success  of  membrane  gas absorption. The use of salt solutions also has the advantage that the vapour pressure of the active components is zero and  the  solvent  is  not  lost  through  evaporation.  The  overall  flow  sheet  of  a  membrane  gas  absorption  process  is similar to a conventional absorption process flow sheet.",
+      "text": "The choice of a suitable combination  of absorption  liquid and membrane is very important. The hydrophobicity and  pore  characteristics  of  the  membrane  material  should  be  such  that  the  pores  remain  gas-filled  at  an  excess pressure  of preferably  more than  1 bar  on  the  liquid  side. Commercially  available porous polyolefin  membranes appear not to be suitable for operation with the usual absorption liquids, i.e. aqueous solutions of ethanolamines, as a result  of their  low surface  tension  and chemical  interactions. In  the course of time such liquids  will  seep through these membranes. This can be resolved through the use of absorptions liquid with surface tension  similar to water. TNO  is  currently  developing  the  membrane  gas  absorption  process  for  acid  gas  removal  based  on  a  patented working method using dedicated absorption liquids (CORAL) based on mixtures of salts and amino-acids and poly\u00ad olefin  membranes. This paves the way towards the use of inexpensive poly-olefin  membranes, developed  for  e.g. medical  applications  (artificial  lungs),  which  is  believed  to  be  essential  for  economic  success  of  membrane  gas absorption. The use of salt solutions also has the advantage that the vapour pressure of the active components is zero and  the  solvent  is  not  lost  through  evaporation.  The  overall  flow  sheet  of  a  membrane  gas  absorption  process  is similar to a conventional absorption process flow sheet."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.88,
+            "t": 130.75800000000004,
+            "r": 439.33915000000025,
+            "b": 102.98704831625184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            350
+          ]
+        }
+      ],
+      "orig": "Results from  a bench scale set-up have been presented previously [5]. In an ensuing project phase a pilot plant has been designed and built for testing the complete system as part of a pre-feasibility  study. In effect  it is a small-scale version of a real plant, including the regeneration process. The pilot plant flow sheet is shown in figure 2.",
+      "text": "Results from  a bench scale set-up have been presented previously [5]. In an ensuing project phase a pilot plant has been designed and built for testing the complete system as part of a pre-feasibility  study. In effect  it is a small-scale version of a real plant, including the regeneration process. The pilot plant flow sheet is shown in figure 2."
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 422.80002,
+            "t": 661.7980299999999,
+            "r": 441.3298499999999,
+            "b": 653.9470783162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1155",
+      "text": "1155"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 193.96001,
+            "t": 464.78601,
+            "r": 250.9968503000001,
+            "b": 458.31100999999995,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "- ^  Gas analyser",
+      "text": "- ^  Gas analyser"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 174.64000000000001,
+            "t": 445.68400999999994,
+            "r": 296.6832301,
+            "b": 437.6670261054172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Figure 2: Pilot plant flow diagram",
+      "text": "Figure 2: Pilot plant flow diagram"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 32.91999000000002,
+            "t": 425.39804,
+            "r": 440.5196500999998,
+            "b": 278.1070383162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1713
+          ]
+        }
+      ],
+      "orig": "During the experiments CO2 and air are mixed via mass flow controllers and fed to a prototype  transversal-flow membrane absorber (DAM-module in flow sheet). In this absorber the CO2 present in the gas stream is transferred to a liquid stream in a counter-current fashion. Liquid is flowing through the membrane lumen, whereas the gas flow is outside  the fibres perpendicular  to  them.  Within  a  single  membrane  element  the flow pattern  is  cross-flow  but overall the flow pattern is counter-current because the membrane module consists of a number of elements. The rich liquid is fed to the top of a stripper via a plate heat exchanger. The stripper temperature is maintained at 120\u00b0C by an electric heating element. As a result of the temperature increase of the absorption  liquid CO2 is liberated from the solution. Water is recovered in the condenser and flows back into the stripper. The lean liquid exits the stripper at the bottom and is fed back to the membrane absorber  via the heat exchanger. Temperatures, pressures, dew points, flow rates  and  carbon  dioxide  concentrations  at  inlet  and  outlet  of  the  membrane  absorber  have  been  measured continuously and are used for  the performance  assessment. During all experiments, air was used as the main  feed gas component, which did not result in deterioration in performance. This illustrates that the CORAL liquid used has an edge in terms of chemical  stability over, e.g. monoethanolamine, which degrades in the presence of oxygen. In addition to this experiments were also carried out with real flue gas from a gas fired combined cycle, with the object to determine the CO2 quality. Figure 3 shows the pilot plant on location.",
+      "text": "During the experiments CO2 and air are mixed via mass flow controllers and fed to a prototype  transversal-flow membrane absorber (DAM-module in flow sheet). In this absorber the CO2 present in the gas stream is transferred to a liquid stream in a counter-current fashion. Liquid is flowing through the membrane lumen, whereas the gas flow is outside  the fibres perpendicular  to  them.  Within  a  single  membrane  element  the flow pattern  is  cross-flow  but overall the flow pattern is counter-current because the membrane module consists of a number of elements. The rich liquid is fed to the top of a stripper via a plate heat exchanger. The stripper temperature is maintained at 120\u00b0C by an electric heating element. As a result of the temperature increase of the absorption  liquid CO2 is liberated from the solution. Water is recovered in the condenser and flows back into the stripper. The lean liquid exits the stripper at the bottom and is fed back to the membrane absorber  via the heat exchanger. Temperatures, pressures, dew points, flow rates  and  carbon  dioxide  concentrations  at  inlet  and  outlet  of  the  membrane  absorber  have  been  measured continuously and are used for  the performance  assessment. During all experiments, air was used as the main  feed gas component, which did not result in deterioration in performance. This illustrates that the CORAL liquid used has an edge in terms of chemical  stability over, e.g. monoethanolamine, which degrades in the presence of oxygen. In addition to this experiments were also carried out with real flue gas from a gas fired combined cycle, with the object to determine the CO2 quality. Figure 3 shows the pilot plant on location."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 179.08,
+            "t": 83.52398999999991,
+            "r": 293.31268399329997,
+            "b": 75.5070061054173,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Figure 3: Pilot plant on location",
+      "text": "Figure 3: Pilot plant on location"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 125.08001999999999,
+            "t": 464.64403,
+            "r": 151.96402999999998,
+            "b": 456.62704610541726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "Gas out",
+      "text": "Gas out"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 151.96402999999998,
+            "t": 464.51803,
+            "r": 164.5399703,
+            "b": 456.66707831625183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": ".\u00ab-",
+      "text": ".\u00ab-"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 32.92,
+            "t": 661.6780299999999,
+            "r": 51.44688969999999,
+            "b": 653.8270783162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1156",
+      "text": "1156"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 32.2,
+            "t": 624.35802,
+            "r": 438.72496150000046,
+            "b": 586.6270683162519,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            451
+          ]
+        }
+      ],
+      "orig": "Mass  transfer  performances  were  similar  to  those  measured  with  the  bench-scale  plant  [5]. Also  the  thermal energy requirement  was in agreement  with  theoretical  predictions. Experiments  were also carried  out  both  in  the laboratory  to assess  the purity  of  the C02-product  as this is quite critical  for  the application  in greenhouses. The results showed that the purity was high enough to enable direct use in a greenhouse.",
+      "text": "Mass  transfer  performances  were  similar  to  those  measured  with  the  bench-scale  plant  [5]. Also  the  thermal energy requirement  was in agreement  with  theoretical  predictions. Experiments  were also carried  out  both  in  the laboratory  to assess  the purity  of  the C02-product  as this is quite critical  for  the application  in greenhouses. The results showed that the purity was high enough to enable direct use in a greenhouse."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 32.32001,
+            "t": 573.24403,
+            "r": 127.18380979999998,
+            "b": 565.2270461054172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "THE DECAB PROCESS",
+      "text": "THE DECAB PROCESS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 32.2,
+            "t": 552.838,
+            "r": 440.12790050000024,
+            "b": 395.58705831625184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1838
+          ]
+        }
+      ],
+      "orig": "The DECAB process takes advantage of the fact  that when an amino-acid  salt solutions is charged with CO2 at some point a precipitate is formed.  This precipitate can be the amino-acid  itself  as some amino-acids have a low solubility  [8],  but  it  can  also  consist  of  carbonate  compounds  [3].  It  has  been  shown  that  as  a  result  of  the precipitation the CO2 equilibrium partial pressure over the resulting slurry will remain constant for a certain solution loading  and  will  ultimately  be  typically  one  tenth  of  the  extrapolated  equilibrium  pressure  assuming  that  no crystallization is occurring. This opens up the possibility of higher loadings of the solvent, which has benefits for the thermal energy requirement for regeneration. Also as the driving force is higher, the absorber size could be reduced. The  absorber,  however,  needs  to  handle  slurries  and  a  spray  tower  is  preferred  for  this  reason,  to  avoid  risk  of blockage  with  other  types  of contactors. If  the temperature  of the  slurry  is increased  the precipitate  will  go into solution and push the C C ) 2 out of the solution. It is expected that the equilibrium pressure over the solution at 80 \u00b0C is already high enough to start desorbing.  In figure 4 the conceptual flow sheet for an absorption/desorption  process using precipitating  solutions  is shown.  An  important  difference  with  a regular  flow  sheet  is the low  regeneration temperature  in the top of the stripper  (80 \u00b0C). The temperature in  the bottom  of the stripper  is held  at  120 \u00b0C to maintain a deep regeneration of the solvent. To avoid an excessive heat input into the stripper as a result of the large temperature difference  between  top and bottom  of the stripper, the heat exchanger needs to be integrated  into the stripper.",
+      "text": "The DECAB process takes advantage of the fact  that when an amino-acid  salt solutions is charged with CO2 at some point a precipitate is formed.  This precipitate can be the amino-acid  itself  as some amino-acids have a low solubility  [8],  but  it  can  also  consist  of  carbonate  compounds  [3].  It  has  been  shown  that  as  a  result  of  the precipitation the CO2 equilibrium partial pressure over the resulting slurry will remain constant for a certain solution loading  and  will  ultimately  be  typically  one  tenth  of  the  extrapolated  equilibrium  pressure  assuming  that  no crystallization is occurring. This opens up the possibility of higher loadings of the solvent, which has benefits for the thermal energy requirement for regeneration. Also as the driving force is higher, the absorber size could be reduced. The  absorber,  however,  needs  to  handle  slurries  and  a  spray  tower  is  preferred  for  this  reason,  to  avoid  risk  of blockage  with  other  types  of contactors. If  the temperature  of the  slurry  is increased  the precipitate  will  go into solution and push the C C ) 2 out of the solution. It is expected that the equilibrium pressure over the solution at 80 \u00b0C is already high enough to start desorbing.  In figure 4 the conceptual flow sheet for an absorption/desorption  process using precipitating  solutions  is shown.  An  important  difference  with  a regular  flow  sheet  is the low  regeneration temperature  in the top of the stripper  (80 \u00b0C). The temperature in  the bottom  of the stripper  is held  at  120 \u00b0C to maintain a deep regeneration of the solvent. To avoid an excessive heat input into the stripper as a result of the large temperature difference  between  top and bottom  of the stripper, the heat exchanger needs to be integrated  into the stripper."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 145.12001,
+            "t": 233.04401000000001,
+            "r": 326.09902069999976,
+            "b": 225.0270261054173,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        }
+      ],
+      "orig": "Figure 4: Simplified flow sheet of DECAB process",
+      "text": "Figure 4: Simplified flow sheet of DECAB process"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.68001,
+            "t": 381.50801,
+            "r": 166.50454009999999,
+            "b": 375.95801,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Flue gas out",
+      "text": "Flue gas out"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 136.72,
+            "t": 372.99386,
+            "r": 173.0913625,
+            "b": 329.3591982137628,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 304.84003,
+            "t": 381.50801,
+            "r": 331.7225197,
+            "b": 375.95801,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "CO2 out  A",
+      "text": "CO2 out  A"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 281.80002,
+            "t": 365.90801,
+            "r": 310.6822799999998,
+            "b": 360.35801,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Condenser",
+      "text": "Condenser"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 150.40001,
+            "t": 333.01601999999997,
+            "r": 162.8502302,
+            "b": 327.6713640702782,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "CO2",
+      "text": "CO2"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.92001,
+            "t": 317.29602,
+            "r": 159.25124,
+            "b": 311.9513640702782,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Absorber",
+      "text": "Absorber"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 152.20001,
+            "t": 301.57601999999997,
+            "r": 164.00961121000003,
+            "b": 296.2313640702782,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "CO,",
+      "text": "CO,"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 136.72,
+            "t": 288.44718718,
+            "r": 160.7581732478398,
+            "b": 251.43792793,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "T",
+      "text": "T"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 169.48001,
+            "t": 299.41602,
+            "r": 182.24201000000002,
+            "b": 294.0713640702782,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "60 \" c",
+      "text": "60 \" c"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 188.67008,
+            "t": 299.41602,
+            "r": 204.73580000000004,
+            "b": 294.0713640702782,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Slurry",
+      "text": "Slurry"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 258.88,
+            "t": 331.468,
+            "r": 275.51298999999995,
+            "b": 325.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Liquid",
+      "text": "Liquid"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 212.8,
+            "t": 281.54802,
+            "r": 253.96914010000003,
+            "b": 275.99802,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "Heat exchanger",
+      "text": "Heat exchanger"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.64001,
+            "t": 320.90801,
+            "r": 339.7637092999999,
+            "b": 315.35801,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Stripper",
+      "text": "Stripper"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.76001,
+            "t": 314.188,
+            "r": 330.4885696999999,
+            "b": 308.638,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "with",
+      "text": "with"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.76001,
+            "t": 307.468,
+            "r": 345.3652700000002,
+            "b": 301.918,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "integrated",
+      "text": "integrated"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.76001,
+            "t": 300.748,
+            "r": 331.18351999999993,
+            "b": 295.198,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "heat",
+      "text": "heat"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 318.64001,
+            "t": 294.028,
+            "r": 346.5283099999999,
+            "b": 288.478,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "exchanger",
+      "text": "exchanger"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 134.8,
+            "t": 252.14800000000002,
+            "r": 163.74066009999999,
+            "b": 246.598,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "Flue gas in",
+      "text": "Flue gas in"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 32.56,
+            "t": 212.51800000000003,
+            "r": 439.2046284999999,
+            "b": 184.74704831625183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            281
+          ]
+        }
+      ],
+      "orig": "First an estimate has been made for the thermal energy use for regeneration  in the DECAB-process. The energy required is for liberating the CO2 from the solution, for the production of steam as strip gas and for heating up of the solvent. These contributions are shown in table 1.",
+      "text": "First an estimate has been made for the thermal energy use for regeneration  in the DECAB-process. The energy required is for liberating the CO2 from the solution, for the production of steam as strip gas and for heating up of the solvent. These contributions are shown in table 1."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.400009999999995,
+            "t": 177.47798999999998,
+            "r": 409.24871870000015,
+            "b": 169.62703831625186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            68
+          ]
+        }
+      ],
+      "orig": "TABLE 1: THERMAL ENERGY USE DURING REGENERATION IN THE DECAB-PROCESS",
+      "text": "TABLE 1: THERMAL ENERGY USE DURING REGENERATION IN THE DECAB-PROCESS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 111.76001,
+            "t": 150.83401000000003,
+            "r": 116.95751,
+            "b": 144.72771424597363,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 125.5526999,
+            "t": 150.83401000000003,
+            "r": 161.85115879999992,
+            "b": 144.72771424597363,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Contribution",
+      "text": "Contribution"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 124.72002,
+            "t": 112.31401000000005,
+            "r": 179.5987097999998,
+            "b": 106.20771424597365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Heating the solvent",
+      "text": "Heating the solvent"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 124.84001,
+            "t": 94.55401000000006,
+            "r": 181.3710988999999,
+            "b": 88.44771424597366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "Steam from stripper",
+      "text": "Steam from stripper"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 111.76001,
+            "t": 75.452,
+            "r": 116.95751,
+            "b": 69.21656808199123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 125.05669999999999,
+            "t": 75.452,
+            "r": 141.20953999999995,
+            "b": 69.21656808199123,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Total",
+      "text": "Total"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 237.76001,
+            "t": 150.59401000000003,
+            "r": 294.29296999999985,
+            "b": 144.48771424597362,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "Thermal energy use",
+      "text": "Thermal energy use"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.60001,
+            "t": 130.67400999999995,
+            "r": 290.3671099999997,
+            "b": 124.56771424597366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1.50GJ/tonneCO2",
+      "text": "1.50GJ/tonneCO2"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 237.87999,
+            "t": 112.55401000000006,
+            "r": 291.8636504999997,
+            "b": 106.44771424597366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "0.43 GJ/tonne CO2",
+      "text": "0.43 GJ/tonne CO2"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 238.0,
+            "t": 94.43399999999997,
+            "r": 291.86403879999966,
+            "b": 88.32770424597368,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "0.41  GJ/tonneC02",
+      "text": "0.41  GJ/tonneC02"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 237.87999,
+            "t": 75.11401000000001,
+            "r": 292.2536907,
+            "b": 69.0077142459736,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "2.34 GJ/tonne CO2",
+      "text": "2.34 GJ/tonne CO2"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 422.92001,
+            "t": 662.27801,
+            "r": 441.57460969999994,
+            "b": 654.4270583162519,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1157",
+      "text": "1157"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 32.439989999999966,
+            "t": 624.958,
+            "r": 438.98002930000007,
+            "b": 597.4270483162519,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "The energy required for regeneration is much lower than required for an MEA-based process (4.2 GJ/tonne CO2). This is the result of a high CO2 loading of the solvent (92 kg/m^ compared to 55 kg/m^ for MEA) and a lower reflux ratio equal to 0.2.",
+      "text": "The energy required for regeneration is much lower than required for an MEA-based process (4.2 GJ/tonne CO2). This is the result of a high CO2 loading of the solvent (92 kg/m^ compared to 55 kg/m^ for MEA) and a lower reflux ratio equal to 0.2."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 32.439989999999966,
+            "t": 584.278,
+            "r": 439.15491839999976,
+            "b": 526.6270483162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            615
+          ]
+        }
+      ],
+      "orig": "A preliminary  economical  analysis  of the DECAB process,  aiming  to assess  the potential  improvement  of  the process compare to MEA, has been carried out. To assess its performance,  also the MEA process was subjected to the same analysis, which was based on a factor estimation method. Hence, although the absolute values might not be correct, the comparison should provide insight into the benefits of the DECAB process.  Results for 90% removal of CO2 from  the flue gas of a coal fired power plant  are given  here. Table 2 illustrates  the benefits  of the DECAB process for the consumption of utilities.",
+      "text": "A preliminary  economical  analysis  of the DECAB process,  aiming  to assess  the potential  improvement  of  the process compare to MEA, has been carried out. To assess its performance,  also the MEA process was subjected to the same analysis, which was based on a factor estimation method. Hence, although the absolute values might not be correct, the comparison should provide insight into the benefits of the DECAB process.  Results for 90% removal of CO2 from  the flue gas of a coal fired power plant  are given  here. Table 2 illustrates  the benefits  of the DECAB process for the consumption of utilities."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 83.79998999999997,
+            "t": 513.71799,
+            "r": 387.342142689797,
+            "b": 505.8670383162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "TABLE 2: USE OF UTIUTffiS IN MEA-BASED PROCESS AND DECAB PROCESS",
+      "text": "TABLE 2: USE OF UTIUTffiS IN MEA-BASED PROCESS AND DECAB PROCESS"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 369.6593099999998,
+            "t": 409.55395999999985,
+            "r": 374.85680999999977,
+            "b": 403.4476642459735,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 32.31998,
+            "t": 389.99795999999986,
+            "r": 438.7396508000005,
+            "b": 362.46700831625174,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            347
+          ]
+        }
+      ],
+      "orig": "Table 3 gives the costs per tonne CO2, showing that the costs could be half of the costs for a MEA-based process. The cost reduction  is the result  of a combination  of reduction  in capital  costs  (smaller  size equipment  due to lower liquid flow rate, a simpler absorber) and operating costs (energy requirement, cooling water and chemicals).",
+      "text": "Table 3 gives the costs per tonne CO2, showing that the costs could be half of the costs for a MEA-based process. The cost reduction  is the result  of a combination  of reduction  in capital  costs  (smaller  size equipment  due to lower liquid flow rate, a simpler absorber) and operating costs (energy requirement, cooling water and chemicals)."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 32.31998,
+            "t": 349.6779499999999,
+            "r": 438.70010030000043,
+            "b": 331.3870283162517,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "TABLE 3: CAPTURE COSTS AND AVOIDED COSTS IN MEA-BASED PROCESS AND DECAB PROCESS (EURO/TONNE CO2)",
+      "text": "TABLE 3: CAPTURE COSTS AND AVOIDED COSTS IN MEA-BASED PROCESS AND DECAB PROCESS (EURO/TONNE CO2)"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 386.8032410978399,
+            "t": 179.95789523999986,
+            "r": 394.22600617283985,
+            "b": 171.05281659285492,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 32.199989999999914,
+            "t": 147.83791999999983,
+            "r": 438.1580415000001,
+            "b": 130.14696831625167,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "The results of the economic analysis illustrate the potential of the DECAB process and currently R&D is underway to validate the underlying assumptions.",
+      "text": "The results of the economic analysis illustrate the potential of the DECAB process and currently R&D is underway to validate the underlying assumptions."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 32.36,
+            "t": 662.23803,
+            "r": 50.91655999999999,
+            "b": 654.3870783162519,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "1158",
+      "text": "1158"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 32.36,
+            "t": 624.44405,
+            "r": 97.448441,
+            "b": 616.4270661054172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "CONCLUSIONS",
+      "text": "CONCLUSIONS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 32.12001,
+            "t": 604.15802,
+            "r": 439.00518870000036,
+            "b": 556.4671083162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            478
+          ]
+        }
+      ],
+      "orig": "The salts of amino-acids in an aqueous solution are an excellent alternative to amines for C02-capture from  flue gases. Some of them show excellent oxygen resistance, lower binding energy and fast reaction kinetics. Two options towards improved and lower cost C02-capture processes are currently underway: one based on the use of membrane contactors where scale-up is a major  issue and one based on precipitating solvents, where the process development is a major focal point.",
+      "text": "The salts of amino-acids in an aqueous solution are an excellent alternative to amines for C02-capture from  flue gases. Some of them show excellent oxygen resistance, lower binding energy and fast reaction kinetics. Two options towards improved and lower cost C02-capture processes are currently underway: one based on the use of membrane contactors where scale-up is a major  issue and one based on precipitating solvents, where the process development is a major focal point."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 32.12001,
+            "t": 542.9639999999999,
+            "r": 135.68984999999995,
+            "b": 534.9470161054172,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "ACKNOWLEDGEMENTS",
+      "text": "ACKNOWLEDGEMENTS",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 40.04001,
+            "t": 522.31806,
+            "r": 214.7394987000001,
+            "b": 514.4671083162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Part of this work was supported by NovemSenter.",
+      "text": "Part of this work was supported by NovemSenter."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 32.12001,
+            "t": 501.92404,
+            "r": 91.97739,
+            "b": 493.90705610541727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 48.680009999999996,
+            "t": 481.75803,
+            "r": 402.7012324400007,
+            "b": 473.90707831625184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "1. Kohl, A.L., and R.B. Nielsen,  1997. Gas Purification, Gulf Publishing Company, Houston, Texas",
+      "text": "Kohl, A.L., and R.B. Nielsen,  1997. Gas Purification, Gulf Publishing Company, Houston, Texas",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 47.84000999999999,
+            "t": 471.79804,
+            "r": 438.91169419069956,
+            "b": 453.98709831625183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "2. Erga, O, O. Juliussen, and H. Lidal,  1995. Carbon dioxide recovery by means of aqueous amine. Energy Convers. Mgmt. Vol. 36, No. 6-9: 387-392.",
+      "text": "Erga, O, O. Juliussen, and H. Lidal,  1995. Carbon dioxide recovery by means of aqueous amine. Energy Convers. Mgmt. Vol. 36, No. 6-9: 387-392.",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 47.959999999999994,
+            "t": 451.63802,
+            "r": 405.35395201529917,
+            "b": 433.8270783162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            170
+          ]
+        }
+      ],
+      "orig": "3. Hook, R.J.,  1997. An investigation of some sterically hindered amines as potential carbon dioxide scrubbing compounds. Ind. Eng, Chem. Res. Vol. 36, No. 5: 1779-1790.",
+      "text": "Hook, R.J.,  1997. An investigation of some sterically hindered amines as potential carbon dioxide scrubbing compounds. Ind. Eng, Chem. Res. Vol. 36, No. 5: 1779-1790.",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 47.599999999999994,
+            "t": 431.71801,
+            "r": 438.67082855799526,
+            "b": 403.9470783162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            214
+          ]
+        }
+      ],
+      "orig": "4. Kumar, P.S., J.A. Hogendoorn, P.H.M. Feron, and G.F. Versteeg, 2003. Kinetics of the reaction of carbon dioxide with aqueous potassium  salt solutions of taurine and glycine. AIChE Journal Vol. 49, No. 1:203211.",
+      "text": "Kumar, P.S., J.A. Hogendoorn, P.H.M. Feron, and G.F. Versteeg, 2003. Kinetics of the reaction of carbon dioxide with aqueous potassium  salt solutions of taurine and glycine. AIChE Journal Vol. 49, No. 1:203211.",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 47.84000999999999,
+            "t": 401.83799,
+            "r": 443.26923899999997,
+            "b": 374.0670583162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            221
+          ]
+        }
+      ],
+      "orig": "5. Feron, P.H.M, and A.E. Jansen, 2002. CO2 Separation with polyolefm  membrane contactors and dedicated absorption  liquids: Performances  and prospects. Separation and Purification  Technology Vol. 27, Issue 3: 231-242.",
+      "text": "Feron, P.H.M, and A.E. Jansen, 2002. CO2 Separation with polyolefm  membrane contactors and dedicated absorption  liquids: Performances  and prospects. Separation and Purification  Technology Vol. 27, Issue 3: 231-242.",
+      "enumerated": true,
+      "marker": "5."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 47.719989999999996,
+            "t": 371.95799,
+            "r": 439.00581789999984,
+            "b": 344.1870583162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            236
+          ]
+        }
+      ],
+      "orig": "6. Kumar, P.S., J.A. Hogendoorn, P.H.M. Feron, and G.F. Versteeg, 2002. New Absorption  Liquids for  the Removal  of  CO2 from  Dilute  Gas  Streams  using  Membrane  Contactors. Chemical Engineering Science Vol. 57, Issue 9: 1639-1651.",
+      "text": "Kumar, P.S., J.A. Hogendoorn, P.H.M. Feron, and G.F. Versteeg, 2002. New Absorption  Liquids for  the Removal  of  CO2 from  Dilute  Gas  Streams  using  Membrane  Contactors. Chemical Engineering Science Vol. 57, Issue 9: 1639-1651.",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 47.83999999999999,
+            "t": 342.07802,
+            "r": 439.00584968720017,
+            "b": 324.2670283162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "7. Feron,  P.H.M.  and  A.E.  Jansen,  1999. Techno-economic  assessment  of  membrane  gas  absorption  for  the production of carbon dioxide  from  flue  gas. Greenhouse Gas Control Technologies, pp. 53-58, Pergamon.",
+      "text": "Feron,  P.H.M.  and  A.E.  Jansen,  1999. Techno-economic  assessment  of  membrane  gas  absorption  for  the production of carbon dioxide  from  flue  gas. Greenhouse Gas Control Technologies, pp. 53-58, Pergamon.",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 48.079989999999995,
+            "t": 322.15799,
+            "r": 438.73118979999975,
+            "b": 294.3870583162518,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            289
+          ]
+        }
+      ],
+      "orig": "8. Kumar, P.S., J.A. Hogendoorn, P.H.M. Feron, and G.F. Versteeg, 2003. Equilibrium  Solubility of CO2 in Aqueous  Potassium  Taurate Solutions.  Part  1. Crystallization  in  Carbon  Dioxide  loaded  Aqueous  Salt Solutions of Amino Acids. Ind. Eng. Chem. Res, Vol. 42, No. 12: 2832-2840.",
+      "text": "Kumar, P.S., J.A. Hogendoorn, P.H.M. Feron, and G.F. Versteeg, 2003. Equilibrium  Solubility of CO2 in Aqueous  Potassium  Taurate Solutions.  Part  1. Crystallization  in  Carbon  Dioxide  loaded  Aqueous  Salt Solutions of Amino Acids. Ind. Eng. Chem. Res, Vol. 42, No. 12: 2832-2840.",
+      "enumerated": true,
+      "marker": "8."
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 117.88645935058594,
+            "t": 544.7297821044922,
+            "r": 356.858154296875,
+            "b": 401.49639892578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 106.57077026367188,
+            "t": 627.3738288879395,
+            "r": 362.0343322753906,
+            "b": 460.4608154296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 130.06163024902344,
+            "t": 264.8419494628906,
+            "r": 341.0478820800781,
+            "b": 98.8887939453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.15006256103516,
+            "t": 383.3728942871094,
+            "r": 344.3337707519531,
+            "b": 245.9542236328125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.33261108398438,
+            "t": 165.2393798828125,
+            "r": 359.2093200683594,
+            "b": 67.39715576171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 110.33261108398438,
+            "t": 165.2393798828125,
+            "r": 359.2093200683594,
+            "b": 67.39715576171875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 125.5526999,
+              "t": 533.16599,
+              "r": 160.11865879999993,
+              "b": 539.2722857540264,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Contribution",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 124.72002,
+              "t": 571.68599,
+              "r": 177.8662097999998,
+              "b": 577.7922857540264,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Heating the solvent",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 124.84001,
+              "t": 589.4459899999999,
+              "r": 179.63859889999992,
+              "b": 595.5522857540263,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Steam from stripper",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 125.05669999999999,
+              "t": 608.548,
+              "r": 139.47703999999996,
+              "b": 614.7834319180088,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Total",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 237.76001,
+              "t": 533.40599,
+              "r": 292.56046999999984,
+              "b": 539.5122857540264,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Thermal energy use",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 238.60001,
+              "t": 553.32599,
+              "r": 288.63460999999967,
+              "b": 559.4322857540263,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1.50GJ/tonneCO2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 237.87999,
+              "t": 571.4459899999999,
+              "r": 290.1311504999997,
+              "b": 577.5522857540263,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "0.43 GJ/tonne CO2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 238.0,
+              "t": 589.566,
+              "r": 290.13153879999965,
+              "b": 595.6722957540263,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "0.41 GJ/tonneC02",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 237.87999,
+              "t": 608.88599,
+              "r": 290.5211907,
+              "b": 614.9922857540264,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2.34 GJ/tonne CO2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 2,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 125.5526999,
+                "t": 533.16599,
+                "r": 160.11865879999993,
+                "b": 539.2722857540264,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Contribution",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 237.76001,
+                "t": 533.40599,
+                "r": 292.56046999999984,
+                "b": 539.5122857540264,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Thermal energy use",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 238.60001,
+                "t": 553.32599,
+                "r": 288.63460999999967,
+                "b": 559.4322857540263,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1.50GJ/tonneCO2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 124.72002,
+                "t": 571.68599,
+                "r": 177.8662097999998,
+                "b": 577.7922857540264,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Heating the solvent",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 237.87999,
+                "t": 571.4459899999999,
+                "r": 290.1311504999997,
+                "b": 577.5522857540263,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "0.43 GJ/tonne CO2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 124.84001,
+                "t": 589.4459899999999,
+                "r": 179.63859889999992,
+                "b": 595.5522857540263,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Steam from stripper",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 238.0,
+                "t": 589.566,
+                "r": 290.13153879999965,
+                "b": 595.6722957540263,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "0.41 GJ/tonneC02",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 125.05669999999999,
+                "t": 608.548,
+                "r": 139.47703999999996,
+                "b": 614.7834319180088,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Total",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 237.87999,
+                "t": 608.88599,
+                "r": 290.5211907,
+                "b": 614.9922857540264,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2.34 GJ/tonne CO2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 94.9582290649414,
+            "t": 501.7718963623047,
+            "r": 373.6020202636719,
+            "b": 402.375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 141.19373999999996,
+              "t": 197.04598000000004,
+              "r": 162.24608999999998,
+              "b": 203.1522757540264,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Process",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 132.39998999999997,
+              "t": 216.84600000000006,
+              "r": 169.10622,
+              "b": 222.9522957540264,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Reboiler heat",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 136.47999,
+              "t": 235.92599000000007,
+              "r": 164.7365699999998,
+              "b": 242.03228575402642,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Electricity",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 131.07997999999998,
+              "t": 255.00601000000006,
+              "r": 170.2790795,
+              "b": 261.1123057540264,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Cooling water",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 137.28916999999998,
+              "t": 274.08600000000007,
+              "r": 166.20706999999987,
+              "b": 280.1922957540264,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chemicals",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 230.31998,
+              "t": 197.2860100000001,
+              "r": 262.9583792,
+              "b": 203.39230575402644,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "MEA-based",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 225.51997999999998,
+              "t": 217.32602000000009,
+              "r": 267.6900199999999,
+              "b": 223.43231575402643,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "4.2 GJ/ton CO2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 223.83998999999997,
+              "t": 236.2860100000001,
+              "r": 269.9710892999999,
+              "b": 242.39230575402644,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "69 kWh/ton CO2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 226.71998999999997,
+              "t": 255.48604000000012,
+              "r": 266.7308696999999,
+              "b": 261.59233575402646,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "73 mVtonCO2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 229.47997999999995,
+              "t": 274.4460300000001,
+              "r": 265.6149502999999,
+              "b": 280.55232575402647,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "1 kg/ton CO2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 322.59997999999996,
+              "t": 196.92601000000013,
+              "r": 345.65807000000007,
+              "b": 203.03230575402648,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "DECAB",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 312.99996999999996,
+              "t": 216.96602000000013,
+              "r": 355.1710296999999,
+              "b": 223.07231575402648,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "2.3 GJ/ton CO2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 311.07998999999995,
+              "t": 236.04604000000012,
+              "r": 356.50702109999963,
+              "b": 242.15233575402647,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "41kWh/tonC02",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 314.19998999999996,
+              "t": 255.12603000000013,
+              "r": 354.0900500999998,
+              "b": 261.2323257540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "37 mVtonCO2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 313.35999,
+              "t": 274.44604000000015,
+              "r": 355.15976999999975,
+              "b": 280.5523357540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "0.1 kg/ton CO2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 3,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 141.19373999999996,
+                "t": 197.04598000000004,
+                "r": 162.24608999999998,
+                "b": 203.1522757540264,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Process",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 230.31998,
+                "t": 197.2860100000001,
+                "r": 262.9583792,
+                "b": 203.39230575402644,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "MEA-based",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 322.59997999999996,
+                "t": 196.92601000000013,
+                "r": 345.65807000000007,
+                "b": 203.03230575402648,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "DECAB",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 132.39998999999997,
+                "t": 216.84600000000006,
+                "r": 169.10622,
+                "b": 222.9522957540264,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Reboiler heat",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 225.51997999999998,
+                "t": 217.32602000000009,
+                "r": 267.6900199999999,
+                "b": 223.43231575402643,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "4.2 GJ/ton CO2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 312.99996999999996,
+                "t": 216.96602000000013,
+                "r": 355.1710296999999,
+                "b": 223.07231575402648,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "2.3 GJ/ton CO2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 136.47999,
+                "t": 235.92599000000007,
+                "r": 164.7365699999998,
+                "b": 242.03228575402642,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Electricity",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 223.83998999999997,
+                "t": 236.2860100000001,
+                "r": 269.9710892999999,
+                "b": 242.39230575402644,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "69 kWh/ton CO2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 311.07998999999995,
+                "t": 236.04604000000012,
+                "r": 356.50702109999963,
+                "b": 242.15233575402647,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "41kWh/tonC02",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 131.07997999999998,
+                "t": 255.00601000000006,
+                "r": 170.2790795,
+                "b": 261.1123057540264,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Cooling water",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 226.71998999999997,
+                "t": 255.48604000000012,
+                "r": 266.7308696999999,
+                "b": 261.59233575402646,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "73 mVtonCO2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 314.19998999999996,
+                "t": 255.12603000000013,
+                "r": 354.0900500999998,
+                "b": 261.2323257540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "37 mVtonCO2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 137.28916999999998,
+                "t": 274.08600000000007,
+                "r": 166.20706999999987,
+                "b": 280.1922957540264,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chemicals",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 229.47997999999995,
+                "t": 274.4460300000001,
+                "r": 265.6149502999999,
+                "b": 280.55232575402647,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "1 kg/ton CO2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 313.35999,
+                "t": 274.44604000000015,
+                "r": 355.15976999999975,
+                "b": 280.5523357540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "0.1 kg/ton CO2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    },
+    {
+      "self_ref": "#/tables/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 75.55292510986328,
+            "t": 327.7633972167969,
+            "r": 392.5938720703125,
+            "b": 169.8421630859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 131.55614,
+              "t": 370.8060200000001,
+              "r": 152.40653000000003,
+              "b": 376.91231575402645,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Process",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 125.31998,
+              "t": 390.6060400000001,
+              "r": 156.52279999999996,
+              "b": 396.71233575402647,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Fixed costs",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 111.51998,
+              "t": 409.80605000000014,
+              "r": 170.11513970000019,
+              "b": 415.9123457540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Heat for regeneration",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 126.51998,
+              "t": 428.76604000000015,
+              "r": 154.77655999999982,
+              "b": 434.8723357540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Electricity",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 121.47999,
+              "t": 447.84606000000014,
+              "r": 160.5582996,
+              "b": 453.9523557540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Cooling water",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 127.3288599,
+              "t": 466.80605000000014,
+              "r": 156.2467598999999,
+              "b": 472.91234575402655,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Chemicals",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 115.68446010000002,
+              "t": 486.4860600000002,
+              "r": 167.76635040000002,
+              "b": 492.5923557540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Total capture costs",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 116.04384000000002,
+              "t": 506.2860600000002,
+              "r": 167.28525000000005,
+              "b": 512.3923557540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "C02-avoided costs",
+            "column_header": false,
+            "row_header": true,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 240.03999,
+              "t": 371.04605000000015,
+              "r": 255.04441020000002,
+              "b": 377.1523457540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "MEA",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 243.16,
+              "t": 390.96603000000016,
+              "r": 251.52352000000002,
+              "b": 397.0723257540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "6.6",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 243.39999,
+              "t": 410.04605000000015,
+              "r": 251.50017,
+              "b": 416.1523457540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "8.4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 243.27999,
+              "t": 429.00604000000016,
+              "r": 251.6969898,
+              "b": 435.1123357540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "2.8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 243.39999,
+              "t": 448.2060700000002,
+              "r": 251.57937,
+              "b": 454.31236575402653,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "3.7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 243.03999,
+              "t": 467.04607000000016,
+              "r": 251.6193102,
+              "b": 473.1523657540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "4.4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 241.35999999999999,
+              "t": 486.84607000000017,
+              "r": 253.3301197,
+              "b": 492.9523657540266,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "25.8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 241.35999999999999,
+              "t": 506.5260600000002,
+              "r": 253.30632999999995,
+              "b": 512.6323557540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "34.4",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 333.03999,
+              "t": 370.56605000000013,
+              "r": 355.9079604000002,
+              "b": 376.6723457540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "DECAB",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 340.12001,
+              "t": 390.4860600000001,
+              "r": 348.57460999999995,
+              "b": 396.59235575402647,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "4.2",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 340.12001,
+              "t": 409.6860400000001,
+              "r": 348.5112698,
+              "b": 415.79233575402645,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "4.7",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 340.96000999999995,
+              "t": 428.6460500000001,
+              "r": 348.4147099999999,
+              "b": 434.75234575402646,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1.6",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 340.96000999999995,
+              "t": 447.84608000000014,
+              "r": 348.3473899999999,
+              "b": 453.9523757540265,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1.8",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 340.84000999999995,
+              "t": 466.6860800000001,
+              "r": 348.2828299999999,
+              "b": 472.79237575402647,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "1.0",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 339.15998999999994,
+              "t": 486.48608000000013,
+              "r": 350.73209999999983,
+              "b": 492.59237575402653,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "13.3",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 339.15998999999994,
+              "t": 504.03871800000013,
+              "r": 351.3233760728399,
+              "b": 512.9482594348465,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "^54",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 8,
+        "num_cols": 3,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 131.55614,
+                "t": 370.8060200000001,
+                "r": 152.40653000000003,
+                "b": 376.91231575402645,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Process",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 240.03999,
+                "t": 371.04605000000015,
+                "r": 255.04441020000002,
+                "b": 377.1523457540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "MEA",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 333.03999,
+                "t": 370.56605000000013,
+                "r": 355.9079604000002,
+                "b": 376.6723457540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "DECAB",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 125.31998,
+                "t": 390.6060400000001,
+                "r": 156.52279999999996,
+                "b": 396.71233575402647,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Fixed costs",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 243.16,
+                "t": 390.96603000000016,
+                "r": 251.52352000000002,
+                "b": 397.0723257540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "6.6",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 340.12001,
+                "t": 390.4860600000001,
+                "r": 348.57460999999995,
+                "b": 396.59235575402647,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "4.2",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 111.51998,
+                "t": 409.80605000000014,
+                "r": 170.11513970000019,
+                "b": 415.9123457540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Heat for regeneration",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 243.39999,
+                "t": 410.04605000000015,
+                "r": 251.50017,
+                "b": 416.1523457540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "8.4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 340.12001,
+                "t": 409.6860400000001,
+                "r": 348.5112698,
+                "b": 415.79233575402645,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "4.7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 126.51998,
+                "t": 428.76604000000015,
+                "r": 154.77655999999982,
+                "b": 434.8723357540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Electricity",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 243.27999,
+                "t": 429.00604000000016,
+                "r": 251.6969898,
+                "b": 435.1123357540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "2.8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 340.96000999999995,
+                "t": 428.6460500000001,
+                "r": 348.4147099999999,
+                "b": 434.75234575402646,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1.6",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 121.47999,
+                "t": 447.84606000000014,
+                "r": 160.5582996,
+                "b": 453.9523557540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Cooling water",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 243.39999,
+                "t": 448.2060700000002,
+                "r": 251.57937,
+                "b": 454.31236575402653,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "3.7",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 340.96000999999995,
+                "t": 447.84608000000014,
+                "r": 348.3473899999999,
+                "b": 453.9523757540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1.8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 127.3288599,
+                "t": 466.80605000000014,
+                "r": 156.2467598999999,
+                "b": 472.91234575402655,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Chemicals",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 243.03999,
+                "t": 467.04607000000016,
+                "r": 251.6193102,
+                "b": 473.1523657540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "4.4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 340.84000999999995,
+                "t": 466.6860800000001,
+                "r": 348.2828299999999,
+                "b": 472.79237575402647,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "1.0",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 115.68446010000002,
+                "t": 486.4860600000002,
+                "r": 167.76635040000002,
+                "b": 492.5923557540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Total capture costs",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 241.35999999999999,
+                "t": 486.84607000000017,
+                "r": 253.3301197,
+                "b": 492.9523657540266,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "25.8",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 339.15998999999994,
+                "t": 486.48608000000013,
+                "r": 350.73209999999983,
+                "b": 492.59237575402653,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "13.3",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 116.04384000000002,
+                "t": 506.2860600000002,
+                "r": 167.28525000000005,
+                "b": 512.3923557540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "C02-avoided costs",
+              "column_header": false,
+              "row_header": true,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 241.35999999999999,
+                "t": 506.5260600000002,
+                "r": 253.30632999999995,
+                "b": 512.6323557540265,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "34.4",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 339.15998999999994,
+                "t": 504.03871800000013,
+                "r": 351.3233760728399,
+                "b": 512.9482594348465,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "^54",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 468.0,
+        "height": 684.0
+      },
+      "page_no": 6
+    }
+  }
+}

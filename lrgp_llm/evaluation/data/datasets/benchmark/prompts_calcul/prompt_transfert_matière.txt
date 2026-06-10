@@ -1,0 +1,80 @@
+Tu es un expert en génie des procédés et séparation membranaire au LRGP Nancy.
+À partir du contexte scientifique ci-dessous extrait du corpus du laboratoire,
+génère exactement 7 questions de benchmark de qualité scientifique.
+
+Contraintes strictes :
+- Baser les questions UNIQUEMENT sur les informations présentes dans le contexte
+- Types demandés : CALCUL
+- Pour les CALCUL : inclure toutes les données numériques nécessaires dans la question
+- Priorité aux niveaux N2 et N3, quelques N4
+- Réponses complètes avec valeurs numériques et unités
+
+Réponds UNIQUEMENT avec un tableau JSON valide sans texte avant ni après :
+[
+  {
+    "question": "...",
+    "answer": "...",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N1|N2|N3|N4"
+  }
+]
+
+Contexte scientifique :
+[Doc 1 — Source: DDOC_T_2013_0318_MAKHLOUFI]
+Coefficient de transfert de matière global i rapporté au volume du contacteur
+
+---
+
+[Doc 2 — Source: Chabanon_2013_CES]
+The simplest expression for membrane contactor mass transfer modeling is based on a constant overall mass transfer coefficient K OV. This approach has been historically proposed in the first publications dedicated to membrane contactors by different authors (Bottino et al., 2008; Qi and Cussler, 1985a, 1985b; Wickramasinghe et al., 1992). It shows the advantage to include the different mass
+
+---
+
+[Doc 3 — Source: CES 2012 Chabanon et al.]
+The simplest expression for membrane contactor mass transfer modeling is based on a constant overall mass transfer coefficient K OV. This approach has been historically proposed in the first publications dedicated to membrane contactors by different authors (Bottino et al., 2008; Qi and Cussler, 1985a, 1985b; Wickramasinghe et al., 1992). It shows the advantage to include the different mass
+
+---
+
+[Doc 4 — Source: 1-s2.0-S0009250912005787-main]
+The simplest expression for membrane contactor mass transfer modeling is based on a constant overall mass transfer coefficient K OV. This approach has been historically proposed in the first publications dedicated to membrane contactors by different authors (Bottino et al., 2008; Qi and Cussler, 1985a, 1985b; Wickramasinghe et al., 1992). It shows the advantage to include the different mass
+
+---
+
+[Doc 5 — Source: Elsevier Encyclopedia Membrane Contactors Chabanon & Favre]
+Based on Eqs. (2) and (3) and according to the resistance-in-series approach, the global mass-transfer resistance (1/ K ) in hollow- fi ber membrane contactor can be expressed from the local mass-transfer resistances:
+
+---
+
+[Doc 6 — Source: CES 2012 revised manuscript_docx]
+The simplest expression for membrane contactor mass transfer modeling is based on a constant overall mass transfer coefficient K OV . This approach has been historically proposed in the first publications dedicated to membrane contactors by different authors (Bottino et al., 2008; Qi and Cussler, 1985a and 1985b; Wickramasinghe et al., 1992). It shows the advantage to include the different mass transfer mechanisms into a single overall parameter (K OV ) which enables process performances to be quickly and easily assessed. The approach is based on the following set of assumptions:
+
+---
+
+[Doc 7 — Source: CES 2012 revised manuscript_docx]
+The simplest expression for membrane contactor mass transfer modeling is based on a constant overall mass transfer coefficient K OV . This approach has been historically proposed in the first publications dedicated to membrane contactors by different authors (Bottino et al., 2008; Qi and Cussler, 1985a and 1985b; Wickramasinghe et al., 1992). It shows the advantage to include the different mass transfer mechanisms into a single overall parameter (K OV ) which enables process performances to be quickly and easily assessed. The approach is based on the following set of assumptions:
+
+---
+
+[Doc 8 — Source: JMS Perspective Membrane contactors Favre & Svendsen]
+Fig. 5. Comparison of the overall mass transfer coefficient K OV of membrane contactors obtained from a series of 3700 different simulation studies with a 90% CO2 capture ratio. The x axis corresponds to the simulation case number.
+
+---
+
+[Doc 9 — Source: 1-s2.0-S0376738812002104-main]
+Fig. 5. Comparison of the overall mass transfer coefficient K OV of membrane contactors obtained from a series of 3700 different simulation studies with a 90% CO2 capture ratio. The x axis corresponds to the simulation case number.
+
+---
+
+[Doc 10 — Source: t0000041]
+Not  only  in  gas-liquid  systems  with  liquid  bulk,  but  also  in  membrane  gas  absorption processes,  the  overall  mass  transfer  coefficient  (K ov )  is  generally  expressed  as  follows (Kreulen, 1993a),
+
+---
+
+[Doc 11 — Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion]
+K : coefficient global de transfert de matière [m/s]
+
+---
+
+[Doc 12 — Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion]
+K : coefficient global de transfert de matière [m/s]

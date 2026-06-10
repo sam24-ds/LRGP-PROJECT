@@ -1,0 +1,3050 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "cynara-ps",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8787281746133587238,
+    "filename": "cynara-ps.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/50"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.8,
+            "t": 751.1939,
+            "r": 139.88639999999998,
+            "b": 723.7288348441926,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            6
+          ]
+        }
+      ],
+      "orig": "Cynara",
+      "text": "Cynara",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.8,
+            "t": 716.7040000000001,
+            "r": 269.66529999999983,
+            "b": 703.8297507082153,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "H$_{2} S and CO$_{2} separation membranes",
+      "text": "H$_{2} S and CO$_{2} separation membranes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.8,
+            "t": 690.0,
+            "r": 210.17379999999997,
+            "b": 682.2803367826905,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "For bulk acid gas removal from natural gas",
+      "text": "For bulk acid gas removal from natural gas",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 81.7,
+            "t": 649.0260000000001,
+            "r": 207.22479999999987,
+            "b": 593.3014504249292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            120
+          ]
+        }
+      ],
+      "orig": "Align with United Nations Sustainable Development Goals 12 and 13-Responsible Consumption and Production; Climate Action",
+      "text": "Align with United Nations Sustainable Development Goals 12 and 13-Responsible Consumption and Production; Climate Action"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 81.7,
+            "t": 578.6,
+            "r": 165.40810000000002,
+            "b": 570.876675471698,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Emissions reduction:",
+      "text": "Emissions reduction:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 81.7,
+            "t": 566.6,
+            "r": 191.53869999999998,
+            "b": 498.87545042492917,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            140
+          ]
+        }
+      ],
+      "orig": "Reduce CO$_{2}e emissions by 30%-50% compared with amine sweetening and by up to 18 percentage points compared with other membrane materials",
+      "text": "Reduce CO$_{2}e emissions by 30%-50% compared with amine sweetening and by up to 18 percentage points compared with other membrane materials"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 81.7,
+            "t": 484.174,
+            "r": 156.43869999999998,
+            "b": 476.4506754716981,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Embodied carbon:",
+      "text": "Embodied carbon:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 81.7,
+            "t": 472.174,
+            "r": 187.95850000000002,
+            "b": 428.4494504249292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Reduce embodied carbon by up to 50% compared with alternative acid gas removal technologies",
+      "text": "Reduce embodied carbon by up to 50% compared with alternative acid gas removal technologies"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.8,
+            "t": 413.748,
+            "r": 91.956,
+            "b": 406.0246754716981,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "Applications",
+      "text": "Applications",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.8,
+            "t": 401.748,
+            "r": 205.93610000000004,
+            "b": 226.0172903225806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            598
+          ]
+        }
+      ],
+      "orig": "Cynara* H$_{2}S and CO$_{2} separation membranes are used in natural gas processing plant membrane systems with upstream dehydration (e.g., via molecular sieves). They sweeten feed gas at pressures up to 1,050 psi [72 bar] via bulk separation of H$_{2}S and CO$_{2} and recover natural gas liquids (NGLs). The CO$_{2} can be used for enhanced oil recovery (EOR) operations or carbon capture and sequestration (CCS). Cynara membranes can withstand NGL-rich conditions, varying feed gas mixtures, H$_{2}S, or\u00a0a combination of these conditions, which are unsuitable for some other polymeric membranes.",
+      "text": "Cynara* H$_{2}S and CO$_{2} separation membranes are used in natural gas processing plant membrane systems with upstream dehydration (e.g., via molecular sieves). They sweeten feed gas at pressures up to 1,050 psi [72 bar] via bulk separation of H$_{2}S and CO$_{2} and recover natural gas liquids (NGLs). The CO$_{2} can be used for enhanced oil recovery (EOR) operations or carbon capture and sequestration (CCS). Cynara membranes can withstand NGL-rich conditions, varying feed gas mixtures, H$_{2}S, or\u00a0a combination of these conditions, which are unsuitable for some other polymeric membranes."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.8,
+            "t": 216.07870000000003,
+            "r": 195.27510000000012,
+            "b": 196.35537547169815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Designs for both new installations and retrofitting of\u00a0existing plants",
+      "text": "Designs for both new installations and retrofitting of\u00a0existing plants",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.8,
+            "t": 192.07870000000003,
+            "r": 197.78970000000004,
+            "b": 160.3479903225807,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        },
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.4,
+            "t": 647.427,
+            "r": 547.2543000000005,
+            "b": 603.6962903225806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            112,
+            436
+          ]
+        }
+      ],
+      "orig": "Cynara membrane elements can be oriented vertically or\u00a0horizontally. Vertically\u00a0oriented elements are available with diameters up to 30 in, enabling significant acid gas treatment capacity. They can be part of the initial design of a natural gas treatment plant. They can also be used to debottleneck an existing amine-based acid gas removal system-or reduce the size of\u00a0a\u00a0new one-by introducing a hybrid natural gas sweetening process.",
+      "text": "Cynara membrane elements can be oriented vertically or\u00a0horizontally. Vertically\u00a0oriented elements are available with diameters up to 30 in, enabling significant acid gas treatment capacity. They can be part of the initial design of a natural gas treatment plant. They can also be used to debottleneck an existing amine-based acid gas removal system-or reduce the size of\u00a0a\u00a0new one-by introducing a hybrid natural gas sweetening process."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.4,
+            "t": 593.7578000000001,
+            "r": 567.8751999999996,
+            "b": 502.02709032258065,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            650
+          ]
+        }
+      ],
+      "orig": "Horizontally oriented Cynara membrane elements are designed to fit in 8-in and 8\u00bc-in tubes built to ASME B31.3 specifications. Designed for retrofitting existing membrane installations to improve separation performance, they have been operationalized in packaging that enables simple plug-and-play replacement of flat-sheet cellulose acetate, hollow-fiber polyimide, and other polymeric membrane elements without infrastructure modifications. They have delivered consistent improvement in production capacity and hydrocarbon retention versus other CO$_{2} removal membranes during competitive trials and full membrane replacement in existing systems.",
+      "text": "Horizontally oriented Cynara membrane elements are designed to fit in 8-in and 8\u00bc-in tubes built to ASME B31.3 specifications. Designed for retrofitting existing membrane installations to improve separation performance, they have been operationalized in packaging that enables simple plug-and-play replacement of flat-sheet cellulose acetate, hollow-fiber polyimide, and other polymeric membrane elements without infrastructure modifications. They have delivered consistent improvement in production capacity and hydrocarbon retention versus other CO$_{2} removal membranes during competitive trials and full membrane replacement in existing systems."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.4,
+            "t": 492.0885,
+            "r": 550.8266000000001,
+            "b": 484.36517547169814,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            74
+          ]
+        }
+      ],
+      "orig": "How they improve performance compared with alternative polymeric membranes",
+      "text": "How they improve performance compared with alternative polymeric membranes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.4,
+            "t": 480.0885,
+            "r": 566.8743000000002,
+            "b": 472.3577903225807,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            88
+          ]
+        }
+      ],
+      "orig": "The asymmetric hollow-fiber membranes enable natural gas treatment facility operators to",
+      "text": "The asymmetric hollow-fiber membranes enable natural gas treatment facility operators to"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.4,
+            "t": 462.4192,
+            "r": 547.9845000000003,
+            "b": 442.68849032258066,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "\u2192 increase feed gas throughput because of the larger surface area per membranewithout increasing infrastructure size, weight, or cost",
+      "text": "\u2192 increase feed gas throughput because of the larger surface area per membranewithout increasing infrastructure size, weight, or cost",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.4,
+            "t": 438.4192,
+            "r": 525.6243999999999,
+            "b": 418.68849032258066,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            95
+          ]
+        }
+      ],
+      "orig": "\u2192 improve CO$_{2} and H$_{2}S removal because the membranes are highly selective for\u00a0acid gases",
+      "text": "\u2192 improve CO$_{2} and H$_{2}S removal because the membranes are highly selective for\u00a0acid gases",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.3999,
+            "t": 414.4192,
+            "r": 557.0444999999993,
+            "b": 406.68849032258066,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "\u2192 enhance hydrocarbon retention and recover condensing NGLs, boosting profitability",
+      "text": "\u2192 enhance hydrocarbon retention and recover condensing NGLs, boosting profitability",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.3999,
+            "t": 402.4192,
+            "r": 556.4435000000001,
+            "b": 382.68849032258066,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "\u2192 reduce membrane replacement frequency and further improve profitability because the\u00a0membranes exhibit stable separation performance over a long period",
+      "text": "\u2192 reduce membrane replacement frequency and further improve profitability because the\u00a0membranes exhibit stable separation performance over a long period",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.3999,
+            "t": 378.4192,
+            "r": 489.8544,
+            "b": 370.68849032258066,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "\u2192 pursue CCS for the high-purity CO$_{2} outlet stream or use it for EOR.",
+      "text": "\u2192 pursue CCS for the high-purity CO$_{2} outlet stream or use it for EOR.",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.3999,
+            "t": 360.74989999999997,
+            "r": 284.15970000000016,
+            "b": 353.0265754716981,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "How they work",
+      "text": "How they work",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.3999,
+            "t": 348.74989999999997,
+            "r": 559.1319000000001,
+            "b": 293.01919032258064,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            427
+          ]
+        }
+      ],
+      "orig": "Cynara membrane fibers are made of a cellulose triacetate (CTA) base material, whichunlike filters-interacts with gas molecules to transport them through the membrane wall, a process called permeation. Each gas component has a specific permeation rate, determined by its ability to dissolve and diffuse through the membrane material. Highly soluble and small molecules (CO$_{2} and H$_{2}S) permeate faster than large molecules",
+      "text": "Cynara membrane fibers are made of a cellulose triacetate (CTA) base material, whichunlike filters-interacts with gas molecules to transport them through the membrane wall, a process called permeation. Each gas component has a specific permeation rate, determined by its ability to dissolve and diffuse through the membrane material. Highly soluble and small molecules (CO$_{2} and H$_{2}S) permeate faster than large molecules"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.4,
+            "t": 265.9269999999999,
+            "r": 359.73799999999966,
+            "b": 258.20367547169803,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Cynara Membrane Specifications",
+      "text": "Cynara Membrane Specifications",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 224.4,
+            "t": 166.55819999999994,
+            "r": 385.8596499999998,
+            "b": 160.98288767638758,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            56
+          ]
+        }
+      ],
+      "orig": "All specifications are subject to change without notice.",
+      "text": "All specifications are subject to change without notice."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 376.8567,
+            "t": 139.20000000000005,
+            "r": 413.52359999999993,
+            "b": 131.47545042492925,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Feed gas",
+      "text": "Feed gas"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.8,
+            "t": 101.11090000000002,
+            "r": 113.99430000000001,
+            "b": 93.38635042492922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Hydrocarbon-rich",
+      "text": "Hydrocarbon-rich"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.8,
+            "t": 89.11090000000002,
+            "r": 110.478,
+            "b": 81.38635042492922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "nonpermeate gas",
+      "text": "nonpermeate gas"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 465.8,
+            "t": 92.8007,
+            "r": 562.9145000000001,
+            "b": 85.07615042492921,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "Low-pressure permeate",
+      "text": "Low-pressure permeate"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 465.8,
+            "t": 80.8007,
+            "r": 572.6912,
+            "b": 73.07615042492921,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "gas, rich with smaller, more",
+      "text": "gas, rich with smaller, more"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 465.8,
+            "t": 68.8007,
+            "r": 537.1870999999999,
+            "b": 61.07615042492921,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            17
+          ]
+        }
+      ],
+      "orig": "soluble molecules",
+      "text": "soluble molecules"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.8,
+            "t": 42.55499999999995,
+            "r": 517.0005500000004,
+            "b": 36.121947318908724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            144
+          ]
+        }
+      ],
+      "orig": "Horizontally oriented Cynara membranes are available with 8-in and 81/4-in diameters, suitable for\u00a0retrofitting existing membrane installations.",
+      "text": "Horizontally oriented Cynara membranes are available with 8-in and 81/4-in diameters, suitable for\u00a0retrofitting existing membrane installations."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 751.2,
+            "r": 218.7506,
+            "b": 743.4766754716981,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Cynara H$_{2}S and CO$_{2} separation membranes",
+      "text": "Cynara H$_{2}S and CO$_{2} separation membranes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 710.3999,
+            "r": 315.848,
+            "b": 678.6691903225806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            205
+          ]
+        }
+      ],
+      "orig": "(N$_{2} ,\u00a0C $_{1} ,\u00a0C $_{2} , and heavier hydrocarbons). The pressure difference between the higher-pressure feed gas and the low-pressure permeate provides the\u00a0'driving force' for\u00a0the membrane separation.",
+      "text": "(N$_{2} ,\u00a0C $_{1} ,\u00a0C $_{2} , and heavier hydrocarbons). The pressure difference between the higher-pressure feed gas and the low-pressure permeate provides the\u00a0'driving force' for\u00a0the membrane separation."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 668.7307000000001,
+            "r": 325.8309000000002,
+            "b": 576.9999903225806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            542
+          ]
+        }
+      ],
+      "orig": "Thousands of these individual asymmetric, hollow fibers are packaged within each cylindrical membrane element. As pressurized feed gas flows along the fiber bundle, the more soluble acid gas components (CO$_{2} and H$_{2} S) preferentially permeate to the bore side of each fiber, where they are combined. The low-pressure permeate flows out at the end of the fiber and is collected for CCS, CO$_{2} EOR, or additional processing. The hydrocarbon-rich nonpermeate gas continues through the plant for further processing and sale or\u00a0direct use.",
+      "text": "Thousands of these individual asymmetric, hollow fibers are packaged within each cylindrical membrane element. As pressurized feed gas flows along the fiber bundle, the more soluble acid gas components (CO$_{2} and H$_{2} S) preferentially permeate to the bore side of each fiber, where they are combined. The low-pressure permeate flows out at the end of the fiber and is collected for CCS, CO$_{2} EOR, or additional processing. The hydrocarbon-rich nonpermeate gas continues through the plant for further processing and sale or\u00a0direct use."
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 567.0614,
+            "r": 322.61700000000013,
+            "b": 499.33069032258066,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            367
+          ]
+        }
+      ],
+      "orig": "Using multiple stages and optimized arrangements enables the bulk acid gas removal unit to efficiently handle a wide range of feed gas compositions, flow rates, and operating parameters, such as pressure and temperature. Operation is fully automatic, and the modular system enables operators to add capacity incrementally as well as provide a large turndown capacity.",
+      "text": "Using multiple stages and optimized arrangements enables the bulk acid gas removal unit to efficiently handle a wide range of feed gas compositions, flow rates, and operating parameters, such as pressure and temperature. Operation is fully automatic, and the modular system enables operators to add capacity incrementally as well as provide a large turndown capacity."
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 489.39209999999997,
+            "r": 278.3784000000001,
+            "b": 469.6687754716981,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "How Cynara membranes support industry carbon intensity reduction goals",
+      "text": "How Cynara membranes support industry carbon intensity reduction goals",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 465.39209999999997,
+            "r": 316.61580000000004,
+            "b": 421.66139032258064,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            275
+          ]
+        }
+      ],
+      "orig": "Large-diameter, vertically oriented Cynara membrane elements enable a greatly reduced footprint, which is especially beneficial offshore, where space is at a premium. As a result, embodied carbon decreases by up to 50% compared with alternative acid gas removal technologies.",
+      "text": "Large-diameter, vertically oriented Cynara membrane elements enable a greatly reduced footprint, which is especially beneficial offshore, where space is at a premium. As a result, embodied carbon decreases by up to 50% compared with alternative acid gas removal technologies."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 411.7228,
+            "r": 322.60440000000017,
+            "b": 355.9920903225807,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            329
+          ]
+        }
+      ],
+      "orig": "Using Cynara membranes to replace amine-based acid gas removal units or reduce their size decreases the energy necessary to heat and circulate amine solvents. When combining membranes for bulk removal of acid gases with amine-based acid gas removal for the final polishing stage, a\u00a030%-50% reduction in emissions can be achieved.",
+      "text": "Using Cynara membranes to replace amine-based acid gas removal units or reduce their size decreases the energy necessary to heat and circulate amine solvents. When combining membranes for bulk removal of acid gases with amine-based acid gas removal for the final polishing stage, a\u00a030%-50% reduction in emissions can be achieved."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 346.0535,
+            "r": 325.8768000000001,
+            "b": 302.32279032258066,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            261
+          ]
+        }
+      ],
+      "orig": "Lastly, the higher hydrocarbon retention provided by Cynara membranes versus alternative membrane materials enables pursuit of CCS for the highpurity CO$_{2} outlet stream (instead of thermal oxidation of the permeate gas), further reducing emissions intensity.",
+      "text": "Lastly, the higher hydrocarbon retention provided by Cynara membranes versus alternative membrane materials enables pursuit of CCS for the highpurity CO$_{2} outlet stream (instead of thermal oxidation of the permeate gas), further reducing emissions intensity."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 292.38419999999996,
+            "r": 246.43180000000012,
+            "b": 284.6608754716981,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Added value through nearly 40 years of experience",
+      "text": "Added value through nearly 40 years of experience",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 280.38419999999996,
+            "r": 325.1334,
+            "b": 128.65349032258064,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            876
+          ]
+        }
+      ],
+      "orig": "Since the first installation in 1983, Cynara membranes have established an\u00a0impressive track record of reliability, operating with minimal downtime and average availabilities up to 99% since startup. SLB designs and provides custom membrane pretreatment equipment, membrane systems, and field operation and support services for energy companies' operating facilities onshore and offshore worldwide. Solutions can address turnkey projects, gas dehydration, liquid hydrocarbons recovery, and acid gas separation. High-capacity projects exceeding 1,200\u00a0MMcf/d, with inlet CO$_{2}  concentrations from 5% to 85% and outlet concentrations from 50% to 1.5%, can also be engineered. SLB's ongoing experience enables recommending the most economical and reliable long-term solution, whether it is a stand-alone membrane system or a hybrid system with other gas processing technologies.",
+      "text": "Since the first installation in 1983, Cynara membranes have established an\u00a0impressive track record of reliability, operating with minimal downtime and average availabilities up to 99% since startup. SLB designs and provides custom membrane pretreatment equipment, membrane systems, and field operation and support services for energy companies' operating facilities onshore and offshore worldwide. Solutions can address turnkey projects, gas dehydration, liquid hydrocarbons recovery, and acid gas separation. High-capacity projects exceeding 1,200\u00a0MMcf/d, with inlet CO$_{2}  concentrations from 5% to 85% and outlet concentrations from 50% to 1.5%, can also be engineered. SLB's ongoing experience enables recommending the most economical and reliable long-term solution, whether it is a stand-alone membrane system or a hybrid system with other gas processing technologies."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 41.125,
+            "t": 84.40210000000002,
+            "r": 105.38229999999997,
+            "b": 76.67877547169815,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            14
+          ]
+        }
+      ],
+      "orig": "slb.com/Cynara",
+      "text": "slb.com/Cynara",
+      "hyperlink": "http://www.slb.com/Cynara",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 346.8,
+            "t": 710.4000000000001,
+            "r": 571.7099999999999,
+            "b": 594.6692903225807,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            537
+          ]
+        }
+      ],
+      "orig": "By centralizing related services, such as membrane manufacturing, R&D, testing, quality control, and engineering, SLB achieves quality, product availability, economies of scale, and a level of product responsibility that are impossible with an outside supplier or multiple suppliers. Operators benefit from full control of scheduling, continuous quality upgrades, performance enhancements, rapid implementation of new designs, state-of-the-art manufacturing facilities, field-proven expertise, and digital services to assure performance.",
+      "text": "By centralizing related services, such as membrane manufacturing, R&D, testing, quality control, and engineering, SLB achieves quality, product availability, economies of scale, and a level of product responsibility that are impossible with an outside supplier or multiple suppliers. Operators benefit from full control of scheduling, continuous quality upgrades, performance enhancements, rapid implementation of new designs, state-of-the-art manufacturing facilities, field-proven expertise, and digital services to assure performance."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 346.8,
+            "t": 584.7307000000001,
+            "r": 564.8434000000002,
+            "b": 552.9999903225806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            133
+          ]
+        }
+      ],
+      "orig": "Read SPE-211101 to learn about SLB's advancements in CO$_{2}  separation membrane technologies and how they have benefited operators.",
+      "text": "Read SPE-211101 to learn about SLB's advancements in CO$_{2}  separation membrane technologies and how they have benefited operators."
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 500.0,
+            "t": 420.73019999999997,
+            "r": 536.6668999999998,
+            "b": 413.0056504249292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Feed gas",
+      "text": "Feed gas"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 500.0,
+            "t": 317.6141,
+            "r": 573.1942999999998,
+            "b": 309.8895504249292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Hydrocarbon-rich",
+      "text": "Hydrocarbon-rich"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 500.0,
+            "t": 305.6141,
+            "r": 569.6779999999997,
+            "b": 297.8895504249292,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "nonpermeate gas",
+      "text": "nonpermeate gas"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 370.275,
+            "t": 203.08100000000002,
+            "r": 502.34549999999973,
+            "b": 195.35645042492922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            31
+          ]
+        }
+      ],
+      "orig": "Low-pressure permeate gas, rich",
+      "text": "Low-pressure permeate gas, rich"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 370.275,
+            "t": 191.08100000000002,
+            "r": 513.5935999999998,
+            "b": 183.35645042492922,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            36
+          ]
+        }
+      ],
+      "orig": "with smaller, more soluble molecules",
+      "text": "with smaller, more soluble molecules"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 346.8,
+            "t": 174.45499999999993,
+            "r": 564.3570000000002,
+            "b": 158.5219473189087,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            119
+          ]
+        }
+      ],
+      "orig": "Vertically oriented Cynara membranes are available with diameters up\u00a0to\u00a030\u00a0in for enhanced acid gas treatment capacity.",
+      "text": "Vertically oriented Cynara membranes are available with diameters up\u00a0to\u00a030\u00a0in for enhanced acid gas treatment capacity."
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 40.8,
+            "t": 58.84100000000001,
+            "r": 306.2299499999999,
+            "b": 36.26568767638764,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            159
+          ]
+        }
+      ],
+      "orig": "*Mark of SLB Other company, product, and service names are the properties of their respective owners. Copyright \u00a9 2023 SLB. All rights reserved. 23-MPS-1580337",
+      "text": "*Mark of SLB Other company, product, and service names are the properties of their respective owners. Copyright \u00a9 2023 SLB. All rights reserved. 23-MPS-1580337"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.31501770019531,
+            "t": 647.4496002197266,
+            "r": 69.06587982177734,
+            "b": 622.0118865966797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.079246520996094,
+            "t": 576.0105895996094,
+            "r": 71.87777709960938,
+            "b": 551.4658508300781,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.33256912231445,
+            "t": 481.93853759765625,
+            "r": 67.28160095214844,
+            "b": 457.1146545410156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 39.92552947998047,
+            "t": 141.1795654296875,
+            "r": 572.1400146484375,
+            "b": 57.2032470703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 488.13916015625,
+            "t": 762.9661407470703,
+            "r": 572.1361083984375,
+            "b": 710.2948913574219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 359.6044616699219,
+            "t": 529.5409545898438,
+            "r": 572.3900756835938,
+            "b": 181.82330322265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 488.1254577636719,
+            "t": 87.96875,
+            "r": 572.2477416992188,
+            "b": 35.833251953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 223.3633575439453,
+            "t": 256.97174072265625,
+            "r": 572.075439453125,
+            "b": 170.65216064453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [
+          {
+            "bbox": {
+              "l": 224.4,
+              "t": 541.9764,
+              "r": 262.79999999999984,
+              "b": 548.4094526810912,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Orientation",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 321.4041,
+              "t": 541.9764,
+              "r": 355.91010000000017,
+              "b": 548.4094526810912,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Horizontal",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 460.6839,
+              "t": 541.9764,
+              "r": 486.64440000000013,
+              "b": 548.4094526810912,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 4,
+            "start_row_offset_idx": 0,
+            "end_row_offset_idx": 1,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 6,
+            "text": "Vertical",
+            "column_header": true,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 224.3999,
+              "t": 556.8089,
+              "r": 290.99934999999994,
+              "b": 563.2419526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nominal OD, in [cm]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 321.4041,
+              "t": 556.8089,
+              "r": 348.9328499999999,
+              "b": 572.7419526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "8 [20.3], 81\u20444 [21]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 380.1249,
+              "t": 556.8089,
+              "r": 405.8431500000001,
+              "b": 563.2419526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "5 [12.7]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 427.9041,
+              "t": 556.8089,
+              "r": 458.3556,
+              "b": 563.2419526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "12 [30.5]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 475.6694,
+              "t": 556.8089,
+              "r": 505.84564999999986,
+              "b": 563.2419526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "16 [40.6]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 523.4347,
+              "t": 556.8089,
+              "r": 553.96195,
+              "b": 563.2419526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "30 [76.2]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 224.4,
+              "t": 581.1413,
+              "r": 301.1923499999999,
+              "b": 587.5743526810912,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Nominal length, in [cm]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 321.4041,
+              "t": 581.1413,
+              "r": 355.40159999999986,
+              "b": 587.5743526810912,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "54 [137.2]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 380.1249,
+              "t": 581.1413,
+              "r": 414.4539,
+              "b": 587.5743526810912,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "41 [104.1]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 427.9041,
+              "t": 581.1413,
+              "r": 462.2331,
+              "b": 587.5743526810912,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "41 [104.1]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 475.6694,
+              "t": 581.1413,
+              "r": 510.3328999999998,
+              "b": 587.5743526810912,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "72 [182.9]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 523.4347,
+              "t": 581.1413,
+              "r": 558.0989500000002,
+              "b": 587.5743526810912,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "72 [182.9]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 224.4,
+              "t": 595.9738,
+              "r": 278.4874,
+              "b": 602.4068526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Weight, lbm [kg]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 321.4041,
+              "t": 595.9738,
+              "r": 351.8436,
+              "b": 602.4068526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "65 [29.5]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 380.1249,
+              "t": 595.9738,
+              "r": 405.82214999999997,
+              "b": 602.4068526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "20 [9.1]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 427.9041,
+              "t": 595.9738,
+              "r": 451.7090999999999,
+              "b": 602.4068526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "75 [34]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 475.6694,
+              "t": 595.9738,
+              "r": 514.8298999999998,
+              "b": 602.4068526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "225 [102.1]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 523.4347,
+              "t": 595.9738,
+              "r": 562.6447000000002,
+              "b": 602.4068526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "720 [326.6]",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 224.4,
+              "t": 610.8063,
+              "r": 287.3677500000001,
+              "b": 617.2393526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 0,
+            "end_col_offset_idx": 1,
+            "text": "Flow configuration",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 321.4041,
+              "t": 610.8063,
+              "r": 363.5503500000002,
+              "b": 617.2393526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 1,
+            "end_col_offset_idx": 2,
+            "text": "Counterflow",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 380.1249,
+              "t": 610.8063,
+              "r": 414.3474,
+              "b": 617.2393526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 2,
+            "end_col_offset_idx": 3,
+            "text": "Crossflow",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 427.9041,
+              "t": 610.8063,
+              "r": 462.1266,
+              "b": 617.2393526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 3,
+            "end_col_offset_idx": 4,
+            "text": "Crossflow",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 475.6694,
+              "t": 610.8063,
+              "r": 509.89189999999996,
+              "b": 617.2393526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 4,
+            "end_col_offset_idx": 5,
+            "text": "Crossflow",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          },
+          {
+            "bbox": {
+              "l": 523.4347,
+              "t": 610.8063,
+              "r": 557.6571999999998,
+              "b": 617.2393526810913,
+              "coord_origin": "TOPLEFT"
+            },
+            "row_span": 1,
+            "col_span": 1,
+            "start_row_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "start_col_offset_idx": 5,
+            "end_col_offset_idx": 6,
+            "text": "Crossflow",
+            "column_header": false,
+            "row_header": false,
+            "row_section": false,
+            "fillable": false
+          }
+        ],
+        "num_rows": 5,
+        "num_cols": 6,
+        "grid": [
+          [
+            {
+              "bbox": {
+                "l": 224.4,
+                "t": 541.9764,
+                "r": 262.79999999999984,
+                "b": 548.4094526810912,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Orientation",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 321.4041,
+                "t": 541.9764,
+                "r": 355.91010000000017,
+                "b": 548.4094526810912,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Horizontal",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 460.6839,
+                "t": 541.9764,
+                "r": 486.64440000000013,
+                "b": 548.4094526810912,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 4,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 6,
+              "text": "Vertical",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 460.6839,
+                "t": 541.9764,
+                "r": 486.64440000000013,
+                "b": 548.4094526810912,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 4,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 6,
+              "text": "Vertical",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 460.6839,
+                "t": 541.9764,
+                "r": 486.64440000000013,
+                "b": 548.4094526810912,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 4,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 6,
+              "text": "Vertical",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 460.6839,
+                "t": 541.9764,
+                "r": 486.64440000000013,
+                "b": 548.4094526810912,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 4,
+              "start_row_offset_idx": 0,
+              "end_row_offset_idx": 1,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 6,
+              "text": "Vertical",
+              "column_header": true,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 224.3999,
+                "t": 556.8089,
+                "r": 290.99934999999994,
+                "b": 563.2419526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nominal OD, in [cm]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 321.4041,
+                "t": 556.8089,
+                "r": 348.9328499999999,
+                "b": 572.7419526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "8 [20.3], 81\u20444 [21]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 380.1249,
+                "t": 556.8089,
+                "r": 405.8431500000001,
+                "b": 563.2419526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "5 [12.7]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 427.9041,
+                "t": 556.8089,
+                "r": 458.3556,
+                "b": 563.2419526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "12 [30.5]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 475.6694,
+                "t": 556.8089,
+                "r": 505.84564999999986,
+                "b": 563.2419526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "16 [40.6]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 523.4347,
+                "t": 556.8089,
+                "r": 553.96195,
+                "b": 563.2419526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "30 [76.2]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 224.4,
+                "t": 581.1413,
+                "r": 301.1923499999999,
+                "b": 587.5743526810912,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Nominal length, in [cm]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 321.4041,
+                "t": 581.1413,
+                "r": 355.40159999999986,
+                "b": 587.5743526810912,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "54 [137.2]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 380.1249,
+                "t": 581.1413,
+                "r": 414.4539,
+                "b": 587.5743526810912,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "41 [104.1]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 427.9041,
+                "t": 581.1413,
+                "r": 462.2331,
+                "b": 587.5743526810912,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "41 [104.1]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 475.6694,
+                "t": 581.1413,
+                "r": 510.3328999999998,
+                "b": 587.5743526810912,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "72 [182.9]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 523.4347,
+                "t": 581.1413,
+                "r": 558.0989500000002,
+                "b": 587.5743526810912,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "72 [182.9]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 224.4,
+                "t": 595.9738,
+                "r": 278.4874,
+                "b": 602.4068526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Weight, lbm [kg]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 321.4041,
+                "t": 595.9738,
+                "r": 351.8436,
+                "b": 602.4068526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "65 [29.5]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 380.1249,
+                "t": 595.9738,
+                "r": 405.82214999999997,
+                "b": 602.4068526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "20 [9.1]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 427.9041,
+                "t": 595.9738,
+                "r": 451.7090999999999,
+                "b": 602.4068526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "75 [34]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 475.6694,
+                "t": 595.9738,
+                "r": 514.8298999999998,
+                "b": 602.4068526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "225 [102.1]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 523.4347,
+                "t": 595.9738,
+                "r": 562.6447000000002,
+                "b": 602.4068526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "720 [326.6]",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "l": 224.4,
+                "t": 610.8063,
+                "r": 287.3677500000001,
+                "b": 617.2393526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 0,
+              "end_col_offset_idx": 1,
+              "text": "Flow configuration",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 321.4041,
+                "t": 610.8063,
+                "r": 363.5503500000002,
+                "b": 617.2393526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 1,
+              "end_col_offset_idx": 2,
+              "text": "Counterflow",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 380.1249,
+                "t": 610.8063,
+                "r": 414.3474,
+                "b": 617.2393526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 2,
+              "end_col_offset_idx": 3,
+              "text": "Crossflow",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 427.9041,
+                "t": 610.8063,
+                "r": 462.1266,
+                "b": 617.2393526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 3,
+              "end_col_offset_idx": 4,
+              "text": "Crossflow",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 475.6694,
+                "t": 610.8063,
+                "r": 509.89189999999996,
+                "b": 617.2393526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 4,
+              "end_col_offset_idx": 5,
+              "text": "Crossflow",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            },
+            {
+              "bbox": {
+                "l": 523.4347,
+                "t": 610.8063,
+                "r": 557.6571999999998,
+                "b": 617.2393526810913,
+                "coord_origin": "TOPLEFT"
+              },
+              "row_span": 1,
+              "col_span": 1,
+              "start_row_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "start_col_offset_idx": 5,
+              "end_col_offset_idx": 6,
+              "text": "Crossflow",
+              "column_header": false,
+              "row_header": false,
+              "row_section": false,
+              "fillable": false
+            }
+          ]
+        ]
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 612.0,
+        "height": 792.0
+      },
+      "page_no": 2
+    }
+  }
+}

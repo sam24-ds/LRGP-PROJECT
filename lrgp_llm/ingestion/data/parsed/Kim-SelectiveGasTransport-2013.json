@@ -1,0 +1,3628 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "Kim-SelectiveGasTransport-2013",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8024334267253083055,
+    "filename": "Kim-SelectiveGasTransport-2013.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 727.2660000000001,
+            "r": 563.68,
+            "b": 716.617918032787,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "Selective Gas Transport Through Few-Layered Graphene and Graphene Oxide Membranes",
+      "text": "Selective Gas Transport Through Few-Layered Graphene and Graphene Oxide Membranes"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 707.2660000000001,
+            "r": 554.3720000000001,
+            "b": 672.617918032787,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "Author(s): Hyo Won Kim, Hee Wook Yoon, Seon-Mi Yoon, Byung Min Yoo, Byung Kook Ahn, Young Hoon Cho, Hye Jin Shin, Hoichang Yang, Ungyu Paik, Soongeun Kwon, Jae-Young Choi and Ho Bum Park",
+      "text": "Author(s): Hyo Won Kim, Hee Wook Yoon, Seon-Mi Yoon, Byung Min Yoo, Byung Kook Ahn, Young Hoon Cho, Hye Jin Shin, Hoichang Yang, Ungyu Paik, Soongeun Kwon, Jae-Young Choi and Ho Bum Park"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 663.2660000000001,
+            "r": 555.274,
+            "b": 640.617918032787,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            91
+          ]
+        }
+      ],
+      "orig": "Source: Science , 4 October 2013, New Series, Vol. 342, No. 6154 (4 October 2013), pp. 9195",
+      "text": "Source: Science , 4 October 2013, New Series, Vol. 342, No. 6154 (4 October 2013), pp. 9195"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 631.2660000000001,
+            "r": 444.42,
+            "b": 620.617918032787,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            65
+          ]
+        }
+      ],
+      "orig": "Published by: American Association for the Advancement of Science",
+      "text": "Published by: American Association for the Advancement of Science"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 607.2660000000001,
+            "r": 339.4940000000001,
+            "b": 596.617918032787,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            49
+          ]
+        }
+      ],
+      "orig": "Stable URL: https://www.jstor.org/stable/42619728",
+      "text": "Stable URL: https://www.jstor.org/stable/42619728"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 575.2660000000001,
+            "r": 116.69,
+            "b": 564.617918032787,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "REFERENCES",
+      "text": "REFERENCES",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 563.2660000000001,
+            "r": 423.0120000000001,
+            "b": 516.6179180327869,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "Linked references are available on JSTOR for this article: https://www.jstor.org/stable/42619728?seq=1&cid=pdfreference#references_tab_contents You may need to log in to JSTOR to access the linked references.",
+      "text": "Linked references are available on JSTOR for this article: https://www.jstor.org/stable/42619728?seq=1&cid=pdfreference#references_tab_contents You may need to log in to JSTOR to access the linked references."
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 490.947,
+            "r": 557.0819999999997,
+            "b": 464.9609385245902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            338
+          ]
+        }
+      ],
+      "orig": "JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.",
+      "text": "JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 454.947,
+            "r": 499.23899999999963,
+            "b": 437.9609385245902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at https://about.jstor.org/terms",
+      "text": "Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at https://about.jstor.org/terms"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 90.8690890927869,
+            "t": 142.707,
+            "r": 516.4809999999999,
+            "b": 125.72093852459011,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            131
+          ]
+        }
+      ],
+      "orig": "American Association for the Advancement of Science  is collaborating with JSTOR to digitize, preserve and extend access to Science",
+      "text": "American Association for the Advancement of Science  is collaborating with JSTOR to digitize, preserve and extend access to Science"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 189.09,
+            "t": 55.05600000000004,
+            "r": 457.978,
+            "b": 32.07737628111272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "This content downloaded from 193.50.135.4 on Thu, 31 Oct 2024 13:58:15 UTC All use subject to https://about.jstor.org/terms",
+      "text": "This content downloaded from 193.50.135.4 on Thu, 31 Oct 2024 13:58:15 UTC All use subject to https://about.jstor.org/terms"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.8,
+            "t": 772.27351,
+            "r": 399.27042,
+            "b": 711.046777909836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "Selective Gas Transport Through Few-Layered Graphene and Graphene Oxide Membranes",
+      "text": "Selective Gas Transport Through Few-Layered Graphene and Graphene Oxide Membranes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 64.68,
+            "t": 696.89809,
+            "r": 428.8209537330003,
+            "b": 669.5433619672132,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "Hyo Won Kim/* Hee Wook Yoon,1* Seon-Mi Yoon,2'3* Byung Min Yoo,1 Byung Kook Ahn,1 Young Hoon Cho,1 Hye Jin Shin,1 Hoichang Yang,4 Ungyu Paik,1 Soongeun Kwon,5 ]ae-Young Choi,2,3f Ho Bum Park1!",
+      "text": "Hyo Won Kim/* Hee Wook Yoon,1* Seon-Mi Yoon,2'3* Byung Min Yoo,1 Byung Kook Ahn,1 Young Hoon Cho,1 Hye Jin Shin,1 Hoichang Yang,4 Ungyu Paik,1 Soongeun Kwon,5 ]ae-Young Choi,2,3f Ho Bum Park1!"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 65.16,
+            "t": 653.44832,
+            "r": 447.9652557500002,
+            "b": 563.3623132786885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            867
+          ]
+        }
+      ],
+      "orig": "Graphene is a distinct two-dimensional material that offers a wide range of opportunities for membrane applications because of ultimate thinness, flexibility, chemical stability, and mechanical strength. We demonstrate that few- and several-layered graphene and graphene oxide (GO) sheets can be engineered to exhibit the desired gas separation characteristics. Selective gas diffusion can be achieved by controlling gas flow channels and pores via different stacking methods. For layered (3- to 10-nanometer) GO membranes, tunable gas transport behavior was strongly dependent on the degree of interlocking within the GO stacking structure. High carbon dioxide/nitrogen selectivity was achieved by well-interlocked GO membranes in high relative humidity, which is most suitable for postcombustion carbon dioxide capture processes, including a humidified feed stream.",
+      "text": "Graphene is a distinct two-dimensional material that offers a wide range of opportunities for membrane applications because of ultimate thinness, flexibility, chemical stability, and mechanical strength. We demonstrate that few- and several-layered graphene and graphene oxide (GO) sheets can be engineered to exhibit the desired gas separation characteristics. Selective gas diffusion can be achieved by controlling gas flow channels and pores via different stacking methods. For layered (3- to 10-nanometer) GO membranes, tunable gas transport behavior was strongly dependent on the degree of interlocking within the GO stacking structure. High carbon dioxide/nitrogen selectivity was achieved by well-interlocked GO membranes in high relative humidity, which is most suitable for postcombustion carbon dioxide capture processes, including a humidified feed stream."
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 420.36,
+            "t": 800.45809,
+            "r": 611.3021598400001,
+            "b": 563.4823132786885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1083
+          ]
+        }
+      ],
+      "orig": "graphene synthesized via CVD has a polycrystalline structure with grain boundaries linked to pentagon-heptagon pairs (72). Mechanical cleavage or oxidation at these sites can lead to sheet defects, such as tears or holes (72, 73), which allow ingress of gas molecules. Furthermore, because of the irregular stacking caused by corrugations, wrinkles, and ripples, randomly stacked graphene sheets had an interplanar spacing larger than that of closely packed graphitic layers (0.335 nm). The average interlayer spacing of randomly stacked graphene layers on a silicon wafer was 0.355 nm, albeit with a broad spacing distribution, as measured by two-dimensional (2D) grazing-incidence x-ray diffraction (fig. SI). The interlayer spacing of the graphene layers on PTMSP would be larger because the surface of this polymer film is not as flat as that of mica or silicon wafers (14). The increase in selectivity of the G#/PTMSP films, with the number of graphene layers deposited, indicates the formation of slit-like interlayer spacings of similar size to those present in CMS membranes.",
+      "text": "graphene synthesized via CVD has a polycrystalline structure with grain boundaries linked to pentagon-heptagon pairs (72). Mechanical cleavage or oxidation at these sites can lead to sheet defects, such as tears or holes (72, 73), which allow ingress of gas molecules. Furthermore, because of the irregular stacking caused by corrugations, wrinkles, and ripples, randomly stacked graphene sheets had an interplanar spacing larger than that of closely packed graphitic layers (0.335 nm). The average interlayer spacing of randomly stacked graphene layers on a silicon wafer was 0.355 nm, albeit with a broad spacing distribution, as measured by two-dimensional (2D) grazing-incidence x-ray diffraction (fig. SI). The interlayer spacing of the graphene layers on PTMSP would be larger because the surface of this polymer film is not as flat as that of mica or silicon wafers (14). The increase in selectivity of the G#/PTMSP films, with the number of graphene layers deposited, indicates the formation of slit-like interlayer spacings of similar size to those present in CMS membranes."
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 421.32,
+            "t": 559.1117200000001,
+            "r": 610.866141312,
+            "b": 458.60231327868854,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            459
+          ]
+        }
+      ],
+      "orig": "We investigated the gas permeation behavior of thin graphene oxide (GO) membranes. GO 's interlayer spacing is larger than that for graphene namely, 0.6 to 1 .0 nm - depending on the preparation method and the presence of water intercalated in the GO layers (75, 16). Thick (>10-nm) GO paper and thin (3- to 7-nm) GO membranes can be easily prepared by various solution methods, such as vacuum filtration, direct evaporation, and spray and spin coatings (16).",
+      "text": "We investigated the gas permeation behavior of thin graphene oxide (GO) membranes. GO 's interlayer spacing is larger than that for graphene namely, 0.6 to 1 .0 nm - depending on the preparation method and the presence of water intercalated in the GO layers (75, 16). Thick (>10-nm) GO paper and thin (3- to 7-nm) GO membranes can be easily prepared by various solution methods, such as vacuum filtration, direct evaporation, and spray and spin coatings (16)."
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 421.68,
+            "t": 453.96535,
+            "r": 611.9916584959996,
+            "b": 206.88262061475416,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1102
+          ]
+        }
+      ],
+      "orig": "GO films in the dry state are not permeable to small gases (e.g., He), but water molecules permeate through hydrated GO films faster than expected (7 7). The potential energy barrier for gas entrance, tortuosity determined by the GO sheet size and thickness, layer structure, residual water content, and deformation of thin-layered structures during dewetting can all affect molecular transport in GO films. In contrast to graphene sheets, GO is not completely 2D (18' which suggests that GO should stack nonuniformly. For the above reasons, thin GO membranes should be permeable to small gases if sufficient transmembrane pressure is applied to overcome the energy barriers to pore entry and diffusion within pores or channels. In fact, we found that gas can permeate through even thick GO membranes at elevated transmembrane pressures and that the gas permeability can be tuned by changing the average GO sheet size (fig. S2). Furthermore, detectable gas permeance through the ultrathin GO membranes is strongly dependent on applied transmembrane pressure for a given average GO sheet size (fig. S3).",
+      "text": "GO films in the dry state are not permeable to small gases (e.g., He), but water molecules permeate through hydrated GO films faster than expected (7 7). The potential energy barrier for gas entrance, tortuosity determined by the GO sheet size and thickness, layer structure, residual water content, and deformation of thin-layered structures during dewetting can all affect molecular transport in GO films. In contrast to graphene sheets, GO is not completely 2D (18' which suggests that GO should stack nonuniformly. For the above reasons, thin GO membranes should be permeable to small gases if sufficient transmembrane pressure is applied to overcome the energy barriers to pore entry and diffusion within pores or channels. In fact, we found that gas can permeate through even thick GO membranes at elevated transmembrane pressures and that the gas permeability can be tuned by changing the average GO sheet size (fig. S2). Furthermore, detectable gas permeance through the ultrathin GO membranes is strongly dependent on applied transmembrane pressure for a given average GO sheet size (fig. S3)."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 243.12,
+            "t": 538.67083,
+            "r": 434.4078047040001,
+            "b": 395.48231327868854,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            653
+          ]
+        }
+      ],
+      "orig": "graphene layers deposited increased. However, a single graphene-layered PTMSP film (Gl /PTMSP) showed a relatively small reduction in gas permeability compared with the original PTMSP (Fig. IB), implying the presence of defects generated during the CVD growth and transfer process (Fig. 1C). These defects also resulted in a large electrical sheet resistance (>2500 ohms per square) (Fig. IB), similar to values reported in the literature ( 6 ). This sheet resistance was considerably reduced (<1000 ohms per square) as more graphene layers were stacked. The reduction in sheet resistance correlated well with the gas permeability of the film (Fig. IB).",
+      "text": "graphene layers deposited increased. However, a single graphene-layered PTMSP film (Gl /PTMSP) showed a relatively small reduction in gas permeability compared with the original PTMSP (Fig. IB), implying the presence of defects generated during the CVD growth and transfer process (Fig. 1C). These defects also resulted in a large electrical sheet resistance (>2500 ohms per square) (Fig. IB), similar to values reported in the literature ( 6 ). This sheet resistance was considerably reduced (<1000 ohms per square) as more graphene layers were stacked. The reduction in sheet resistance correlated well with the gas permeability of the film (Fig. IB)."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 243.48,
+            "t": 391.25809000000004,
+            "r": 435.24885672,
+            "b": 175.48144524590157,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1015
+          ]
+        }
+      ],
+      "orig": "We anticipated that the porosity caused by the graphene sheet defects could be mitigated by depositing more graphene layers. Although the gas permeability of the films decreased gradually with increasing number of graphene layers, we were not able to obtain excellent barrier films. Surprisingly, the 02/N2 selectivity of G#/PTMSP films (where # represents the number of graphene layers) improved (Fig. ID) with increasing graphene stacking, which suggests that gases diffused not only through defective pores on the graphene sheet but also between the graphene interlayers (7-9), leading to higher selectivity than the original PTMSP film. The 02/N2 selectivity increased from 1.5 (for PTMSP) to 6 (for G5/PTMSP), whereas the 02 permeability decreased from 730 to 29 barrer [1 barrer = 1 x IO-10 cm3 cm/cm2-sec-cmHg at standard temperature and pressure (STP)], surpassing the 02/N2 separation limitation of polymeric membranes (10) with a selectivity similar to that of carbon molecular sieve (CMS) membranes (77).",
+      "text": "We anticipated that the porosity caused by the graphene sheet defects could be mitigated by depositing more graphene layers. Although the gas permeability of the films decreased gradually with increasing number of graphene layers, we were not able to obtain excellent barrier films. Surprisingly, the 02/N2 selectivity of G#/PTMSP films (where # represents the number of graphene layers) improved (Fig. ID) with increasing graphene stacking, which suggests that gases diffused not only through defective pores on the graphene sheet but also between the graphene interlayers (7-9), leading to higher selectivity than the original PTMSP film. The 02/N2 selectivity increased from 1.5 (for PTMSP) to 6 (for G5/PTMSP), whereas the 02 permeability decreased from 730 to 29 barrer [1 barrer = 1 x IO-10 cm3 cm/cm2-sec-cmHg at standard temperature and pressure (STP)], surpassing the 02/N2 separation limitation of polymeric membranes (10) with a selectivity similar to that of carbon molecular sieve (CMS) membranes (77)."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 65.52,
+            "t": 519.65334,
+            "r": 256.103105856,
+            "b": 250.482005942623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1436
+          ]
+        }
+      ],
+      "orig": "Compared based simpler, gas more with separations traditional efficient have separations systems, allowed membrane- (7). much One Compared based gas separations have allowed much simpler, more efficient separations (7). One of the challenges of developing membrane materials is to achieve high flux as well as high selectivity. Because a membrane flux is inversely proportional to the thickness of selective layer (from tens of nanometers to several micrometers), a graphene sheet with one-atom thickness has been considered as the ultimate membrane platform. In its defectfree form, however, graphene exhibits perfect barrier properties to all molecules and ions (2, 3). Synthesis of large-area monolayer graphene by chemical vapor deposition (CVD) has recently been reported (4), and the resultant high-quality and uniform graphene sheet can be transferred to various substrates. We hypothesized that deposition of defect-free graphene sheets on gas-permeable polymer films would allow for preparation of flexible plastic barrier films to prevent gas and water vapor penetration. Therefore, we prepared polymer-supported thin films of graphene with varying numbers of deposited graphene sheets (Fig. 1A). Poly(l-methylsilyl-l-propyne) (PTMSP) was selected as the substrate because it is one of the most permeable, rigid, and glassy polymers available (5). The gas permeability of the resultant barrier films decreased as the number of",
+      "text": "Compared based simpler, gas more with separations traditional efficient have separations systems, allowed membrane- (7). much One Compared based gas separations have allowed much simpler, more efficient separations (7). One of the challenges of developing membrane materials is to achieve high flux as well as high selectivity. Because a membrane flux is inversely proportional to the thickness of selective layer (from tens of nanometers to several micrometers), a graphene sheet with one-atom thickness has been considered as the ultimate membrane platform. In its defectfree form, however, graphene exhibits perfect barrier properties to all molecules and ions (2, 3). Synthesis of large-area monolayer graphene by chemical vapor deposition (CVD) has recently been reported (4), and the resultant high-quality and uniform graphene sheet can be transferred to various substrates. We hypothesized that deposition of defect-free graphene sheets on gas-permeable polymer films would allow for preparation of flexible plastic barrier films to prevent gas and water vapor penetration. Therefore, we prepared polymer-supported thin films of graphene with varying numbers of deposited graphene sheets (Fig. 1A). Poly(l-methylsilyl-l-propyne) (PTMSP) was selected as the substrate because it is one of the most permeable, rigid, and glassy polymers available (5). The gas permeability of the resultant barrier films decreased as the number of"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 66.72,
+            "t": 226.65794000000005,
+            "r": 254.7864389120002,
+            "b": 162.66151795081964,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            428
+          ]
+        }
+      ],
+      "orig": "1Departmentof Energy Engineering, Hanyang University, Seoul 133-791, Republic of Korea. 2Samsung Advanced Institute of Technology (SAIT), Samsung Electronics, Suwon 446-712, Republic of Korea. 3Graphene Research Center at SAIT, Suwon 446-712, Republic of Korea, department of Advanced Fiber Engineering, Inha University, Incheon 402-751, Republic of Korea. 5Samsung Corning Precision Materials, Ansan 336-725, Republic of Korea.",
+      "text": "1Departmentof Energy Engineering, Hanyang University, Seoul 133-791, Republic of Korea. 2Samsung Advanced Institute of Technology (SAIT), Samsung Electronics, Suwon 446-712, Republic of Korea. 3Graphene Research Center at SAIT, Suwon 446-712, Republic of Korea, department of Advanced Fiber Engineering, Inha University, Incheon 402-751, Republic of Korea. 5Samsung Corning Precision Materials, Ansan 336-725, Republic of Korea."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 67.2,
+            "t": 156.06578000000002,
+            "r": 250.23400160000008,
+            "b": 134.12343467213122,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "*These authors contributed equally to this work. jCorresponding author. E-mail: jaeyoung88.choi@samsung. com (J.-Y.C); badtzhb@hanyang.ac.kr (H.B.P.)",
+      "text": "*These authors contributed equally to this work. jCorresponding author. E-mail: jaeyoung88.choi@samsung. com (J.-Y.C); badtzhb@hanyang.ac.kr (H.B.P.)"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 244.32,
+            "t": 171.19564000000003,
+            "r": 435.0153567200002,
+            "b": 133.40231327868855,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            190
+          ]
+        }
+      ],
+      "orig": "A possible explanation for this phenomenon is that the defective graphene sheets were irregularly aligned, resulting in the formation of gaspermeable, slit-like interlayer spacings. Pristine",
+      "text": "A possible explanation for this phenomenon is that the defective graphene sheets were irregularly aligned, resulting in the formation of gaspermeable, slit-like interlayer spacings. Pristine"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 422.52,
+            "t": 202.97808999999995,
+            "r": 576.7670630909998,
+            "b": 133.662747295082,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            305
+          ]
+        },
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 197.64,
+            "t": 113.03291000000002,
+            "r": 600.1748994119997,
+            "b": 104.36359659836069,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            306,
+            358
+          ]
+        }
+      ],
+      "orig": "We used two different coating methods to prepare GO membranes on microporous polymeric membranes. The microporous polymeric support was selected to optimize both surface roughness and wettability to achieve a homogeneous coating. Among the commercially available supports, polyethersulfone (PES) membranes www.sciencemag.org SCIENCE VOL 342 4 OCTOBER 2013 91",
+      "text": "We used two different coating methods to prepare GO membranes on microporous polymeric membranes. The microporous polymeric support was selected to optimize both surface roughness and wettability to achieve a homogeneous coating. Among the commercially available supports, polyethersulfone (PES) membranes www.sciencemag.org SCIENCE VOL 342 4 OCTOBER 2013 91"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 215.59,
+            "t": 55.05600000000004,
+            "r": 484.478,
+            "b": 32.07737628111272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "This content downloaded from 193.50.135.4 on Thu, 31 Oct 2024 13:58:15 UTC All use subject to https://about.jstor.org/terms",
+      "text": "This content downloaded from 193.50.135.4 on Thu, 31 Oct 2024 13:58:15 UTC All use subject to https://about.jstor.org/terms"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 46.44,
+            "t": 831.7206,
+            "r": 91.7824248,
+            "b": 824.4444106557377,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "REPORTS",
+      "text": "REPORTS"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 242.16,
+            "t": 809.72342,
+            "r": 435.07289408,
+            "b": 594.0823132786885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1004
+          ]
+        }
+      ],
+      "orig": "behavior explained by Knudsen transport of gases in nanoporous membranes (Fig. 3A). Here, gas transport is determined by the ppre size of the membrane and the free path length of the molecules in a gas mixture, and Knudsen diffusion leads to separation of gases with large differences in their molecular weights (20). As expected, gas permeance decreased according to the molecular weight of the gases. The selectivity of membranes prepared by method one to He was in good agreement with theoretical Knudsen selectivity, but this did not hold true for their selectivity to C02 (Fig. 3A). During the permeation test at a feed pressure of 1 bar, C02 permeance decreased sharply with time and stabilized after 1 hour, whereas other gases did not show this reduction (Fig. 3B). Consequently, the small gas/C02 selectivity of the membranes exceeded the Knudsen selectivity to a large extent; for example, the H2/C02 selectivity was as high as 30, whereas the theoretical Knudsen selectivity of H2/C02 is 4.67.",
+      "text": "behavior explained by Knudsen transport of gases in nanoporous membranes (Fig. 3A). Here, gas transport is determined by the ppre size of the membrane and the free path length of the molecules in a gas mixture, and Knudsen diffusion leads to separation of gases with large differences in their molecular weights (20). As expected, gas permeance decreased according to the molecular weight of the gases. The selectivity of membranes prepared by method one to He was in good agreement with theoretical Knudsen selectivity, but this did not hold true for their selectivity to C02 (Fig. 3A). During the permeation test at a feed pressure of 1 bar, C02 permeance decreased sharply with time and stabilized after 1 hour, whereas other gases did not show this reduction (Fig. 3B). Consequently, the small gas/C02 selectivity of the membranes exceeded the Knudsen selectivity to a large extent; for example, the H2/C02 selectivity was as high as 30, whereas the theoretical Knudsen selectivity of H2/C02 is 4.67."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 420.12,
+            "t": 811.4892699999999,
+            "r": 613.0933730399996,
+            "b": 552.1226206147542,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1186
+          ]
+        }
+      ],
+      "orig": "noninterlocked GO sheets formed within the GO structure. Gas permeation occurred through these nanopores, as confirmed by the Knudsen transport behavior of the GO membranes. Furthermore, a number of carboxylic acid groups line the pore outer walls, because free carboxylic acid groups are distributed at GO edges. Tonisi et al. calculated the isoteric heats of sorption for C02 in functionalized metal-organic frameworks and predicted that the incorporation of a carboxylic acid group would lead to the highest isoteric heat (21). Although C02 is a nonpolar gas, the polarity of the individual C-0 bonds in the molecule allows for interaction with polar groups in GO. Thus, C02 can act as a Lewis acid or a Lewis base and can participate in hydrogen bonding. Carboxylic acid groups provide a preferential site for C02 adsorption, consequently retarding C02 transport in the nanopores by strongly trapping C02 molecules. This phenomenon is counterintuitive, because strong affinity between penetrant and nanopore walls often leads to surface diffusion of the penetrant preferentially sorbed on the pore wall, resulting in flux enhancement of highly sorbed or condensable penetrants (22).",
+      "text": "noninterlocked GO sheets formed within the GO structure. Gas permeation occurred through these nanopores, as confirmed by the Knudsen transport behavior of the GO membranes. Furthermore, a number of carboxylic acid groups line the pore outer walls, because free carboxylic acid groups are distributed at GO edges. Tonisi et al. calculated the isoteric heats of sorption for C02 in functionalized metal-organic frameworks and predicted that the incorporation of a carboxylic acid group would lead to the highest isoteric heat (21). Although C02 is a nonpolar gas, the polarity of the individual C-0 bonds in the molecule allows for interaction with polar groups in GO. Thus, C02 can act as a Lewis acid or a Lewis base and can participate in hydrogen bonding. Carboxylic acid groups provide a preferential site for C02 adsorption, consequently retarding C02 transport in the nanopores by strongly trapping C02 molecules. This phenomenon is counterintuitive, because strong affinity between penetrant and nanopore walls often leads to surface diffusion of the penetrant preferentially sorbed on the pore wall, resulting in flux enhancement of highly sorbed or condensable penetrants (22)."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 420.12,
+            "t": 547.9956400000001,
+            "r": 610.5881512800001,
+            "b": 531.2426206147541,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Because GO is hydrophilic, we also evaluated the gas transport behavior of GO membranes",
+      "text": "Because GO is hydrophilic, we also evaluated the gas transport behavior of GO membranes"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 242.16,
+            "t": 589.32535,
+            "r": 434.2251660000004,
+            "b": 531.1226206147542,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            282
+          ]
+        }
+      ],
+      "orig": "We now consider the role of both the porosity and chemical nature of the gas transport channels within the stacked GO structure. Highly interlocked, close-packed layering structures were not obtained, even after repeated coatings (fig. S7); rather, nanopores created by the edges of",
+      "text": "We now consider the role of both the porosity and chemical nature of the gas transport channels within the stacked GO structure. Highly interlocked, close-packed layering structures were not obtained, even after repeated coatings (fig. S7); rather, nanopores created by the edges of"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 63.48,
+            "t": 809.86979,
+            "r": 257.11146657999996,
+            "b": 217.10305463114753,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            2709
+          ]
+        }
+      ],
+      "orig": "yielded the most uniform coating (f\u00ecg. S4). We prepared several-layer GO membranes by contacting the support membrane surface to the airliquid interface of a GO solution, followed by spin-coating (method one). We also prepared thin GO membranes by spin-casting of a GO solution on the membrane surface (method two) (fig. S5). Macroscopically, after several coatings, both membrane surfaces appeared to be homogeneously coated by a GO thin film without detectable pinholes or cracks under an optical microscope. The color of the GO-coated membranes (light yellow) differed from that of the pristine PES membrane surface (white) (fig. S6). Transmission electron microscopy (TEM) revealed that the coated GO thicknesses were ~3 to 7 nm (Fig. 2, A and B), depending on the number of coating iterations. We selected these GO coating methods to test the relative importance of electrostatic repulsion and immersion capillary force on the GO stacking structure. When considering GO deposition by method one, initial GO solution-membrane contact is performed without spin casting so that GO deposition is governed by electrostatic and hydrophilic interactions between the GO sheets and the polymer membrane. Generally, in an alkaline aqueous solution, GO sheet edges are negatively charged due to pendant ionized carboxylic acid groups. Therefore, GO sheet edge-to-edge interactions are repulsive, leading to an island-like assembly of GO sheets on the membrane surface. After this initial GO deposition on the membrane surface, water between deposited GO sheets and GO sheets in solution is removed through spin casting, allowing strong attractive capillary forces to further deposit GO sheets from solution. A second iteration of the dipping procedure in method one leads to further GO deposition through face-to-face attractive interactions (for instance, van der Waals interactions and hydrogen bonding) between the size-mismatched GO sheets (19). We found that this method leads to a relatively heterogeneous GO deposition (Fig. 2, C and E), in which the GO stacking structure resembles islands. In contrast, method two, in which the GO solution-membrane contact occurs only during spin casting, leads to a considerably more dense GO deposition. Presumably, this dense stacking occurs because the face-to-face attractive capillary forces created by the spin coating overcome the repulsive edge-to-edge GO sheet interaction. Therefore, the initial deposition is governed more by capillary interactions between the GO sheet faces and not the electrostatic interaction between the GO edges (Fig. 2, D and F). Cross-sectional TEM images show different stacking structures using each coating method (Fig. 2, A and B).",
+      "text": "yielded the most uniform coating (f\u00ecg. S4). We prepared several-layer GO membranes by contacting the support membrane surface to the airliquid interface of a GO solution, followed by spin-coating (method one). We also prepared thin GO membranes by spin-casting of a GO solution on the membrane surface (method two) (fig. S5). Macroscopically, after several coatings, both membrane surfaces appeared to be homogeneously coated by a GO thin film without detectable pinholes or cracks under an optical microscope. The color of the GO-coated membranes (light yellow) differed from that of the pristine PES membrane surface (white) (fig. S6). Transmission electron microscopy (TEM) revealed that the coated GO thicknesses were ~3 to 7 nm (Fig. 2, A and B), depending on the number of coating iterations. We selected these GO coating methods to test the relative importance of electrostatic repulsion and immersion capillary force on the GO stacking structure. When considering GO deposition by method one, initial GO solution-membrane contact is performed without spin casting so that GO deposition is governed by electrostatic and hydrophilic interactions between the GO sheets and the polymer membrane. Generally, in an alkaline aqueous solution, GO sheet edges are negatively charged due to pendant ionized carboxylic acid groups. Therefore, GO sheet edge-to-edge interactions are repulsive, leading to an island-like assembly of GO sheets on the membrane surface. After this initial GO deposition on the membrane surface, water between deposited GO sheets and GO sheets in solution is removed through spin casting, allowing strong attractive capillary forces to further deposit GO sheets from solution. A second iteration of the dipping procedure in method one leads to further GO deposition through face-to-face attractive interactions (for instance, van der Waals interactions and hydrogen bonding) between the size-mismatched GO sheets (19). We found that this method leads to a relatively heterogeneous GO deposition (Fig. 2, C and E), in which the GO stacking structure resembles islands. In contrast, method two, in which the GO solution-membrane contact occurs only during spin casting, leads to a considerably more dense GO deposition. Presumably, this dense stacking occurs because the face-to-face attractive capillary forces created by the spin coating overcome the repulsive edge-to-edge GO sheet interaction. Therefore, the initial deposition is governed more by capillary interactions between the GO sheet faces and not the electrostatic interaction between the GO edges (Fig. 2, D and F). Cross-sectional TEM images show different stacking structures using each coating method (Fig. 2, A and B)."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 241.92,
+            "t": 209.96446000000003,
+            "r": 415.3600099999997,
+            "b": 193.43705110655742,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            93
+          ]
+        }
+      ],
+      "orig": "Fig. 1. Few-layered graphene-coated polymer membranes. (A) Scanning electron microscopy (SEM)",
+      "text": "Fig. 1. Few-layered graphene-coated polymer membranes. (A) Scanning electron microscopy (SEM)"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 241.44,
+            "t": 189.44342000000006,
+            "r": 588.00274,
+            "b": 133.86243995901646,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            589
+          ]
+        }
+      ],
+      "orig": "images of graphene/PTMSP membrane surfaces. (B) Changes in gas permeability and sheet resistance of graphene/PTMSP membranes as a function of the number of graphene layers. Error bars indicate the SD of all raw data. (C) Atomic force microscopy (AFM) images of a graphene/PTMSP membrane surface. (D) Relation between 02 permeability and 02/N2 selectivity of graphene/PTMSP membranes. The upper bound is from (10), as well as gas separation performance data of CMS membranes reported in the literature (11). Error bars indicate the SD in the current measured from five parallel experiments.",
+      "text": "images of graphene/PTMSP membrane surfaces. (B) Changes in gas permeability and sheet resistance of graphene/PTMSP membranes as a function of the number of graphene layers. Error bars indicate the SD of all raw data. (C) Atomic force microscopy (AFM) images of a graphene/PTMSP membrane surface. (D) Relation between 02 permeability and 02/N2 selectivity of graphene/PTMSP membranes. The upper bound is from (10), as well as gas separation performance data of CMS membranes reported in the literature (11). Error bars indicate the SD in the current measured from five parallel experiments."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 63.24,
+            "t": 212.52535,
+            "r": 255.79837296000008,
+            "b": 133.3226206147541,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            366
+          ]
+        }
+      ],
+      "orig": "Gas permeance [in gas permeation units (GPUs), 1 GPU = 1 X io-6 cm3/cm2 sec cmHg at STP] was measured at a feed pressure of 1 bar, using the common constant-pressure, variable-volume method. We found that the gas transport behavior of membranes prepared by methods one and two was very different. The GO membranes prepared by method one showed typical gas permeation",
+      "text": "Gas permeance [in gas permeation units (GPUs), 1 GPU = 1 X io-6 cm3/cm2 sec cmHg at STP] was measured at a feed pressure of 1 bar, using the common constant-pressure, variable-volume method. We found that the gas transport behavior of membranes prepared by methods one and two was very different. The GO membranes prepared by method one showed typical gas permeation"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 49.8,
+            "t": 112.61334,
+            "r": 453.65279676400013,
+            "b": 104.6450253278689,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "92 4 OCTOBER 2013 VOL 342 SCIENCE www.sciencemag.org",
+      "text": "92 4 OCTOBER 2013 VOL 342 SCIENCE www.sciencemag.org"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 215.59,
+            "t": 55.05600000000004,
+            "r": 484.478,
+            "b": 32.07737628111272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "This content downloaded from 193.50.135.4 on Thu, 31 Oct 2024 13:58:15 UTC All use subject to https://about.jstor.org/terms",
+      "text": "This content downloaded from 193.50.135.4 on Thu, 31 Oct 2024 13:58:15 UTC All use subject to https://about.jstor.org/terms"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 559.2,
+            "t": 830.87083,
+            "r": 603.49180764,
+            "b": 823.7632352868852,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "REPORTS",
+      "text": "REPORTS"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 64.2,
+            "t": 808.99564,
+            "r": 182.09292000000008,
+            "b": 672.1523496311476,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            479
+          ]
+        }
+      ],
+      "orig": "Fig. 2. Ultrathin GO membranes. Cross-sectional TEM images of ultrathin GO membranes. (A) Method one; (B) method two. SEM images of GO films coated on an SiOx wafer (here, X indicates the number of O atoms). (C) Method one; (D) method two. AFM images of GO membrane surfaces and inert figures showing depth profiles of GO membrane surfaces. (E) Method one [root mean square roughness (/?q) = 0.8 nm, average roughness WJ = 0.614 nm]; (F) method two Wq = 0.608 nm, Ra = 0.467 nm).",
+      "text": "Fig. 2. Ultrathin GO membranes. Cross-sectional TEM images of ultrathin GO membranes. (A) Method one; (B) method two. SEM images of GO films coated on an SiOx wafer (here, X indicates the number of O atoms). (C) Method one; (D) method two. AFM images of GO membrane surfaces and inert figures showing depth profiles of GO membrane surfaces. (E) Method one [root mean square roughness (/?q) = 0.8 nm, average roughness WJ = 0.614 nm]; (F) method two Wq = 0.608 nm, Ra = 0.467 nm)."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 419.52,
+            "t": 526.11172,
+            "r": 612.071568,
+            "b": 415.2429279508197,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            489
+          ]
+        }
+      ],
+      "orig": "(method one) by changing the relative humidity of the feed streams (Fig. 3A). In general, all gas permeances decreased as the humidity in the feed increased, implying that condensed water molecules in the pores or between layers hindered the transport of noncondensable small gas molecules. In contrast, C02 permeance was 50 times higher in the presence of water, leading to an enhancement in the selectivities of gas pairs of interest (for example, C02/CH4, C02/H2, and C02/N2) (fig. S8).",
+      "text": "(method one) by changing the relative humidity of the feed streams (Fig. 3A). In general, all gas permeances decreased as the humidity in the feed increased, implying that condensed water molecules in the pores or between layers hindered the transport of noncondensable small gas molecules. In contrast, C02 permeance was 50 times higher in the presence of water, leading to an enhancement in the selectivities of gas pairs of interest (for example, C02/CH4, C02/H2, and C02/N2) (fig. S8)."
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 62.64,
+            "t": 199.15563999999995,
+            "r": 457.4174707200005,
+            "b": 133.902747295082,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            710
+          ]
+        }
+      ],
+      "orig": "Fig. 3. Gas transport behavior through ultrathin GO membranes. (A) Gas permeances of GO membranes as a function of molecular weight (method one; dashed line represents the ideal Knudsen selectivity) under dry and humidified conditions, amu, atomic mass unit (B) H2 and C02 permeances and H2/C02 selectivity of method one GO membranes as a function of permeation time. (0 Gas permeances of GO membranes as a function of kinetic diameter (method two) under dry and humidified conditions. (D) Relation between C02 permeability and C02/N2 selectivity of method two GO membranes under dry and humidified conditions [TR (23); tetrazole PIM (TZPIM) and PIM (25); CMS (26)]. Error bars indicate the SD of all raw data.",
+      "text": "Fig. 3. Gas transport behavior through ultrathin GO membranes. (A) Gas permeances of GO membranes as a function of molecular weight (method one; dashed line represents the ideal Knudsen selectivity) under dry and humidified conditions, amu, atomic mass unit (B) H2 and C02 permeances and H2/C02 selectivity of method one GO membranes as a function of permeation time. (0 Gas permeances of GO membranes as a function of kinetic diameter (method two) under dry and humidified conditions. (D) Relation between C02 permeability and C02/N2 selectivity of method two GO membranes under dry and humidified conditions [TR (23); tetrazole PIM (TZPIM) and PIM (25); CMS (26)]. Error bars indicate the SD of all raw data."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 418.68,
+            "t": 411.56446,
+            "r": 611.5234120799996,
+            "b": 133.122005942623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1248
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 193.56,
+            "t": 112.29630999999995,
+            "r": 597.710643204,
+            "b": 103.80446463114754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1249,
+            1301
+          ]
+        }
+      ],
+      "orig": "GO membranes prepared by method two formed highly interlocked layer structures and also exhibited extraordinary gas permeation behavior, albeit different than the behavior exhibited by membranes prepared via method one. For these GO membranes, the gas permeance order at 298 K was C02 > H2 > He > CH4 > 02 > N2 (Fig. 3C). This order has been observed for a few high free-volume microporous glassy polymers, such as PTMSP, that consist of a loosely packed network of polymer chains with continuous channels or pores for dif\u00ediision (5, 23). The gas transport behavior of these GO membranes means that they comprised closed-packed, interlocked GO layered structures. These GO membranes were less gas permeable than those prepared by method one but were also more selective, indicating that gases diffused selectively between the GO interlayers and, thus, had a different effective diffusion pathway. Based on the resistance model (24), we calculated the intrinsic gas permeability of the thin GO membranes. The C02 permeability is -8500 barrer, and C02/N2 selectivity is -20. The separation performance is higher than that reported for C02 for polymeric membranes, including thermally rearranged (TR) polymers (23), polymers of intrinsic microporosity www.sciencemag.org SCIENCE VOL 342 4 OCTOBER 2013 93",
+      "text": "GO membranes prepared by method two formed highly interlocked layer structures and also exhibited extraordinary gas permeation behavior, albeit different than the behavior exhibited by membranes prepared via method one. For these GO membranes, the gas permeance order at 298 K was C02 > H2 > He > CH4 > 02 > N2 (Fig. 3C). This order has been observed for a few high free-volume microporous glassy polymers, such as PTMSP, that consist of a loosely packed network of polymer chains with continuous channels or pores for dif\u00ediision (5, 23). The gas transport behavior of these GO membranes means that they comprised closed-packed, interlocked GO layered structures. These GO membranes were less gas permeable than those prepared by method one but were also more selective, indicating that gases diffused selectively between the GO interlayers and, thus, had a different effective diffusion pathway. Based on the resistance model (24), we calculated the intrinsic gas permeability of the thin GO membranes. The C02 permeability is -8500 barrer, and C02/N2 selectivity is -20. The separation performance is higher than that reported for C02 for polymeric membranes, including thermally rearranged (TR) polymers (23), polymers of intrinsic microporosity www.sciencemag.org SCIENCE VOL 342 4 OCTOBER 2013 93"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 215.59,
+            "t": 55.05600000000004,
+            "r": 484.478,
+            "b": 32.07737628111272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "This content downloaded from 193.50.135.4 on Thu, 31 Oct 2024 13:58:15 UTC All use subject to https://about.jstor.org/terms",
+      "text": "This content downloaded from 193.50.135.4 on Thu, 31 Oct 2024 13:58:15 UTC All use subject to https://about.jstor.org/terms"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 47.52,
+            "t": 831.23083,
+            "r": 92.89389295799998,
+            "b": 824.1232352868852,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "REPORTS",
+      "text": "REPORTS"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.92,
+            "t": 523.21616,
+            "r": 321.44134999999994,
+            "b": 466.91296430327867,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            431
+          ]
+        }
+      ],
+      "orig": "Fig. 4. Gas transport behavior through thermally reduced GO membranes. (A) Schematic illustration of pore generation in GO membranes using a thermal treatment process. AFM images of method two GO membranes (B) before (/?q = 0.553 nm, Ra = 0.450 nm) and (C) after thermal treatment at 180\u00b0C for 3 hours (Rq = 1.75 nm, Ra = 1.09 nm). The insets to (B) and (0, respectively, show TEM images before and after thermal treatment at 180\u00b0C",
+      "text": "Fig. 4. Gas transport behavior through thermally reduced GO membranes. (A) Schematic illustration of pore generation in GO membranes using a thermal treatment process. AFM images of method two GO membranes (B) before (/?q = 0.553 nm, Ra = 0.450 nm) and (C) after thermal treatment at 180\u00b0C for 3 hours (Rq = 1.75 nm, Ra = 1.09 nm). The insets to (B) and (0, respectively, show TEM images before and after thermal treatment at 180\u00b0C"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 64.32,
+            "t": 453.46201,
+            "r": 261.77969803199994,
+            "b": 373.842005942623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            345
+          ]
+        }
+      ],
+      "orig": "(PIM) (25), and inorganic membranes, such as carbon, silica, and zeolite (26) (Fig. 3D). The gas permeances decreased gradually as the humidity increased (27), but the C02 permeance remained constant, irrespective of the relative humidity (fig. S9), resulting in highly C02-selective, ultrathin (<10-nm) carbon membranes (Fig. 3D and fig. S 10).",
+      "text": "(PIM) (25), and inorganic membranes, such as carbon, silica, and zeolite (26) (Fig. 3D). The gas permeances decreased gradually as the humidity increased (27), but the C02 permeance remained constant, irrespective of the relative humidity (fig. S9), resulting in highly C02-selective, ultrathin (<10-nm) carbon membranes (Fig. 3D and fig. S 10)."
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 63.6,
+            "t": 369.73616000000004,
+            "r": 224.66217305599994,
+            "b": 133.04231327868854,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1081
+          ]
+        }
+      ],
+      "orig": "More permeable, selective graphene-based membranes can be prepared by creating pores on the basal plane by simple heat treatment (Fig. 4, A to C). Thermal treatment of ultrathin GO membranes (prepared with method two) caused decomposition accompanied by the release of, primarily, water and C02 at a temperature of ~140\u00b0C, as confirmed by analysis with a thermogravimetric analyzer-mass spectrometer (Fig. 4D), consistent with the literature (28). At this temperature, CO and C02 are released from oxygen-containing functional groups on basal planes or at edges, resulting in irreversible defects. After the membrane was mounted in a cell surrounded by a heating chamber, the gas permeation rates of H2 and C02 at a feed pressure of 1 bar were recorded as a function of cell temperature. Below 130\u00b0C, H2 permeance increased gradually, whereas C02 permeance decreased steadily. At -130\u00b0 to 140\u00b0C, H2 permeance increased abruptly and C02 permeance increased slightly (Fig. 4E), implying that thermal annealing made the microstructures of the GO active layers more porous due to irre-",
+      "text": "More permeable, selective graphene-based membranes can be prepared by creating pores on the basal plane by simple heat treatment (Fig. 4, A to C). Thermal treatment of ultrathin GO membranes (prepared with method two) caused decomposition accompanied by the release of, primarily, water and C02 at a temperature of ~140\u00b0C, as confirmed by analysis with a thermogravimetric analyzer-mass spectrometer (Fig. 4D), consistent with the literature (28). At this temperature, CO and C02 are released from oxygen-containing functional groups on basal planes or at edges, resulting in irreversible defects. After the membrane was mounted in a cell surrounded by a heating chamber, the gas permeation rates of H2 and C02 at a feed pressure of 1 bar were recorded as a function of cell temperature. Below 130\u00b0C, H2 permeance increased gradually, whereas C02 permeance decreased steadily. At -130\u00b0 to 140\u00b0C, H2 permeance increased abruptly and C02 permeance increased slightly (Fig. 4E), implying that thermal annealing made the microstructures of the GO active layers more porous due to irre-"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 331.8,
+            "t": 522.76927,
+            "r": 587.1305400000006,
+            "b": 467.4026206147541,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            397
+          ]
+        }
+      ],
+      "orig": "for 3 hours. (D) He permeance trend and C02 trace of mass spectroscopy as a function of temperature. (E) H2 and C02 permeability of thermally treated GO membranes as a function of temperature. Error bars indicate the SD of all raw data. (F) Comparison of gas separation performance between GO membranes and other membranes in the literature [polymers (10); CMS (26, 29); zeolite (26); silica (30)1",
+      "text": "for 3 hours. (D) He permeance trend and C02 trace of mass spectroscopy as a function of temperature. (E) H2 and C02 permeability of thermally treated GO membranes as a function of temperature. Error bars indicate the SD of all raw data. (F) Comparison of gas separation performance between GO membranes and other membranes in the literature [polymers (10); CMS (26, 29); zeolite (26); silica (30)1"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 242.04,
+            "t": 452.84342000000004,
+            "r": 402.2003651840002,
+            "b": 310.902747295082,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            669
+          ]
+        }
+      ],
+      "orig": "versible pore formation. Without such structural deformation, the slope of gas permeance versus temperature should be linearly positive (for H2) or negative (for C02) under thermally activated dif\u00ediision conditions. However, two distinct slopes were observed, presenting evidence of a more open porous structure. The gradual reduction in C02 permeance below 130\u00b0C is due to the low enthalpy of sorption. The increase in C02 permeance above 140\u00b0C also indicates more porous microstructures in the GO thin layers. The H2/C02 permselectivity at 140\u00b0C was as high as 40 (Fig. 4F), which is one of the highest values reported for other comparable membranes (10, 26, 29, 30).",
+      "text": "versible pore formation. Without such structural deformation, the slope of gas permeance versus temperature should be linearly positive (for H2) or negative (for C02) under thermally activated dif\u00ediision conditions. However, two distinct slopes were observed, presenting evidence of a more open porous structure. The gradual reduction in C02 permeance below 130\u00b0C is due to the low enthalpy of sorption. The increase in C02 permeance above 140\u00b0C also indicates more porous microstructures in the GO thin layers. The H2/C02 permselectivity at 140\u00b0C was as high as 40 (Fig. 4F), which is one of the highest values reported for other comparable membranes (10, 26, 29, 30)."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 241.68,
+            "t": 306.70979,
+            "r": 421.52437362000006,
+            "b": 133.04231327868854,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            801
+          ]
+        },
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 420.24,
+            "t": 453.29809,
+            "r": 598.8851500799997,
+            "b": 436.64231327868856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            802,
+            895
+          ]
+        }
+      ],
+      "orig": "Overall, transport in graphene or GO nanosheets has been covered less than that in carbon nanotubes, but there is great potential and the research area is growing. The ability to have adaptive and dynamic layer distances is a distinct attribute of stacked graphene or GO nanosheets. With careful control of the stacking structures, separation factors and flow rates can be further improved. Indeed, several layered GO membranes behave as either nanoporous (method one) or molecular-sieving membranes (method two) by the stacking method. Both membranes show C02philic permeation behavior, which is further enhanced by the presence of water. As such, these membranes are promising materials for industrial C02 separation processes related to petrochemical engineering (C02 removal from natural gas), the environment (C02 capture from flue gas), and biomass energy (C02 recovery from landfill gas).",
+      "text": "Overall, transport in graphene or GO nanosheets has been covered less than that in carbon nanotubes, but there is great potential and the research area is growing. The ability to have adaptive and dynamic layer distances is a distinct attribute of stacked graphene or GO nanosheets. With careful control of the stacking structures, separation factors and flow rates can be further improved. Indeed, several layered GO membranes behave as either nanoporous (method one) or molecular-sieving membranes (method two) by the stacking method. Both membranes show C02philic permeation behavior, which is further enhanced by the presence of water. As such, these membranes are promising materials for industrial C02 separation processes related to petrochemical engineering (C02 removal from natural gas), the environment (C02 capture from flue gas), and biomass energy (C02 recovery from landfill gas)."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 435.0,
+            "t": 411.32921,
+            "r": 504.94410944399993,
+            "b": 406.1205232377049,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "References and Notes",
+      "text": "References and Notes",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 426.36,
+            "t": 401.94577999999996,
+            "r": 567.2208020479998,
+            "b": 379.4784798360656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "1. H. Strathmann, Introduction to Membrane Science and Technology (Wiley, Weinheim, Germany, 2011)",
+      "text": "H. Strathmann, Introduction to Membrane Science and Technology (Wiley, Weinheim, Germany, 2011)",
+      "enumerated": true,
+      "marker": "1."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 426.12,
+            "t": 376.85704999999996,
+            "r": 602.9820021300005,
+            "b": 371.22243995901636,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "2. ]. S. Bunch et al. , Nano Lett 8, 2458-2462 (2008).",
+      "text": "]. S. Bunch et al. , Nano Lett 8, 2458-2462 (2008).",
+      "enumerated": true,
+      "marker": "2."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 426.12,
+            "t": 367.2394099999999,
+            "r": 597.6746441180001,
+            "b": 354.4837420081967,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            81
+          ]
+        }
+      ],
+      "orig": "3. 0. Leenaerts, B. Partoens, F. M. Peeters, Appl. Phys. Lett. 93, 193107 (2008).",
+      "text": "0. Leenaerts, B. Partoens, F. M. Peeters, Appl. Phys. Lett. 93, 193107 (2008).",
+      "enumerated": true,
+      "marker": "3."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 425.88,
+            "t": 351.4521500000001,
+            "r": 567.2531088000004,
+            "b": 346.08374200819674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "4. X. Li et al., Science 324, 1312-1314 (2009).",
+      "text": "X. Li et al., Science 324, 1312-1314 (2009).",
+      "enumerated": true,
+      "marker": "4."
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 426.0,
+            "t": 342.1243099999999,
+            "r": 592.6815816000002,
+            "b": 337.1818252868852,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            57
+          ]
+        }
+      ],
+      "orig": "5. T. Masuda, E. Isobe, T. Higashimura, K. Takada, }. Am.",
+      "text": "5. T. Masuda, E. Isobe, T. Higashimura, K. Takada, }. Am."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 434.52,
+            "t": 334.53215,
+            "r": 541.5194288000002,
+            "b": 329.1637420081968,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            33
+          ]
+        }
+      ],
+      "orig": "Chem. Soc. 105, 7473-7474 (1983).",
+      "text": "Chem. Soc. 105, 7473-7474 (1983)."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 426.0,
+            "t": 326.01215,
+            "r": 577.3282168200004,
+            "b": 320.6437420081968,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "6. X. S. Li et al. , Nano Lett 9, 4359-4363 (2009).",
+      "text": "X. S. Li et al. , Nano Lett 9, 4359-4363 (2009).",
+      "enumerated": true,
+      "marker": "6."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 426.0,
+            "t": 316.68431,
+            "r": 568.4400192080001,
+            "b": 304.1634346721312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            69
+          ]
+        }
+      ],
+      "orig": "7. D. E. Jiang, V. R. Cooper, S. Dai, Nano Lett. 9, 4019-4024 (2009).",
+      "text": "D. E. Jiang, V. R. Cooper, S. Dai, Nano Lett. 9, 4019-4024 (2009).",
+      "enumerated": true,
+      "marker": "7."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 425.88,
+            "t": 300.36535000000003,
+            "r": 599.6782931099997,
+            "b": 294.642005942623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "8. S. Blankenburg et ai, Small 6, 2266-2271 (2010).",
+      "text": "S. Blankenburg et ai, Small 6, 2266-2271 (2010).",
+      "enumerated": true,
+      "marker": "8."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 425.88,
+            "t": 291.33016,
+            "r": 590.39453616,
+            "b": 278.72343467213113,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            73
+          ]
+        }
+      ],
+      "orig": "9. ]. Schrier, Am. Chem. Soc. Appi Mater. Interfaces 4, 3745-3752 (2012).",
+      "text": "]. Schrier, Am. Chem. Soc. Appi Mater. Interfaces 4, 3745-3752 (2012).",
+      "enumerated": true,
+      "marker": "9."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 422.52,
+            "t": 275.13215,
+            "r": 573.0839421000002,
+            "b": 261.8034346721312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "10. L. M. Robeson, ]. Membr. Sei. 320, 390-400 (2008).",
+      "text": "L. M. Robeson, ]. Membr. Sei. 320, 390-400 (2008).",
+      "enumerated": true,
+      "marker": "10."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 422.4,
+            "t": 257.46578,
+            "r": 594.0845898240002,
+            "b": 244.84052323770493,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "11. H. Suda, K. Haraya, J. Phys. Chem. B 101, 3988-3994 (1997).",
+      "text": "H. Suda, K. Haraya, J. Phys. Chem. B 101, 3988-3994 (1997).",
+      "enumerated": true,
+      "marker": "11."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 422.4,
+            "t": 241.08535000000006,
+            "r": 571.3527086399997,
+            "b": 235.362005942623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "12. P. Y. Huang et al., Nature 469, 389-392 (2011).",
+      "text": "P. Y. Huang et al., Nature 469, 389-392 (2011).",
+      "enumerated": true,
+      "marker": "12."
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 422.4,
+            "t": 232.70195,
+            "r": 574.0157546399992,
+            "b": 226.80113790983603,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "13. D. L. Duong et ai, Nature 490, 235-239 (2012).",
+      "text": "D. L. Duong et ai, Nature 490, 235-239 (2012).",
+      "enumerated": true,
+      "marker": "13."
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 422.4,
+            "t": 223.47941000000003,
+            "r": 563.6220787680006,
+            "b": 210.60374200819672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "14. C. H. Lui, L. Liu, K. F. Mak, G. W. Flynn, T. F. Heinz, Nature 462, 339-341 (2009).",
+      "text": "C. H. Lui, L. Liu, K. F. Mak, G. W. Flynn, T. F. Heinz, Nature 462, 339-341 (2009).",
+      "enumerated": true,
+      "marker": "14."
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 422.28,
+            "t": 207.45214999999996,
+            "r": 577.08641264,
+            "b": 202.08374200819674,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "15. D. A. Dikin et ai, Nature 448, 457-460 (2007).",
+      "text": "D. A. Dikin et ai, Nature 448, 457-460 (2007).",
+      "enumerated": true,
+      "marker": "15."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 422.28,
+            "t": 198.99068,
+            "r": 568.1568884800002,
+            "b": 185.60343467213113,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "16. Y. W. Zhu et al., Adv. Mater. 22, 3906-3924 (2010).",
+      "text": "Y. W. Zhu et al., Adv. Mater. 22, 3906-3924 (2010).",
+      "enumerated": true,
+      "marker": "16."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 422.28,
+            "t": 180.99941,
+            "r": 580.8965864799998,
+            "b": 168.26213262295084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            99
+          ]
+        }
+      ],
+      "orig": "17. R. R. Nair, H. A. Wu, P. N. Jayaram, I. V. Grigorieva, A. K. Geim, Science 335, 442-444 (2012).",
+      "text": "R. R. Nair, H. A. Wu, P. N. Jayaram, I. V. Grigorieva, A. K. Geim, Science 335, 442-444 (2012).",
+      "enumerated": true,
+      "marker": "17."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 422.28,
+            "t": 164.25016000000005,
+            "r": 595.9380518399997,
+            "b": 150.87234963114747,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            102
+          ]
+        }
+      ],
+      "orig": "18. M. S. Spector, E. Naranjo, S. Chiruvolu, ]. A. Zasadzinski, Phys. Rev. Lett. 73, 2867-2870 (1994).",
+      "text": "M. S. Spector, E. Naranjo, S. Chiruvolu, ]. A. Zasadzinski, Phys. Rev. Lett. 73, 2867-2870 (1994).",
+      "enumerated": true,
+      "marker": "18."
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 422.16,
+            "t": 147.36430999999993,
+            "r": 588.0330181200001,
+            "b": 133.80374200819665,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "19. S. K. Bhatia, M. R. Bonilla, D. Nicholson, Phys. Chem. Chem. Phys. 13, 15350-15383 (2011).",
+      "text": "S. K. Bhatia, M. R. Bonilla, D. Nicholson, Phys. Chem. Chem. Phys. 13, 15350-15383 (2011).",
+      "enumerated": true,
+      "marker": "19."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 50.04,
+            "t": 112.34801000000004,
+            "r": 453.73573982000005,
+            "b": 103.94489864754098,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "94 4 OCTOBER 2013 VOL 342 SCIENCE www.sciencemag.org",
+      "text": "94 4 OCTOBER 2013 VOL 342 SCIENCE www.sciencemag.org"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 215.59,
+            "t": 55.05600000000004,
+            "r": 484.478,
+            "b": 32.07737628111272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "This content downloaded from 193.50.135.4 on Thu, 31 Oct 2024 13:58:15 UTC All use subject to https://about.jstor.org/terms",
+      "text": "This content downloaded from 193.50.135.4 on Thu, 31 Oct 2024 13:58:15 UTC All use subject to https://about.jstor.org/terms"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 557.76,
+            "t": 831.8406,
+            "r": 602.1415783199999,
+            "b": 824.5644106557377,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "REPORTS",
+      "text": "REPORTS"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 66.72,
+            "t": 811.20431,
+            "r": 243.779139948,
+            "b": 798.8034346721312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            77
+          ]
+        }
+      ],
+      "orig": "20. L. ]. Cote, F. Kim, ]. X. Huang, ]. Am. Chem. Soc. 131, 1043-1049 (2009).",
+      "text": "L. ]. Cote, F. Kim, ]. X. Huang, ]. Am. Chem. Soc. 131, 1043-1049 (2009).",
+      "enumerated": true,
+      "marker": "20."
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 66.72,
+            "t": 794.07941,
+            "r": 238.34599043199998,
+            "b": 781.4621326229508,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "21. A. Tonisi, C. Mellot-Draznieks, R. G. Bell, J. Chem. Phys. 132, 044705 (2010).",
+      "text": "A. Tonisi, C. Mellot-Draznieks, R. G. Bell, J. Chem. Phys. 132, 044705 (2010).",
+      "enumerated": true,
+      "marker": "21."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 66.72,
+            "t": 778.11068,
+            "r": 229.24622476799993,
+            "b": 764.8434346721311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "22. M. B. Rao, S. Sircar, J. Membr. Sci. 85, 253-264 (1993).",
+      "text": "M. B. Rao, S. Sircar, J. Membr. Sci. 85, 253-264 (1993).",
+      "enumerated": true,
+      "marker": "22."
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 66.72,
+            "t": 761.13215,
+            "r": 220.5623572400001,
+            "b": 755.7637420081967,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            51
+          ]
+        }
+      ],
+      "orig": "23. H. B. Park et al., Science 318, 254-258 (2007).",
+      "text": "H. B. Park et al., Science 318, 254-258 (2007).",
+      "enumerated": true,
+      "marker": "23."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 66.72,
+            "t": 751.77016,
+            "r": 217.06558598399997,
+            "b": 739.1634346721312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "24. I. Pinnau, W. J. Koros, Ind. Eng. Chem. Res. 30, 1837-1840 (1991).",
+      "text": "I. Pinnau, W. J. Koros, Ind. Eng. Chem. Res. 30, 1837-1840 (1991).",
+      "enumerated": true,
+      "marker": "24."
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 66.6,
+            "t": 735.5721500000001,
+            "r": 224.16140900499997,
+            "b": 730.2037420081967,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            52
+          ]
+        }
+      ],
+      "orig": "25. N. Y. Du et al., Nat. Mater. 10, 372-375 (2011).",
+      "text": "N. Y. Du et al., Nat. Mater. 10, 372-375 (2011).",
+      "enumerated": true,
+      "marker": "25."
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 66.6,
+            "t": 726.84431,
+            "r": 238.43398923099994,
+            "b": 687.6431273360656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            231
+          ]
+        }
+      ],
+      "orig": "26. D. Shekhawat, D. R. Luebke, H. W. Pennline, \"A review of carbon dioxide selective membranes: A topical report\" (Report DOE/NETL 2003/1200, U.S. Department of Energy, National Energy Technology Laboratory, Pittsburgh, PA, 2003).",
+      "text": "D. Shekhawat, D. R. Luebke, H. W. Pennline, \"A review of carbon dioxide selective membranes: A topical report\" (Report DOE/NETL 2003/1200, U.S. Department of Energy, National Energy Technology Laboratory, Pittsburgh, PA, 2003).",
+      "enumerated": true,
+      "marker": "26."
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 243.96,
+            "t": 811.38284,
+            "r": 419.2732720400004,
+            "b": 798.1237420081967,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            82
+          ]
+        }
+      ],
+      "orig": "27. J. C. Poshusta, R. D. Noble, ]. L. Falconer, J. Membr. Sci. 186, 25-40 (2001).",
+      "text": "J. C. Poshusta, R. D. Noble, ]. L. Falconer, J. Membr. Sci. 186, 25-40 (2001).",
+      "enumerated": true,
+      "marker": "27."
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 243.84,
+            "t": 793.95941,
+            "r": 414.0610210799998,
+            "b": 781.2037420081967,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "28. S. Eigler, C. Dotzer, A. Hirsch, M. Enzelberger, P. Muller, Chem. Mater. 24, 1276-1282 (2012).",
+      "text": "S. Eigler, C. Dotzer, A. Hirsch, M. Enzelberger, P. Muller, Chem. Mater. 24, 1276-1282 (2012).",
+      "enumerated": true,
+      "marker": "28."
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 243.96,
+            "t": 777.30578,
+            "r": 403.9980298980004,
+            "b": 764.680523237705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            63
+          ]
+        }
+      ],
+      "orig": "29. M. B. Shiflett, H. C. Foley, Science 285, 1902-1905 (1999).",
+      "text": "M. B. Shiflett, H. C. Foley, Science 285, 1902-1905 (1999).",
+      "enumerated": true,
+      "marker": "29."
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 243.96,
+            "t": 760.73705,
+            "r": 417.846635335,
+            "b": 747.640523237705,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            60
+          ]
+        }
+      ],
+      "orig": "30. R. M. de Vos, H. Verweij, Science 279, 1710-1711 (1998).",
+      "text": "R. M. de Vos, H. Verweij, Science 279, 1710-1711 (1998).",
+      "enumerated": true,
+      "marker": "30."
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 241.8,
+            "t": 734.4394100000001,
+            "r": 410.397398326,
+            "b": 687.4031273360656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            312
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 420.24,
+            "t": 810.75941,
+            "r": 581.8524744669996,
+            "b": 763.6837420081966,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            313,
+            584
+          ]
+        }
+      ],
+      "orig": "Acknowledgments: This work was mainly supported by Korea Carbon Capture and Sequestration Research and Development Center (KCRC) (grant no. 2012-0008907) funded by the Korea government (Ministry of Science, Information Communication Technology and Future Planning). We thank the National Synchrotron Light Source at Brookhaven National Laboratory for providing the X9 beam line (grant no. DE-AC02-98CH10886) and B. D. McCloskey for thoughtful reading and commentary on our paper. H.B.P. also acknowledges support by the research fund of Hanyang University (grant no. 200900000001052).",
+      "text": "Acknowledgments: This work was mainly supported by Korea Carbon Capture and Sequestration Research and Development Center (KCRC) (grant no. 2012-0008907) funded by the Korea government (Ministry of Science, Information Communication Technology and Future Planning). We thank the National Synchrotron Light Source at Brookhaven National Laboratory for providing the X9 beam line (grant no. DE-AC02-98CH10886) and B. D. McCloskey for thoughtful reading and commentary on our paper. H.B.P. also acknowledges support by the research fund of Hanyang University (grant no. 200900000001052)."
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 420.24,
+            "t": 746.88535,
+            "r": 506.2502507700001,
+            "b": 741.162005942623,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "Supplementary Materials",
+      "text": "Supplementary Materials",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 420.12,
+            "t": 737.7994100000001,
+            "r": 570.3585533879998,
+            "b": 725.9231273360656,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "www.sciencemag.org/content/342/6154/91/suppl/DCl Materials and Methods",
+      "text": "www.sciencemag.org/content/342/6154/91/suppl/DCl Materials and Methods"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 420.48,
+            "t": 721.41604,
+            "r": 460.77353143199997,
+            "b": 716.1984798360655,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "Figs. SI to S10",
+      "text": "Figs. SI to S10"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 420.48,
+            "t": 713.16431,
+            "r": 471.0553950240001,
+            "b": 708.2218252868853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            19
+          ]
+        }
+      ],
+      "orig": "References (31, 32)",
+      "text": "References (31, 32)"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 420.36,
+            "t": 700.74578,
+            "r": 538.3332613839999,
+            "b": 695.7234346721311,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            42
+          ]
+        }
+      ],
+      "orig": "4 February 2013; accepted 4 September 2013",
+      "text": "4 February 2013; accepted 4 September 2013"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 420.6,
+            "t": 693.1837899999999,
+            "r": 489.27973821600006,
+            "b": 688.6317349590164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "10.1126/science.l236098",
+      "text": "10.1126/science.l236098"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 65.28,
+            "t": 658.51351,
+            "r": 394.91240388600005,
+            "b": 592.0045351229509,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Ultrathin, Molecular-Sieving Graphene Oxide Membranes for Selective Hydrogen Separation",
+      "text": "Ultrathin, Molecular-Sieving Graphene Oxide Membranes for Selective Hydrogen Separation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 65.16,
+            "t": 579.89809,
+            "r": 430.8594312659994,
+            "b": 563.2826206147541,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "Hang Li,1'2 Zhuonan Song, 1,2 Xiaojie Zhang,1,2 Yi Huang,1,2 Shiguang Li,3 Yating Mao,1 Harry ]. Ploehn,1 Yu Bao,4 Miao Yu1,2*",
+      "text": "Hang Li,1'2 Zhuonan Song, 1,2 Xiaojie Zhang,1,2 Yi Huang,1,2 Shiguang Li,3 Yating Mao,1 Harry ]. Ploehn,1 Yu Bao,4 Miao Yu1,2*"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 64.92,
+            "t": 548.0717199999999,
+            "r": 462.30480029,
+            "b": 468.92231327868853,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            702
+          ]
+        }
+      ],
+      "orig": "Ultrathin, molecular-sieving membranes have great potential to realize high-flux, high-selectivity mixture separation at low energy cost. Current microporous membranes [pore size < 1 nanometer (nm)], however, are usually relatively thick. With the use of current membrane materials and techniques, it is difficult to prepare microporous membranes thinner than 20 nm without introducing extra defects. Here, we report ultrathin graphene oxide (GO) membranes, with thickness approaching 1.8 nm, prepared by a facile filtration process. These membranes showed mixture separation selectivities as high as 3400 and 900 for H2/C02 and H2/N2 mixtures, respectively, through selective structural defects on GO.",
+      "text": "Ultrathin, molecular-sieving membranes have great potential to realize high-flux, high-selectivity mixture separation at low energy cost. Current microporous membranes [pore size < 1 nanometer (nm)], however, are usually relatively thick. With the use of current membrane materials and techniques, it is difficult to prepare microporous membranes thinner than 20 nm without introducing extra defects. Here, we report ultrathin graphene oxide (GO) membranes, with thickness approaching 1.8 nm, prepared by a facile filtration process. These membranes showed mixture separation selectivities as high as 3400 and 900 for H2/C02 and H2/N2 mixtures, respectively, through selective structural defects on GO."
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 65.16,
+            "t": 432.80342,
+            "r": 230.38071487999994,
+            "b": 332.4823132786885,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            588
+          ]
+        }
+      ],
+      "orig": "Zeolites membranes mers (5) (7, have 2), that silica been have (5), made shown caibon into promising (4), microporous and poly- gas mers (5) have been made into microporous membranes that have shown promising gas mixture separation performance. These membranes separate mixtures on the basis of selective adsorption, diffiision rate differences, or molecular-sieving mechanisms. Current microporous membranes, however, are usually thicker than 20 nm to minimize undesirable flux contribution through nonselective membrane defects, and they maintain reasonably high separation selectivity.",
+      "text": "Zeolites membranes mers (5) (7, have 2), that silica been have (5), made shown caibon into promising (4), microporous and poly- gas mers (5) have been made into microporous membranes that have shown promising gas mixture separation performance. These membranes separate mixtures on the basis of selective adsorption, diffiision rate differences, or molecular-sieving mechanisms. Current microporous membranes, however, are usually thicker than 20 nm to minimize undesirable flux contribution through nonselective membrane defects, and they maintain reasonably high separation selectivity."
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 65.4,
+            "t": 328.30979,
+            "r": 130.55836735600002,
+            "b": 217.46305463114754,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            515
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 65.88,
+            "t": 201.54578000000004,
+            "r": 122.84915775999998,
+            "b": 146.48343467213112,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            516,
+            892
+          ]
+        }
+      ],
+      "orig": "Graphene-based materials, such as graphene and graphene oxide (GO), have been considered promising membrane materials, because they are only one caibon atom thick and, thus, may form separation membranes that minimize transport resistance and maximize flux. Additionally, they have good stability ( 6 , 7) and are mechanically strong (8). Graphene-based materials have been made into centimeter-sized, thick (~l-|im) membranes and micrometer-sized, isolated single sheets for pure component permeation studies where department of Chemical Engineering, University of South Carolina, Columbia, SC 29208, USA. 2Catalysis for Renewable Fuels Center, University of South Carolina, Columbia, SC 29208, USA. 3Gas Technology Institute, 1700 South Mount Prospect Road, Des Plaines, IL 60018, USA. 4College of Applied Science and Technology, Rochester Institute of Technology, Rochester, NY 14623, USA.",
+      "text": "Graphene-based materials, such as graphene and graphene oxide (GO), have been considered promising membrane materials, because they are only one caibon atom thick and, thus, may form separation membranes that minimize transport resistance and maximize flux. Additionally, they have good stability ( 6 , 7) and are mechanically strong (8). Graphene-based materials have been made into centimeter-sized, thick (~l-|im) membranes and micrometer-sized, isolated single sheets for pure component permeation studies where department of Chemical Engineering, University of South Carolina, Columbia, SC 29208, USA. 2Catalysis for Renewable Fuels Center, University of South Carolina, Columbia, SC 29208, USA. 3Gas Technology Institute, 1700 South Mount Prospect Road, Des Plaines, IL 60018, USA. 4College of Applied Science and Technology, Rochester Institute of Technology, Rochester, NY 14623, USA."
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 66.0,
+            "t": 139.47068000000002,
+            "r": 115.86345315199999,
+            "b": 134.1821326229508,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            48
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 242.52,
+            "t": 442.92535,
+            "r": 298.8623293919998,
+            "b": 416.1033619672131,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            49,
+            165
+          ]
+        }
+      ],
+      "orig": "'Corresponding author. E-mail: yumiao@cec.sc.edu they were found to be either inpermeable to small gas molecules or not practical for separation applications (9-12).",
+      "text": "'Corresponding author. E-mail: yumiao@cec.sc.edu they were found to be either inpermeable to small gas molecules or not practical for separation applications (9-12)."
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 242.64,
+            "t": 411.82979,
+            "r": 307.4356621560002,
+            "b": 134.06305463114757,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1243
+          ]
+        }
+      ],
+      "orig": "We used single-layered GO flakes, prepared by the modified Hummer's method (13). Ultrathin GO membranes were prepared by vacuum filtration, as described in detail in fig. SI. Centrifugation and dilution of GO dispersions were found to be important for preparing high-quality GO membranes [fig. S2 and discussion in (13)]. Figure 1A shows a ~9-nm-thick GO membrane with a permeation area of ~4 cm2 on anodic aluminum oxide (AAO) support. A glass membrane module was used for gas permeation-separation experiments, as shown schematically in fig. S3. X-ray diffraction shows the characteristic peak of GO at 20 of 11.1\u00b0 [fig. S4 and analysis in (75)], and GO flakes are -500 nm in size and singlelayered, as confirmed by atomic force microscopy (AFM) (Fig. IB), which also shows the height profile of a GO flake (Fig. IC). In Fig. 1, panels D and E show the surface of an 1 8-nm-thick GO membrane on AAO. Compared with the AAO support (Fig. IF), a very thin GO coating can be seen. We deposited a relatively thick GO membrane [-180 nm (Fig. 1G)] to correlate the GO deposition with the membrane thickness. GO dispersion for this 1 80-nm-membrane preparation was then diluted 100, 20, and 10 times to obtain the above 1.8-, 9-, and 1 8-nm-thick GO",
+      "text": "We used single-layered GO flakes, prepared by the modified Hummer's method (13). Ultrathin GO membranes were prepared by vacuum filtration, as described in detail in fig. SI. Centrifugation and dilution of GO dispersions were found to be important for preparing high-quality GO membranes [fig. S2 and discussion in (13)]. Figure 1A shows a ~9-nm-thick GO membrane with a permeation area of ~4 cm2 on anodic aluminum oxide (AAO) support. A glass membrane module was used for gas permeation-separation experiments, as shown schematically in fig. S3. X-ray diffraction shows the characteristic peak of GO at 20 of 11.1\u00b0 [fig. S4 and analysis in (75)], and GO flakes are -500 nm in size and singlelayered, as confirmed by atomic force microscopy (AFM) (Fig. IB), which also shows the height profile of a GO flake (Fig. IC). In Fig. 1, panels D and E show the surface of an 1 8-nm-thick GO membrane on AAO. Compared with the AAO support (Fig. IF), a very thin GO coating can be seen. We deposited a relatively thick GO membrane [-180 nm (Fig. 1G)] to correlate the GO deposition with the membrane thickness. GO dispersion for this 1 80-nm-membrane preparation was then diluted 100, 20, and 10 times to obtain the above 1.8-, 9-, and 1 8-nm-thick GO"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 420.36,
+            "t": 663.46979,
+            "r": 477.65578056000027,
+            "b": 510.28200594262296,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            720
+          ]
+        }
+      ],
+      "orig": "membranes, respectively, assuming no GO loss during filtration and constant membrane density. We used x-ray photoelectron spectroscopy (XPS) to detect surface elements for these ultrathin GO membranes on AAO (Fig. 1, H and I). For a 1. 8-nm-thick membrane, a substantial amount of aluminum can be seen, because the mean free path of excited electrons is longer than the surface GO membrane thickness. However, for thicker membranes (9 and 18 nm), much smaller amounts of the underlying aluminum can be seen, because GO thickness is larger than the excited electron mean free path. This finding is consistent with surface carbon detection by XPS as well (Fig. II). See the supplementary materials for a detailed analysis.",
+      "text": "membranes, respectively, assuming no GO loss during filtration and constant membrane density. We used x-ray photoelectron spectroscopy (XPS) to detect surface elements for these ultrathin GO membranes on AAO (Fig. 1, H and I). For a 1. 8-nm-thick membrane, a substantial amount of aluminum can be seen, because the mean free path of excited electrons is longer than the surface GO membrane thickness. However, for thicker membranes (9 and 18 nm), much smaller amounts of the underlying aluminum can be seen, because GO thickness is larger than the excited electron mean free path. This finding is consistent with surface carbon detection by XPS as well (Fig. II). See the supplementary materials for a detailed analysis."
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 420.84,
+            "t": 505.95171999999997,
+            "r": 484.66284782399987,
+            "b": 133.74243995901634,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1669
+          ]
+        },
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 196.68,
+            "t": 112.70801000000006,
+            "r": 600.4865691239999,
+            "b": 104.304898647541,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1670,
+            1722
+          ]
+        }
+      ],
+      "orig": "We conducted permeation tests with different light gas molecules to probe pore sizes. Hydrogen (kinetic diameter: 0.289 nm) permeated -300 times fester than did C02 (0.33 nm) through a -1 8-nm-thick GO membrane at 20\u00b0C (Fig. 2A). Their kinetic diameter difference is only 0.04 nm, suggesting that the average size of pores for permeation in the GO membrane may be between 0.289 and 0.33 nm. 02 and N2 showed similar permeance as C02. However, CO and CH4 had slightly higher permeance, although these molecules are are slightly larger than the aforementioned ones. Koenig et al. (12) also found that CH4 had slightly higher permeance than N2 through pristine graphene flakes, though the reason is still unclear. Figure 2B shows H2 and He permeances for GO membranes with different thicknesses. Gas permeance is usually inversely proportional to the membrane thickness for conventional membranes (14). Surprisingly, we found that H2 and He permeances decrease exponentially as membrane thickness increases from 1.8 to 180 nm (Fig. 2B). We speculate that the major transport pathway for these molecules is selective structural defects within GO flakes, instead of spacing between GO flakes. Reduction has been shown as an effective way to narrow interlayer spacing in GO membranes and, thus, limit permeation of molecules through spacing (10). We reduced GO membranes with thickness from 1 .8 to 20 nm and conducted pressure-driven water permeat ion. We found that water permeance decreased approximately three orders of magnitude: For example, water permeance through a 3-nm GO membranes was 1370 liters/(m2 hour bar), whereas it was 0.5 to 1 liters/(m2 hour bar) through www.sciencemag.org SCIENCE VOL 342 4 OCTOBER 2013 95",
+      "text": "We conducted permeation tests with different light gas molecules to probe pore sizes. Hydrogen (kinetic diameter: 0.289 nm) permeated -300 times fester than did C02 (0.33 nm) through a -1 8-nm-thick GO membrane at 20\u00b0C (Fig. 2A). Their kinetic diameter difference is only 0.04 nm, suggesting that the average size of pores for permeation in the GO membrane may be between 0.289 and 0.33 nm. 02 and N2 showed similar permeance as C02. However, CO and CH4 had slightly higher permeance, although these molecules are are slightly larger than the aforementioned ones. Koenig et al. (12) also found that CH4 had slightly higher permeance than N2 through pristine graphene flakes, though the reason is still unclear. Figure 2B shows H2 and He permeances for GO membranes with different thicknesses. Gas permeance is usually inversely proportional to the membrane thickness for conventional membranes (14). Surprisingly, we found that H2 and He permeances decrease exponentially as membrane thickness increases from 1.8 to 180 nm (Fig. 2B). We speculate that the major transport pathway for these molecules is selective structural defects within GO flakes, instead of spacing between GO flakes. Reduction has been shown as an effective way to narrow interlayer spacing in GO membranes and, thus, limit permeation of molecules through spacing (10). We reduced GO membranes with thickness from 1 .8 to 20 nm and conducted pressure-driven water permeat ion. We found that water permeance decreased approximately three orders of magnitude: For example, water permeance through a 3-nm GO membranes was 1370 liters/(m2 hour bar), whereas it was 0.5 to 1 liters/(m2 hour bar) through www.sciencemag.org SCIENCE VOL 342 4 OCTOBER 2013 95"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 215.59,
+            "t": 55.05600000000004,
+            "r": 484.478,
+            "b": 32.07737628111272,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "This content downloaded from 193.50.135.4 on Thu, 31 Oct 2024 13:58:15 UTC All use subject to https://about.jstor.org/terms",
+      "text": "This content downloaded from 193.50.135.4 on Thu, 31 Oct 2024 13:58:15 UTC All use subject to https://about.jstor.org/terms"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.94163131713867,
+            "t": 845.5838928222656,
+            "r": 239.365478515625,
+            "b": 755.9092407226562,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 37.47575759887695,
+            "t": 146.525390625,
+            "r": 87.67750549316406,
+            "b": 77.61895751953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 242.83291625976562,
+            "t": 519.3591613769531,
+            "r": 409.21240234375,
+            "b": 393.06488037109375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 412.367919921875,
+            "t": 522.4494018554688,
+            "r": 584.0020751953125,
+            "b": 370.500244140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 259.18109130859375,
+            "t": 356.77606201171875,
+            "r": 389.3923034667969,
+            "b": 225.9439697265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 411.9932556152344,
+            "t": 361.04443359375,
+            "r": 558.69677734375,
+            "b": 206.2891845703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 190.54714965820312,
+            "t": 813.6928176879883,
+            "r": 586.3682250976562,
+            "b": 550.2562255859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 63.72959518432617,
+            "t": 534.3903198242188,
+            "r": 406.50030517578125,
+            "b": 209.21044921875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 113.73224639892578,
+            "t": 801.8487091064453,
+            "r": 534.293701171875,
+            "b": 533.3003845214844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.0,
+        "height": 882.0
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 648.0,
+        "height": 904.0
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 648.0,
+        "height": 904.0
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 648.0,
+        "height": 904.0
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 648.0,
+        "height": 904.0
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 648.0,
+        "height": 904.0
+      },
+      "page_no": 6
+    }
+  }
+}

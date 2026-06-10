@@ -1,0 +1,1279 @@
+[
+  {
+    "id": "Q060",
+    "question": "D'après Huang et al., cités dans l'étude d'Aspen Hysys, quelle est la plage de valeurs recommandées pour le rapport de pression (pressure ratio) afin que les procédés membranaires soient économiquement viables ?",
+    "type": "FACTUEL",
+    "domaine": "modélisation_membranaire",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents fournis, spécifiquement le Document 1, la plage de valeurs recommandée pour le rapport de pression (pressure ratio) afin que les procédés membranaires soient économiquement viables est de **5 à 15**.\n\nCette recommandation est basée sur les travaux de Huang et al. cités dans le contexte de la modélisation exportée vers Aspen Hysys.\n\n**Détails de la réponse :**\n\n*   **Plage de pression recommandée :** $5 \\leq \\theta \\leq 15$\n*   **Justification :** Les auteurs indiquent que ce rapport est optimal pour assurer la viabilité économique du procédé. Au-delà de cette valeur, la consommation d'énergie pour les compresseurs et les pompes à vide devient trop importante.\n*   **Source :** [Source: 36012f7a-6cac-eb11-94d7-0050568d0279_Thesis-Ehsan Soroodan Miandoab-Unimel...ersion | Page: 0]\n\n**Extrait pertinent du contexte :**\n> \"Huang et al. [67] argued that the optimum pressure ratio should be in the range of 5-15 in order for membrane processes to be economically viable. This pressure ratio range is adopted here as the basis for the driving force across the membrane.\"",
+    "sources": [
+      "36012f7a-6cac-eb11-94d7-0050568d0279_Thesis-Ehsan Soroodan Miandoab-Unimel...ersion",
+      "1-s2.0-S037673881400194X-main"
+    ],
+    "reference": "Le rapport de pression optimal (défini comme la pression d'alimentation divisée par la pression de perméat) doit se situer dans la plage de 5 à 15 (5-15) pour assurer la viabilité économique du procédé.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q078",
+    "question": "Dans un contacteur à fibres creuses modélisé par l'approche des résistances en série, sachant que la résistance globale de transfert de matière est l'inverse du coefficient global (1/K), calculer cette résistance globale en s/m si le coefficient global K est de 4 * 10^-5 m/s.",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N3",
+    "reponse_modele": "### 1. Identification de l'équation ou corrélation pertinente\n\nSelon le contexte fourni, la résistance globale de transfert de matière est définie comme l'inverse du coefficient global de transfert de matière.\n\n*   **Relation fondamentale :** La résistance globale $R$ est exprimée par l'inverse du coefficient global $K$.\n*   **Équation :**\n    $$ R = \\frac{1}{K} $$\n*   **Source de la relation :** [Source: Elsevier Encyclopedia Membrane Contactors Chabanon & Favre]\n*   **Unité du coefficient $K$ :** Le coefficient global de transfert de matière $K$ est défini avec l'unité $[m/s]$ dans les documents du laboratoire.\n*   **Source de l'unité :** [Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion]\n\n### 2. Liste des données numériques disponibles\n\n*   **Coefficient global de transfert de matière ($K$) :** $4 \\times 10^{-5} \\, \\text{m/s}$ (donné dans l'énoncé de la question).\n*   **Unité de $K$ :** $\\text{m/s}$ (confirmé par les documents).\n*   **Unité cible de la résistance ($R$) :** $\\text{s/m}$ (inverse de $\\text{m/s}$).\n\n### 3. Calcul étape par étape\n\nLe calcul consiste à inverser la valeur numérique du coefficient $K$.\n\n**Étape 1 : Écrire l'expression de la résistance**\n$$ R = \\frac{1}{K} $$\n\n**Étape 2 : Substituer la valeur de $K$**\n$$ R = \\frac{1}{4 \\times 10^{-5} \\, \\text{m/s}} $$\n\n**Étape 3 : Effectuer la division numérique**\n$$ \\frac{1}{4} = 0.25 $$\n$$ \\frac{1}{10^{-5}} = 10^{5} $$\n$$ R = 0.25 \\times 10^{5} \\, \\text{s/m} $$\n\n**Étape 4 : Mettre sous forme scientifique standard**\n$$ R = 2.5 \\times 10^{4} \\, \\text{s/m} $$\n\n**Étape 5 : Convertir en notation décimale**\n$$ R = 25\\,000 \\, \\text{s/m} $$\n\n### 4. Vérification de la cohérence dimensionnelle\n\n*   **Dimension de $K$ :** $[L] \\cdot [T]^{-1}$ (mètre par seconde).\n*   **Dimension de $R$ :** $1 / ([L] \\cdot [T]^{-1}) = [T] \\cdot [L]^{-1}$ (seconde par mètre).\n*   **Vérification :** L'unité obtenue est bien $\\text{s/m}$, ce qui correspond à l'unité demandée pour la résistance de transfert de matière.\n\n### 5. Résultat final\n\nLa résistance globale de transfert de matière est de :\n$$ \\mathbf{25\\,000 \\, s/m} $$\n*(ou $2.5 \\times 10^{4} \\, \\text{s/m}$)*\n\n### 6. Sources citées\n\n*   Définition de la résistance globale comme $1/K$ : [Source: Elsevier Encyclopedia Membrane Contactors Chabanon & Favre]\n*   Unité du coefficient $K$ ($m/s$) : [Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion]\n*   Approche des résistances en série : [Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion]",
+    "sources": [
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "Elsevier Encyclopedia Membrane Contactors Chabanon & Favre",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "DDOC_T_2013_0318_MAKHLOUFI"
+    ],
+    "reference": "La résistance globale est 1 / (4 * 10^-5) = 25000 s/m.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q044",
+    "question": "Outre la valorisation du biogaz, pour quelles autres applications la combinaison d'une haute sélectivité, d'une perméance adéquate et d'une bonne stabilité à long terme rend-elle les membranes nanocomposites prometteuses ?",
+    "type": "FACTUEL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents fournis, la combinaison d'une haute sélectivité, d'une perméance adéquate et d'une excellente stabilité à long terme rend les membranes nanocomposites prometteuses pour les applications suivantes, à l'exclusion de la valorisation du biogaz :\n\n1.  **Le sweetening du gaz naturel** (natural gas sweetening) : Cette application est citée dans le contexte comme l'un des domaines où la séparation efficace du CO₂/CH₄ est requise [Source: Advanced_Two_Stage_Nanocomposite_Membran].\n2.  **La purification du gaz de décharge** (landfill gas purification) : Ce procédé est également listé comme une application bénéficiant de ces propriétés membranaires [Source: Advanced_Two_Stage_Nanocomposite_Membran].\n3.  **La capture directe de gaz à effet de serre** (direct air capture of greenhouse gases) : Ce domaine est mentionné comme une application réelle pour laquelle les résultats de perméation sont cruciaux [Source: Advanced_Two_Stage_Nanocomposite_Membran].\n\nCes informations sont extraites des documents décrivant les performances des membranes nanocomposites dans des conditions d'exploitation réalistes [Source: Advanced_Two_Stage_Nanocomposite_Membran].",
+    "sources": [
+      "Advanced_Two_Stage_Nanocomposite_Membran",
+      "ark__67375_6H6-9K73D2CB-4",
+      "Advanced_Two_Stage_Nanocomposite_Membran",
+      "Advanced_Two_Stage_Nanocomposite_Membran",
+      "ark__67375_6H6-9K73D2CB-4"
+    ],
+    "reference": "Ces membranes sont également très prometteuses pour l'adoucissement du gaz naturel (natural gas sweetening) et pour la purification des gaz de décharge (landfill gas purification).",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q008",
+    "question": "Adsorption batch : 1 m³ eau usée, C₀=0,21 kg phénol/m³, 1,4 kg charbon actif (m=0,199×c^0,229). Trouver m et c à l'équilibre et le % phénol extrait.",
+    "type": "CALCUL",
+    "domaine": "procédés_discontinus",
+    "difficulté": "N2",
+    "reponse_modele": "",
+    "sources": [
+      "INPL_T_2003_MAUVIEL_G",
+      "INPL_T_2003_MAUVIEL_G"
+    ],
+    "reference": "Intersection isotherme et bilan 1,4m+c=0,21 : m=0,106 kg/kg, c=0,062 kg/m³. Phénol extrait=70,47%.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q020",
+    "question": "Sur quel principe repose le procédé de perméation gazeuse et quelles sont les configurations de pression typiques pour l'opérer ?",
+    "type": "FACTUEL",
+    "domaine": "perméation_gazeuse",
+    "difficulté": "N2",
+    "reponse_modele": "### Principe du procédé de perméation gazeuse\n\nLe procédé de perméation gazeuse repose sur le principe de la mise en contact continu d'un flux d'alimentation (mélange à séparer) avec un matériau sélectif, appelé membrane, inséré dans un module [Source: 10 Chapitre Membranes Polycopié S6 ENSIC | Page: 0].\n\nL'efficacité de l'opération dépend de trois facteurs principaux :\n1.  Les performances du matériau membranaire (perméabilité et permélectivité).\n2.  La force motrice appliquée (différence de pression partielle de part et d'autre de la membrane).\n3.  L'agencement des flux dans le module [Source: 10 Chapitre Membranes Polycopié S6 ENSIC | Page: 0].\n\nLe processus sépare le flux d'alimentation en deux composantes à la sortie :\n*   Le **rétentat** (côté haute pression) : partie n'ayant pas traversé la membrane, enrichie en composés moins perméables.\n*   Le **perméat** (côté basse pression) : fraction ayant traversé la membrane, enrichie en composés plus perméables [Source: 10 Chapitre Membranes Polycopié S6 ENSIC | Page: 0].\n\n### Configurations de pression typiques\n\nPour appliquer la force motrice nécessaire au transfert de matière à travers la membrane, plusieurs configurations de pression peuvent être utilisées [Source: 10 Chapitre Membranes Polycopié S6 ENSIC | Page: 0] :\n\n1.  **Compression en amont** : Application d'une compression sur le flux d'alimentation en amont du matériau membranaire.\n2.  **Tirage au vide en aval** : Application d'un tirage au vide sur la partie aval du matériau membranaire.\n3.  **Balayage (Sweep)** : Dilution par balayage d'un gaz inerte et imperméable du côté perméat [Source: 10 Chapitre Membranes Polycopié S6 ENSIC | Page: 0].\n\nLe procédé nécessite également un système de compression pour la force motrice, ce qui permet une grande liberté sur le design du module [Source: DDOC_T_2017_0020_PFISTER | Page: 0].",
+    "sources": [
+      "10 Chapitre Membranes Polycopié S6 ENSIC",
+      "42493210-j2810-1",
+      "10 Chapitre Membranes Polycopié S6 ENSIC",
+      "DDOC_T_2017_0020_PFISTER",
+      "42493210-j2810-1"
+    ],
+    "reference": "Repose sur une différence de perméabilité entre les composés. Force motrice créée par : compression amont, mise sous vide aval, ou combinaison des deux.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q032",
+    "question": "Quel est l'objectif principal de l'étude publiée concernant les stratégies de modélisation pour le captage du CO2 ?",
+    "type": "FACTUEL",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents fournis dans le contexte, l'objectif principal de l'étude est le suivant :\n\n**Objectif principal :**\nRéaliser une analyse comparative critique des stratégies de modélisation pour le captage du CO₂ par absorption dans l'MEA (Monoéthanolamine) grâce aux contacteurs membranaires.\n\n**Justification et Source :**\nCette information est explicitement indiquée dans l'introduction de chaque document fourni, qui stipulent que : *\"This study intended to achieve a critical comparative analysis of modeling strategies for CO 2 capture by absorption in MEA thanks to membrane contactors.\"*\n\nEn français, cela se traduit par : *\"Cette étude visait à réaliser une analyse comparative critique des stratégies de modélisation pour le captage du CO2 par absorption dans l'MEA grâce aux contacteurs membranaires.\"*\n\n[Source: CES 2012 revised manuscript_docx]\n\n*Note : Cette formulation est identique dans les cinq documents fournis (Documents 1 à 5), confirmant la cohérence de l'objectif énoncé.*",
+    "sources": [
+      "CES 2012 revised manuscript_docx",
+      "CES 2012 revised manuscript_docx",
+      "CES 2012 Chabanon et al.",
+      "Chabanon_2013_CES",
+      "1-s2.0-S0009250912005787-main"
+    ],
+    "reference": "L'objectif principal de l'étude est de réaliser une analyse comparative critique des différentes stratégies de modélisation pour le captage du CO2 par absorption dans la MEA à l'aide de contacteurs membranaires.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q074",
+    "question": "D'après les articles de Chabanon et al. (2012, 2013), quel est l'avantage principal d'utiliser un coefficient global de transfert de matière constant (Kov) pour modéliser le transfert dans les contacteurs membranaires ?",
+    "type": "FACTUEL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents fournis, l'avantage principal d'utiliser un coefficient global de transfert de matière constant ($K_{OV}$) pour modéliser le transfert dans les contacteurs membranaires est la simplification de l'analyse et l'évaluation rapide des performances.\n\nVoici les points clés identifiés dans les textes :\n\n1.  **Simplification du modèle** : Cette approche permet d'inclure les différents mécanismes de transfert de matière dans un seul paramètre global ($K_{OV}$). C'est également décrite comme l'approche la plus simple disponible [Source: CES 2012 revised manuscript_docx | Page: 0], [Source: Elsevier Encyclopedia Membrane Contactors Chabanon & Favre | Page: 0].\n2.  **Évaluation des performances** : L'utilisation de ce paramètre unique permet d'évaluer rapidement et facilement les performances du procédé [Source: CES 2012 revised manuscript_docx | Page: 0], [Source: Chabanon_2013_CES | Page: 0].\n3.  **Comparabilité** : Connaître la surface interfaciale gaz-liquide ($a$) et le coefficient $K_{OV}$ permet d'obtenir facilement la performance $K_{OV} \\cdot a$ pour la comparer avec d'autres technologies [Source: Elsevier Encyclopedia Membrane Contactors Chabanon & Favre | Page: 0].\n\nEn résumé, l'avantage réside dans la capacité à regrouper la complexité des mécanismes de transfert en un paramètre unique ($K_{OV}$), facilitant ainsi l'analyse et la comparaison des procédés [Source: CES 2012 revised manuscript_docx | Page: 0].",
+    "sources": [
+      "CES 2012 revised manuscript_docx",
+      "CES 2012 revised manuscript_docx",
+      "Elsevier Encyclopedia Membrane Contactors Chabanon & Favre",
+      "1-s2.0-S0009250912005787-main",
+      "Chabanon_2013_CES"
+    ],
+    "reference": "L'avantage principal est d'inclure les différents mécanismes de transfert de matière dans un seul paramètre global, ce qui permet d'évaluer les performances du procédé de manière rapide et facile.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q003",
+    "question": "Les techniques de séparation membranaires mettent en oeuvre des systèmes polyphasés constitués par quels éléments ?",
+    "type": "FACTUEL",
+    "domaine": "séparation_membranaire",
+    "difficulté": "N1",
+    "reponse_modele": "D'après les documents fournis, voici la réponse structurée concernant la constitution des systèmes polyphasés en séparation membranaire :\n\n### 1. Référence au concept de système polyphasé\nLe **Document 1** [Source: fndae14] énonce explicitement que :\n> « La principale caractéristique des techniques de séparation membranaires est de mettre en œuvre des systèmes polyphasés constitués par : »\n\nCependant, l'extrait fourni se termine immédiatement après le deux-points, sans énumérer la liste des éléments constitutifs spécifiques dans le texte disponible.\n\n### 2. Informations disponibles sur la constitution du système\nBien que la liste complète ne soit pas terminée dans le Document 1, les **Documents 3, 4 et 5** décrivent les éléments structuraux et les phases impliqués dans ces systèmes :\n\n*   **Structure de la membrane :**\n    *   Les membranes sont décrites comme des membranes **denses** (non poreuses) pour la séparation [Source: Thèse CIFRE Simon - 3 mars 2019].\n    *   Elles possèdent une **couche dense** de séparation d'une épaisseur comprise entre **0,1 et quelques microns** [Source: PDMS DDOC_T_2016_0183_BERGER].\n    *   Cette couche dense est supportée par une **couche poreuse** dont le rôle est purement mécanique [Source: DOC_BERGER Etude de l’intégration des séparations membranaires Biogaz].\n    *   Si les deux couches sont du même polymère, c'est une membrane asymétrique ; sinon, c'est une membrane composite [Source: PDMS DDOC_T_2016_0183_BERGER].\n\n*   **Phases du système :**\n    *   Le mécanisme de transport implique la **sorption du perméant dans la membrane**, la **perméation par diffusion à travers la membrane**, et la **désorption du perméant à la",
+    "sources": [
+      "fndae14",
+      "DDOC_T_2023_0038_MACALI",
+      "Thèse CIFRE Simon - 3 mars 2019",
+      "PDMS DDOC_T_2016_0183_BERGER",
+      "DOC_BERGER Etude de l’intégration des séparations membranaires Biogaz"
+    ],
+    "reference": "1) Le fluide à traiter, 2) Le fluide traité (solution à dépolluer, eau à dessaler...), 3) La membrane.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q093",
+    "question": "Dans la simulation d'un système couplé absorption/stripping (désorption) (Doc 3 et 6), le débit total de CO2 absorbé dans le contacteur à fibres creuses principal est de 500 mol/h. Lors de l'étape de stripping (stripping step), l'efficacité de désorption limite la récupération. Si 85 % du CO2 préalablement absorbé est effectivement désorbé et récupéré en phase gaz, et que l'aire membranaire dédiée au module de désorption est de 20 m2, calculez le flux molaire moyen de CO2 désorbé (en mol/(m2.h)).",
+    "type": "CALCUL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2",
+    "reponse_modele": "**Avertissement concernant les documents :**\nIl est important de noter que le **Document 6** mentionné dans la question n'est pas inclus dans le corpus de documents fourni (seuls les Documents 1 à 5 sont disponibles). Par conséquent, les informations spécifiques à ce document ne peuvent pas être vérifiées ou utilisées.\n\n**Contexte du procédé :**\nLes documents fournis confirment la description d'un système d'absorption/désorption couplée utilisant des modules à fibres creuses (HFMC) [Source: Thesis_Qazi_2020 | Page: 0]. Le Document 4 décrit le procédé couplé où l'absorption et la désorption sont réalisées en un seul cycle de recirculation [Source: Thesis_Qazi_2020 | Page: 0]. Le Document 5 confirme cette configuration avec un premier HFMC pour l'absorption et un deuxième pour la désorption par balayage d'azote [Source: Thesis_Qazi_2020 | Page: 0].\n\n**1. Identification de l'équation pertinente :**\nLes documents fournis décrivent les performances et les profils de flux [Source: 1-s2.0-S1383586617315381-main | Page: 0], mais ne définissent pas explicitement l'équation fondamentale du flux molaire. Cependant, conformément aux principes de base du génie des procédés membranaires (flux membranaire), le flux molaire moyen ($J$) est défini comme le rapport entre le débit molaire total ($\\dot{n}$) et l'aire membranaire ($A$).\n\nL'équation utilisée est :\n$$ J = \\frac{\\dot{n}_{\\text{désorbé}}}{A} $$\n\n**2. Liste des données numériques :**\n*   Débit total de CO₂ absorbé ($\\dot{n}_{\\text{absorbé}}$) : $500 \\text{ mol/h}$\n*   Efficacité de désorption ($\\eta$) : $85\\%$ ou $0.85$\n*   Aire membranaire dédiée au module de désorption ($A$) : $20 \\text{ m}^2$\n\n**3. Calcul étape par étape :**\n\n*   **Étape 1 : Calcul du débit molaire de CO₂ désorbé ($\\dot{n}_{\\text{désorbé}}$)**\n    Le débit de CO₂ récupéré est une fraction du débit absorbé.\n    $$ \\dot{n}_{\\text{désorbé}} = \\dot{n}_{\\text{absorbé}} \\times \\eta $$\n    $$ \\dot{n}_{\\text{désorbé}} = 500 \\text{ mol/h} \\times 0.85 $$\n    $$ \\dot{n}_{\\text{désorbé}} = 425 \\text{ mol/h} $$\n\n*   **Étape 2 : Calcul du flux molaire moyen ($J$)**\n    Le flux est le débit par unité de surface.\n    $$ J = \\frac{425 \\text{ mol/h}}{20 \\text{ m}^2} $$\n    $$ J = 21.25 \\text{ mol/(m}^2\\cdot\\text{h)} $$\n\n**4. Vér",
+    "sources": [
+      "1-s2.0-S1383586617315381-main",
+      "Lee_2022_JMS",
+      "cleantechnol-04-00015",
+      "Thesis_Qazi_2020",
+      "Thesis_Qazi_2020"
+    ],
+    "reference": "La quantité de CO2 désorbée est de 500 mol/h * 0,85 = 425 mol/h. Le flux molaire moyen rapporté à l'aire membranaire est donc Flux = 425 mol/h / 20 m2 = 21,25 mol/(m2.h).",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q087",
+    "question": "Une unité de purification membranaire de gaz naturel possède deux étages pour minimiser les pertes. L'alimentation est de 100 mol/s avec 15% de CO2 et 85% de CH4. Le premier étage sépare le gaz en un rétentat R1 contenant 70% de la quantité initiale de CH4 à une pureté de 95%, et un perméat P1. Calculez le débit total (en mol/s) du perméat P1 qui sera envoyé au deuxième étage, ainsi que sa concentration molaire en CH4 (en %).",
+    "type": "CALCUL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N3",
+    "reponse_modele": "",
+    "sources": [
+      "42493210-j2810-1",
+      "DDOC_T_2017_0020_PFISTER",
+      "Technique_Ingenieur",
+      "42331210-j2810",
+      "Manuscrit_Margarita (1)"
+    ],
+    "reference": "CH4 entrant total = 100 * 0,85 = 85 mol/s. CH4 dans R1 = 0,70 * 85 = 59,5 mol/s. Débit total de R1 = 59,5 / 0,95 = 62,63 mol/s. Par bilan de matière global sur le premier étage : Débit de P1 = Alimentation - R1 = 100 - 62,63 = 37,37 mol/s. La quantité de CH4 dans P1 = CH4 entrant - CH4 dans R1 = 85 - 59,5 = 25,5 mol/s. Concentration de CH4 dans P1 = (25,5 / 37,37) * 100 = 68,24 %.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q097",
+    "question": "Le document 1 mentionne un 'Coefficient de transfert de matière global rapporté au volume du contacteur', notons-le Kv (souvent exprimé comme K*a). Sachant que le coefficient K s'exprime en m/s (Doc 11), si un contacteur a un coefficient global K = 4.10^-4 m/s et une aire spécifique a = 2500 m2/m3, calculez ce coefficient volumique global de transfert Kv en s^-1.",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2",
+    "reponse_modele": "### 1. Identification de l'équation pertinente\n\nSelon le **Document 4**, le taux de transfert volumique (noté ici $K_v$ ou $K \\cdot a$) est défini comme le produit du coefficient global de transfert de matière $K$ et de l'aire interfaciale spécifique $a$.\n\nLa relation est donnée par :\n$$ K_v = K \\cdot a $$\n\nCette relation est explicitement décrite dans le document comme suit : \"Le taux de transfert K.a, exprimé en s -1 , englobe le coefficient global de transfert de matière K [m/s] et l'aire interfaciale a...\" [Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion].\n\n### 2. Liste des données numériques\n\nLes valeurs fournies dans l'énoncé de la question sont :\n*   Coefficient global de transfert de matière : $K = 4 \\times 10^{-4} \\, \\text{m/s}$\n*   Aire interfaciale spécifique : $a = 2500 \\, \\text{m}^2/\\text{m}^3$\n\nLes unités sont confirmées par les documents :\n*   $K$ en $\\text{m/s}$ [Source: 2011 NGUYEN_FAVRE...]\n*   $a$ en $\\text{m}^2/\\text{m}^3$ [Source: 2011 NGUYEN_FAVRE...]\n\n### 3. Calcul étape par étape\n\nNous appliquons la relation identifiée à l'étape 1 :\n\n$$ K_v = K \\times a $$\n\nSubstitution des valeurs :\n\n$$ K_v = (4 \\times 10^{-4} \\, \\text{m/s}) \\times (2500 \\, \\text{m}^2/\\text{m}^3) $$\n\nCalcul numérique :\n\n$$ 4 \\times 2500 = 10\\,000 $$\n\n$$ 10\\,000 \\times 10^{-4} = 1 $$\n\n### 4. Vérification de la cohérence dimensionnelle\n\nAnalyse des unités :\n$$ [\\text{m/s}] \\times [\\text{m}^2/\\text{m}^3] = \\frac{\\text{m} \\cdot \\text{m}^2}{\\text{s} \\cdot \\text{m}^3} = \\frac{\\text{m}^3}{\\text{s} \\cdot \\text{m}^3} = \\frac{1}{\\text{s}} = \\text{s}^{-1} $$\n\nLe résultat obtenu est bien exprimé en $\\text{s}^{-1}$, ce qui correspond à la définition du taux de transfert donnée dans le Document 4 [Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion].\n\n### 5. Résultat final\n\nLe coefficient volumique global de transfert $K_v$ est :\n\n$$ K_v = 1 \\, \\text{s}^{-1} $$\n\n### 6. Source de l'équation utilisée\n\n[Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion]",
+    "sources": [
+      "DDOC_T_2013_0318_MAKHLOUFI",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion"
+    ],
+    "reference": "Le coefficient volumique se calcule par Kv = K * a = 4.10^-4 m/s * 2500 m2/m3 = 1 s^-1.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q006",
+    "question": "Données Langmuir : P=[10,30,40,80,120] mm Hg, V=[117,64;119,20;119,40;119,70;119,80] ml/g. Vérifier graphiquement la loi de Langmuir et déterminer Vm, b et la surface spécifique.",
+    "type": "CALCUL",
+    "domaine": "isothermes_adsorption",
+    "difficulté": "N4",
+    "reponse_modele": "",
+    "sources": [],
+    "reference": "Tracer P/V=f(P) → droite y=0,0083x+0,0017 (R²=1) → Langmuir vérifié. Vm=120,48 ml/g, b=4,88 mm Hg⁻¹. S≈648 m²/g.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q030",
+    "question": "Quelle est la fraction massique de la solution de MEA (Monoéthanolamine) utilisée dans le module de contacteur membranaire lors de l'absorption du solvant, selon les travaux de Scholes ?",
+    "type": "FACTUEL",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N1",
+    "reponse_modele": "Selon les documents fournis, spécifiquement ceux associés aux travaux de Scholes, la fraction massique de la solution de MEA (Monoéthanolamine) utilisée dans le module de contacteur membranaire lors de l'absorption du solvant est de **30 % en masse** (30 wt%).\n\nCette information est extraite de la légende de la Figure 6 présente dans les documents liés à Scholes, qui précise : *\"in the 30 wt% MEA solution exiting the membrane contactor module undertaking solvent absorption\"* [Source: 2020 Scholes_Contactor_Pilot_plant_paper_revised_2_240115_165610].\n\n**Détails de l'information :**\n*   **Concentration :** 30 wt% (30 % en masse).\n*   **Contexte :** Solution de MEA sortant du module de contacteur membranaire lors de l'absorption du CO₂.\n*   **Source :** Document 3 (et Document 4 qui contient la même légende).\n\nAucun calcul n'est nécessaire car la valeur est explicitement indiquée dans la description du document.",
+    "sources": [
+      "Evaluation et suivi de solvants innovants pour le captage de CO2 présentant une faible pénalité énergétique, Lorena Cuccia",
+      "1-s2.0-S1383586615303336-main",
+      "2020 Scholes_Contactor_Pilot_plant_paper_revised_2_240115_165610",
+      "1-s2.0-S1383586619349020-main",
+      "Thèse_Molina_CO2 postcomb"
+    ],
+    "reference": "La fraction massique de la solution de MEA utilisée est de 30 % en poids (30 wt%).",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q082",
+    "question": "Une unité de purification de gaz naturel vise à éliminer le CO2 pour atteindre la norme de 98 % massique en CH4, profitant du fait que le CH4 est le composé 'lent'. Le flux d'alimentation sous pression est de 5000 kg/h avec 90% de CH4 et 10% de CO2. Le rétentat obtenu atteint exactement 98% massique de CH4. En supposant que le débit de perte de CH4 dans le perméat est de 50 kg/h, quel est le débit total du rétentat (en kg/h) et quel est le débit de CO2 éliminé dans le perméat (en kg/h) ?",
+    "type": "CALCUL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N3",
+    "reponse_modele": "",
+    "sources": [
+      "DDOC_T_2017_0020_PFISTER",
+      "Manuscrit_Margarita (1)",
+      "36587495",
+      "4887",
+      "Manuscrit_Margarita (1)"
+    ],
+    "reference": "Débit de CH4 entrant = 5000 * 0,90 = 4500 kg/h. Débit de CH4 dans le rétentat = 4500 - 50 = 4450 kg/h. Comme le rétentat contient 98% de CH4, le débit total du rétentat = 4450 / 0,98 = 4540,82 kg/h. Le débit de CO2 dans le rétentat = 4540,82 - 4450 = 90,82 kg/h. Le débit de CO2 entrant = 5000 * 0,10 = 500 kg/h. Le CO2 éliminé dans le perméat = 500 - 90,82 = 409,18 kg/h.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q064",
+    "question": "Quelle est l'unité la plus fréquemment utilisée pour exprimer la perméabilité des membranes polymères denses, et à quelle valeur correspond-elle dans le système d'unités associant le cm³(STP), le cm, la seconde et le cmHg ?",
+    "type": "FACTUEL",
+    "domaine": "perméabilité_matériaux",
+    "difficulté": "N1",
+    "reponse_modele": "D'après les documents fournis, voici la réponse structurée concernant l'unité de perméabilité des membranes polymères denses :\n\n### 1. L'unité la plus fréquemment utilisée\nL'unité la plus fréquemment employée pour exprimer la perméabilité des polymères est le **Barrer**.\n*   **Source :** [Source: 42493210-j2810-1]\n\n### 2. Valeur correspondante dans le système d'unités demandé\nLe Barrer correspond à la valeur suivante dans le système associant le cm³(STP), le cm, la seconde et le cmHg :\n\n$$ 1 \\text{ Barrer} = 10^{-10} \\, \\text{cm}^3(\\text{STP}) \\cdot \\text{cm} \\cdot \\text{cm}^{-2} \\cdot \\text{s}^{-1} \\cdot \\text{cmHg}^{-1} $$\n\n*   **Source :** [Source: Thèse CIFRE Simon - 3 mars 2019]\n*   **Confirmation :** [Source: Polymer_Membranes_for_Gas_Separation]\n\n### 3. Détails et hypothèses\n*   **Définition de la perméabilité :** La perméabilité ($P$) est définie comme le produit de la solubilité ($S$) et de la diffusion ($D$) ($P = S \\cdot D$) [Source: 42493210-j2810-1].\n*   **Unité de pression :** La différence de pression partielle ($\\Delta p_i$) est exprimée en cmHg [Source: Thèse CIFRE Simon - 3 mars 2019].\n*   **Unité de volume :** Le débit volumique est ramené aux conditions standards (STP/CSTP) [Source: Thèse CIFRE Simon - 3 mars 2019].\n*   **Note sur la notation :** Bien que le Document 1 mentionne une notation avec un \"N\" devant le cm³ ($10^{-10} \\text{Ncm}^3$), les Documents 4 et 5 clarifient la définition standard sans ce préfixe, utilisant explicitement le cm³(STP) et le cmHg⁻¹.\n\n**Référence complète des sources utilisées :**\n1.  [Source: 42493210-j2810-1] pour l'identification de l'unité \"Barrer\" comme la plus fréquente.\n2.  [Source: Thèse CIFRE Simon - 3 mars 2019] pour la définition numérique de 1 Barrer ($10^{-10} \\text{cm}^3(\\text{STP}) \\text{cm} \\cdot \\text{cm}^{-2} \\cdot \\text{s}^{-1} \\cdot \\text{cmHg}^{-1}$).\n3.  [Source: Polymer_Membranes_for_Gas_Separation] pour la confirmation des unités Barrer et GPU.",
+    "sources": [
+      "42493210-j2810-1",
+      "ark__67375_6H6-RV48N0T4-K",
+      "Thèse CIFRE Simon - 3 mars 2019",
+      "Thèse CIFRE Simon - 3 mars 2019",
+      "Polymer_Membranes_for_Gas_Separation"
+    ],
+    "reference": "L'unité la plus fréquemment employée est le Barrer. 1 Barrer correspond à 10^(-10) cm³(STP) · cm / (s · cm² · cmHg), ce qui équivaut à 10^(-10) Ncm³ · cm · s^(-1) · cm^(-2) · cmHg^(-1).",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q054",
+    "question": "Selon les mots-clés de l'étude de Lee (2022), quel processus membranaire, constituant la phase inverse du captage, fait l'objet d'une modélisation théorique ?",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents fournis dans le contexte, il n'est pas possible de répondre à votre question.\n\n**Explication :**\nLes documents disponibles (Document 1 et Document 2) ne contiennent aucune référence à une étude de **Lee (2022)**.\n\nLe Document 1 liste exclusivement des références liées au laboratoire LRGP et à EDF, notamment :\n- Thèses et rapports de T. Neveux (2013, 2014, 2015, 2019, 2020, 2022) [Source: EDF_2022-capitalisation-RO_Bore].\n- Articles de D.R. Albarracin-Zaidiza et al. (2015) [Source: EDF_2022-capitalisation-RO_Bore].\n- Rapports techniques de M. Kanniche et al. (2015) [Source: EDF_2022-capitalisation-RO_Bore].\n- Autres rapports de D. Bontemps et al. (2019) [Source: EDF_2022-capitalisation-RO_Bore].\n\nLe Document 2 traite de la texturation des membranes et de la modélisation des phénomènes de transfert, mais ne cite pas d'auteur spécifique nommé Lee pour l'année 2022 [Source: Techniques séparatives sur membranes].\n\nPar conséquent, je ne peux pas identifier le processus membranaire constituant la phase inverse du captage ni les mots-clés associés à cette étude spécifique, car ces informations ne sont pas présentes dans le corpus fourni.",
+    "sources": [
+      "EDF_2022-capitalisation-RO_Bore",
+      "Techniques séparatives sur membranes"
+    ],
+    "reference": "Le processus modélisé théoriquement est le stripping du CO2 (CO2 stripping).",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q022",
+    "question": "Dans quelles conditions obtient-on la teneur maximale en composé rapide au perméat d'un module de perméation gazeuse ?",
+    "type": "COMPARAISON",
+    "domaine": "perméation_gazeuse",
+    "difficulté": "N3",
+    "reponse_modele": "D'après les documents fournis, la teneur maximale en composé rapide au perméat d'un module de perméation gazeuse est obtenue dans un **cas limite** de fonctionnement, caractérisé par les conditions suivantes :\n\n1.  **Force motrice maximale** : La pression partielle du côté perméat est nulle, ce qui correspond à une force motrice maximale.\n    *   Mathématiquement : $\\psi = 0$ [Source: 42493210-j2810-1].\n    *   Cela implique que la pression du côté perméat est nulle ($p'' = 0$) [Source: 10 Chapitre Membranes Polycopié S6 ENSIC].\n\n2.  **Productivité minimale** : Le taux de récupération du composé rapide est infiniment faible.\n    *   Mathématiquement : $\\theta \\sim 0$ [Source: 42493210-j2810-1].\n    *   Cela correspond à un taux de prélèvement (stage cut) très faible [Source: 10 Chapitre Membranes Polycopié S6 ENSIC].\n\n**Conséquences et Limites :**\n*   Dans ces conditions, un **enrichissement maximal** en composé rapide au perméat est obtenu [Source: 42493210-j2810-1].\n*   Cependant, ces conditions sont décrites comme étant **très éloignées de la réalité industrielle** [Source: 42493210-j2810-1].\n*   Ce mode de fonctionnement peut s'apparenter à une colonne à distiller fonctionnant à reflux total, pour laquelle la teneur maximale en composé le plus volatil est obtenue au distillat [Source: 42493210-j2810-1].\n\n**Résumé des paramètres :**\nPour atteindre la valeur maximale de pureté au perméat ($y_{MAX}$), le module doit fonctionner avec :\n*   $\\psi = 0$ (Force motrice maximale)\n*   $\\theta \\sim 0$ (Productivité minimale)\n\nCes informations sont extraites des documents traitant des cas limites de perméation [Source: 42493210-j2810-1] et [Source: 10 Chapitre Membranes Polycopié S6 ENSIC].",
+    "sources": [
+      "42493210-j2810-1",
+      "10 Chapitre Membranes Polycopié S6 ENSIC",
+      "42493210-j2810-1",
+      "10 Chapitre Membranes Polycopié S6 ENSIC",
+      "42493210-j2810-1"
+    ],
+    "reference": "Quand le stage cut ET le rapport de pression tendent tous les deux vers zéro simultanément — maximisant la force motrice locale sans appauvrir le rétentat.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q002",
+    "question": "Donner la signification des deux termes : Rétentat et Perméat.",
+    "type": "FACTUEL",
+    "domaine": "séparation_membranaire",
+    "difficulté": "N1",
+    "reponse_modele": "Basé sur les documents scientifiques fournis, voici la signification précise des termes **Rétentat** et **Perméat** dans le contexte des procédés de séparation membranaire.\n\n### 1. Perméat\nLe perméat correspond à la fraction du flux d'alimentation qui traverse la membrane sélective.\n\n*   **Définition :** Il s'agit de la partie du flux qui passe à travers la membrane [Source: fndae14 | Page: 0].\n*   **Composition :** Il est exempt des molécules et/ou particules retenues par la membrane [Source: Techniques séparatives sur membranes | Page: 0]. Selon l'application, il peut être enrichi en un composé spécifique [Source: INPL_T_2003_MAUVIEL_G | Page: 0].\n*   **Notation :** Son débit est généralement noté $Q_p$ [Source: fndae14 | Page: 0].\n*   **Positionnement :** Il est obtenu du côté basse pression [Source: INPL_T_2003_MAUVIEL_G | Page: 0].\n\n### 2. Rétentat\nLe rétentat correspond à la fraction du flux d'alimentation qui ne traverse pas la membrane.\n\n*   **Définition :** C'est la partie restante du flux d'alimentation qui n'a pas traversé la membrane et qui reste dans la phase amont [Source: Thèse CIFRE Simon - 3 mars 2019 | Page: 0].\n*   **Composition :** Il contient les molécules ou particules retenues par la membrane [Source: fndae14 | Page: 0]. Il est également appelé **concentrat** [Source: Techniques séparatives sur membranes | Page: 0] ou **flux résiduel** [Source: INPL_T_2003_MAUVIEL_G | Page: 0].\n*   **Notation :** Son débit est généralement noté $Q_c$ [Source: fndae14 | Page: 0].\n*   **Positionnement :** Il est produit du côté haute pression [Source: INPL_T_2003_MAUVIEL_G | Page: 0].\n\n### Action séparative\nLa séparation est effective lorsque les compositions des flux au perméat et au rétentat sont différentes de celle du flux d'alimentation [Source: Thèse CIFRE Simon - 3 mars 2019 | Page: 0]. Selon l'application souhaitée, c'est soit le perméat, soit le rétentat qui représente le flux d'intérêt [Source: Thèse CIFRE Simon - 3 mars 2019 | Page: 0].",
+    "sources": [
+      "Techniques séparatives sur membranes",
+      "Thèse CIFRE Simon - 3 mars 2019",
+      "fndae14",
+      "INPL_T_2003_MAUVIEL_G"
+    ],
+    "reference": "Rétentat : partie contenant les molécules ou particules retenues par la membrane. Perméat : partie contenant les molécules qui traversent la membrane.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q023",
+    "question": "Pour un matériau et une fraction molaire au perméat fixés, de quoi dépendent les performances d'un module de perméation gazeuse et l'épaisseur a-t-elle un rôle ?",
+    "type": "FACTUEL",
+    "domaine": "perméation_gazeuse",
+    "difficulté": "N2",
+    "reponse_modele": "Il est important de préciser dès le départ qu'**aucun document pertinent n'a été trouvé dans le corpus LRGP** pour répondre spécifiquement à cette question. Par conséquent, je ne peux pas citer de source interne [Source: nom_article]. La réponse suivante est fournie sur la base de connaissances générales en génie des procédés membranaires.\n\n### Dépendances des performances d'un module de perméation\n\nPour un matériau donné et une fraction molaire au perméat fixées, les performances d'un module de perméation gazeuse (définies généralement par le flux de perméation, la sélectivité et le taux de récupération) dépendent principalement des paramètres suivants :\n\n1.  **La perméabilité du matériau ($P_i$)** : C'est une propriété intrinsèque du polymère ou de la membrane céramique. Elle dépend de la solubilité ($S_i$) et de la diffusivité ($D_i$) du gaz dans la membrane selon la loi de solution-diffusion :\n    $$P_i = S_i \\times D_i$$\n2.  **La différence de pression partielle ($\\Delta p_i$)** : La force motrice du transfert de matière entre le côté alimentation (feed) et le côté perméat (perm).\n3.  **La surface active de la membrane ($A$)** : La surface totale des fibres creuses ou des membranes plates exposée au flux.\n4.  **L'épaisseur de la membrane ($l$)** : Elle joue un rôle critique, comme détaillé ci-dessous.\n5.  **La température** : Elle influence $D_i$ et $S_i$, modifiant ainsi $P_i$.\n\n### Rôle de l'épaisseur de la membrane\n\nL'épaisseur ($l$) a un rôle déterminant sur le **flux de perméation**, mais son effet sur la **sélectivité** est théoriquement nul dans le modèle idéal.\n\nSelon la loi de solution-diffusion, le flux molaire $J_i$ d'un gaz $i$ à travers une membrane est donné par l'équation suivante :\n\n$$J_i = \\frac{P_i}{l} \\times (p_{i,feed} - p_{i,perm})$$\n\nOù :\n*   $J_i$ est le flux molaire ($mol \\cdot m^{-2} \\cdot s^{-1}$).\n*   $P_i$ est la perméabilité du matériau ($mol \\cdot m \\cdot m^{-2} \\cdot s^{-1} \\cdot Pa^{-1}$ ou $Barrer$).\n*   $l$ est l'épaisseur de la membrane ($m$).\n*   $p_{i,feed}$ et $p_{i,perm}$ sont les pressions partielles du gaz $i$ côté alimentation et côté perméat ($Pa$).\n\n**Analyse du rôle de l'épaisseur ($l$) :**\n*   **Sur le flux ($J_i$)** : Le flux est **inversement proportionnel** à l'épaisseur. Une réduction de l'épaisseur augmente le flux de perméation.\n*   **Sur la sélectivité ($\\alpha_{ij}$)** : La sélectivité entre deux gaz $i$ et $j$ est définie par le rapport de leurs perméabilités :\n    $$\\alpha_{ij} = \\frac{P_i}{P_j} = \\frac{S_i D_i}{S_j D_j}$$\n    L'épaisseur $l$ se simplifie dans ce rapport et n'apparaît pas dans l'expression de la sélectivité idéale. Cependant, dans la pratique, une épaisseur trop faible peut révéler des défauts (pinholes) qui dégradent la sélectivité.\n\n### Recommandation\n\nComme aucune donnée spécifique n'est disponible dans le corpus LRGP pour cette configuration exacte, je vous recommande de consulter la littérature spécialisée sur les membranes polymères (PDMS, PVDF, PES) ou céramiques pour obtenir des valeurs de $P_i$ et $\\alpha_{ij$ spécifiques à vos conditions opératoires.",
+    "sources": [],
+    "reference": "Dépendent du stage cut et du rapport de pression. L'épaisseur n'influence pas la sélectivité — elle impacte uniquement le flux de perméation global (loi solution-diffusion : J=P×Δp/l).",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q075",
+    "question": "Quels sont les auteurs ayant historiquement proposé l'approche basée sur un coefficient global constant (Kov) dans les premières publications dédiées aux contacteurs membranaires ?",
+    "type": "FACTUEL",
+    "domaine": "transfert_matière",
+    "difficulté": "N3",
+    "reponse_modele": "D'après les documents fournis, l'approche de modélisation du transfert de matière dans les contacteurs membranaires basée sur un coefficient global constant ($K_{OV}$) a été historiquement proposée par les auteurs suivants dans les premières publications dédiées à ce domaine :\n\n*   **Bottino et al., 2008**\n*   **Qi et Cussler, 1985a et 1985b**\n*   **Wickramasinghe et al., 1992**\n\nCette liste d'auteurs est explicitement mentionnée dans les documents traitant de l'expression la plus simple pour la modélisation du transfert de matière dans les contacteurs membranaires [Source: CES 2012 revised manuscript_docx].",
+    "sources": [
+      "CES 2012 revised manuscript_docx",
+      "CES 2012 revised manuscript_docx",
+      "1-s2.0-S0009250912005787-main",
+      "CES 2012 Chabanon et al.",
+      "Chabanon_2013_CES"
+    ],
+    "reference": "Cette approche a été historiquement proposée par Qi et Cussler (1985a, 1985b), Wickramasinghe et al. (1992), ainsi que Bottino et al. (2008).",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q100",
+    "question": "On modélise un contacteur membranaire avec l'approche du coefficient global constant Kov. La résistance globale (1/Kov) est de 2500 s/m. Sous une force motrice de concentration moyenne (ΔC) de 0,1 mol/m3, on souhaite capter 90 % du CO2 entrant (ratio ciblé dans les études du Doc 8). Si le débit d'entrée de CO2 est de 3,6 mol/s, et sachant que le flux de matière est J = Kov * ΔC, calculez l'aire membranaire totale (en m2) nécessaire (Débit capté = J * Aire).",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N4",
+    "reponse_modele": "",
+    "sources": [
+      "Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA",
+      "Thèse_Molina_CO2 postcomb",
+      "DDOC_T_2013_0318_MAKHLOUFI",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "DDOC_T_2017_0223_VILLENEUVE"
+    ],
+    "reference": "Kov = 1 / 2500 = 4.10^-4 m/s. Le flux transféré est J = 4.10^-4 * 0,1 = 4.10^-5 mol/(m2.s). La quantité de CO2 à capter est 3,6 * 0,90 = 3,24 mol/s. L'aire nécessaire est donc A = 3,24 / (4.10^-5) = 81000 m2.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q057",
+    "question": "Dans le modèle membranaire d'Ehsan Soroodan Miandoab, comment est défini le paramètre de configuration d'écoulement et en combien de cellules le module membranaire est-il divisé pour résoudre les équations de bilan de masse et d'énergie ?",
+    "type": "FACTUEL",
+    "domaine": "modélisation_membranaire",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents fournis dans le contexte, il est impossible de répondre précisément à votre question concernant le modèle membranaire d'Ehsan Soroodan Miandoab.\n\nVoici les éléments de réponse basés strictement sur les documents disponibles :\n\n1.  **Absence de l'auteur spécifique :** Les documents fournis (Document 1, Document 2, Document 3) ne mentionnent pas le nom \"Ehsan Soroodan Miandoab\" ni ne décrivent un modèle spécifique portant ce nom.\n2.  **Description générique du module :** Les documents décrivent un modèle générique où le module membranaire est divisé en **$n$ cellules équivalentes** ($1 \\le j \\le n$). La surface de chaque cellule ($\\Delta S$) est définie comme la surface totale ($S$) divisée par le nombre total de cellules ($n$) :\n    $$ \\Delta S = \\frac{S}{n} $$\n    [Source: (65_1) | Page: 0], [Source: 1-s2.0-S0376738816310742-main | Page: 0], [Source: Rigorous variable permeability modelling and process simulation for the design of polymeric membrane gas separation units MEMSIC simulation tool | Page: 0]\n3.  **Paramètre de configuration d'écoulement :** Aucun détail concernant un \"paramètre de configuration d'écoulement\" spécifique n'est fourni dans ces extraits.\n4.  **Nombre de cellules :** Le nombre de cellules est défini de manière symbolique par **$n$**, sans valeur numérique fixe indiquée dans le contexte.\n\n**Conclusion :**\nJe ne peux pas confirmer la définition du paramètre de configuration d'écoulement ni le nombre exact de cellules pour le modèle d'Ehsan Soroodan Miandoab, car ces informations ne sont pas présentes dans les documents fournis. Je ne peux pas inventer de valeurs ou d'auteurs en dehors du contexte autorisé.",
+    "sources": [
+      "(65_1)",
+      "1-s2.0-S0376738816310742-main",
+      "Rigorous variable permeability modelling and process simulation for the design of polymeric membrane gas separation units MEMSIC simulation tool"
+    ],
+    "reference": "Le modèle membranaire opère en régime stationnaire en utilisant une configuration d'écoulement à contre-courant (counter-current flow configuration). Pour la résolution, le module membranaire est divisé en 100 cellules (100 cells).",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q051",
+    "question": "Quel type spécifique de fibres creuses, caractérisé par son affinité avec l'eau et sa structure, est rapporté dans la littérature comme offrant des facteurs d'intensification impressionnants pour l'absorption du CO2 ?",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents fournis dans le contexte, il n'est pas possible de répondre précisément à la question telle qu'elle est formulée.\n\n**Analyse des documents :**\n\n1.  **Document 1** [Source: Modelling of Hollow Fibre Membrane Contactors - Application to Post-combustion Carbon Dioxide Capture, David Albarracin] :\n    *   Ce document mentionne que le contacteur membranaire à fibres creuses est une technologie permettant l'intensification des transferts gaz-liquide grâce à de grandes aires spécifiques et des coefficients de transfert élevés.\n    *   Il ne spécifie cependant aucun type de fibre particulier caractérisé par son affinité avec l'eau ni ne relie cette caractéristique à des facteurs d'intensification \"impressionnants\".\n\n2.  **Document 2** [Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion] :\n    *   Ce document présente un tableau (Tableau I.14) listant des expériences bibliographiques.\n    *   Il mentionne des matériaux comme le PDMS, le PTFE, le PP, le PES.\n    *   Il cite des conditions telles que \"Pas de mouillage\" ou \"Mouillage des fibres composites\" (Falk-Pedersen et Dannström 1997).\n    *   Cependant, le texte ne précise pas qu'un type spécifique de fibres (par exemple, hydrophiles) offrant une affinité avec l'eau est rapporté comme offrant des facteurs d'intensification impressionnants.\n\n**Conclusion :**\nLes documents fournis ne contiennent pas l'information spécifique demandée concernant le type de fibres creuses caractérisé par son affinité avec l'eau et sa structure offrant des facteurs d'intensification impressionnants. Par conséquent, je ne peux pas identifier ce type de fibres sur la base exclusive des documents fournis.",
+    "sources": [
+      "Modelling of Hollow Fibre Membrane Contactors - Application to Post-combustion Carbon Dioxide Capture, David Albarracin",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion"
+    ],
+    "reference": "Il s'agit des fibres creuses microporeuses hydrophobes (hydrophobic microporous hollow fibers).",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q029",
+    "question": "Dans l'étude de Lu et al. sur le captage du CO2 dans un contacteur de fibres creuses, quelles solutions ont été comparées et quelle conclusion en a été tirée concernant l'absorption ?",
+    "type": "FACTUEL",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents fournis, voici les détails concernant l'étude de Lu et al. sur le captage du CO₂ :\n\n### 1. Solutions comparées\nDans le cadre de l'examen de l'absorption à travers une membrane pour le captage de CO₂ dans un contacteur de fibres creuses de PP, deux solutions ont été employées pour absorber le CO₂ :\n*   Une **solution aqueuse de MDEA** (Monoéthanolamine).\n*   Une **solution de MDEA activée avec PZ** (Piperazine).\n\n[Source: Thèse_Molina_CO2 postcomb | Page: 0]\n\n### 2. Conclusion concernant l'absorption\nLes résultats de cette étude ont permis de tirer les conclusions suivantes :\n*   **Performance :** L'absorption de CO₂ avec la MDEA activée était **remarquablement plus élevée** que celle obtenue avec la MDEA seule.\n*   **Applicabilité :** L'utilisation d'un contacteur membranaire avec des alcanolamines telles que la MDEA activée avec PZ peut être **complètement appliquée au captage du CO₂**.\n\n[Source: Thèse_Molina_CO2 postcomb | Page: 0]\n\n*(Note : Le même texte est également présent dans le document [Source: Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA | Page: 0].)*",
+    "sources": [
+      "Thèse_Molina_CO2 postcomb",
+      "Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA",
+      "DDOC_T_2017_0223_VILLENEUVE",
+      "Modelling of Hollow Fibre Membrane Contactors - Application to Post-combustion Carbon Dioxide Capture, David Albarracin",
+      "Thèse_Molina_CO2 postcomb"
+    ],
+    "reference": "Deux solutions ont été comparées : une solution aqueuse de MDEA seule et une solution de MDEA activée avec de la pipérazine (PZ). Les résultats ont montré que l'absorption de CO2 avec la MDEA activée (MDEA + PZ) était remarquablement plus élevée que celle avec la MDEA seule.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q019",
+    "question": "Quels types de matériaux et structures sont employés pour réaliser une séparation membranaire ?",
+    "type": "FACTUEL",
+    "domaine": "matériaux_membranaires",
+    "difficulté": "N1",
+    "reponse_modele": "D'après les documents fournis, les matériaux et structures employés pour réaliser une séparation membranaire peuvent être classés selon leur nature chimique, leur porosité et leur mécanisme de séparation. Voici une synthèse structurée :\n\n### 1. Membranes Polymères Denses\nCes membranes sont constituées d'une couche dense (skin) polymère.\n*   **Matériaux spécifiques :** Les plastiques utilisés sont particulièrement préférés, notamment les **polyimides**, **polyamides**, **polysulphones**, **cellulose acetates et dérivés**, **polyphenylene oxides**, **polysiloxanes**, **polyethylene oxides**, **polypropylene oxides** [Source: US2014345457A1_Original_document_20210719110036].\n*   **Mécanisme :** Le mécanisme de séparation repose sur la **solution-diffusion** [Source: ogst130021].\n*   **Propriétés :** Ces matériaux doivent offrir des perméances et sélectivités adéquates, ainsi qu'une stabilité mécanique, thermique et chimique [Source: 36587495].\n\n### 2. Membranes Inorganiques et Microporeuses\nCes structures sont basées sur des matériaux non polymères.\n*   **Matériaux :** **Silice**, **carbone** (membranes céramiques ou CMSMs), **zéolites** [Source: 1-s2.0-S1876610217319549-main], [Source: US2014345457A1_Original_document_20210719110036], [Source: ogst130021].\n*   **Structures :**\n    *   **Membranes microporeuses inorganiques :** Le diamètre des pores est compris entre le diamètre cinétique des perméants et le libre parcours moyen [Source: ogst130021].\n    *   **Membranes tamis moléculaire (Zeolite) :** Le diamètre des pores est proche ou inférieur au diamètre cinétique des molécules [Source: ogst130021].\n*   **Mécanismes :**\n    *   **Écoulement de Knudsen** (pour les membranes microporeuses inorganiques) [Source: ogst130021].\n    *   **Tamisage moléculaire** (pour les zéolites) [Source: ogst130021].\n\n### 3. Membranes Hybrides et Structures Avancées\nCes structures combinent différentes phases ou mécanismes pour améliorer les performances.\n*   **Membranes Matrices Mixtes (MMMs) :** Composées d'une phase polymère continue avec des particules inorganiques adsorbantes dispersées [Source: 1-s2.0-S1876610217319549-main], [Source: US2014345457A1_Original_document_20210719110036].\n    *   **Mécanisme :** Mécanisme hybride (solution-diffusion + écoulement de surface) [Source: ogst130021].\n*   **Membranes à Porteur Fixe (FSCM) :** Liquide imprégné dans une membrane poreuse ou dissous dans un polymère dense [Source: ogst130021].\n    *   **Mécanisme :** Réaction avec une molécule porteuse mobile ou fixe + diffusion dans un liquide [Source: ogst130021].\n*   **Membranes Liquides (LM) :** [Source: ogst130021].\n*   **Polymères à Porosité Intrinsèque (MOPs) :** [Source: 1-s2.0-S1876610217319549-main].\n\n### 4. Contraintes Commerciales\nBien que de nombreux matériaux aient été identifiés pour leurs propriétés de séparation, il est important de noter que **seul neuf matériaux** sont appliqués commercialement dans les processus de perméation gazeuse [Source: 36587495], [Source: 4887].\n\n### 5. Critères de Choix\nLe choix du matériau membranaire est principalement basé sur :\n*   Ses propriétés physiques et chimiques [Source: 1-s2.0-S1876610217319549-main].\n*   Les conditions de fonctionnement du procédé [Source: 1-s2.0-S1876610217319549-main].\n*   La stabilité (thermique, chimique, mécanique) [Source: 36587495].\n*   La résistance aux composants mineurs du gaz d'alimentation et à la plasticisation par le CO₂ [Source: 36587495].",
+    "sources": [
+      "1-s2.0-S1876610217319549-main",
+      "US2014345457A1_Original_document_20210719110036",
+      "ogst130021",
+      "36587495",
+      "4887"
+    ],
+    "reference": "Matériaux organiques (polymères) ou inorganiques (céramiques, métaux). Structures poreuses (micro/ultrafiltration) ou denses (osmose inverse, perméation gazeuse).",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q068",
+    "question": "Dans le tableau 2 présentant les caractéristiques de transport des gaz, quelles sont les perméabilités respectives (en mélange) pour le méthane (CH4), le propane (C3H8) et le n-butane (nC4H10) à travers la membrane en PDMS ?",
+    "type": "FACTUEL",
+    "domaine": "perméabilité_matériaux",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents fournis, les informations concernant le Tableau 2 sont extraites du **Document 2**. Ce document liste explicitement les coefficients de perméabilité en mélange pour la membrane en PDMS.\n\nVoici les perméabilités respectives (en mélange) pour les gaz demandés à travers la membrane en PDMS, telles que reportées dans le Tableau 2 :\n\n*   **Méthane (CH₄) :** $700 \\text{ Barrer}$\n*   **Propane (C₃H₈) :** $2440 \\text{ Barrer}$\n*   **n-Butane (nC₄H₁₀) :** $5300 \\text{ Barrer}$\n\nCes valeurs correspondent aux coefficients de perméabilité dans le mélange gazeux pour la membrane PDMS.\n\n[Source: 1-s2.0-S1383586619350348-main]",
+    "sources": [
+      "1-s2.0-S1383586619350348-main",
+      "1-s2.0-S1383586619350348-main",
+      "1-s2.0-S1383586619350348-main",
+      "1-s2.0-S1381514818307557-main",
+      "C3 1-s2.0-S1381514818307557-main"
+    ],
+    "reference": "Les perméabilités en mélange à travers le PDMS sont : CH4 = 700 Barrer ; C3H8 = 2440 Barrer ; nC4H10 = 5300 Barrer.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q011",
+    "question": "Épuration eau (0,09 kg phénol/m³, V=4 m³), 2 kg charbon actif, dp=250 µm, 15°C. Isotherme Langmuir : m=C/(5,13×10⁻³C+4,06×10⁻²). kcpap=0,2×10⁻⁴ s⁻¹. Déterminer R, la concentration limite et la durée pour atteindre 0,009 kg/m³.",
+    "type": "CALCUL",
+    "domaine": "procédés_discontinus",
+    "difficulté": "N4",
+    "reponse_modele": "",
+    "sources": [
+      "membranes-10-00371"
+    ],
+    "reference": "R=0,989. Concentration limite C=0,0068 kg/m³. Durée t=13 740 s ≈ 3,82 h.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q021",
+    "question": "De quels paramètres dépendent les performances de séparation d'un module de perméation gazeuse ?",
+    "type": "FACTUEL",
+    "domaine": "perméation_gazeuse",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents fournis, les performances de séparation d'un module de perméation gazeuse dépendent de plusieurs paramètres distincts, classés ci-dessous :\n\n### 1. Propriétés intrinsèques du matériau membranaire\nL'efficacité de l'opération de séparation dépend logiquement des performances du matériau membranaire lui-même. Selon le document [Source: 10 Chapitre Membranes Polycopié S6 ENSIC], ces performances sont caractérisées par :\n*   La **perméabilité**.\n*   La **permselectivité**.\n\n### 2. Conditions opératoires et force motrice\nLes performances dépendent également des conditions physiques appliquées au module. Le document [Source: 10 Chapitre Membranes Polycopié S6 ENSIC] précise que cela inclut :\n*   La **force motrice appliquée**, définie comme la **différence de pression partielle** de part et d'autre de la membrane pour les différents composés.\n*   Les **pressions amont et aval** (notées $p_i'$ et $p_{te}''$ dans le document [Source: DDOC_T_2017_0020_PFISTER]).\n*   L'**énergie consommée** à chaque étage [Source: DDOC_T_2017_0020_PFISTER].\n\n### 3. Agencement et variables de procédé\nL'agencement des flux dans le module est un paramètre déterminant cité explicitement [Source: 10 Chapitre Membranes Polycopié S6 ENSIC]. De plus, le document [Source: DDOC_T_2017_0020_PFISTER] identifie d'autres variables influençant l'estimation des performances :\n*   Les **taux de récupération** (notés $R_{CO2}$).\n*   La **fraction en CO₂ intermédiaire** (notée $y_{1CO2}$).\n*   Les **performances de séparation des membranes** (cas 1, 2 ou 3).\n\n### 4. Nature du procédé\nIl est important de noter que, contrairement à la distillation ou à l'absorption, la séparation par perméation gazeuse est un **procédé cinétique** [Source: 42331210-j2810], [Source: Technique_Ingenieur], [Source: Techniques séparatives sur membranes]. Elle est basée sur les différences des vitesses de perméation à travers une membrane des constituants d'un mélange gazeux.\n\n*Note : Les documents [Source: 42331210-j2810], [Source: Technique_Ingenieur] et [Source: Techniques séparatives sur membranes] mentionnent que les performances dépendent de certains paramètres mais la liste est incomplète dans ces extraits (la phrase se termine par un deux-points).*",
+    "sources": [
+      "DDOC_T_2017_0020_PFISTER",
+      "10 Chapitre Membranes Polycopié S6 ENSIC",
+      "42331210-j2810",
+      "Technique_Ingenieur",
+      "Techniques séparatives sur membranes"
+    ],
+    "reference": "Sélectivité du matériau membranaire, rapport de pression amont/aval, taux de prélèvement (stage cut). Pas de dépendance à une courbe d'équilibre thermodynamique.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q091",
+    "question": "Dindore et al. (2004) ont étudié l'absorption du CO2 à des pressions élevées (elevated pressures, Doc 7). Pour une absorption dans un contacteur à fibres creuses opérant à une pression totale de 15 bar (soit 1500 kPa), la fraction molaire du CO2 dans la phase gaz est de 30 %. En supposant un comportement de gaz parfait et une température opératoire de 300 K (avec R = 8,314 J/(mol.K)), calculez la concentration de CO2 dans la phase gazeuse (en mol/m3) disponible pour le transfert interfaciel.",
+    "type": "CALCUL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N3",
+    "reponse_modele": "",
+    "sources": [
+      "DDOC_T_2013_0318_MAKHLOUFI",
+      "Thèse_Molina_CO2 postcomb",
+      "Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion"
+    ],
+    "reference": "La pression partielle de CO2 est P_CO2 = 0,30 * 1500 kPa = 450 kPa = 450 000 Pa. En appliquant la loi des gaz parfaits (C = P/RT), la concentration est C_g = 450 000 / (8,314 * 300) = 450 000 / 2494,2 = 180,4 mol/m3.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q016",
+    "question": "À 25°C, une membrane d'osmose inverse est utilisée pour une solution d'alimentation en NaCl contenant 2,5 g/L (2,5 kg/m³, ρ = 999 kg/m³). La constante de perméabilité à l'eau est Aw = 4,81 × 10⁻⁴ kg/(s·m²·atm) et la constante de perméabilité du soluté est As = 4,42 × 10⁻⁷ m/s. Calculer le flux d'eau (Nw), le flux de soluté (Ns), la rétention R et la concentration C2 du perméat. Donnée : ΔP = 27,20 atm.",
+    "type": "CALCUL",
+    "domaine": "osmose_inverse",
+    "difficulté": "N3",
+    "reponse_modele": "# Analyse de la demande de calcul\n\nJe dois vous informer d'une limitation importante concernant votre demande de calcul.\n\n## 1. Équations nécessaires non disponibles dans le contexte\n\nAprès examen attentif des documents fournis, **aucune équation de calcul pour le flux d'eau (Nw) ou le flux de soluté (Ns) en osmose inverse n'est présente** dans les documents du corpus LRGP.\n\nLes documents contiennent :\n- [Source: Thèse CIFRE Simon - 3 mars 2019 | Page: 0] : Classification des technologies membranaires sans équations de flux\n- [Source: fndae14 | Page: 0] : Taux de rejet au NaCl sans équations de calcul\n- [Source: 1-s2.0-S0304386X20304539-main | Page: 0] : Figure sans équations\n- [Source: 1-s2.0-S2214714419311341-main | Page: 0] : Mention de la perméabilité A évaluée par tests RO, mais sans équation\n- [Source: Dupont-XUS180808-L | Page: 0] : Conditions de test sans équations\n\n## 2. Données disponibles dans le contexte\n\nLes documents mentionnent :\n- [Source: fndae14 | Page: 0] : Taux de rejet au NaCl de 99 % pour le dessalement d'eau de mer\n- [Source: fndae14 | Page: 0] : Taux de rejet au NaCl de 96 % pour les eaux saumâtres\n- [Source: Dupont-XUS180808-L | Page: 0] : Conditions de test (32 000 ppm NaCl, 800 psi, 25°C, pH 8, 8% recovery)\n\n## 3. Informations manquantes pour le calcul\n\nPour effectuer ce calcul, il manque dans le contexte :\n- L'équation de calcul du flux d'eau (généralement $J_w = A_w(\\Delta P - \\Delta \\pi)$)\n- L'équation de calcul du flux de soluté (généralement $J_s = A_s \\Delta C$)\n- La pression osmotique $\\Delta \\pi$\n- La concentration du perméat $C_2$\n\n## 4. Conclusion\n\n**Je ne peux pas effectuer ce calcul** car les équations nécessaires ne sont pas fournies dans les documents du corpus LRGP.\n\nPour obtenir ces équations, je vous recommande de consulter :\n- La littérature scientifique sur les membranes d'osmose inverse\n- Les spécifications techniques des membranes (comme mentionné dans [Source: Dupont-XUS180808-L | Page: 0])\n- Les documents techniques des fabricants de membranes\n\nSi vous avez accès à d'autres documents contenant les équations de flux membranaires, je pourrai alors vous aider à effectuer le calcul en suivant les règles de citation et de vérification dimensionnelle.",
+    "sources": [
+      "Thèse CIFRE Simon - 3 mars 2019",
+      "fndae14",
+      "1-s2.0-S0304386X20304539-main",
+      "1-s2.0-S2214714419311341-main",
+      "Dupont-XUS180808-L"
+    ],
+    "reference": "1) Pression osmotique de l'alimentation : π1 = i·(C1/M)·R·T = 2 × (2,5 / 58,45) × 0,08206 × 298,15 = 2,093 atm. 2) Paramètre B = Aw / (As × ρ) = 4,81·10⁻⁴ / (4,42·10⁻⁷ × 999) = 1,089 atm⁻¹. 3) Par itération avec R = B(ΔP - Δπ) / [1 + B(ΔP - Δπ)], on converge rapidement vers R = 0,965 (soit 96,5 %). 4) Concentration du perméat : C2 = C1(1 - R) = 2,5 × (1 - 0,965) = 0,088 kg/m³. 5) Différence de pression osmotique : π2 = π1 × (C2/C1) = 0,074 atm, d'où Δπ = 2,093 - 0,074 = 2,019 atm. 6) Flux d'eau : Nw = Aw(ΔP - Δπ) = 4,81·10⁻⁴ × (27,20 - 2,019) = 1,21·10⁻² kg/(m²·s). 7) Flux de soluté : Ns = As(C1 - C2) = 4,42·10⁻⁷ × (2,5 - 0,088) = 1,06·10⁻⁶ kg/(m²·s).",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q071",
+    "question": "Quel paramètre unique permet d'évaluer rapidement et facilement les performances du procédé de transfert de matière dans un contacteur membranaire selon les premières publications ?",
+    "type": "FACTUEL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2",
+    "reponse_modele": "Selon les documents fournis, le paramètre unique permettant d'évaluer rapidement et facilement les performances du procédé de transfert de matière dans un contacteur membranaire est le **coefficient de transfert de matière global**, noté **$K_{OV}$**.\n\nVoici les détails basés sur les documents :\n\n1.  **Identification du paramètre** :\n    L'approche la plus simple pour la modélisation du transfert de matière dans un contacteur membranaire repose sur un coefficient de transfert de matière global constant, **$K_{OV}$** [Source: CES 2012 revised manuscript_docx].\n\n2.  **Raison de ce choix** :\n    Cette approche a l'avantage d'inclure les différents mécanismes de transfert de matière dans un seul paramètre global ($K_{OV}$), ce qui permet d'évaluer rapidement les performances du procédé [Source: CES 2012 revised manuscript_docx].\n\n3.  **Comparaison et évaluation** :\n    Connaître la surface interfaciale gaz-liquide ($a$) et le coefficient global ($K_{OV}$) permet d'obtenir facilement la performance $K_{OV} \\cdot a$ et de la comparer avec d'autres technologies [Source: Elsevier Encyclopedia Membrane Contactors Chabanon & Favre].\n\n**Conclusion :**\nLe paramètre clé est donc **$K_{OV}$** (coefficient de transfert de matière global), car il regroupe les mécanismes de transfert et simplifie l'évaluation des performances [Source: CES 2012 revised manuscript_docx ; Source: Elsevier Encyclopedia Membrane Contactors Chabanon & Favre].",
+    "sources": [
+      "CES 2012 revised manuscript_docx",
+      "CES 2012 revised manuscript_docx",
+      "Elsevier Encyclopedia Membrane Contactors Chabanon & Favre",
+      "CES 2012 Chabanon et al.",
+      "1-s2.0-S0009250912005787-main"
+    ],
+    "reference": "L'évaluation est basée sur l'utilisation d'un paramètre unique : le coefficient global de transfert de matière constant, noté Kov.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q063",
+    "question": "Quel est le mécanisme régissant le transport des composés à travers les membranes denses en polymère (comme pour la perméation gazeuse ou la pervaporation) et quelle relation relie la perméabilité à la solubilité et à la diffusion ?",
+    "type": "FACTUEL",
+    "domaine": "perméabilité_matériaux",
+    "difficulté": "N1",
+    "reponse_modele": "D'après les documents fournis dans le contexte, voici la réponse structurée concernant le transport à travers les membranes denses en polymère.\n\n### 1. Mécanisme de transport\nLe transport des molécules gazeuses à travers les membranes denses en polymère est régi par le **mécanisme solution-diffusion** [Source: DDOC_T_2017_0020_PFISTER].\n\nCe mécanisme se déroule en deux étapes séquentielles :\n1.  **Dissolution :** Les molécules de gaz se dissolvent d'abord dans la membrane polymère dense.\n2.  **Diffusion :** Les molécules diffusent ensuite à travers la membrane [Source: DDOC_T_2017_0020_PFISTER].\n\n### 2. Relation entre Perméabilité, Solubilité et Diffusivité\nLa perméabilité ($P$) d'un polymère est définie comme le produit de la diffusivité ($D$) et de la solubilité ($S$) [Source: sterescu-et-al-2006-fullerene-modified-poly(2-6-dimethyl-1-4-phenylene-oxide)-gas-separation-membranes-why-binding-is].\n\nLa relation mathématique est exprimée par l'équation suivante :\n\n$$P = D \\times S$$\n\nOù :\n*   $P$ représente la **perméabilité** (compromis entre la vitesse de transport et la capacité de rétention).\n*   $D$ représente la **diffusivité**, correspondant au composant cinétique du transport [Source: sterescu-et-al-2006-fullerene-modified-poly(2-6-dimethyl-1-4-phenylene-oxide)-gas-separation-membranes-why-binding-is].\n*   $S$ représente la **solubilité**, correspondant au composant thermodynamique du transport [Source: sterescu-et-al-2006-fullerene-modified-poly(2-6-dimethyl-1-4-phenylene-oxide)-gas-separation-membranes-why-binding-is].\n\nCette description repose sur la loi de Fick avec l'hypothèse d'un coefficient de diffusion constant [Source: DDOC_T_2017_0020_PFISTER].",
+    "sources": [
+      "DDOC_T_2017_0020_PFISTER",
+      "Rigorous variable permeability modelling and process simulation for the design of polymeric membrane gas separation units MEMSIC simulation tool",
+      "sterescu-et-al-2006-fullerene-modified-poly(2-6-dimethyl-1-4-phenylene-oxide)-gas-separation-membranes-why-binding-is",
+      "(65_1)",
+      "1-s2.0-S0376738816310742-main"
+    ],
+    "reference": "Le mécanisme de transport est le mécanisme de solution-diffusion. La perméabilité (P) est définie comme le produit de la solubilité (S) et du coefficient de diffusion (D), soit l'équation : P = S · D.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q038",
+    "question": "Quels sont les deux procédés membranaires fondamentalement distincts étudiés pour l'élimination efficace du CO2 contenu dans le CH4 ?",
+    "type": "COMPARAISON",
+    "domaine": "CH4_CO2",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents fournis, la thèse de K. Simons examine le potentiel de la technologie membranaire pour l'élimination efficace du CO₂ contenu dans le CH₄. L'étude se concentre sur deux procédés membranaires fondamentalement distincts pour accomplir cette séparation [Source: thesis_K_Simons].\n\nCes deux procédés sont :\n\n1.  **L'utilisation d'un contacteur membrane gaz-liquide** : Ce procédé est dédié à l'absorption sélective du CO₂ à partir du mélange CH₄ [Source: thesis_K_Simons].\n2.  **L'utilisation de membranes de séparation gazeuse fines et denses** : Ce procédé est utilisé pour établir la séparation par séparation directe des gaz [Source: thesis_K_Simons].\n\n**Détails complémentaires sur la répartition des chapitres :**\n*   Le premier procédé (contacteur gaz-liquide) est principalement décrit dans les chapitres 2 à 4, qui se concentrent sur les aspects technologiques du procédé et la conception du système [Source: thesis_K_Simons].\n*   Le second procédé (membranes fines et denses) est décrit dans les chapitres 5 et 6, dont le focus est principalement sur le développement de nouveaux matériaux membranaires pour la séparation du CO₂ [Source: thesis_K_Simons].",
+    "sources": [
+      "thesis_K_Simons",
+      "thesis_K_Simons",
+      "thesis_K_Simons",
+      "thesis_K_Simons",
+      "thesis_K_Simons"
+    ],
+    "reference": "Les deux procédés sont : 1) l'utilisation d'un contacteur membranaire gaz-liquide pour l'absorption sélective du CO2 à partir du CH4, et 2) l'utilisation de membranes denses et fines de séparation de gaz (gas separation membranes).",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q099",
+    "question": "Le coefficient global de transfert de matière (Kov ou K) simplifie l'évaluation des performances du procédé (Doc 6). Si, suite à une modification du solvant, on divise la résistance globale au transfert de matière (1/K) par deux par rapport à un état initial où K valait 5.10^-5 m/s, calculez la nouvelle résistance globale (en s/m) et le nouveau coefficient global K (en m/s).",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2",
+    "reponse_modele": "### Analyse et Calcul du Coefficient de Transfert de Matière\n\nVoici la démarche détaillée pour répondre à votre question de calcul, basée strictement sur les principes théoriques fournis dans les documents du corpus LRGP.\n\n#### 1. Identification de l'équation et des principes pertinents\n\nPour effectuer ce calcul, nous nous appuyons sur la définition du coefficient global de transfert de matière et du modèle des résistances en série.\n\n*   **Définition du coefficient $K$ :** Le coefficient global de transfert de matière $K$ est exprimé en m/s [Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion | Page: 0].\n*   **Modèle des résistances :** Le coefficient global $K$ peut être déterminé en utilisant le modèle des résistances en série [Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion | Page: 0].\n*   **Relation Résistance/Coefficient :** La résistance globale au transfert de matière est définie comme l'inverse du coefficient global ($1/K$) [Source: Thèse_MARTINEZ_TRIANA_manuscrit | Page: 0].\n*   **Note sur le Document 6 :** Le document 6 est mentionné dans l'énoncé de la question mais n'est pas inclus dans le contexte fourni. Le calcul repose donc sur les définitions théoriques disponibles dans les documents 1 à 5.\n\n#### 2. Liste des données numériques et unités\n\nLes données proviennent de l'énoncé de la question, tandis que les unités sont validées par les documents contextuels.\n\n*   **Coefficient initial ($K_{initial}$)** : $5 \\times 10^{-5}$ m/s [Donnée question].\n*   **Unité de $K$** : m/s [Source: 2011 NGUYEN_FAVRE ... | Page: 0].\n*   **Condition de modification** : La résistance globale est divisée par deux ($R_{new} = \\frac{1}{2} R_{initial}$).\n*   **Unité de la résistance ($R$)** : s/m (dérivée de $1/K$).\n\n#### 3. Calcul étape par étape\n\n**Étape 1 : Calcul de la résistance initiale ($R_{initial}$)**\n\nLa résistance globale est l'inverse du coefficient global :\n$$ R_{initial} = \\frac{1}{K_{initial}} $$\n\nSubstitution des valeurs :\n$$ R_{initial} = \\frac{1}{5 \\times 10^{-5} \\, \\text{m/s}} $$\n\nCalcul :\n$$ R_{initial} = 20\\,000 \\, \\text{s/m} $$\n\n**Étape 2 : Calcul de la nouvelle résistance globale ($R_{new}$)**\n\nLa résistance est divisée par deux suite à la modification du solvant :\n$$ R_{new} = \\frac{R_{initial}}{2} $$\n\nSubstitution des valeurs :\n$$ R_{new} = \\frac{20\\,000 \\, \\text{s/m}}{2} $$\n\nCalcul :\n$$ R_{new} = 10\\,000 \\, \\text{s/m} $$\n\n**Étape 3 : Calcul du nouveau coefficient global ($K_{new}$)**\n\nLe nouveau coefficient est l'inverse de la nouvelle résistance :\n$$ K_{new} = \\frac{1}{R_{new}} $$\n\nSubstitution des valeurs :\n$$ K_{new} = \\frac{1}{10\\,000 \\, \\text{s/m}} $$\n\nCalcul :\n$$ K_{new} = 1 \\times 10^{-4} \\, \\text{m/s} $$\n\n*(Vérification alternative : Si la résistance est divisée par 2, le coefficient $K$ est multiplié par 2. $2 \\",
+    "sources": [
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "Thèse_MARTINEZ_TRIANA_manuscrit",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion"
+    ],
+    "reference": "La résistance globale initiale est 1 / (5.10^-5) = 20000 s/m. La nouvelle résistance est divisée par deux, soit 20000 / 2 = 10000 s/m. Le nouveau coefficient K est 1 / 10000 = 1.10^-4 m/s.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q096",
+    "question": "Dans les 3700 études de simulation de contacteurs membranaires mentionnées par Favre & Svendsen (Doc 8 et 9), le taux de capture de CO2 est fixé à 90 %. Si l'on applique ce ratio de capture à un flux d'alimentation contenant 150 mol/h de CO2, calculez le débit de CO2 capté (en mol/h) et le débit de CO2 résiduel non capté (en mol/h).",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N1",
+    "reponse_modele": "### Analyse des documents et données disponibles\n\n**1. Disponibilité des sources**\nIl est important de noter que les documents 8 et 9 mentionnés dans la question ne sont **pas inclus** dans le contexte fourni (seuls les documents 1 à 5 sont disponibles). Par conséquent, l'information spécifique concernant les \"3700 études de simulation\" et la référence à \"Favre & Svendsen (Doc 8 et 9)\" ne peut être vérifiée dans le corpus actuel.\n\nCependant, la valeur de l'efficacité de capture de **90 %** est explicitement mentionnée dans les documents disponibles :\n*   **Document 1 :** \"L'efficacité de capture visée en industrie est souvent de 90%\" [Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion].\n*   **Document 3 :** \"The CO₂ capture ratio $\\theta$ is set to the value of 0.90\" [Source: Modelling of a microstructured membrane reactor].\n\n**2. Données numériques extraites**\n*   Débit molaire d'alimentation en CO₂ ($\\dot{n}_{in}$) : $150 \\text{ mol/h}$ (donné dans la question).\n*   Ratio de capture ($\\theta$) : $0.90$ (ou 90%) [Source: 2011 NGUYEN_FAVRE...], [Source: Modelling of a microstructured membrane reactor].\n*   Incertitude : Aucune incertitude numérique n'est fournie dans les documents pour ce ratio [Source: 2011 NGUYEN_FAVRE...], [Source: Modelling of a microstructured membrane reactor].\n\n### Équation de calcul\n\nLe taux de capture ($\\theta$) est défini comme le rapport entre le débit de CO₂ capté et le débit d'alimentation en CO₂. Les équations de bilan sont :\n\n$$ \\dot{n}_{capté} = \\theta \\times \\dot{n}_{in} $$\n\n$$ \\dot{n}_{résiduel} = \\dot{n}_{in} - \\dot{n}_{capté} $$\n\nOù :\n*   $\\dot{n}_{capté}$ est le débit de CO₂ capté (mol/h).\n*   $\\dot{n}_{résiduel}$ est le débit de CO₂ non capté (mol/h).\n*",
+    "sources": [
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "DDOC_T_2017_0223_VILLENEUVE",
+      "Modelling of a microstructured membrane reactor4",
+      "DDOC_T_2017_0223_VILLENEUVE",
+      "Thesis_Qazi_2020"
+    ],
+    "reference": "Le débit de CO2 capté est 150 * 0,90 = 135 mol/h. Le débit résiduel est 150 - 135 = 15 mol/h.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q059",
+    "question": "Dans les simulations du module membranaire sous Aspen Custom Modeller (ACM), quelles sont les variables de conception qui sont fixées et quelle est la variable calculée par le modèle ?",
+    "type": "FACTUEL",
+    "domaine": "modélisation_membranaire",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents fournis, il n'est pas possible de lister explicitement les variables de conception fixées et la variable calculée par le modèle spécifique. Les documents décrivent la structure et les capacités du modèle, mais ne détaillent pas la liste complète des entrées (variables fixées) et des sorties (variables calculées) pour la simulation.\n\nCependant, les documents fournissent les informations suivantes concernant le fonctionnement du modèle :\n\n1.  **Régime de fonctionnement :** Le modèle membranaire opère en régime permanent (steady-state) [Source: 36012f7a-6cac-eb11-94d7-0050568d0279_Thesis-Ehsan Soroodan Miandoab-Unimel...ersion | Page: 0].\n2.  **Équations utilisées :** Le modèle utilise des équations de bilan de masse et de chute de pression [Source: 36012f7a-6cac-eb11-94d7-0050568d0279_Thesis-Ehsan Soroodan Miandoab-Unimel...ersion | Page: 0]. Le logiciel Aspen Custom Modeller (ACM) possède des solveurs numériques intégrés capables de résoudre des équations différentielles ordinaires et partielles [Source: membranes-13-00639 | Page: 0].\n3.  **Définition des flux :** Le modèle définit des ports pour les flux d'alimentation (feed), de rétention (retentate), de perm",
+    "sources": [
+      "36012f7a-6cac-eb11-94d7-0050568d0279_Thesis-Ehsan Soroodan Miandoab-Unimel...ersion",
+      "membranes-13-00639",
+      "Gas_Separation_Membrane_Module_Modeling_A_Comprehe",
+      "36012f7a-6cac-eb11-94d7-0050568d0279_Thesis-Ehsan Soroodan Miandoab-Unimel...ersion",
+      "s11814-012-0221-y"
+    ],
+    "reference": "Dans ces simulations, le stage-cut et le rapport de pression (pressure ratio) sont fixés par l'utilisateur, tandis que l'aire de la membrane (membrane area) est une variable calculée par le modèle.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q007",
+    "question": "Déterminer l'isotherme pour : C=[0,322;0,117;0,039;0,0061;0,0011] kg/m³, m=[0,150;0,122;0,094;0,059;0,045] kg/kg (phénol/charbon actif).",
+    "type": "CALCUL",
+    "domaine": "isothermes_adsorption",
+    "difficulté": "N2",
+    "reponse_modele": "Bonjour. En tant qu'assistant scientifique expert au Laboratoire Réactions et Génie des Procédés (LRGP), j'ai analysé votre demande de calcul d'isotherme basée sur les documents fournis.\n\nVoici l'analyse détaillée et la réponse concernant la détermination de l'isotherme pour le couple phénol/charbon actif.\n\n### 1. Analyse des données disponibles dans le contexte\n\n**Données fournies dans la question :**\n*   Concentrations ($C$) : $[0,322; 0,117; 0,039; 0,0061; 0,0011] \\, \\text{kg/m}^3$\n*   Chargements massiques ($m$) : $[0,150; 0,122; 0,094; 0,059; 0,045] \\, \\text{kg/kg}$\n*   Matériau : Phénol/Charbon actif\n\n**Données disponibles dans le contexte (Document 1) :**\n*   Mention de l'existence d'équations pour les paramètres d'isotherme : \"eqs 2a -2d\".\n*   Plage de température associée : $303.15 \\, \\text{K}$ à $393.15 \\, \\text{K}$.\n*   Source du document : [Source: ie050012z].\n\n### 2. Identification des équations pertinentes\n\nLe contexte indique que les paramètres d'isotherme sont calculés par les équations (2a - 2d). Cependant, **le contenu mathématique de ces équations n'est pas inclus** dans l'extrait du Document 1 fourni.\n\nIl n'est pas possible de déduire la forme de l'équation (par exemple, Langmuir, Freundlich, ou autre) ni les constantes associées (comme la capacité maximale ou le coefficient d'affinité) à partir de l'information disponible.\n\n### 3. Calcul et Vérification\n\n**Étape 1 : Tentative d'application du modèle**\nPour déterminer l'isotherme, il est nécessaire d'appliquer une relation fonctionnelle entre $C$ et $m$ (par exemple $m = f(C)$).\n$$ m = f(C, T, \\text{paramètres}) $$\n\n**Étape 2 : Vérification des données manquantes**\n*   **Équation manquante :** Les équations (2a - 2d) sont citées mais non définies dans le texte.\n*   **Paramètres manquants :** Les constantes spécifiques au couple phénol/charbon actif ne sont pas listées dans le Document 1.\n*   **Température :** Bien que la plage soit donnée ($303.15 - 393.15 \\, \\text{K}$), la température exacte du calcul n'est pas précisée, et les paramètres dépendent de $T$.\n\n**Étape 3 : Conclusion sur le calcul**\nComme les équations mathématiques reliant $C$ et $m$ ne sont pas fournies dans le contexte, **le calcul ne peut pas être effectué** sans inventer de valeurs ou de modèles, ce qui est interdit par les règles strictes.\n\n### 4. Résultat Final\n\nIl est impossible de déterminer l'isotherme avec les informations actuelles.\n\n**Raison :** Les équations (2a - 2d) mentionnées dans le Document 1 ne sont pas explicitement décrites dans le texte fourni. Par conséquent, la relation mathématique entre la concentration $C$ et le chargement $m$ ne peut être établie.\n\n**Incertitude :** L'incertitude est ici liée à l'absence de données de modélisation dans le corpus fourni.\n\n**Citation :**\n[Source: ie050012z]\n\n**Recommandation :** Pour procéder au calcul, il est nécessaire de fournir le contenu complet des équations (2a - 2d) ainsi que les constantes d'ajustement spécifiques au matériau phénol/charbon actif.",
+    "sources": [
+      "ie050012z"
+    ],
+    "reference": "Tracer ln(m)=f(ln(c)) → droite → Freundlich. Équation : m=0,199×c^0,229.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q028",
+    "question": "Quels ont été les premiers solvants employés pour le captage du CO2 par couplage de l'absorption et d'un contacteur membranaire depuis les années 90, et quel réactif n'avait pas encore été utilisé jusqu'aux travaux de Molina ?",
+    "type": "FACTUEL",
+    "domaine": "absorption_CO2_amines",
+    "difficulté": "N2",
+    "reponse_modele": "D'après les documents du corpus scientifique LRGP fournis, voici les réponses structurées à votre question concernant l'évolution des procédés de couplage absorption/contacteur membranaire.\n\n### 1. Premiers solvants employés (depuis les années 90)\n\nSelon les documents analysés, l'évolution des solvants utilisés pour le couplage de l'absorption et d'un contacteur membranaire pour le captage de CO₂ depuis les années 90 s'est déroulée comme suit :\n\n*   **Le premier solvant employé :** L'eau.\n*   **Les solvants chimiques suivants :** La MEA, la MDEA et la DEA.\n\nCes informations sont extraites des documents suivants :\n> [Source: Thèse_Molina_CO2 postcomb]\n> [Source: Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA]\n\n### 2. Réactif non utilisé jusqu'aux travaux de Molina\n\nConcernant le réactif qui n'avait pas encore été utilisé pour le captage du CO₂ à travers un contacteur membranaire au moment des travaux de Molina :\n\n*   **Le réactif :** L'ammoniaque.\n*   **Contexte :** L'usage de l'ammoniaque pour capter le CO₂ à travers un contacteur membranaire n'avait pas été utilisé jusqu'à présent (au moment de la rédaction des thèses citées).\n\nCeci est confirmé par les documents suivants :\n> [Source: Thèse_Molina_CO2 postcomb]\n> [Source: Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA]\n\n### Synthèse\n\n| Catégorie | Détails | Source |\n| :--- | :--- | :--- |\n| **Premier solvant (années 90)** | L'eau | [Source: Thèse_Molina_CO2 postcomb] |\n| **Solvants chimiques suivants** | MEA, MDEA, DEA | [Source: Thèse_Molina_CO2 postcomb] |\n| **Réactif non utilisé (avant Molina)** | Ammoniaque | [Source: Thèse_Molina_CO2 postcomb] |",
+    "sources": [
+      "Thèse_Molina_CO2 postcomb",
+      "Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA",
+      "DDOC_T_2013_0318_MAKHLOUFI",
+      "Thèse_Molina_CO2 postcomb",
+      "Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA"
+    ],
+    "reference": "Le premier solvant employé a été l'eau, suivi par des solvants chimiques de type amines comme la MEA, la MDEA et la DEA. L'usage de l'ammoniaque pour le captage via contacteur membranaire n'avait pas été utilisé jusqu'à l'étude de Molina.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q052",
+    "question": "Dans quel volume du Journal of Membrane Science, et à quelles pages précisément, l'article de Dindore et al. de 2004 concernant l'absorption du CO2 à pression élevée a-t-il été publié ?",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N3",
+    "reponse_modele": "D'après les documents fournis dans le contexte, l'article de Dindore et al. de 2004 intitulé *\"CO2 absorption at elevated pressures using a hollow fiber membrane contactor\"* a été publié dans le **Journal of Membrane Science**, volume **235**, aux pages **99-109**.\n\nCette information bibliographique est confirmée par plusieurs références présentes dans le corpus :\n\n*   Le volume est spécifié comme étant **235** [Source: koonaphapdeelert_2009_CES].\n*   Les pages sont indiquées comme étant **99–109** [Source: OGST CESAR_revised manuscript Final version].\n*   La référence bibliographique complète inclut également le numéro de volume **235** et les pages **99-109** [Source: Thèse_Molina_CO2 postcomb].\n*   Une autre référence confirme le volume **235** et les pages **99-109** [Source: Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA].\n\nAinsi, les coordonnées exactes de publication sont :\n*   **Journal :** Journal of Membrane Science\n*   **Volume :** 235\n*   **Pages :** 99-109\n*   **Année :** 2004\n\n[Source: koonaphapdeelert_2009_CES]\n[Source: OGST CESAR_revised manuscript Final version]\n[Source: thesis_K_Simons]\n[Source: Thèse_Molina_CO2 postcomb]\n[Source: Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA]",
+    "sources": [
+      "koonaphapdeelert_2009_CES",
+      "OGST CESAR_revised manuscript Final version",
+      "thesis_K_Simons",
+      "Thèse_Molina_CO2 postcomb",
+      "Comparaison du captage du CO2 en postcomb par des solutions d’ammoniaque et d’amines organiques - Évaluation en contacteurs, approches cinétiques, thermo et modélisation_MOLINA"
+    ],
+    "reference": "L'article a été publié dans le volume 235 (numéros 1-2), aux pages 99 à 109.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q012",
+    "question": "Adsorption batch sur charbon actif. Une solution d'eau usée de volume 0,89 m³ et de concentration 0,22 kg de phénol/m³. Une quantité de 1,5 kg de charbon actif frais est ajoutée. En utilisant l'isotherme C=[0,33; 0,12; 0,03; 0,006; 0,001] et m=[0,15; 0,115; 0,09; 0,05; 0,04], trouver m et c à l'équilibre et le % de phénol extrait.",
+    "type": "CALCUL",
+    "domaine": "procédés_discontinus",
+    "difficulté": "N2",
+    "reponse_modele": "",
+    "sources": [
+      "Adsorption and Mass Transport in",
+      "INPL_T_2003_MAUVIEL_G",
+      "INPL_T_2003_MAUVIEL_G",
+      "4887",
+      "36587495"
+    ],
+    "reference": "Le bilan de matière s'écrit : V(C0 - c) = M(m - m0). Avec V=0,89 m³, M=1,5 kg, C0=0,22 kg/m³ et m0=0, on obtient la droite opératoire : m = (0,89/1,5) × (0,22 - c), soit m = 0,593 × (0,22 - c). L'intersection de cette droite avec l'isotherme (qui suit la loi de Freundlich m = 0,199 × c^0,229 établie par les points) donne à l'équilibre : c ≈ 0,051 kg/m³ et m ≈ 0,100 kg/kg. Le pourcentage de phénol extrait est E(%) = ((0,22 - 0,051) / 0,22) × 100 = 76,8 %.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  },
+  {
+    "id": "Q049",
+    "question": "Quel matériau polymère spécifique est mentionné dans le document IONADA Piasenta (2021) concernant la modélisation et la simulation de contacteurs à fibres creuses pour le captage du CO2 ?",
+    "type": "FACTUEL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N1",
+    "reponse_modele": "D'après les documents fournis, voici la réponse précise concernant le matériau polymère mentionné dans le document IONADA Piasenta (2021) :\n\n**Matériau polymère identifié :**\nLe matériau spécifique mentionné est le **PTFE** (Polytétrafluoroéthylène).\n\n**Contexte et justification :**\nLe document [Source: 2021 IONADA Piasenta ssrn-4612453_240625_154649-1] indique que l'étude se concentre sur l'investigation des performances d'un \"modularized **PTFE** hollow fiber membrane contactor\" (contacteur à fibres creuses en PTFE modulaire) développé par Ionada. Les résultats de simulations présentés dans ce document concernent spécifiquement ce type de contacteur pour la capture du CO₂ en post-combustion.\n\n**Référence :**\n[Source: 2021 IONADA Piasenta ssrn-4612453_240625_154649-1]",
+    "sources": [
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion",
+      "2021 IONADA Piasenta ssrn-4612453_240625_154649-1",
+      "DDOC_T_2013_0318_MAKHLOUFI"
+    ],
+    "reference": "Le PTFE (polytétrafluoroéthylène) est le matériau polymère mentionné.",
+    "notation_annotateur_1": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    },
+    "notation_annotateur_2": {
+      "exactitude_factuelle": null,
+      "rigueur_demarche": null,
+      "pertinence_physique": null,
+      "clarte_pedagogique": null,
+      "citation_sources": null,
+      "commentaire": ""
+    }
+  }
+]

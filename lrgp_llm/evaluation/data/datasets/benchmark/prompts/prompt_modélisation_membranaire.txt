@@ -1,0 +1,81 @@
+Tu es un expert en génie des procédés et séparation membranaire au LRGP Nancy.
+À partir du contexte scientifique ci-dessous extrait du corpus du laboratoire,
+génère exactement 8 questions de benchmark de qualité scientifique.
+
+Contraintes strictes :
+- Baser les questions UNIQUEMENT sur les informations présentes dans le contexte
+- Types demandés : CALCUL, FACTUEL
+- Pour les CALCUL : inclure toutes les données numériques nécessaires dans la question
+- Pour les FACTUEL : question précise avec réponse vérifiable dans le contexte
+- Priorité aux niveaux N2 et N3, quelques N4
+- Réponses complètes avec valeurs numériques et unités
+
+Réponds UNIQUEMENT avec un tableau JSON valide sans texte avant ni après :
+[
+  {
+    "question": "...",
+    "answer": "...",
+    "type": "CALCUL|FACTUEL|COMPARAISON",
+    "domaine": "modélisation_membranaire",
+    "difficulté": "N1|N2|N3|N4"
+  }
+]
+
+Contexte scientifique :
+[Doc 1 — Source: Thèse CIFRE Simon - 3 mars 2019]
+Figure 6.5 : Stage cut of membrane modules for conditions according to Table 6.8
+
+---
+
+[Doc 2 — Source: 36012f7a-6cac-eb11-94d7-0050568d0279_Thesis-Ehsan Soroodan Miandoab-Unimel...ersion]
+Figure 3.20. Creating the ATMLZ file for exporting membrane model to Aspen Plus and Aspen Hysys ........................................................................................69, 1 = . Figure 4.1. Membrane module consisted of Ncells (counter-current operation is shown here)........................................................................................................74, 1 = . Figure 4.2. Asingle cell of the membrane module ...............................................76, 1 = . Figure 4.3. Methodology of modelling ................................................................84, 1 = . Figure 4.4. Mole fraction of CO 2 in the retentate and permeate streams obtained, 1 = by. the rigorous (solid line) and simplistic (dash line) models as a function of the difference in CO 2 andH 2 activation energies of permeation and pre-exponential factor. Feed is 60% CO 2 at 60 bara and 100ºC., 1 = Stage-cut is fixed at 50%...............87. Figure 4.5. Permeate flow rate and stage-cut obtained by the rigorous (solid line) and simplistic (dash line) models as a function of feed temperature and flow rate. (a) and (c):H 2 -selective ( 𝛼𝛼 H 2 / CO 2 0 = 25, Δ𝐸𝐸 = 2000 ( 𝛼𝛼 CO 2 / H 2 0 = 0.2, Δ𝐸𝐸 = 12000 J/mol). Feed is, 1 = J/mol), (b) and (d): CO 2 - selective 60%CO 2 and at 60 bara.....................88. Figure 4.6. Mole fraction of components in the permeate stream obtained by the rigorous (solid line) and simplistic models (dash line for 100ºC, dot line for 200ºC) as a function of feed temperature and flow rate. (a):H 2 -selective ( 𝛼𝛼 H 2 / CO 2 0 = 25,, 1 = . Δ𝐸𝐸 = 2000 J/mol), (b): CO 2 - selective ( 𝛼𝛼 CO 2 / H 2 0 = 0.2, Δ𝐸𝐸 = 12000 J/mol). Feed, 1 = is. 60% CO 2 and at 60 bara......................................................................................89 Figure 4.7. Mole fraction of components in the permeate stream obtained by the rigorous (solid line) and simplistic (dash line) as a function of feed pressure, 1 = . and composition. (a):H 2 -selective ( 𝛼𝛼 H 2 / CO 2 0 = 25, Δ𝐸𝐸 = 2000 J/mol), (b): CO 2 - selective ( 𝛼𝛼 CO 2 / H 2 0 = 0.2, Δ𝐸𝐸 = 12000 J/mol). Feed is at 100ºC. Stage-cut is fixed at 50%. Figure 4.8. Mole fraction of components in the permeate stream obtained by the rigorous (solid line) and simplistic (dash line) as a function of feed pressure and (a):H 2 -selective ( 𝛼𝛼 H 2 / CO 2 0 = 25, Δ𝐸𝐸 = 2000 J/mol), (b): CO 2 - selective 𝛼𝛼 CO 2 / H 2 0 = 0.2, Δ𝐸𝐸 = 12000 J/mol). Feed is at 100ºC. Stage-cut is fixed at 10%., 1 = ....91. 4.9. Driving force of permeation for theH 2 -selective membrane 𝛼𝛼 H 2 / CO 2 0 = 25, Δ𝐸𝐸 = 2000 J/mol). Fugacity coefficients of components in the and permeate streams along the membrane module. Feed is 60% CO 2 at, 1 = . ( Figure ( retentate, 1 = . 60 bara and 100ºC. Stage-cut is, 1 = . fixed at 50%., 1 = . composition., 1 = . , 1 = ...91. ......................................................93, 1 = ......................................................93
+
+---
+
+[Doc 3 — Source: tesefinal_51221]
+Figure 6. Two-stage membrane process with permeate recycle
+
+---
+
+[Doc 4 — Source: BIOCOMEM-WP2-D2.2-DLR-WPL-30112020-v01]
+In Figure 22(a) the retentate from the 1st module is sent to module 2, while the permeate stream is sent to module 3. In (b), the retentate stage with permeate return from the 2 nd stage and permeate stage from module 2 is recompressed and recycled to module 1. Figure (c) describes a similar exemplary interconnection of several membrane modules but without compression of permeate stream from module 1 and Figure (d) shows unpressurized raw biogas mixed with the permeate of module 3 and sent to module 2 on the permeate side as to dilute the CO2 concentration on the permeate stream of module 2.
+
+---
+
+[Doc 5 — Source: 36012f7a-6cac-eb11-94d7-0050568d0279_Thesis-Ehsan Soroodan Miandoab-Unimel...ersion]
+The membrane model operates at steady-state  conditions  using  a  counter-current flow configuration. To predict the concentration and flowrate of the retentate and permeate streams, the membrane module is divided into 100 cells within which the mass and energy balance equations are solved along with the membrane transport equation (Eq.6.1). In addition to membrane permeability, stage-cut and pressure ratio are two parameters determining the purity and recovery of products, as well as the required membrane area. Stage-cut is defined as permeate to feed flowrate [83] and pressure ratio (represented by θ hereafter) is described as feed to permeate pressure [67]. In simulations, the stage-cut and pressure ratio are fixed, while the membrane area is a calculated variable. Huang et al. [67] argued that the optimum pressure ratio should be in the range of 5-15 in order for membrane processes to be economically viable. This pressure ratio range is adopted here as the basis for the driving force across  the  membrane.  The  membrane  model  is  programmed  in  Aspen  Custom Modeller (ACM) with further details found in our prior work [105]. This model is exported to Aspen Hysys (V9) for the simulation of the broader process flowsheet.
+
+---
+
+[Doc 6 — Source: Rapport Biblio DAC Thèse EDF Paul 2023]
+Le stage cut va directement impacter le taux de récupération 𝑅 du CO2, qui est lié à la pureté du  CO2 𝑦 dans  le  perméat  et  la  fraction  molaire  de  CO2 𝑥𝑖𝑛 entrant  dans  le  module membranaire :
+
+---
+
+[Doc 7 — Source: 36012f7a-6cac-eb11-94d7-0050568d0279_Thesis-Ehsan Soroodan Miandoab-Unimel...ersion]
+in which 𝐹𝐹F and 𝐹𝐹P represent the feed and permeate flow rates, respectively. Baker [15] describes the stage-cut as the membrane system attribute that characterizes the trade-off between the 'purity' and 'recovery' of desirable components. Based on this trade-off relationship, which basically originates from the selectivity-permeability trade-off, it is impossible to simultaneously achieve both high purity and recovery of specific components using a single-stage membrane process [15]. In separating the binary mixture of A and B, if A is the more permeable component and the membrane area is fixed, increasing the stage-cut results in a decrease in the mole fraction of A in the retentate stream. This is desirable but comes at the expense of a lower mole fraction of A in the permeate stream, as the permeation rate of B is also increased at the higher stage-cut. This trade-off relationship was experimentally and theoretically shown in different studies, for example by Pan [69], Gillassi et al. [70], Coker et al. [66].
+
+---
+
+[Doc 8 — Source: Formation CPE 2025 FAVRE]
+For a vanishing stage cut (negligible permeate flux)
+
+---
+
+[Doc 9 — Source: Cours FAVRE - Membrane Gas Separations]
+For a vanishing stage cut (negligible permeate flux)
+
+---
+
+[Doc 10 — Source: Rapport Biblio DAC Thèse EDF Paul 2023]
+-  Le  stage  cut 𝜃 est  le  ratio  entre  le  débit  du  perméat 𝑄𝑝𝑒𝑟𝑚𝑒𝑎𝑡𝑒 et  le  débit  entrant  dans  le système membranaire 𝑄𝑖𝑛 :
+
+---
+
+[Doc 11 — Source: membranes-12-01090-v3]
+Stage cut is an important parameter to characterize membrane properties in the separation of multicomponent mixtures. According to IUPAC terminology, stage cut ( q ) is a parameter defined as the fractional amount of the total feed entering a membrane module that passes through the membrane as permeate:
+
+---
+
+[Doc 12 — Source: s11814-012-0221-y]
+Fig. 3. Effect of stage cut on hydrogen permeate mole fraction reported by Kaldis et al. [10]. Feed stream of (f) is considered in present study to validate our membrane model.

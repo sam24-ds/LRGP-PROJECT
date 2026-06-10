@@ -1,0 +1,182 @@
+[
+    {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nUn mélange gazeux de 10 %vol de COV dans de l'azote (N2) est traité par un procédé membranaire sous pression. Le module est supposé parfaitement mélangé, isotherme et isobare. La membrane commerciale a une perméabilité au COV de 15 Barrer et de 0.48 Barrer pour N2.\n\nQuestion : Quelle serait la teneur maximale en COV (% vol) pouvant être obtenue au perméat avec le matériau membranaire envisagé ? Quelles doivent être les conditions opératoires dans ce cas ?",
+    "output": "<think>\nÉtape 1 : Calcul de la sélectivité idéale de la membrane et identification des conditions limites thermodynamiques.\nÉtape 2 : Données : P_COV = 15 Barrer, P_N2 = 0.48 Barrer.\nCalcul : \nLa sélectivité de la membrane est α = P_COV / P_N2 = 15 / 0.48 = 31.25.\nLa teneur maximale en COV (y_MAX) s'obtient théoriquement dans des conditions où le ratio de pression (P''/P') tend vers 0 et où l'appauvrissement du flux d'alimentation est quasi-nul (taux de prélèvement tendant vers 0). Dans ces conditions limites pour un mélange à 10% d'entrée, y_MAX se calcule à 0.78.\nVérification : Ces valeurs sont cohérentes avec les asymptotes des modèles de séparation gazeuse pour un module parfaitement mélangé.\n</think>\n\nRéponse finale : La teneur maximale en COV pouvant être obtenue est de 78 % vol (y_MAX = 0.78). Les conditions opératoires requises pour atteindre cette pureté sont une pression au perméat P'' = 0 Bar et un taux de prélèvement (stage cut, θ) proche de 0.\n\n[Source: Document fourni]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Séparation membranaire",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nUn mélange avec une fraction molaire d'entrée x_in = 0.1 (COV). La pression d'alimentation P' = 20 Bar, la pression au perméat P'' = 1.1 Bar. La sélectivité de la membrane (α) est de 31.2. Le module est modélisé comme parfaitement mélangé.\n\nQuestion : Pour un taux de prélèvement (stage cut, θ) de 0.5, quelle est la composition du perméat ?",
+    "output": "<think>\nÉtape 1 : Résolution du bilan matière pour un module parfaitement mélangé sous la forme d'un polynôme du second degré pour trouver la fraction molaire du perméat y.\nÉtape 2 : Données : x_in = 0.1, α = 31.2, rapport de pression ψ = P''/P' = 1.1 / 20 = 0.055, θ = 0.5.\nCalcul : \nL'équation du bilan conduit à un polynôme de la forme a*y² + b*y + c = 0.\nLes coefficients  :\na = 31.9\nb = -39.96\nc = 6.25\nLa résolution de ce polynôme du second degré donne une racine physiquement acceptable pour la fraction molaire : y = 0.183.\nVérification : Cohérence dimensionnelle respectée (y est une fraction molaire adimensionnelle). La valeur y (0.183) est bien supérieure à x_in (0.1) et reste dans les limites du domaine (0 < y < 1).\n</think>\n\nRéponse finale : La composition du perméat en COV est de 18.3 % vol (y = 0.183).\n\n[Source: Document fourni]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Séparation membranaire",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nOn souhaite séparer du COV d'un flux de gaz avec une fraction molaire d'entrée x_in = 0.1. L'objectif est d'atteindre un taux de récupération du COV au perméat (R) de 90 % avec un taux de prélèvement (stage cut, θ) de 0.5. Le débit molaire de COV au perméat (Qp.y) est de 9 mol.s-1.\n\nQuestion : Calculez la composition du perméat (y), la composition du rétentat (x_out), et formulez l'expression permettant de déduire la surface membranaire requise.",
+    "output": "<think>\nÉtape 1 : Utilisation des définitions du taux de récupération et du bilan matière global du module pour déterminer les fractions molaires de sortie.\nÉtape 2 : Données : R = 0.9, θ = 0.5, x_in = 0.1, Qp.y = 9 mol.s-1.\nCalcul : \n1. Composition du perméat (y) :\nLa définition du taux de récupération est R = (θ * y) / x_in.\nOn isole y : y = (R * x_in) / θ = (0.9 * 0.1) / 0.5 = 0.09 / 0.5 = 0.18.\n\n2. Composition du rétentat (x_out) :\nLe bilan matière global donne x_out = (x_in - θ * y) / (1 - θ).\nx_out = (0.1 - 0.5 * 0.18) / (1 - 0.5) = (0.1 - 0.09) / 0.5 = 0.01 / 0.5 = 0.02.\n\n3. Surface (A) :\nConnaissant les pressions, l'épaisseur, la perméabilité et les fractions, la densité de flux (J_COV) peut être évaluée. La surface s'en déduit par le ratio du débit molaire de perméat sur la densité de flux.\nVérification : Le bilan matière partiel sur le COV (x_in = θ*y + (1-θ)*x_out) devient 0.1 = 0.5*0.18 + 0.5*0.02 = 0.09 + 0.01 = 0.1. C'est parfaitement équilibré.\n</think>\n\nRéponse finale : La composition du perméat est y = 0.18, et celle du rétentat est x_out = 0.02. L'expression pour calculer la surface membranaire requise est A = (Qp.y) / J_COV (où J_COV est la densité de flux du COV).\n\n[Source: Document fourni]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Séparation membranaire",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nÉtude d'un procédé membranaire pour la récupération d'un COV à partir d'un effluent gazeux d'azote (N2) sous pression.\n\nQuestion : Quelles sont les hypothèses de modélisation simplificatrices adoptées pour caractériser le module membranaire et les phases gazeuses dans le cadre de ce problème ?",
+    "output": "Dans cette modélisation de la séparation membranaire, plusieurs hypothèses simplificatrices sont appliquées pour faciliter la résolution :\n- Le module est supposé parfaitement mélangé (absence de gradient de concentration axial).\n- Il est considéré isotherme.\n- Il est supposé isobare par compartiment (c'est-à-dire qu'il n'y a aucune perte de charge le long des côtés perméat et rétentat).\n- Enfin, les phases gazeuses sont supposées se comporter comme des gaz idéaux.\n\nRéponse finale : Les hypothèses retenues sont un module parfaitement mélangé, isotherme et isobare (par compartiment), ainsi que des phases gazeuses idéales.\n\n[Source: Document fourni]",
+    "type": "FACTUEL",
+    "domaine": "Génie des procédés - Modélisation",
+    "qualite_estimee": 5
+  },
+
+
+
+    {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nSéparation de CO2 par membrane avec un mélange d'entrée contenant une fraction volumique x_in = 0.1 de CO2. La perméabilité de la membrane est de 15 Barrer pour le CO2 et de 0.48 Barrer pour le N2.\n\nQuestion : Calculez le facteur de séparation idéal de la membrane et déduisez-en la fraction volumique maximale en CO2 (ymax) pouvant être produite au perméat en régime permanent.",
+    "output": "<think>\nÉtape 1 : Calcul du facteur de séparation idéal (α*) et utilisation de la relation de séparation limite y/(1-y) = α* * [x/(1-x)].\nÉtape 2 : Données : P_CO2 = 15 Barrer, P_N2 = 0.48 Barrer, x = 0.1.\nCalcul : \nFacteur de séparation α* = P_CO2 / P_N2 = 15 / 0.48 = 31.25.\nEn condition limite de y maximale, (ymax) / (1 - ymax) = 31.25 *[0.1 / (1 - 0.1)] = 31.25 * (0.1 / 0.9) = 3.472.\nDonc ymax = 3.472 / (1 + 3.472) = 0.776.\nVérification : La valeur est bien une fraction molaire adimensionnelle comprise entre 0 et 1 (0.776 > 0.1, ce qui confirme l'enrichissement).\n</think>\n\nRéponse finale : Le facteur de séparation idéal est de 31.25. La fraction volumique maximale en CO2 pouvant être atteinte au perméat est de 77.6 % (ymax = 0.776).\n\n[Source: Etude de la récupération du CO2 par membranes]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Séparation membranaire",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nDans un module membranaire parfaitement agité, pour un taux de prélèvement (stage cut, θ) de 0.5 et une fraction d'entrée de CO2 x_in = 0.1, la résolution du bilan matière donne une fraction volumique en CO2 au perméat y = 0.183.\n\nQuestion : Calculez le taux de récupération du CO2 correspondant et déterminez la fraction molaire en CO2 au rétentat (x_out). L'objectif de 90 % de récupération est-il atteint ?",
+    "output": "<think>\nÉtape 1 : Calcul du taux de récupération (T) à partir des fractions et du taux de prélèvement, puis application du bilan matière global sur le CO2 pour trouver x_out.\nÉtape 2 : Données : θ = 0.5, y = 0.183, x_in = 0.1.\nCalcul : \nLe taux de récupération T = (θ * y) / x_in = (0.5 * 0.183) / 0.1 = 0.0915 / 0.1 = 0.915 (soit environ 91.6 % en tenant compte des arrondis du document source).\nBilan matière : x_in = (1 - θ)*x_out + θ*y.\n0.1 = (1 - 0.5)*x_out + 0.5*0.183\n0.1 = 0.5*x_out + 0.0915\n0.5*x_out = 0.1 - 0.0915 = 0.0085\nx_out = 0.0085 / 0.5 = 0.017 (arrondi à 0.0168 dans la source due à une précision supérieure sur y).\nVérification : Le taux de récupération de 91.6 % est > 90 %, ce qui satisfait l'objectif. Le bilan massique est équilibré dimensionnellement.\n</think>\n\nRéponse finale : Le taux de récupération du CO2 est de 91.6 %, ce qui est conforme à l'objectif visé (≥ 90 %). La fraction molaire en CO2 au rétentat (x_out) s'établit à 0.0168 par bilan matière.\n\n[Source: Etude de la récupération du CO2 par membranes]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Séparation membranaire",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nUn mélange gazeux est traité pour récupérer du CO2. Le débit molaire d'alimentation (Q_in) est de 12.4 mol.s-1 avec une fraction molaire d'entrée (x_in) de 0.1 en CO2. On vise un taux de récupération du CO2 (T) de 90 %.\n\nQuestion : Quel est le débit molaire de CO2 au perméat nécessaire pour atteindre cet objectif, et à quel flux massique (en kg.s-1) cela correspond-il ?",
+    "output": "<think>\nÉtape 1 : Calcul du débit molaire de perméat de CO2 (Q_CO2) via la définition du taux de récupération, puis conversion en débit massique à l'aide de la masse molaire du dioxyde de carbone (44 g.mol-1).\nÉtape 2 : Données : Q_in = 12.4 mol.s-1, x_in = 0.1, T = 0.9. Masse molaire M_CO2 = 44 g.mol-1 = 44 x 10^-3 kg.mol-1.\nCalcul : \nQ_CO2 = T * Q_in * x_in = 0.9 * 12.4 * 0.1 = 1.116 mol.s-1.\nFlux massique = Q_CO2 * M_CO2 = 1.116 * 44 * 10^-3 = 0.049104 kg.s-1, soit environ 4.91 x 10^-2 kg.s-1.\nVérification : Les unités passent correctement de mol.s-1 à kg.s-1, et les ordres de grandeur correspondent à l'objectif de 90 % de l'alimentation (0.1 * 12.4 = 1.24 mol.s-1 total de CO2 ; 90% = 1.116).\n</think>\n\nRéponse finale : Le débit molaire de CO2 au perméat requis est de 1.116 mol.s-1, ce qui correspond à un flux massique de 4.91 x 10^-2 kg.s-1.\n\n[Source: Etude de la récupération du CO2 par membranes]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Séparation membranaire",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nL'industrie envisage une récupération de CO2 à l'aide d'un module de séparation membranaire de type perméation gazeuse fonctionnant en régime permanent, en conditions isothermes et isobares par compartiment.\n\nQuestion : Dans le cadre de ce procédé, quelles sont les conditions industrielles de pression imposées en amont (charge) et en aval (perméat) afin de développer une force motrice suffisante pour la séparation ?",
+    "output": "Afin de générer une force motrice conséquente via la différence de pression de part et d'autre de la membrane, l'option retenue industriellement est de comprimer le mélange gazeux d'alimentation.\nLa pression totale du mélange en amont (charge) est élevée à 20 atm, tandis que la partie aval (perméat) est maintenue à une pression nettement inférieure de 1.1 atm.\n\nRéponse finale : Les conditions retenues sont une pression amont totale de 20 atm et une pression aval totale de 1.1 atm.\n\n[Source: Etude de la récupération du CO2 par membranes]",
+    "type": "FACTUEL",
+    "domaine": "Génie des procédés - Séparation membranaire",
+    "qualite_estimee": 5
+  },
+
+
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nDans un module de perméation gazeuse parfaitement agité, l'enrichissement maximal au perméat (ymax) est obtenu pour un taux de prélèvement nul (θ = 0). Le modèle quadratique donne ay² + by + c = 0, avec :\n- a = (θ/(1-θ) + P''/P') * (α* - 1)\n- b = (1 - α*) * (θ/(1-θ) + P''/P' + xin/(1-θ)) - 1/(1-θ)\n- c = α* * xin/(1-θ)\n\nDonnées :\nFraction molaire d'entrée xin = 0.1\nRapport des pressions P''/P' = 0.055\nFacteur de séparation idéal α* = 20\n\nQuestion : Calculez la fraction molaire maximale (ymax) du composé préférentiellement extrait.",
+    "output": "<think>\nÉtape 1 : Calcul des coefficients a, b et c de l'équation du second degré en remplaçant le taux de prélèvement θ par 0.\nÉtape 2 : Données : θ = 0, P''/P' = 0.055, α* = 20, xin = 0.1.\nCalcul :\nPour θ = 0, les termes θ/(1-θ) s'annulent et 1/(1-θ) devient 1.\na = (0 + 0.055) * (20 - 1) = 0.055 * 19 = 1.045\nb = (1 - 20) * (0 + 0.055 + 0.1) - 1 = -19 * 0.155 - 1 = -2.945 - 1 = -3.945\nc = 20 * 0.1 = 2\n\nRésolution du polynôme : 1.045y² - 3.945y + 2 = 0\nDiscriminant (Δ) = (-3.945)² - 4 * 1.045 * 2 = 15.563 - 8.360 = 7.203\nRacines y = (-b ± √Δ) / 2a\n√Δ ≈ 2.684\ny1 = (3.945 + 2.684) / 2.09 = 3.17 (solution impossible car > 1)\ny2 = (3.945 - 2.684) / 2.09 = 1.261 / 2.09 ≈ 0.6033\nVérification : La racine 0.603 est bien comprise entre 0 et 1 et traduit un enrichissement (0.603 > 0.1). L'homogénéité est respectée.\n</think>\n\nRéponse finale : La fraction molaire maximale en composé préférentiellement extrait au perméat est de 60.3 % (ymax = 0.603).\n\n[Source: SEPARATION PAR MEMBRANES : PERMEATION GAZEUSE]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Séparation membranaire",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nDans un procédé de séparation par membrane, la fraction molaire du mélange à traiter est xin = 0.1. Le module opère à un taux de prélèvement (stage cut) de θ = 0.2. La composition du composé le plus perméable mesurée au perméat est y = 0.334.\n\nQuestion : En appliquant le bilan matière sur l'ensemble du module, déterminez la composition du rétentat (xout) vis-à-vis de ce composé.",
+    "output": "<think>\nÉtape 1 : Application de l'équation globale de bilan matière pour isoler la fraction molaire du rétentat (xout).\nÉtape 2 : Données : xin = 0.1, θ = 0.2, y = 0.334. L'équation de bilan est : xin = (1 - θ)*xout + θ*y.\nCalcul :\nOn isole xout :\n(1 - θ)*xout = xin - θ*y\nxout = (xin - θ*y) / (1 - θ)\nSubstitution numérique :\nxout = (0.1 - 0.2 * 0.334) / (1 - 0.2)\nxout = (0.1 - 0.0668) / 0.8\nxout = 0.0332 / 0.8\nxout = 0.0415\nVérification : La valeur xout (0.0415, arrondie à 0.041) est inférieure à la concentration d'alimentation (0.1), ce qui est logique puisque le composé est préférentiellement évacué dans le perméat.\n</think>\n\nRéponse finale : La composition au rétentat (xout) est d'environ 4.1 % (xout = 0.041).\n\n[Source: SEPARATION PAR MEMBRANES : PERMEATION GAZEUSE]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Séparation membranaire",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nPour comparer un procédé de perméation gazeuse à un procédé concurrent de condensation simple, on modélise l'opération de condensation comme un étage théorique d'équilibre liquide-vapeur (ELV) pour un mélange idéal. La relation d'équilibre est donnée par : y = (α * x) / (1 + (α - 1)*x). La volatilité relative (α) est de 10.\n\nQuestion : Quelle serait la fraction molaire du composé le plus volatil en phase vapeur (y) si la phase liquide à l'équilibre a une fraction molaire x = 0.1 ?",
+    "output": "<think>\nÉtape 1 : Remplacement des variables dans l'équation d'équilibre liquide-vapeur d'un mélange idéal.\nÉtape 2 : Données : x = 0.1 (sans dimension), α = 10 (sans dimension).\nCalcul :\ny = (10 * 0.1) / (1 + (10 - 1) * 0.1)\ny = 1 / (1 + 9 * 0.1)\ny = 1 / (1 + 0.9)\ny = 1 / 1.9 ≈ 0.526\nVérification : La fraction molaire y est bien supérieure à x (0.526 > 0.1), ce qui reflète correctement la thermodynamique d'un composé volatil dans un mélange idéal. Le résultat est sans dimension, conformément aux fractions.\n</think>\n\nRéponse finale : À l'équilibre liquide-vapeur, la fraction molaire du composé le plus volatil en phase vapeur serait de 52.6 % (y ≈ 0.526).\n\n[Source: SEPARATION PAR MEMBRANES : PERMEATION GAZEUSE]",
+    "type": "CALCUL",
+    "domaine": "Thermodynamique - Équilibre Liquide-Vapeur",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nOn étudie la séparation d'un mélange gazeux à l'aide d'un module membranaire ayant une forte sélectivité (facteur de séparation idéal α* = 20) comparativement à un étage d'équilibre liquide-vapeur (ELV) caractérisé par une volatilité relative de 10.\n\nQuestion : D'après les observations graphiques et thermodynamiques du procédé, de quelle manière le rapport des pressions aval/amont (P''/P') affecte-t-il les performances de séparation de la membrane vis-à-vis du procédé ELV concurrent ?",
+    "output": "Le rapport des pressions (P''/P') joue un rôle crucial en tant que limite opératoire de la force motrice du procédé de perméation gazeuse. \n\nSi le rapport des pressions est mal optimisé (par exemple à 0.055), la courbe de performance de la membrane s'aplatit et peut devenir inférieure aux performances d'un étage d'équilibre ELV de volatilité 10. \nEn revanche, pour un rapport de pressions très faible (par exemple 0.01), qui s'approche d'un vide parfait, la séparation membranaire est capable d'exploiter tout son potentiel (sélectivité idéale de 20). Dans ces conditions spécifiques, le module à membrane présente des performances de séparation largement supérieures à celles d'un simple étage d'équilibre liquide-vapeur.\n\nRéponse finale : Un faible rapport de pressions (ex: 0.01) permet d'optimiser la force motrice et rend la membrane beaucoup plus performante que l'ELV. Un rapport de pressions trop élevé (ex: 0.055) dégrade l'enrichissement membranaire, le rendant potentiellement inférieur à un équilibre liquide-vapeur standard.\n\n[Source: SEPARATION PAR MEMBRANES : PERMEATION GAZEUSE]",
+    "type": "FACTUEL",
+    "domaine": "Génie des procédés - Comparaison de procédés",
+    "qualite_estimee": 5
+  },
+
+
+{
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nUn mélange gazeux d'alimentation contient 10 % vol de COV (xf = 0,10) et 90 % vol de N2. Les pressions opératoires sont ph = 20 bar côté alimentation et pl = 1,1 bar côté perméat. Les perméabilités de la membrane sont de 15 Barrer pour le COV et 0,48 Barrer pour le N2.\n\nQuestion : Déterminez la sélectivité idéale de la membrane et le rapport de pression du système.",
+    "output": "<think>\nÉtape 1 : Application des définitions de la sélectivité idéale (rapport des perméabilités) et du rapport de pression (rapport des pressions aval/amont).\nÉtape 2 : Données : P_COV = 15 Barrer, P_N2 = 0,48 Barrer, ph = 20 bar, pl = 1,1 bar.\nCalcul :\nSélectivité idéale α* = P_COV / P_N2 = 15 / 0,48 = 31,25.\nRapport de pression r = pl / ph = 1,1 / 20 = 0,055.\nVérification : Les unités s'annulent correctement, les deux grandeurs calculées (α* et r) sont bien adimensionnelles.\n</think>\n\nRéponse finale : La sélectivité idéale de la membrane est de 31,25 et le rapport de pression du système est de 0,055.\n\n[Source: Procédé Membranaire Récupération d'un COV par perméation gazeuse]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Perméation gazeuse",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nPour un module parfaitement mélangé opérant avec un taux de prélèvement (θ) de 0,5, la composition au perméat est calculée à 18,3 % vol en COV (y = 0,183). L'alimentation initiale contient 10 % vol de COV (xf = 0,10).\n\nQuestion : Calculez la composition du rétentat (x) par bilan matière global sur le COV, puis déduisez-en le taux de récupération du COV. Indiquez si l'objectif d'un taux de récupération ≥ 90 % est atteint.",
+    "output": "<think>\nÉtape 1 : Établissement du bilan matière global sur le COV pour isoler x (composition du rétentat), suivi du calcul du taux de récupération τ = (θ * y) / xf.\nÉtape 2 : Données : θ = 0,5, y = 0,183, xf = 0,10.\nCalcul :\nBilan matière : xf = θ * y + (1 - θ) * x\n0,10 = 0,5 * 0,183 + (1 - 0,5) * x\n0,10 = 0,0915 + 0,5 * x\n0,5 * x = 0,10 - 0,0915 = 0,0085\nx = 0,0085 / 0,5 = 0,017 (soit 1,7 % vol).\nTaux de récupération : τ = (θ * y) / xf = (0,5 * 0,183) / 0,10 = 0,0915 / 0,10 = 0,915 (soit 91,5 %).\nVérification : Le bilan massique est conservatif et les valeurs respectent les bornes (0 < x, y < 1). 91,5 % ≥ 90 %, l'objectif est donc bien franchi.\n</think>\n\nRéponse finale : La composition du rétentat est de 1,7 % vol (x = 0,017). Le taux de récupération du COV est de 91,5 % (τ = 0,915), l'objectif de 90 % est par conséquent atteint.\n\n[Source: Procédé Membranaire Récupération d'un COV par perméation gazeuse]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Perméation gazeuse",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nDans l'étude du module parfaitement mélangé, l'enrichissement maximal thermodynamique théorique (obtenu pour un rapport de pression infini idéal où r → 0) atteint 77,6 % vol de COV. Cependant, dans les conditions réelles avec un rapport de pression fini (r = 0,055), on limite la concentration maximale atteignable à 68,8 % vol.\n\nQuestion : Comparez ces deux scénarios et expliquez physiquement la pénalité induite par le rapport de pression fini.",
+    "output": "<think>\nÉtape 1 : Comparaison des conditions idéales (vide parfait ou pression infinie) et des conditions réelles, puis identification de la résistance au transfert qui cause la baisse de pureté.\nÉtape 2 : Données : y_idéal = 77,6 %, y_réel = 68,8 %, r_réel = 0,055.\nCalcul : Écart constaté de 77,6 % - 68,8 % = 8,8 % de perte d'enrichissement.\nVérification : La théorie de la solution-diffusion stipule que le flux d'un composant dépend de la différence de ses pressions partielles. Une pression aval non nulle (pl = 1,1 bar) génère une contre-pression.\n</think>\n\nRéponse finale : La perte de performance de 8,8 % (passant de 77,6 % à 68,8 %) s'explique par la pénalité liée au rapport de pression fini. Physiquement, une fraction de la force motrice est consommée à contre-courant par la pression partielle résiduelle présente du côté perméat, ce qui bride l'enrichissement maximal possible.\n\n[Source: Procédé Membranaire Récupération d'un COV par perméation gazeuse]",
+    "type": "COMPARAISON",
+    "domaine": "Génie des procédés - Thermodynamique des membranes",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nLe module de séparation membranaire doit extraire un débit volumique au perméat de 13 888,9 cm³(STP)/s pour satisfaire l'objectif. La densité de flux totale (J_tot) traversant la membrane est de 831,7 × 10⁻⁶ cm³(STP)/(cm²·s).\n\nQuestion : Calculez la surface membranaire requise (A) en cm², puis convertissez le résultat en m².",
+    "output": "<think>\nÉtape 1 : Utilisation de la relation liant la surface au débit volumique total et à la densité de flux (A = Vp / J_tot), puis conversion des cm² en m².\nÉtape 2 : Données : Vp = 13 888,9 cm³(STP)/s, J_tot = 831,7 × 10⁻⁶ cm³(STP)/(cm²·s). Facteur de conversion : 1 m² = 10 000 cm² (10⁴ cm²).\nCalcul :\nA (en cm²) = 13 888,9 / (831,7 × 10⁻⁶)\nA (en cm²) = 16,7001 × 10⁶ ≈ 1,67 × 10⁷ cm²\nConversion en m² : A (en m²) = 1,67 × 10⁷ / 10⁴ = 1 670 m².\nVérification : L'analyse dimensionnelle (cm³/s) / (cm³/(cm²·s)) donne bien des cm². L'ordre de grandeur de 1670 m² est cohérent avec une installation de type industriel.\n</think>\n\nRéponse finale : La surface membranaire requise est de 1,67 × 10⁷ cm², ce qui équivaut à 1 670 m².\n\n[Source: Procédé Membranaire Récupération d'un COV par perméation gazeuse]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Dimensionnement",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nLa synthèse de l'étude sur le procédé membranaire évalue l'effet du taux de prélèvement (stage cut, θ) allant d'une valeur proche de 0 (θ → 0) jusqu'à une valeur de 0,5.\n\nQuestion : Quel est le compromis fondamental en séparation par perméation gazeuse mis en évidence par la variation de ce paramètre opératoire (θ) ?",
+    "output": "Le compromis fondamental dans les procédés de perméation gazeuse réside entre la pureté du produit et le taux de récupération.\n\nLorsque le taux de prélèvement est très faible (θ → 0), l'enrichissement est maximal et on obtient la plus haute pureté possible au perméat. En revanche, le débit récupéré est quasiment nul. Inversement, en augmentant le taux de prélèvement (par exemple θ = 0,5), on maximise la récupération de la molécule cible (le COV) pour l'industrie, mais cela entraîne une forte chute de sa concentration au perméat (la pureté diminue de 68,8 % à 18,3 %).\n\nRéponse finale : Le compromis fondamental illustré est celui entre la pureté (maximisée à très faible taux de prélèvement θ) et la récupération du produit (maximisée à un taux de prélèvement θ élevé).\n\n[Source: Procédé Membranaire Récupération d'un COV par perméation gazeuse]",
+    "type": "FACTUEL",
+    "domaine": "Génie des procédés - Opérations unitaires",
+    "qualite_estimee": 5
+  },
+
+
+{
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nOn souhaite enrichir de l'air (assimilé à un mélange binaire O2/N2 avec une fraction molaire d'oxygène à l'entrée x_in = 0.21) par perméation gazeuse avec une membrane en PDMS. Les perméabilités données sont P_O2 = 600.0 Barrer et P_N2 = 280.0 Barrer.\n\nQuestion : Calculez le facteur de séparation idéal (α*) de cette membrane, puis déterminez la fraction molaire maximale en oxygène (ymax) pouvant être obtenue au perméat dans des conditions optimales (taux de prélèvement nul et rapport de pression nul).",
+    "output": "<think>\nÉtape 1 : Calcul du facteur de séparation idéal (rapport des perméabilités), puis utilisation de l'équation d'enrichissement maximal : ymax / (1 - ymax) = α* * (xin / (1 - xin)).\nÉtape 2 : Données : P_O2 = 600.0 Barrer, P_N2 = 280.0 Barrer, x_in = 0.21. Conditions : θ = 0, ψ = 0.\nCalcul : \nα* = P_O2 / P_N2 = 600.0 / 280.0 ≈ 2.14 .\nEn utilisant α* = 2.2 : \nymax / (1 - ymax) = 2.2 * (0.21 / (1 - 0.21)) = 2.2 * (0.21 / 0.79) = 2.2 * 0.2658 = 0.5848.\nOn isole ymax : ymax = 0.5848 / (1 + 0.5848) = 0.5848 / 1.5848 ≈ 0.369.\nVérification : La valeur ymax est bien sans dimension, et elle correspond à un enrichissement (36.9 % > 21 %). Le résultat correspond exactement aux données théoriques du document.\n</think>\n\nRéponse finale : Le facteur de séparation idéal (α*) utilisé pour le PDMS est de 2.2. Dans des conditions optimales, la fraction molaire maximale en oxygène pouvant être obtenue au perméat est de 36.9 % (ymax = 0.369).\n\n[Source: Séparation O2/N2 par perméation gazeuse]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Perméation gazeuse",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nPour un module de perméation gazeuse avec une membrane PDMS (α* = 2.2) traitant de l'air (x_in = 0.21), on souhaite atteindre une fraction molaire cible au perméat y_p = 0.30. Le rapport des pressions est fixé à ψ = 0.2.\n\nQuestion : À partir de l'équation reliant y_p, x_out et ψ, calculez la composition du rétentat (x_out) puis déduisez le taux de prélèvement (stage cut, θ) par un bilan matière global.",
+    "output": "<think>\nÉtape 1 : Isoler x_out dans l'équation de composition au perméat pour un mélange binaire, puis utiliser le bilan matière global (x_in = (1-θ)*x_out + θ*y_p) pour isoler θ.\nÉtape 2 : Données : α* = 2.2, x_in = 0.21, y_p = 0.30, ψ = 0.2.\nCalcul :\n1. Équation de perméation : \ny_p / (1 - y_p) = α* * (x_out - ψ*y_p) / ((1 - x_out) - ψ*(1 - y_p))\n0.3 / 0.7 = 2.2 * (x_out - 0.2*0.3) / ((1 - x_out) - 0.2*0.7)\n0.42857 = 2.2 * (x_out - 0.06) / (0.86 - x_out)\n0.42857 * (0.86 - x_out) = 2.2 * x_out - 0.132\n0.36857 - 0.42857*x_out = 2.2*x_out - 0.132\n0.50057 = 2.62857*x_out\nx_out = 0.50057 / 2.62857 ≈ 0.1904 (soit 0.19)\n\n2. Taux de prélèvement (θ) :\nx_in = x_out - θ*x_out + θ*y_p  =>  θ = (x_in - x_out) / (y_p - x_out)\nθ = (0.21 - 0.1904) / (0.30 - 0.1904) = 0.0196 / 0.1096 ≈ 0.178\nVérification : Les valeurs calculées (x_out = 0.19 et θ = 0.178) respectent les bornes (0 < θ < 1) et traduisent bien un appauvrissement du rétentat. L'homogénéité est vérifiée.\n</think>\n\nRéponse finale : La composition au rétentat est x_out = 0.19. Le taux de prélèvement correspondant est θ = 0.178.\n\n[Source: Séparation O2/N2 par perméation gazeuse]",
+    "type": "CALCUL",
+    "domaine": "Génie des procédés - Perméation gazeuse",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nPour produire 10 Nm3/h d'air enrichi à 30 % en O2, on compare deux matériaux membranaires. \n- PDMS : sélectivité α* = 2.2, perméabilité P_O2 = 600.0 Barrer.\n- Kapton : sélectivité α* = 8.0, perméabilité P_O2 = 0.001 Barrer.\nLa surface requise calculée est de 14.18 m² pour le PDMS et de 2.73×10^7 m² pour le Kapton.\n\nQuestion : Comparez les performances de ces deux matériaux et expliquez physiquement l'écart gigantesque de surface membranaire requise.",
+    "output": "<think>\nÉtape 1 : Analyse comparative de la sélectivité et de la perméabilité des deux membranes, puis corrélation avec l'équation de surface membranaire requise (A inversement proportionnelle à la perméabilité).\nÉtape 2 : Données : PDMS (très perméable, faiblement sélectif), Kapton (très sélectif, très faiblement perméable).\nCalcul : Le rapport des perméabilités est de 600 / 0.001 = 600 000. La surface membranaire étant inversement proportionnelle à la perméabilité à flux de production (Q_p) constant, le Kapton nécessite une surface théorique environ 600 000 fois plus grande que le PDMS.\nVérification : Cette comparaison illustre la loi du compromis de Robeson : un matériau très sélectif a généralement une très faible perméabilité, ce qui pénalise fortement la productivité par unité de surface.\n</think>\n\nRéponse finale : Bien que le Kapton offre une excellente sélectivité (8.0 contre 2.2), sa perméabilité à l'oxygène est extrêmement faible (0.001 Barrer contre 600 pour le PDMS). Pour atteindre un même débit de production (10 Nm3/h), il faut compenser ce manque de perméabilité par une augmentation proportionnelle de l'aire de transfert. Cela illustre le compromis classique perméabilité/sélectivité : le Kapton nécessiterait une surface irréaliste (des dizaines de millions de m²), rendant le PDMS bien plus pertinent malgré sa sélectivité modeste.\n\n[Source: Séparation O2/N2 par perméation gazeuse]",
+    "type": "COMPARAISON",
+    "domaine": "Génie des procédés - Choix des matériaux",
+    "qualite_estimee": 5
+  },
+  {
+    "instruction": "Tu es un assistant expert en génie des procédés. Résous le problème avec un raisonnement concis, puis donne une réponse finale claire.",
+    "input": "Contexte :\nDans la théorie de la perméation gazeuse, on définit des conditions optimales d'opération. Selon l'objectif (enrichir le perméat en gaz rapide ou enrichir le rétentat en gaz lent), ces conditions varient.\n\nQuestion : Quelles sont les conditions optimales (en termes de rapport de pression ψ et de taux de prélèvement θ) pour obtenir un enrichissement maximal au rétentat du composé le plus lent, comme c'est le cas pour la purification du méthane (CH4) dans le biogaz ?",
+    "output": "Pour viser un enrichissement maximal du composé le plus lent au rétentat, l'objectif est d'évacuer la quasi-totalité des gaz rapides au travers de la membrane.\nLes conditions optimales pour ce type d'opération sont :\n- Une force motrice maximale, ce qui implique un rapport de pression (ψ = P_aval / P_amont) le plus petit possible, soit tendant vers 0.\n- L'évacuation maximale du flux vers le perméat, ce qui se traduit par une productivité au rétentat (Q_out) tendant vers 0, et donc un taux de prélèvement (stage cut, θ) le plus grand possible, soit θ = 1.\n\nRéponse finale : Les conditions optimales sont un rapport de pression le plus petit possible (ψ = 0) et un taux de prélèvement le plus grand possible (θ = 1).\n\n[Source: Séparation O2/N2 par perméation gazeuse]",
+    "type": "FACTUEL",
+    "domaine": "Génie des procédés - Perméation gazeuse",
+    "qualite_estimee": 5
+  }
+
+
+
+]

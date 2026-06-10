@@ -1,0 +1,86 @@
+Tu es un expert en génie des procédés et séparation membranaire au LRGP Nancy.
+À partir du contexte scientifique ci-dessous extrait du corpus du laboratoire,
+génère exactement 8 questions de benchmark de qualité scientifique.
+
+Contraintes strictes :
+- Baser les questions UNIQUEMENT sur les informations présentes dans le contexte
+- Types demandés : CALCUL, COMPARAISON, FACTUEL
+- Pour les CALCUL : inclure toutes les données numériques nécessaires dans la question
+- Pour les FACTUEL : question précise avec réponse vérifiable dans le contexte
+- Priorité aux niveaux N2 et N3, quelques N4
+- Réponses complètes avec valeurs numériques et unités
+
+Réponds UNIQUEMENT avec un tableau JSON valide sans texte avant ni après :
+[
+  {
+    "question": "...",
+    "answer": "...",
+    "type": "CALCUL|FACTUEL|COMPARAISON",
+    "domaine": "perméabilité_matériaux",
+    "difficulté": "N1|N2|N3|N4"
+  }
+]
+
+Contexte scientifique :
+[Doc 1 — Source: 42493210-j2810-1]
+- Le transport de composés dans les polymères denses répond à  un  processus  de  solution-diffusion,  dont  le  produit  donne  la perméabilité ( P = S · D ).
+- L'unité la plus fréquemment employée pour exprimer la perméabilité  des  polymères est le Barrer (1 Barrer = 10 -10  Ncm 3  · cm · s -1  · cm -2  · cmHg -1 ).
+- Les  valeurs  de  perméabilité  dans  les  polymères  denses couvrent  une  plage  sur  huit  ordres  de  grandeur  (de  10 -3   à 10 5  Barrer) avec des gaz rapides (H 2 O, NH 3 , H 2 , He) et des gaz lents (CH 4 , CO, N 2 ).
+- La perméabilité d'un composé dans une membrane dépend de  la  température  et  peut  augmenter  ou  diminuer  selon  les effets conjugués de solubilité et diffusion.
+
+---
+
+[Doc 2 — Source: Thèse CIFRE Simon - 3 mars 2019]
+In  the  case  of  dense  polymeric  membranes  as  rubbery  PDMS,  penetrants  (most  condensable molecules) generally display more interaction with a polymer structure that allows them to pass through the dense polymeric membrane faster than a smaller one [43]. Separation and permeation properties of dense polymeric membranes are a function of the chemical structure, crystallinity and morphology of the polymer. These properties also depend on the so called solution/diffusion mechanism which is thoroughly referenced in the scientific literature [263] [264] [89].
+
+---
+
+[Doc 3 — Source: 1-s2.0-S0376738811008271-main]
+Fig. 3. Gas permeability (Barrer) through PDMS exposed to syngas.
+
+---
+
+[Doc 4 — Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion]
+En effet, le PDMS a été choisi comme matériau dense de référence et représente le cas où la résistance au transfert de matière dans la membrane est très importante. Les mesures de perméabilité au CO2 des fibres creuses ont permis d'estimer un coefficient de transfert de matière dans les fibres de PDMS de l'ordre de 1,3 10 -5 m/s (2900 Barrer).
+
+---
+
+[Doc 5 — Source: DDOC_T_2021_0212_BIN_MOHD_SHAFIE]
+Figure 4.28:  Measured  contribution  of  solution  penetration  for  4g  PDMS  coating solution on PES porous substrate
+
+---
+
+[Doc 6 — Source: 1-s2.0-S1383586619350348-main]
+Table 2 Gas transport characteristics of dense membranes.
+
+PDMS, Permeability coefficient in the gas mixture, Barrer.CH 4 = 700. PDMS, Permeability coefficient in the gas mixture, Barrer.C 3 H 8 = 2440. PDMS, Permeability coefficient in the gas mixture, Barrer.nC 4 H 10 = 5300. PDMS, Mixed gas selectivity.C3/ C1 = 3.5. PDMS, Mixed gas selectivity.C4/C1 = 7.6. PDMS, Ideal selectivity [33].C3/ C1 = 4.3. PDMS, Ideal selectivity [33].C4/C1 = 14.1. PHexMS, Permeability coefficient in the gas mixture, Barrer.CH 4 = 200. PHexMS, Permeability coefficient in the gas mixture, Barrer.C 3 H 8 = 1050. PHexMS, Permeability coefficient in the gas mixture, Barrer.nC 4 H 10 = 3100. PHexMS, Mixed gas selectivity.C3/ C1 = 5.3. PHexMS, Mixed gas selectivity.C4/C1 = 15.5. PHexMS, Ideal selectivity [33].C3/ C1 = 5.9. PHexMS, Ideal selectivity [33].C4/C1 = 23.5. POMS, Permeability coefficient in the gas mixture, Barrer.CH 4 = 180. POMS, Permeability coefficient in the gas mixture, Barrer.C 3 H 8 = 1020. POMS, Permeability coefficient in the gas mixture, Barrer.nC 4 H 10 = 2970. POMS, Mixed gas selectivity.C3/ C1 = 5.7. POMS, Mixed gas selectivity.C4/C1 = 16.5. POMS, Ideal selectivity [33].C3/ C1 = 6.3. POMS, Ideal selectivity [33].C4/C1 = 24.7. PDecMS, Permeability coefficient in the gas mixture, Barrer.CH 4 = 155. PDecMS, Permeability coefficient in the gas mixture, Barrer.C 3 H 8 = 950. PDecMS, Permeability coefficient in the gas mixture, Barrer.nC 4 H 10 = 2850. PDecMS, Mixed gas selectivity.C3/ C1 = 6.1. PDecMS, Mixed gas selectivity.C4/C1 = 18.2. PDecMS, Ideal selectivity [33].C3/ C1 = 6.7. PDecMS, Ideal selectivity [33].C4/C1 = 26.7
+
+---
+
+[Doc 7 — Source: Techniques séparatives sur membranes]
+Figure 1 - Sche ´ma de principe du transfert en pervaporation avec des membranes denses polyme `res - Me ´canisme de « SolutionDiffusion »
+
+---
+
+[Doc 8 — Source: 42331210-j2820]
+Figure 1 - Sche ´ma de principe du transfert en pervaporation avec des membranes denses polyme `res - Me ´canisme de « SolutionDiffusion »
+
+---
+
+[Doc 9 — Source: 2011 NGUYEN_FAVRE Contacteurs à membranes denses pour les procédés d’absorption gaz-liquide intensifiés application à la capture du CO2 en post combustion]
+Le  tableau  I.3  présente  des  exemples  de  polymères  que  l'on  peut  mettre  sous  forme  de membranes denses avec leur perméabilité au CO 2 en Barrer 5 . On remarque que les matériaux les plus perméables  au  CO 2 de  cette  liste  sont  le  PTMSP,  le  PDMS  et  le  Téflon  AF2400,  nous  allons  les étudier plus en détail.
+
+---
+
+[Doc 10 — Source: DDOC_T_2021_0212_BIN_MOHD_SHAFIE]
+Figure 7: Contribution mesurée de la diffusion latérale (facteur de restriction, 𝛹 ) et de la pénétration de la solution (facteur de pénétration, 𝑓 ) pour 4g de solution de revêtement PDMS sur support poreux PES 0.10 N 2
+
+---
+
+[Doc 11 — Source: J Polym Sci B Polym Phys - 2000 - Merkel - Gas sorption diffusion and permeation in poly dimethylsiloxane]
+Figure 1. Permeability coefficients of various penetrants in PDMS as a function of the transmembrane pressure difference ( D p 5 p 2 2 p 1 ) at 35 °C. 1 Barrer 5 10 2 10 cm 3 (STP) z cm/cm 2 z s z cm Hg.
+
+---
+
+[Doc 12 — Source: 4889]
+Figure 2 -1. Pure gas permeation through dense membranes according the solution -diffusion model (based on [3]).

@@ -1,0 +1,142 @@
+# ════════════════════════════════════════════════════════════════
+# .gitignore — Projet PRISME / SRAR-GP (LRGP)
+# ════════════════════════════════════════════════════════════════
+
+# ─── Secrets / clés API (CRITIQUE — ne jamais committer) ───
+.env
+.env.local
+*.key
+secrets.json
+
+# ════════════════════════════════════════════════════════════════
+# FICHIERS LOURDS — Modèles & poids (plusieurs Go chacun)
+# ════════════════════════════════════════════════════════════════
+
+# Modèles quantizés GGUF (pour Ollama) — TRÈS lourds (3-20 Go)
+*.gguf
+*.ggml
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# Checkpoints et exports d'entraînement (training/)
+training/training/checkpoints/
+training/training/exports/
+training/**/checkpoints/
+training/**/exports/
+checkpoints/
+exports/
+
+# Adaptateurs LoRA (peuvent rester légers, mais souvent volumineux en lot)
+*-lora*/
+adapter_model.*
+adapter_config.json
+
+# Modèles HuggingFace téléchargés / cache
+*.h5
+*.ckpt
+models/
+.cache/huggingface/
+hf_cache/
+
+# Caches de compilation Unsloth / Triton
+unsloth_compiled_cache/
+**/unsloth_compiled_cache/
+.triton/
+
+# ════════════════════════════════════════════════════════════════
+# DONNÉES — Base vectorielle & corpus
+# ════════════════════════════════════════════════════════════════
+
+# Base vectorielle Qdrant (volume Docker / stockage local)
+qdrant_storage/
+qdrant_data/
+storage/
+
+# Corpus brut (documents sources — souvent volumineux et/ou confidentiels)
+corpus/
+corpus_lrgp/
+data/corpus/
+
+# Sorties de pipeline (régénérables — décommenter si on veut les exclure)
+# data/parsed/
+# data/chunks/
+# ingestion/data/
+
+# Gros JSONL de chunks (peuvent peser)
+*_chunks.jsonl
+
+# ════════════════════════════════════════════════════════════════
+# SUIVI D'EXPÉRIENCES
+# ════════════════════════════════════════════════════════════════
+
+# MLflow (base de tracking + artefacts)
+mlflow.db
+mlruns/
+mlartifacts/
+*.db-journal
+
+# ════════════════════════════════════════════════════════════════
+# PYTHON
+# ════════════════════════════════════════════════════════════════
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+# (les env conda vivent hors du repo — pas besoin de les ignorer ici)
+
+# ════════════════════════════════════════════════════════════════
+# OUTILS / IDE / OS
+# ════════════════════════════════════════════════════════════════
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Pytest / couverture
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & temporaires
+*.log
+*.tmp
+tmp/
+temp/
+
+# ════════════════════════════════════════════════════════════════
+# À NE PAS IGNORER (exceptions explicites)
+# ════════════════════════════════════════════════════════════════
+# On garde le modèle de clés et les configs versionnées
+!.env.example
+!environment.yaml
+!environment-full.yaml
+# On garde les datasets de référence légers (à ajuster selon ton besoin)
+!data/datasets/benchmark/questions.jsonl

@@ -1,0 +1,3189 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "NOx",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 18046510891471819107,
+    "filename": "NOx.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/groups/2"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 161.681,
+            "t": 697.016901953125,
+            "r": 329.93420000000003,
+            "b": 690.572901953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Available online at www.sciencedirect.com",
+      "text": "Available online at www.sciencedirect.com"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 181.871,
+            "t": 643.091001953125,
+            "r": 312.29499999999996,
+            "b": 636.1508932263724,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            45
+          ]
+        }
+      ],
+      "orig": "Energy Procedia   37 (  2013  )   6473 - 6480",
+      "text": "Energy Procedia   37 (  2013  )   6473 - 6480"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 240.981,
+            "t": 602.586001953125,
+            "r": 293.17139999999995,
+            "b": 592.7460019531251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "GHGT-11",
+      "text": "GHGT-11",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 62.5651,
+            "t": 574.692401953125,
+            "r": 472.8293199999998,
+            "b": 540.799841953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            87
+          ]
+        }
+      ],
+      "orig": "Pilot scale testing of polymeric membranes for CO2 capture from coal fired power plants",
+      "text": "Pilot scale testing of polymeric membranes for CO2 capture from coal fired power plants",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.2451,
+            "t": 526.990001953125,
+            "r": 467.155816,
+            "b": 498.494321953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            92
+          ]
+        }
+      ],
+      "orig": "Marius Sandru a , Taek-Joong Kim a , Wieslaw Capala b , Martin Huijbers c , MayBritt H\u00e4gg d*",
+      "text": "Marius Sandru a , Taek-Joong Kim a , Wieslaw Capala b , Martin Huijbers c , MayBritt H\u00e4gg d*"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 53.6851,
+            "t": 488.50240195312495,
+            "r": 479.3738560000001,
+            "b": 470.226641953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "a SINTEF, 7034 Trondheim, Norway, b ICHP, 01-793 Warsaw, Poland, c DNV-KEMA, 6812 Arhnem, The Netherlands, d NTNU, 7491 Trondheim",
+      "text": "a SINTEF, 7034 Trondheim, Norway, b ICHP, 01-793 Warsaw, Poland, c DNV-KEMA, 6812 Arhnem, The Netherlands, d NTNU, 7491 Trondheim"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 52.9651,
+            "t": 457.541921953125,
+            "r": 88.86506800000002,
+            "b": 447.446081953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Abstract",
+      "text": "Abstract",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 52.961160000000035,
+            "t": 433.83520195312497,
+            "r": 480.8294960000003,
+            "b": 322.87296195312496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1160
+          ]
+        }
+      ],
+      "orig": "This  paper  summarizes  the  results  obtained  in  Nanoglowa  EU  project  using  polymeric  polyvinylamine  fixed  site carrier membranes developed at NTNU Norway for CO2 removal from flue gas. The pilot scale testing using real flue gas was performed at Sines power plant of EDP in Portugal. The aim of the project was CO2 separation from flue gas of coal fired power plants using membrane technology and involved several aspects: membrane up-scaling, material durability and pilot testing in a power plant.  Gas permeation experiments and material analyses confirmed that the membrane material and separation performances were not affected negatively by exposure to synthetic and real flue gas contaminants.  A pilot scale module having installed a 1.5 m 2 of NTNU membrane was tested continuously for 6,5  months.  The  membranes  showed  constant  separation  performances  with  a  maximum  content  of  75%  CO2  in permeate and a permeate flow of 525 l/day. The performances were kept constant despite several challenges related to power plant operation such as high levels of NOx (600 mg/Nm 3 ) and 200 mg/Nm 3 SO2, and frequent power plant outages.",
+      "text": "This  paper  summarizes  the  results  obtained  in  Nanoglowa  EU  project  using  polymeric  polyvinylamine  fixed  site carrier membranes developed at NTNU Norway for CO2 removal from flue gas. The pilot scale testing using real flue gas was performed at Sines power plant of EDP in Portugal. The aim of the project was CO2 separation from flue gas of coal fired power plants using membrane technology and involved several aspects: membrane up-scaling, material durability and pilot testing in a power plant.  Gas permeation experiments and material analyses confirmed that the membrane material and separation performances were not affected negatively by exposure to synthetic and real flue gas contaminants.  A pilot scale module having installed a 1.5 m 2 of NTNU membrane was tested continuously for 6,5  months.  The  membranes  showed  constant  separation  performances  with  a  maximum  content  of  75%  CO2  in permeate and a permeate flow of 525 l/day. The performances were kept constant despite several challenges related to power plant operation such as high levels of NOx (600 mg/Nm 3 ) and 200 mg/Nm 3 SO2, and frequent power plant outages."
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 51.0236,
+            "t": 285.445201953125,
+            "r": 270.17978800000014,
+            "b": 265.543001953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            210
+          ]
+        }
+      ],
+      "orig": "\u00a9 2013 The Authors. Published by Elsevier  Ltd. Selection and/or peer-review under responsibility of GHGT \u00a9 2013 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of GHGT",
+      "text": "\u00a9 2013 The Authors. Published by Elsevier  Ltd. Selection and/or peer-review under responsibility of GHGT \u00a9 2013 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of GHGT"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 52.9651,
+            "t": 240.973201953125,
+            "r": 289.81916,
+            "b": 234.47880195312496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            72
+          ]
+        }
+      ],
+      "orig": "Keywords : CO2 capture, membrane, pilot  scale, postcombustion, flue gas",
+      "text": "Keywords : CO2 capture, membrane, pilot  scale, postcombustion, flue gas"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 64.9651,
+            "t": 210.713201953125,
+            "r": 281.6365000000003,
+            "b": 194.13664195312504,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            111
+          ]
+        }
+      ],
+      "orig": "* Corresponding author. Tel.: +47 735 94033; fax: +47 735 94080. E-mail address: may-britt.hagg@chemeng.ntnu.no",
+      "text": "Corresponding author. Tel.: +47 735 94033; fax: +47 735 94080. E-mail address: may-britt.hagg@chemeng.ntnu.no",
+      "enumerated": false,
+      "marker": "*"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 52.95982000000001,
+            "t": 168.8768819531249,
+            "r": 127.98022000000006,
+            "b": 157.71832195312493,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 52.96990000000001,
+            "t": 142.52776195312492,
+            "r": 482.22569200000004,
+            "b": 122.2669619531249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            206
+          ]
+        }
+      ],
+      "orig": "The increasing consumption of fossil fuel such as coal, oil and natural gas and the effect of greenhouse gases on climate imposed immediate measures expressed on Kyoto Protocol: efficient energy conversion,",
+      "text": "The increasing consumption of fossil fuel such as coal, oil and natural gas and the effect of greenhouse gases on climate imposed immediate measures expressed on Kyoto Protocol: efficient energy conversion,"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 31.1821,
+            "t": 49.483001953124926,
+            "r": 235.88099999999974,
+            "b": 21.89889322637248,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "1876-6102 \u00a9 2013 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of GHGT doi:  10.1016/j.egypro.2013.06.577",
+      "text": "1876-6102 \u00a9 2013 The Authors. Published by Elsevier Ltd. Selection and/or peer-review under responsibility of GHGT doi:  10.1016/j.egypro.2013.06.577"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 32.5984,
+            "t": 704.0603019531251,
+            "r": 48.5984,
+            "b": 697.1201932263725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "6474",
+      "text": "6474"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 187.9904,
+            "t": 703.9883019531251,
+            "r": 391.544,
+            "b": 697.2322275611365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480",
+      "text": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.42471999999998,
+            "t": 674.2384019531249,
+            "r": 484.5696320000001,
+            "b": 641.9824019531251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            244
+          ]
+        }
+      ],
+      "orig": "efficient capture and safe disposal of CO2. Among the possible options, CO2 sequestration and subsequent disposal  in aquifers  or  in  exhausted  gas  or  oil  wells  seems  to  be,  at  this time,  one  of  the  most  mature technologies [1].",
+      "text": "efficient capture and safe disposal of CO2. Among the possible options, CO2 sequestration and subsequent disposal  in aquifers  or  in  exhausted  gas  or  oil  wells  seems  to  be,  at  this time,  one  of  the  most  mature technologies [1]."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.42471999999998,
+            "t": 638.222561953125,
+            "r": 484.47992,
+            "b": 593.9713619531252,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            355
+          ]
+        }
+      ],
+      "orig": "A wide range of technologies are being investigated as possible solutions, from the classical solution which implies high  energy  demand  and  solvent  consumption  -  absorption  by  amino  solutions in  large columns, to new technology such as redesigned combustion processes, adsorbents, membrane contactors and hollow fibre or spiral wound membranes.",
+      "text": "A wide range of technologies are being investigated as possible solutions, from the classical solution which implies high  energy  demand  and  solvent  consumption  -  absorption  by  amino  solutions in  large columns, to new technology such as redesigned combustion processes, adsorbents, membrane contactors and hollow fibre or spiral wound membranes."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.42471999999998,
+            "t": 590.2417619531252,
+            "r": 484.6603520000006,
+            "b": 533.9752019531254,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            529
+          ]
+        }
+      ],
+      "orig": "The intrinsic simplicity of a membrane separation process represents an unique advantage among the above mentioned separation processes because of relatively low energy consumption and no need for use of  chemicals  which  may  create  an  extra  source  of  pollution  [2].  The  criteria  for  discerning  between different  types  of  membranes  can  be  complex  and  has  to  take  into  account  the  balance  of  the  overall process cost and membrane separation requirements: durability, selectivity and productivity [3].",
+      "text": "The intrinsic simplicity of a membrane separation process represents an unique advantage among the above mentioned separation processes because of relatively low energy consumption and no need for use of  chemicals  which  may  create  an  extra  source  of  pollution  [2].  The  criteria  for  discerning  between different  types  of  membranes  can  be  complex  and  has  to  take  into  account  the  balance  of  the  overall process cost and membrane separation requirements: durability, selectivity and productivity [3]."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.42808000000002,
+            "t": 530.2456019531254,
+            "r": 484.58776000000006,
+            "b": 425.89800195312495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            856
+          ]
+        }
+      ],
+      "orig": "CO2 removal from flue gases represents a challenging task due to the very low CO2 partial pressure and presence of water vapour. A series of studies reported a dramatically decrease on separation properties for solution-diffusion membranes based on polymers such as polyimide [4-6], due to a competitive sorption between water and permeating gases. A fixed site carrier membrane containing amino groups represents an optimum choice for humid gas streams such as flue gas, due to the reversible reaction mechanism of CO2  with  the  amino  groups  in  presence  of  water.  A  multitude  of  different  membranes  materials  with functional groups as specific carriers for CO2 were investigated [7-20], all of them having in common the CO2  transport  by  facilitated  transport  in  humid  operating  conditions  rather  than  solution diffusion mechanism.",
+      "text": "CO2 removal from flue gases represents a challenging task due to the very low CO2 partial pressure and presence of water vapour. A series of studies reported a dramatically decrease on separation properties for solution-diffusion membranes based on polymers such as polyimide [4-6], due to a competitive sorption between water and permeating gases. A fixed site carrier membrane containing amino groups represents an optimum choice for humid gas streams such as flue gas, due to the reversible reaction mechanism of CO2  with  the  amino  groups  in  presence  of  water.  A  multitude  of  different  membranes  materials  with functional groups as specific carriers for CO2 were investigated [7-20], all of them having in common the CO2  transport  by  facilitated  transport  in  humid  operating  conditions  rather  than  solution diffusion mechanism."
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.42447999999996,
+            "t": 422.14824195312497,
+            "r": 484.63407999999936,
+            "b": 341.857841953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            678
+          ]
+        }
+      ],
+      "orig": "Fixed site  carrier membranes (FSC) combine the durability of a solid polymeric membrane with the selectivity of a supported liquid membrane (SLM) and at the same time overcome the limitation of SLM the  degradation  due  to  the  wash  out  of  the  carrier  solution  over  time.  The  water  in  the  swollen  FSC membrane enhances the mobility of the fixed carrier and consequently the swollen FSC membrane shows CO2  diffusivity  between  a  fixed  and  a  mobile  carrier.  The  CO2  molecules  are  transported  both  by facilitated transport and solution diffusion and the non reactive gases such as N2 and CH4 are transported only via solution-diffusion mechanism [19].",
+      "text": "Fixed site  carrier membranes (FSC) combine the durability of a solid polymeric membrane with the selectivity of a supported liquid membrane (SLM) and at the same time overcome the limitation of SLM the  degradation  due  to  the  wash  out  of  the  carrier  solution  over  time.  The  water  in  the  swollen  FSC membrane enhances the mobility of the fixed carrier and consequently the swollen FSC membrane shows CO2  diffusivity  between  a  fixed  and  a  mobile  carrier.  The  CO2  molecules  are  transported  both  by facilitated transport and solution diffusion and the non reactive gases such as N2 and CH4 are transported only via solution-diffusion mechanism [19]."
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.42696000000001,
+            "t": 328.461521953125,
+            "r": 134.308,
+            "b": 317.30296195312496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "2. Experimental",
+      "text": "2. Experimental",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.42696000000001,
+            "t": 302.132561953125,
+            "r": 114.86368000000006,
+            "b": 293.866961953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "2.1 Materials",
+      "text": "2.1 Materials",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.43703999999997,
+            "t": 278.101841953125,
+            "r": 484.60412799999983,
+            "b": 209.86024195312496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            558
+          ]
+        }
+      ],
+      "orig": "For the membrane selective layer preparation, polyvinylamine (PVAm) with Mw 340000 was kindly provided by BASF AG Germany. Other materials were: polysulfone (PSf) ultrafiltration membranes with 50000  MWCO  from  DSS  Denmark.  All  the  materials  were  used  without  further  purification  with  the exception of PVAm 340 000 Mw from BASF. The PVAm polymer was purified in successive steps: reprecipitation  in  acetone  and  ethanol  mixtures,  washing,  filtration,  drying  until  constant  weight,  redissolution in distilled water as reported in [7].",
+      "text": "For the membrane selective layer preparation, polyvinylamine (PVAm) with Mw 340000 was kindly provided by BASF AG Germany. Other materials were: polysulfone (PSf) ultrafiltration membranes with 50000  MWCO  from  DSS  Denmark.  All  the  materials  were  used  without  further  purification  with  the exception of PVAm 340 000 Mw from BASF. The PVAm polymer was purified in successive steps: reprecipitation  in  acetone  and  ethanol  mixtures,  washing,  filtration,  drying  until  constant  weight,  redissolution in distilled water as reported in [7]."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.43703999999997,
+            "t": 194.10520195312495,
+            "r": 169.61017599999997,
+            "b": 185.83960195312488,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            24
+          ]
+        }
+      ],
+      "orig": "2.2 Membrane preparation",
+      "text": "2.2 Membrane preparation",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 55.422879999999964,
+            "t": 172.25280195312496,
+            "r": 483.4206879999999,
+            "b": 137.80320195312493,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            238
+          ]
+        }
+      ],
+      "orig": "The membranes used at NTNU for laboratory testing were produce manually having an area of 20 cm 2 [21]. PVAm/PSf flat sheet NTNU membranes were up-scaled for pilot testing from an area of 20 cm 2 to sheets of 900 cm 2 as reported in [22].",
+      "text": "The membranes used at NTNU for laboratory testing were produce manually having an area of 20 cm 2 [21]. PVAm/PSf flat sheet NTNU membranes were up-scaled for pilot testing from an area of 20 cm 2 to sheets of 900 cm 2 as reported in [22]."
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 172.039,
+            "t": 703.9883019531251,
+            "r": 375.59259999999995,
+            "b": 697.2322275611365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480",
+      "text": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 494.887,
+            "t": 704.0683019531251,
+            "r": 510.887,
+            "b": 697.1281932263726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "6475",
+      "text": "6475"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.7984,
+            "t": 675.3449019531249,
+            "r": 214.43861599999985,
+            "b": 667.079301953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "2.3 Membrane module for pilot testing",
+      "text": "2.3 Membrane module for pilot testing",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.7984,
+            "t": 653.4989019531249,
+            "r": 482.51064,
+            "b": 607.049201953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            336
+          ]
+        }
+      ],
+      "orig": "A pilot scale module having installed a 1.5 m 2 of membrane was fabricated by Yodfat, (Israel). The module w of 24 membrane sheets (25 cm x 25 cm) produced at NTNU, Norway. The module contained 12 sandwich membrane elements, having installed two membranes per element. Figure 1 shows the entire module with 12 elements and 24 membranes.",
+      "text": "A pilot scale module having installed a 1.5 m 2 of membrane was fabricated by Yodfat, (Israel). The module w of 24 membrane sheets (25 cm x 25 cm) produced at NTNU, Norway. The module contained 12 sandwich membrane elements, having installed two membranes per element. Figure 1 shows the entire module with 12 elements and 24 membranes."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 204.474,
+            "t": 432.451201953125,
+            "r": 334.37928,
+            "b": 424.972801953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            34
+          ]
+        }
+      ],
+      "orig": "Fig. 1 Pilot scale membrane module",
+      "text": "Fig. 1 Pilot scale membrane module"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.7984,
+            "t": 387.244801953125,
+            "r": 135.713856,
+            "b": 378.97920195312497,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            18
+          ]
+        }
+      ],
+      "orig": "2.4 Permeation rig",
+      "text": "2.4 Permeation rig",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 56.7984,
+            "t": 363.224801953125,
+            "r": 255.734,
+            "b": 354.959201953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "orig": "Fig.2 shows the schematic drawing of the test rig.",
+      "text": "Fig.2 shows the schematic drawing of the test rig."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 176.364,
+            "t": 148.19120195312496,
+            "r": 362.26151999999985,
+            "b": 140.712801953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            54
+          ]
+        }
+      ],
+      "orig": "Fig. 2 Pilot scale testing rig at EDP, Sines, Portugal",
+      "text": "Fig. 2 Pilot scale testing rig at EDP, Sines, Portugal"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 32.5984,
+            "t": 704.0603019531251,
+            "r": 48.5984,
+            "b": 697.1201932263725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "6476",
+      "text": "6476"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 187.9904,
+            "t": 703.9883019531251,
+            "r": 391.544,
+            "b": 697.2322275611365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480",
+      "text": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.5237,
+            "t": 676.211501953125,
+            "r": 475.55779600000113,
+            "b": 631.9300619531251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            345
+          ]
+        }
+      ],
+      "orig": "The  test  rig  was  designed  at  EDP  Portugal  by  Ant\u00f3nio  Ermida  Mano  and  Manuela  Berberan  Santos based on previous experience of building and exploiting the rigs at NTNU Norway and ICHP Poland. All project partners were involved in the process of design: NTNU, (Norway), ICHP (Poland), Yodfat (Israel) and DNV- KEMA (The Netherlands).",
+      "text": "The  test  rig  was  designed  at  EDP  Portugal  by  Ant\u00f3nio  Ermida  Mano  and  Manuela  Berberan  Santos based on previous experience of building and exploiting the rigs at NTNU Norway and ICHP Poland. All project partners were involved in the process of design: NTNU, (Norway), ICHP (Poland), Yodfat (Israel) and DNV- KEMA (The Netherlands)."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.5237,
+            "t": 606.5284619531251,
+            "r": 167.42025999999987,
+            "b": 595.3699019531251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "3. Results and discussions",
+      "text": "3. Results and discussions",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.52369999999999,
+            "t": 580.199501953125,
+            "r": 307.4596839999999,
+            "b": 571.9339019531251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            61
+          ]
+        }
+      ],
+      "orig": "3.1 Location of permeation rig and summary of test parameters",
+      "text": "3.1 Location of permeation rig and summary of test parameters",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.52369999999999,
+            "t": 556.1788619531251,
+            "r": 475.5286559999996,
+            "b": 511.90100195312505,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            343
+          ]
+        }
+      ],
+      "orig": "The rig was situated close to the flue gas extraction point due to outdoor location. The location was at Unit  No.  4  on  the  gas-gas  heater  inlet  hood.  Figure  3  shows  the  exact  location  of  the  test  rig.  The annotations  in  Fig.  3  stand  for:  FGD-flue  gas  desulphurization  (SO2  removal  unit)  and  GGH  gas-gas heater.",
+      "text": "The rig was situated close to the flue gas extraction point due to outdoor location. The location was at Unit  No.  4  on  the  gas-gas  heater  inlet  hood.  Figure  3  shows  the  exact  location  of  the  test  rig.  The annotations  in  Fig.  3  stand  for:  FGD-flue  gas  desulphurization  (SO2  removal  unit)  and  GGH  gas-gas heater."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 138.77248,
+            "t": 243.18892195312503,
+            "r": 383.93449600000065,
+            "b": 235.710521953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Fig. 3 Location of the pilot scale testing rig at EDP, Sines, Portugal",
+      "text": "Fig. 3 Location of the pilot scale testing rig at EDP, Sines, Portugal"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 47.5237,
+            "t": 196.04116195312497,
+            "r": 475.5608199999999,
+            "b": 175.776201953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "The test parameters and flue gas composition is presented in Figure 4. The figure indicates the unusual large amounts of SO2, NOx present in flue gas in the first part of the test.",
+      "text": "The test parameters and flue gas composition is presented in Figure 4. The figure indicates the unusual large amounts of SO2, NOx present in flue gas in the first part of the test."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 172.039,
+            "t": 703.9883019531251,
+            "r": 375.59259999999995,
+            "b": 697.2322275611365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480",
+      "text": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 494.887,
+            "t": 704.0683019531251,
+            "r": 510.887,
+            "b": 697.1281932263726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "6477",
+      "text": "6477"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 167.906,
+            "t": 350.775801953125,
+            "r": 350.80582399999986,
+            "b": 342.510201953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "Fig. 4 Test parameters and flue gas composition",
+      "text": "Fig. 4 Test parameters and flue gas composition"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 45.45912000000004,
+            "t": 329.19980195312496,
+            "r": 473.58531200000016,
+            "b": 258.73916195312495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            596
+          ]
+        }
+      ],
+      "orig": "The  operating  conditions  are  shown  in  Fig.4:  feed  gas  flow  was  6-24  Nm 3 /h,  feed  pressure  was atmospheric pressure, temperature was 45 0 C, vacuum pressure in permeate was 100-200 mbar (average 130  mbar).  The  gas  leaks  of  the  system  were  investigated  and  quantified.  The  internal  leaks  were impossible to determine and consequently were not accounted.  The external leak, air in the system, was identified from mass balance to be 1.4 liters per hour (l/h) between August and October 2011 and 1.6 l/h between October and December 2011 due to vacuum pump replacement.",
+      "text": "The  operating  conditions  are  shown  in  Fig.4:  feed  gas  flow  was  6-24  Nm 3 /h,  feed  pressure  was atmospheric pressure, temperature was 45 0 C, vacuum pressure in permeate was 100-200 mbar (average 130  mbar).  The  gas  leaks  of  the  system  were  investigated  and  quantified.  The  internal  leaks  were impossible to determine and consequently were not accounted.  The external leak, air in the system, was identified from mass balance to be 1.4 liters per hour (l/h) between August and October 2011 and 1.6 l/h between October and December 2011 due to vacuum pump replacement."
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 45.4598,
+            "t": 242.98580195312502,
+            "r": 280.1763199999999,
+            "b": 234.72020195312496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "3.2 Permeate flow rate and permeate CO2 concentration",
+      "text": "3.2 Permeate flow rate and permeate CO2 concentration",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 45.45800000000003,
+            "t": 218.96580195312504,
+            "r": 474.74086399999993,
+            "b": 150.670201953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            629
+          ]
+        }
+      ],
+      "orig": "Figure 5 shows raw data recorded between 17 of August and 6 October 2011 of CO2 concentration in permeate  and  permeate  flow  rate.  The  membranes  had  constant  separation  performances  for  the  entire period  of  testing.  Variations  of  permeate  flow  rate  and  permeate  content  were  observed  and  were attributed to fluctuating vacuum pump operation and fluctuating loading capacity of the power plant (Mw output). The periods with low power plant electrical output decreased considerably the CO2 content and the relative humidity of the flue gas and this influenced the flow rate and CO2 content of permeate The",
+      "text": "Figure 5 shows raw data recorded between 17 of August and 6 October 2011 of CO2 concentration in permeate  and  permeate  flow  rate.  The  membranes  had  constant  separation  performances  for  the  entire period  of  testing.  Variations  of  permeate  flow  rate  and  permeate  content  were  observed  and  were attributed to fluctuating vacuum pump operation and fluctuating loading capacity of the power plant (Mw output). The periods with low power plant electrical output decreased considerably the CO2 content and the relative humidity of the flue gas and this influenced the flow rate and CO2 content of permeate The"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 32.5984,
+            "t": 704.0603019531251,
+            "r": 48.5984,
+            "b": 697.1201932263725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "6478",
+      "text": "6478"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 187.9904,
+            "t": 703.9883019531251,
+            "r": 391.544,
+            "b": 697.2322275611365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480",
+      "text": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 55.4315,
+            "t": 678.3495019531249,
+            "r": 484.61125599999997,
+            "b": 658.088701953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "major  fluctuations  are  attributed  to  power  plant  outages  due  to  the  replacement  of  SCR  unit  (de NOx unit).",
+      "text": "major  fluctuations  are  attributed  to  power  plant  outages  due  to  the  replacement  of  SCR  unit  (de NOx unit)."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 55.43019999999996,
+            "t": 654.359101953125,
+            "r": 483.42699999999996,
+            "b": 610.054201953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            333
+          ]
+        }
+      ],
+      "orig": "Prolonged outages of power plant produced a flue gas containing mostly air which decreased the CO2 feed content to 5%, increased O2 concentration up to 18% and decreased the relative humidity below 40% RH. There is a clear relation between flue gas low humidity and low CO2 content and the decreases of permeate flow and CO2 content.",
+      "text": "Prolonged outages of power plant produced a flue gas containing mostly air which decreased the CO2 feed content to 5%, increased O2 concentration up to 18% and decreased the relative humidity below 40% RH. There is a clear relation between flue gas low humidity and low CO2 content and the decreases of permeate flow and CO2 content."
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 55.431960000000004,
+            "t": 606.324601953125,
+            "r": 483.45093600000087,
+            "b": 586.0590019531251,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            176
+          ]
+        }
+      ],
+      "orig": "Remarkable, the permeate flow rate and CO2 concentration recovered to initial values when the power plant was operated at normal loading capacity and under constant conditions.",
+      "text": "Remarkable, the permeate flow rate and CO2 concentration recovered to initial values when the power plant was operated at normal loading capacity and under constant conditions."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 91.6954,
+            "t": 303.676201953125,
+            "r": 458.70894400000043,
+            "b": 296.19780195312495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            96
+          ]
+        }
+      ],
+      "orig": "Fig. 5 Raw data for permeate flow rate and CO2 content measured from 17 August to 6 October 2011",
+      "text": "Fig. 5 Raw data for permeate flow rate and CO2 content measured from 17 August to 6 October 2011"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 55.42723999999998,
+            "t": 268.28916195312496,
+            "r": 483.40548800000005,
+            "b": 187.999001953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            704
+          ]
+        }
+      ],
+      "orig": "The membranes showed constant separation performances with a maximum of 75% CO2 content in permeate and a permeate flow of 525 l/day. The raw results were used to calculate the CO2 permeance and  CO2/N2  selectivity  using  the  complete  mixing  model  [7].  During  periods  of  constant  power  plant operation  the  values  of  CO 2 permeance  and  CO2/N2  selectivity  were  similar  to  values  obtained  in  the laboratory  at  NTNU.  Both CO2  permeance and  CO2/N2  selectivity  were  constant  for  the  entire  testing period.  CO2 permeances between 0.2 and 0.6 m 3 (STP)/(m 2 bar h) and CO2/N2 selectivity between 80 and 300 were obtained during periods of constant operation of power plant.",
+      "text": "The membranes showed constant separation performances with a maximum of 75% CO2 content in permeate and a permeate flow of 525 l/day. The raw results were used to calculate the CO2 permeance and  CO2/N2  selectivity  using  the  complete  mixing  model  [7].  During  periods  of  constant  power  plant operation  the  values  of  CO 2 permeance  and  CO2/N2  selectivity  were  similar  to  values  obtained  in  the laboratory  at  NTNU.  Both CO2  permeance and  CO2/N2  selectivity  were  constant  for  the  entire  testing period.  CO2 permeances between 0.2 and 0.6 m 3 (STP)/(m 2 bar h) and CO2/N2 selectivity between 80 and 300 were obtained during periods of constant operation of power plant."
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 55.42723999999998,
+            "t": 184.269401953125,
+            "r": 483.51980000000015,
+            "b": 140.01820195312496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            330
+          ]
+        }
+      ],
+      "orig": "Several  studies  for  different  flue  gas  sources  pointed  out  that  by  an  innovative  membrane  process design  and  using  high  performance  membranes,    the  separation  with  membranes  can  compete  with absorption in terms of costs and efficiency without adding an extra pollution by use of toxic chemicals [22-27].",
+      "text": "Several  studies  for  different  flue  gas  sources  pointed  out  that  by  an  innovative  membrane  process design  and  using  high  performance  membranes,    the  separation  with  membranes  can  compete  with absorption in terms of costs and efficiency without adding an extra pollution by use of toxic chemicals [22-27]."
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 172.039,
+            "t": 703.9883019531251,
+            "r": 375.59259999999995,
+            "b": 697.2322275611365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480",
+      "text": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 494.887,
+            "t": 704.0683019531251,
+            "r": 510.887,
+            "b": 697.1281932263726,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "6479",
+      "text": "6479"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.7984,
+            "t": 675.859381953125,
+            "r": 127.73942400000001,
+            "b": 664.700821953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "4. Conclusion",
+      "text": "4. Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.79424,
+            "t": 650.0142619531249,
+            "r": 484.861728,
+            "b": 533.700001953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1054
+          ]
+        }
+      ],
+      "orig": "The separation performances of  the membranes produced at NTNU were confirmed by independent testing from laboratory scale to pilot scale testing despite differences in testing equipment among project partners. The results showed that using large area of module membranes instead small membranes can be more beneficial  in terms of accuracy testing. The membranes did not lose the separation performances during more  than  six  months  continuous  operation  in  very  harsh  and  challenging  conditions:  frequent plant  outages,  high  concentration  of  NOx  and  SO2  and  various  technical  problems.  During  periods  of constant  power  plant  operation,  the  values  of  CO 2 permeance  and  CO2/N2  selectivity  were  similar  to values obtained in the laboratory at NTNU. Both CO2 permeance and CO2/N2 selectivity were constant for  the  entire  testing  period.    CO2  permeances  between  0.2  and  0.6  m 3 (STP)/(m 2 bar  h)  and  CO2/N2 selectivity between 80 and 300 were obtained during periods of constant operation of power plant.",
+      "text": "The separation performances of  the membranes produced at NTNU were confirmed by independent testing from laboratory scale to pilot scale testing despite differences in testing equipment among project partners. The results showed that using large area of module membranes instead small membranes can be more beneficial  in terms of accuracy testing. The membranes did not lose the separation performances during more  than  six  months  continuous  operation  in  very  harsh  and  challenging  conditions:  frequent plant  outages,  high  concentration  of  NOx  and  SO2  and  various  technical  problems.  During  periods  of constant  power  plant  operation,  the  values  of  CO 2 permeance  and  CO2/N2  selectivity  were  similar  to values obtained in the laboratory at NTNU. Both CO2 permeance and CO2/N2 selectivity were constant for  the  entire  testing  period.    CO2  permeances  between  0.2  and  0.6  m 3 (STP)/(m 2 bar  h)  and  CO2/N2 selectivity between 80 and 300 were obtained during periods of constant operation of power plant."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.79239999999997,
+            "t": 521.019361953125,
+            "r": 154.14984,
+            "b": 509.860801953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            16
+          ]
+        }
+      ],
+      "orig": "Acknowledgements",
+      "text": "Acknowledgements",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.797199999999975,
+            "t": 494.670241953125,
+            "r": 484.91092800000104,
+            "b": 438.42384195312496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            439
+          ]
+        }
+      ],
+      "orig": "We  would  like  to  acknowledge  Statoil  Norway  for  funding  of  initial  membrane  research  and European Commission within the 6FWP for Nanoglowa project funding. We would like to acknowledge the contribution of Ant\u00f3nio Ermida Mano and Manuela Berberan Santos from EDP Portugal for testing and rig  design;  the  contribution  of  Danny  Sherban  and  Ranny  Fischer  from  Yodfat  Israel  for  module production, design and testing.",
+      "text": "We  would  like  to  acknowledge  Statoil  Norway  for  funding  of  initial  membrane  research  and European Commission within the 6FWP for Nanoglowa project funding. We would like to acknowledge the contribution of Ant\u00f3nio Ermida Mano and Manuela Berberan Santos from EDP Portugal for testing and rig  design;  the  contribution  of  Danny  Sherban  and  Ranny  Fischer  from  Yodfat  Israel  for  module production, design and testing."
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 68.79239999999997,
+            "t": 413.95968195312497,
+            "r": 117.91123199999996,
+            "b": 402.80112195312495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.7996,
+            "t": 388.56616195312495,
+            "r": 482.25724799999927,
+            "b": 372.71032195312495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "[1] D. Fiaschi, L. Tapinassi, Exergy analysis of the recuperative auto thermal reforming (R-ATR) and recuperative reforming (RREF) power cycles with CO2 removal, Energy, 29, (2004), 2003-2024.",
+      "text": "D. Fiaschi, L. Tapinassi, Exergy analysis of the recuperative auto thermal reforming (R-ATR) and recuperative reforming (RREF) power cycles with CO2 removal, Energy, 29, (2004), 2003-2024.",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.80104,
+            "t": 370.08928195312495,
+            "r": 483.52272,
+            "b": 354.47896195312495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "[2] A. Basu, J. Akhtar, M.H. Rahman, M.R. Islam, A review of separation of gases using membrane systems, Petrol. Sci. Technol., 22, (2004), 1343-1368.",
+      "text": "A. Basu, J. Akhtar, M.H. Rahman, M.R. Islam, A review of separation of gases using membrane systems, Petrol. Sci. Technol., 22, (2004), 1343-1368.",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.80104,
+            "t": 351.59608195312495,
+            "r": 483.91080000000005,
+            "b": 335.98576195312495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[3] W.J. Koros, R. Mahajan, Pushing the limits on possibilities for large scale gas separation: which strategies? J. Membr. Sci., 175, (2000), 181-196.",
+      "text": "W.J. Koros, R. Mahajan, Pushing the limits on possibilities for large scale gas separation: which strategies? J. Membr. Sci., 175, (2000), 181-196.",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.80104,
+            "t": 333.3642419531249,
+            "r": 483.54489599999886,
+            "b": 317.5084019531249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "[4]  R.T.  Chern,  W.J.  Koros,  E.S.  Sanders,  R.  Yui,  \"Second  component\"  effects  in  sorption  and  permeation  of  gases  in  glassy polymers, J. Membr. Sci., 15, (1983), 157-169.",
+      "text": " R.T.  Chern,  W.J.  Koros,  E.S.  Sanders,  R.  Yui,  \"Second  component\"  effects  in  sorption  and  permeation  of  gases  in  glassy polymers, J. Membr. Sci., 15, (1983), 157-169.",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.80104,
+            "t": 314.8868819531249,
+            "r": 483.6549839999986,
+            "b": 299.2765619531249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            199
+          ]
+        }
+      ],
+      "orig": "[5]  W.J.  Koros,  V.Stannett,  R.T.  Chern  and  H.B.  Hopfenberg,  A  model  for  permeation  of  mixed  gases  and  vapors  in  glassy polymers, J Polym Sci, Polym Phys Ed, 19, (1981), 1513-1530,-",
+      "text": " W.J.  Koros,  V.Stannett,  R.T.  Chern  and  H.B.  Hopfenberg,  A  model  for  permeation  of  mixed  gases  and  vapors  in  glassy polymers, J Polym Sci, Polym Phys Ed, 19, (1981), 1513-1530,-",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.80007999999998,
+            "t": 296.40952195312485,
+            "r": 484.19179199999996,
+            "b": 271.623201953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            318
+          ]
+        }
+      ],
+      "orig": "[6]  M.  Pourafshari  Chenar,  M.  Soltanieh,  T.  Matsuura,  A.  Tabe-Mohammadi,  K.C.  Khulbe,  The  effect  of  water  vapour  on  the performance  of  commercial  polyphenylene  oxide  and  Cardo-type  polyimide  hollow  fiber  membranes  in  CO2/CH4  separation applications, J. Membr. Sci., 285, (2006), 265-271.",
+      "text": " M.  Pourafshari  Chenar,  M.  Soltanieh,  T.  Matsuura,  A.  Tabe-Mohammadi,  K.C.  Khulbe,  The  effect  of  water  vapour  on  the performance  of  commercial  polyphenylene  oxide  and  Cardo-type  polyimide  hollow  fiber  membranes  in  CO2/CH4  separation applications, J. Membr. Sci., 285, (2006), 265-271.",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.79544000000004,
+            "t": 268.75616195312494,
+            "r": 484.1142879999992,
+            "b": 244.02896195312502,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            311
+          ]
+        }
+      ],
+      "orig": "[7] M. Sandru, S.H. Haukeb\u00f8, M.B. H\u00e4gg, Composite hollow fiber membranes for CO2 capture, J. Membr. Sci., 2010, 346, 172-186. [8] Y. Cai, Z. Wang, C. Yi, Y. Bai, J. Wang, S. Wang, Gas transport property of polyallylamine-poly(vinyl alcohol)/polysulfone composite membranes, J. Membr. Sci., 310, (2008), 184-196.",
+      "text": "M. Sandru, S.H. Haukeb\u00f8, M.B. H\u00e4gg, Composite hollow fiber membranes for CO2 capture, J. Membr. Sci., 2010, 346, 172-186. [8] Y. Cai, Z. Wang, C. Yi, Y. Bai, J. Wang, S. Wang, Gas transport property of polyallylamine-poly(vinyl alcohol)/polysulfone composite membranes, J. Membr. Sci., 310, (2008), 184-196.",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.79544000000004,
+            "t": 241.16192195312505,
+            "r": 483.51712000000003,
+            "b": 225.54080195312497,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            181
+          ]
+        }
+      ],
+      "orig": "[9] J. Shen, L. Wu, D. Wang, C. Gao, Sorption behaviour and separation performance of novel facilitated transport membranes for CO2/CH4 mixtures, Desalination, 223, (2008), 425-437.",
+      "text": "J. Shen, L. Wu, D. Wang, C. Gao, Sorption behaviour and separation performance of novel facilitated transport membranes for CO2/CH4 mixtures, Desalination, 223, (2008), 425-437.",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.79584,
+            "t": 222.91928195312494,
+            "r": 484.06954399999915,
+            "b": 207.05936195312495,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "[10] L. Wu, J. Shen, C. Gao, Permeation of CO2 and CH4 through a 2-(N,N-dimethyl amino) ethyl methacrylate and acrylonitrile copolymer membrane, Desalination, 223, (2008), 410-416.",
+      "text": "L. Wu, J. Shen, C. Gao, Permeation of CO2 and CH4 through a 2-(N,N-dimethyl amino) ethyl methacrylate and acrylonitrile copolymer membrane, Desalination, 223, (2008), 410-416.",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.79584,
+            "t": 204.414081953125,
+            "r": 483.59672,
+            "b": 188.803761953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "[11] L.A. El-Azzami, E.A. Grulke, Carbon dioxide separation from hydrogen and nitrogen by fixed facilitated transport in swollen chitosan membranes, J. Membr. Sci., 323, (2008), 225-234.",
+      "text": "L.A. El-Azzami, E.A. Grulke, Carbon dioxide separation from hydrogen and nitrogen by fixed facilitated transport in swollen chitosan membranes, J. Membr. Sci., 323, (2008), 225-234.",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.79584,
+            "t": 185.93672195312502,
+            "r": 483.9497600000008,
+            "b": 170.324881953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "[12] Z. Wang, M. Li, Y. Cai, J. Wang, S. Wang, Novel CO2 selectively permeating membranes containing PETEDA dendrimer, J. Membr. Sci., 290, (2007), 250-258.",
+      "text": "Z. Wang, M. Li, Y. Cai, J. Wang, S. Wang, Novel CO2 selectively permeating membranes containing PETEDA dendrimer, J. Membr. Sci., 290, (2007), 250-258.",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.79455999999999,
+            "t": 167.70336195312507,
+            "r": 483.8871920000006,
+            "b": 142.72488195312496,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            283
+          ]
+        }
+      ],
+      "orig": "[13]  R.  Yegani,  H.  Hirozawa,  M.  Teramoto,  H.  Himei,  O.  Okada,  T.  Takigawa,  N.  Ohmura,  N.  Matsumiya,  H.  Matsuyama, Selective separation of CO2 by using novel facilitated transport membrane at elevated temperatures and pressures, J. Membr. Sci., 291, (2007), 157-164.",
+      "text": " R.  Yegani,  H.  Hirozawa,  M.  Teramoto,  H.  Himei,  O.  Okada,  T.  Takigawa,  N.  Ohmura,  N.  Matsumiya,  H.  Matsuyama, Selective separation of CO2 by using novel facilitated transport membrane at elevated temperatures and pressures, J. Membr. Sci., 291, (2007), 157-164.",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.79455999999999,
+            "t": 140.10336195312505,
+            "r": 483.78551999999996,
+            "b": 124.21080195312493,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            182
+          ]
+        }
+      ],
+      "orig": "[14] G.J. Francisco, A. Chakma, X. Feng, Membranes comprising of alkanolamines incorporated into poly(vinyl alcohol) matrix for CO2/N2 separation, J. Membr. Sci., 303, (2007), 54-63.",
+      "text": "G.J. Francisco, A. Chakma, X. Feng, Membranes comprising of alkanolamines incorporated into poly(vinyl alcohol) matrix for CO2/N2 separation, J. Membr. Sci., 303, (2007), 54-63.",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 7,
+          "bbox": {
+            "l": 56.795519999999996,
+            "t": 121.58928195312501,
+            "r": 481.1269439999997,
+            "b": 115.09488195312497,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            129
+          ]
+        }
+      ],
+      "orig": "[15] M.B. H\u00e4gg, R. Quinn, Polymeric facilitated transport membranes for hydrogen purification, Mrs Bulletin, 31, (2006), 750-755.",
+      "text": "M.B. H\u00e4gg, R. Quinn, Polymeric facilitated transport membranes for hydrogen purification, Mrs Bulletin, 31, (2006), 750-755.",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 32.5984,
+            "t": 704.0603019531251,
+            "r": 48.5984,
+            "b": 697.1201932263725,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "6480",
+      "text": "6480"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 187.9904,
+            "t": 703.9883019531251,
+            "r": 391.544,
+            "b": 697.2322275611365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            70
+          ]
+        }
+      ],
+      "orig": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480",
+      "text": "Marius Sandru et al. /   Energy Procedia   37 (  2013  )   6473 - 6480"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 51.9372,
+            "t": 673.884101953125,
+            "r": 478.95972799999885,
+            "b": 658.273781953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            149
+          ]
+        }
+      ],
+      "orig": "[16] J. Zou, W.S.W. Ho, CO2-selective polymeric membranes containing amines in crosslinked poly(vinyl alcohol), J. Membr. Sci., 286, (2006), 310-321.",
+      "text": "J. Zou, W.S.W. Ho, CO2-selective polymeric membranes containing amines in crosslinked poly(vinyl alcohol), J. Membr. Sci., 286, (2006), 310-321.",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 51.936360000000036,
+            "t": 655.652261953125,
+            "r": 479.3858879999993,
+            "b": 639.788261953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            192
+          ]
+        }
+      ],
+      "orig": "[17] M.-J.  Kim, Y.-I.  Park, K.-H. Youm,  K.-H. Lee, Facilitated transport of CO2 through  ethylenediamine-fixed cation-exchange polysaccharide membranes,  J. Membr. Sci., 245, (2004), 79-86.",
+      "text": "M.-J.  Kim, Y.-I.  Park, K.-H. Youm,  K.-H. Lee, Facilitated transport of CO2 through  ethylenediamine-fixed cation-exchange polysaccharide membranes,  J. Membr. Sci., 245, (2004), 79-86.",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 51.936360000000036,
+            "t": 637.135061953125,
+            "r": 479.1300719999986,
+            "b": 621.524741953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "[19] T.J. Kim, B.A. Li, M.B. H\u00e4gg, Novel fixed-site-carrier polyvinylamine membrane for carbon dioxide capture, J. Polym. Sci. Pol. Phys, 42, (2004), 4326-4336.",
+      "text": "T.J. Kim, B.A. Li, M.B. H\u00e4gg, Novel fixed-site-carrier polyvinylamine membrane for carbon dioxide capture, J. Polym. Sci. Pol. Phys, 42, (2004), 4326-4336.",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 51.936360000000036,
+            "t": 618.6577019531251,
+            "r": 479.15275199999945,
+            "b": 603.043881953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "[20]  J.  Huang,  J.  Zou,  W.S.W.  Ho,  Carbon  Dioxide  Capture  Using  a  CO2-Selective  Facilitated  Transport  Membrane,  Ind.  Eng. Chem. Res., 47, (2008), 1261-1267.",
+      "text": " J.  Huang,  J.  Zou,  W.S.W.  Ho,  Carbon  Dioxide  Capture  Using  a  CO2-Selective  Facilitated  Transport  Membrane,  Ind.  Eng. Chem. Res., 47, (2008), 1261-1267.",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 51.93348000000003,
+            "t": 600.4223619531251,
+            "r": 479.26816800000023,
+            "b": 584.558361953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "[21] M. Sandru, T.-J.  Kim,  M.-B. H\u00e4gg, High  molecular  fixed-site-carrier PVAm  membrane  for CO2  capture, Desalination, 240, (2009), 298-300.",
+      "text": "M. Sandru, T.-J.  Kim,  M.-B. H\u00e4gg, High  molecular  fixed-site-carrier PVAm  membrane  for CO2  capture, Desalination, 240, (2009), 298-300.",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 51.93348000000003,
+            "t": 581.936841953125,
+            "r": 479.3293279999998,
+            "b": 566.319801953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            203
+          ]
+        }
+      ],
+      "orig": "[22] T.J. Kim, M. Uddin, M. Sandru and M.B. H\u00e4gg, The effect of contaminants on the composite membranes for CO2 separation and challenges in up-scaling of the membranes, Energy Procedia, 2011, 4, 737 744",
+      "text": "T.J. Kim, M. Uddin, M. Sandru and M.B. H\u00e4gg, The effect of contaminants on the composite membranes for CO2 separation and challenges in up-scaling of the membranes, Energy Procedia, 2011, 4, 737 744",
+      "enumerated": true,
+      "marker": "[22]"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 51.935,
+            "t": 563.436921953125,
+            "r": 479.1207919999997,
+            "b": 547.823881953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[23] A. Hussain, M.-B. H\u00e4gg, A feasibility study of CO2 capture from flue gas by a facilitated transport membrane, J. of Membr. Sci., 359, (2010), 140-148",
+      "text": "A. Hussain, M.-B. H\u00e4gg, A feasibility study of CO2 capture from flue gas by a facilitated transport membrane, J. of Membr. Sci., 359, (2010), 140-148",
+      "enumerated": true,
+      "marker": "[23]"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 51.935,
+            "t": 545.2023619531251,
+            "r": 461.15328800000003,
+            "b": 538.699801953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            121
+          ]
+        }
+      ],
+      "orig": "[24] T.C. Merkel et al.  Carbon dioxide capture with membranes at an IGCC power plant, J. Membr. Sci., 389 (2012) 441 450",
+      "text": "T.C. Merkel et al.  Carbon dioxide capture with membranes at an IGCC power plant, J. Membr. Sci., 389 (2012) 441 450",
+      "enumerated": true,
+      "marker": "[24]"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 51.93451999999999,
+            "t": 535.834201953125,
+            "r": 478.94607199999945,
+            "b": 520.223881953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            156
+          ]
+        }
+      ],
+      "orig": "[25] M.-B. Hagg, A. Lindbrathen, CO2 Capture from Natural Gas Fired Power Plants by Using Membrane Technology, Ind. & Eng. Chem. Res. 44, (2005), 7668-7675.",
+      "text": "M.-B. Hagg, A. Lindbrathen, CO2 Capture from Natural Gas Fired Power Plants by Using Membrane Technology, Ind. & Eng. Chem. Res. 44, (2005), 7668-7675.",
+      "enumerated": true,
+      "marker": "[25]"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 51.93380000000002,
+            "t": 517.6023619531251,
+            "r": 479.3326399999999,
+            "b": 501.7383619531249,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            208
+          ]
+        }
+      ],
+      "orig": "[26]  J.A. Lie, T. Vassbotn, M.B. Hagg, D. Grainger, T.J. Kim, T. Mejdell, Optimization of a membrane process for CO2 capture in the steelmaking industry, Int. J. of Greenhouse Gas Control, 1, (2007), 309-317",
+      "text": " J.A. Lie, T. Vassbotn, M.B. Hagg, D. Grainger, T.J. Kim, T. Mejdell, Optimization of a membrane process for CO2 capture in the steelmaking industry, Int. J. of Greenhouse Gas Control, 1, (2007), 309-317",
+      "enumerated": true,
+      "marker": "[26]"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 51.93380000000002,
+            "t": 499.1168419531249,
+            "r": 478.67285599999997,
+            "b": 483.469801953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            154
+          ]
+        }
+      ],
+      "orig": "[27] D. Grainger, M.B. Hagg, Techno-economic evaluation of a PVAm CO2-selective membrane in an IGCC power plant with CO2 capture, Fuel, 87, (2008), 14-25.",
+      "text": "D. Grainger, M.B. Hagg, Techno-economic evaluation of a PVAm CO2-selective membrane in an IGCC power plant with CO2 capture, Fuel, 87, (2008), 14-25.",
+      "enumerated": true,
+      "marker": "[27]"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 8,
+          "bbox": {
+            "l": 51.9372,
+            "t": 480.60276195312497,
+            "r": 479.1427919999986,
+            "b": 464.99244195312497,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            161
+          ]
+        }
+      ],
+      "orig": "[28]  E. Favre, Carbon dioxide recovery from post-combustion processes: Can gas permeation membranes compete with absorption? J. Membr. Sci., 294, (2007), 50-59.",
+      "text": " E. Favre, Carbon dioxide recovery from post-combustion processes: Can gas permeation membranes compete with absorption? J. Membr. Sci., 294, (2007), 50-59.",
+      "enumerated": true,
+      "marker": "[28]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 34.92683410644531,
+            "t": 697.7212142944336,
+            "r": 89.25518798828125,
+            "b": 636.7635726928711,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 402.5926513671875,
+            "t": 697.9791488647461,
+            "r": 511.3632507324219,
+            "b": 636.9148101806641,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 163.628173828125,
+            "t": 588.2928009033203,
+            "r": 358.6228332519531,
+            "b": 441.3434143066406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 93.08180236816406,
+            "t": 332.9940185546875,
+            "r": 461.2010803222656,
+            "b": 157.3399658203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 100.11619567871094,
+            "t": 495.6466979980469,
+            "r": 422.505859375,
+            "b": 263.3905944824219,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/40"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 74.3782730102539,
+            "t": 564.0749359130859,
+            "r": 451.7449951171875,
+            "b": 314.58514404296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "self_ref": "#/tables/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "label": "table",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 91.89097595214844,
+            "t": 678.4654693603516,
+            "r": 440.3067321777344,
+            "b": 356.72406005859375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "data": {
+        "table_cells": [],
+        "num_rows": 0,
+        "num_cols": 0,
+        "grid": []
+      },
+      "annotations": []
+    }
+  ],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 6
+    },
+    "7": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 7
+    },
+    "8": {
+      "size": {
+        "width": 544.2520141601562,
+        "height": 742.677001953125
+      },
+      "page_no": 8
+    }
+  }
+}

@@ -1,0 +1,4278 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1-s2.0-S1876107018300713-main",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 8982436809853762552,
+    "filename": "1-s2.0-S1876107018300713-main.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/groups/5"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [
+    {
+      "self_ref": "#/groups/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    },
+    {
+      "self_ref": "#/groups/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "name": "group",
+      "label": "key_value_area"
+    },
+    {
+      "self_ref": "#/groups/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        }
+      ],
+      "content_layer": "body",
+      "name": "list",
+      "label": "list"
+    }
+  ],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 193.278,
+            "t": 756.4159296101564,
+            "r": 412.6509085500003,
+            "b": 750.3820719453184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            71
+          ]
+        }
+      ],
+      "orig": "Journal of the Taiwan Institute of Chemical Engineers 94 (2019) 129-134",
+      "text": "Journal of the Taiwan Institute of Chemical Engineers 94 (2019) 129-134",
+      "hyperlink": "https://doi.org/10.1016/j.jtice.2018.02.002"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 230.34,
+            "t": 728.9560662101563,
+            "r": 326.52523385000006,
+            "b": 721.4880825101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "Contents lists available at",
+      "text": "Contents lists available at"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 328.773,
+            "t": 728.9560662101563,
+            "r": 379.9745164199998,
+            "b": 721.4880825101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "ScienceDirect",
+      "text": "ScienceDirect",
+      "hyperlink": "http://www.sciencedirect.com/"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 129.423,
+            "t": 703.3020148101563,
+            "r": 480.9770320400001,
+            "b": 690.1029689119019,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            53
+          ]
+        }
+      ],
+      "orig": "Journal of the Taiwan Institute of Chemical Engineers",
+      "text": "Journal of the Taiwan Institute of Chemical Engineers",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 212.403,
+            "t": 673.9840662101564,
+            "r": 238.96096721999993,
+            "b": 666.5160825101564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            7
+          ]
+        }
+      ],
+      "orig": "journal",
+      "text": "journal"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 241.2193,
+            "t": 673.9840662101564,
+            "r": 397.84233855000076,
+            "b": 666.5160825101564,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "orig": "homepage: www.elsevier.com/locate/jtice",
+      "text": "homepage: www.elsevier.com/locate/jtice"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.816,
+            "t": 625.0978341101563,
+            "r": 479.8449534400001,
+            "b": 577.8911522907049,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            143
+          ]
+        }
+      ],
+      "orig": "Perspectives on mining from sea and other alternative strategies for minerals and water recovery - The development of novel membrane operations",
+      "text": "Perspectives on mining from sea and other alternative strategies for minerals and water recovery - The development of novel membrane operations",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.816,
+            "t": 566.4941741101563,
+            "r": 443.1173362,
+            "b": 553.5578241101563,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            97
+          ]
+        }
+      ],
+      "orig": "Cejna Anna Quist-Jensen a , Aamer Ali b , Enrico Drioli b , c , d , Francesca Macedonio b , c , \u2217",
+      "text": "Cejna Anna Quist-Jensen a , Aamer Ali b , Enrico Drioli b , c , d , Francesca Macedonio b , c , \u2217"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.816,
+            "t": 547.1319933101563,
+            "r": 431.15785990999984,
+            "b": 540.2048963253184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "a Department of Chemistry and Bioscience - Section for Chemistry, Aalborg University, Fredrik Bajers vej 7H, Aalborg \u00d8 9220, Denmark",
+      "text": "a Department of Chemistry and Bioscience - Section for Chemistry, Aalborg University, Fredrik Bajers vej 7H, Aalborg \u00d8 9220, Denmark",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.816,
+            "t": 538.5639933101563,
+            "r": 492.3648852199999,
+            "b": 531.6458228653185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            155
+          ]
+        }
+      ],
+      "orig": "b Institute on Membrane Technology (ITM-CNR), National Research Council, c/o the University of Calabria, Cubo 17C, Via Pietro Bucci, 87036, Rende CS, Italy",
+      "text": "b Institute on Membrane Technology (ITM-CNR), National Research Council, c/o the University of Calabria, Cubo 17C, Via Pietro Bucci, 87036, Rende CS, Italy",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.816,
+            "t": 529.9959933101563,
+            "r": 331.49483311999995,
+            "b": 523.0778228653185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "c Department of Environmental and Chemical Engineering, University of Calabria, Rende 87036, Italy",
+      "text": "c Department of Environmental and Chemical Engineering, University of Calabria, Rende 87036, Italy",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.816,
+            "t": 521.4280933101563,
+            "r": 296.22260948,
+            "b": 514.5099228653185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "d WCU Energy Engineering Department, Hanyang University, Seoul 133-791, South Korea",
+      "text": "d WCU Energy Engineering Department, Hanyang University, Seoul 133-791, South Korea",
+      "enumerated": false,
+      "marker": ""
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.816,
+            "t": 486.8176629101563,
+            "r": 139.1940704,
+            "b": 481.59921811015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "a r t i c l e i n f o",
+      "text": "a r t i c l e i n f o",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.81599999999999,
+            "t": 468.3530296101563,
+            "r": 145.1804598399999,
+            "b": 428.0463592253183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            126
+          ]
+        }
+      ],
+      "orig": "Article history: Received 20 September 2017 Revised 31 January 2018 Accepted 1 February 2018 Available online 22 February 2018",
+      "text": "Article history: Received 20 September 2017 Revised 31 January 2018 Accepted 1 February 2018 Available online 22 February 2018"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.816,
+            "t": 418.2680296101563,
+            "r": 71.97326769000003,
+            "b": 412.2341719453184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Keywords:",
+      "text": "Keywords:",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.815999999999995,
+            "t": 409.6998264301563,
+            "r": 74.75898577999999,
+            "b": 403.6659687653184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Membrane",
+      "text": "Membrane"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.18509183,
+            "t": 409.6998264301563,
+            "r": 107.54680480999997,
+            "b": 403.6659687653184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "condenser",
+      "text": "condenser"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.816,
+            "t": 401.1316232501563,
+            "r": 74.75898578,
+            "b": 395.09776558531837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Membrane",
+      "text": "Membrane"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.18509183,
+            "t": 401.1316232501563,
+            "r": 109.62031252999998,
+            "b": 395.09776558531837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            12
+          ]
+        }
+      ],
+      "orig": "crystallizer",
+      "text": "crystallizer"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.815362390000004,
+            "t": 392.56342007015627,
+            "r": 74.75834817,
+            "b": 386.52956240531836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Membrane",
+      "text": "Membrane"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 77.18445422,
+            "t": 392.56342007015627,
+            "r": 112.19561931999996,
+            "b": 386.52956240531836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            11
+          ]
+        }
+      ],
+      "orig": "engineering",
+      "text": "engineering"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.815362390000004,
+            "t": 383.99521689015626,
+            "r": 60.70159811000001,
+            "b": 377.96135922531835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            5
+          ]
+        }
+      ],
+      "orig": "Water",
+      "text": "Water"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 63.12706655,
+            "t": 383.99521689015626,
+            "r": 129.85231544,
+            "b": 377.96135922531835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            21
+          ]
+        }
+      ],
+      "orig": "and minerals recovery",
+      "text": "and minerals recovery"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.816,
+            "t": 353.75874761015626,
+            "r": 102.35386551000002,
+            "b": 346.21644918721364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "1. Introduction",
+      "text": "1. Introduction",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.816,
+            "t": 332.8337476101563,
+            "r": 294.1779735,
+            "b": 136.99334918721365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1230
+          ]
+        }
+      ],
+      "orig": "Rapidly growing populations and continuous improving lifestyle cause some associated negative consequences such as water, energy and mineral scarcity. It is predicted that around 50% of the world population will live in areas with water scarcity by 2025 [1] . Energy consumptions also grew rapidly in the last decades and is projected to increase further in the following years [2] . Furthermore, mineral deficiency is becoming a threat to future sustainable development. Supply risk and supply disruption of certain minerals and metals might negatively affect the sustainable industrial growth. Moreover, the exploitation of minerals from traditional resources by using the existing practices such as mining can retard the speed of transition to a low-carbon economy and to a nontoxic environment. To improve sustainability, waste has to be turned into sustainable resources of minerals, water and energy. Consequently, efficient technologies able to minimize utilization of water, energy and minerals have to be developed to overcome these challenges. The lack of a precise definition of sustainable development has evolved specific guidelines, such as the process intensification strategy (PIS) helping to meet the requirements",
+      "text": "Rapidly growing populations and continuous improving lifestyle cause some associated negative consequences such as water, energy and mineral scarcity. It is predicted that around 50% of the world population will live in areas with water scarcity by 2025 [1] . Energy consumptions also grew rapidly in the last decades and is projected to increase further in the following years [2] . Furthermore, mineral deficiency is becoming a threat to future sustainable development. Supply risk and supply disruption of certain minerals and metals might negatively affect the sustainable industrial growth. Moreover, the exploitation of minerals from traditional resources by using the existing practices such as mining can retard the speed of transition to a low-carbon economy and to a nontoxic environment. To improve sustainability, waste has to be turned into sustainable resources of minerals, water and energy. Consequently, efficient technologies able to minimize utilization of water, energy and minerals have to be developed to overcome these challenges. The lack of a precise definition of sustainable development has evolved specific guidelines, such as the process intensification strategy (PIS) helping to meet the requirements"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.81241879999999,
+            "t": 117.64569011015624,
+            "r": 294.18442281,
+            "b": 93.37276558531835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "\u2217 Corresponding author at: Institute on Membrane Technology (ITM-CNR), National Research Council, c/o the University of Calabria, Cubo 17C, Via Pietro Bucci, 87036 Rende CS, Italy",
+      "text": "\u2217 Corresponding author at: Institute on Membrane Technology (ITM-CNR), National Research Council, c/o the University of Calabria, Cubo 17C, Via Pietro Bucci, 87036 Rende CS, Italy"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 54.77334478999999,
+            "t": 90.20846139015634,
+            "r": 287.78983211999997,
+            "b": 84.17460372531843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "E-mail addresses: f.macedonio@itm.cnr.it , macedonio@unical.it (F. Macedonio).",
+      "text": "E-mail addresses: f.macedonio@itm.cnr.it , macedonio@unical.it (F. Macedonio)."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.816,
+            "t": 73.2259296101563,
+            "r": 164.66072055999982,
+            "b": 67.19207194531839,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "https://doi.org/10.1016/j.jtice.2018.02.002",
+      "text": "https://doi.org/10.1016/j.jtice.2018.02.002"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 207.228,
+            "t": 486.8176629101563,
+            "r": 272.5517056,
+            "b": 481.59921811015624,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            15
+          ]
+        }
+      ],
+      "orig": "a b s t r a c t",
+      "text": "a b s t r a c t",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 207.228,
+            "t": 467.5442886101563,
+            "r": 563.37581129,
+            "b": 393.80521056626606,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            777
+          ]
+        }
+      ],
+      "orig": "An important contribution to the realization of a sustainable industrial development can be given by membrane operations. They can contribute to redesign process engineering in the logic of process intensification. In particular, the results achieved with membrane-assisted crystallization and membraneassisted condensation show as these innovative membrane operations can overcome the performance of traditional operations: in the case of MCr, the possibility to produce specific polymorphs of crystals; in the case of the condenser, the control of the concentration of condensable contaminants in the recovered liquid stream. These two innovative membrane operations can bring interesting results for 'water recovery from sky' and 'water and mineral extraction from the sea'.",
+      "text": "An important contribution to the realization of a sustainable industrial development can be given by membrane operations. They can contribute to redesign process engineering in the logic of process intensification. In particular, the results achieved with membrane-assisted crystallization and membraneassisted condensation show as these innovative membrane operations can overcome the performance of traditional operations: in the case of MCr, the possibility to produce specific polymorphs of crystals; in the case of the condenser, the control of the concentration of condensable contaminants in the recovered liquid stream. These two innovative membrane operations can bring interesting results for 'water recovery from sky' and 'water and mineral extraction from the sea'."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 246.909,
+            "t": 391.0262886101563,
+            "r": 562.9765879899978,
+            "b": 384.23821056626605,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            94
+          ]
+        }
+      ],
+      "orig": "\u00a9 2018 Taiwan Institute of Chemical Engineers. Published by Elsevier B.V. All rights reserved.",
+      "text": "\u00a9 2018 Taiwan Institute of Chemical Engineers. Published by Elsevier B.V. All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 311.808,
+            "t": 353.75874761015626,
+            "r": 563.1551779800001,
+            "b": 84.69444918721365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1683
+          ]
+        }
+      ],
+      "orig": "of sustainable development. Process intensification as defined by Stankiewicz and Moulijn [3,4] is the development of novel equipment and techniques that, compared to those commonly used, dramatically improves manufacturing and processing, by decreasing substantially equipment size, improving raw material to production ratio, decreasing energy consumption and waste production, and ultimately results in cheaper, sustainable technologies. The key, enabling innovation to realize water, energy and mineral production could be membrane technology, which can motivate redesigning of conventional separation process engineering ( Fig. 1 ). Membrane processes already have a wide range of application in several industries [5] , where they have reduced the overall energy needs and environmental footprint compared to traditional recovery and separation solutions. In particular, in desalination industry where membrane processes (mainly reverse osmosis) cover more than 90% of all desalination plants. Today, the main focused areas of desalination is the development of integrated systems that do not only produce fresh water, but also generate energy and minerals. With respect to the minerals in seawater, a wide range of raw materials critical for society are found in vast quantities dissolved in low concentrations in naturally occurring brines. These low concentrations have been a barrier for commercial recovery from seawater, despite research carried out since the early 1970s. Therefore, it is an interesting objective instead to recover minerals from the waste stream coming from the desalination industry. The paradox in combining minerals recovery and desalination is that",
+      "text": "of sustainable development. Process intensification as defined by Stankiewicz and Moulijn [3,4] is the development of novel equipment and techniques that, compared to those commonly used, dramatically improves manufacturing and processing, by decreasing substantially equipment size, improving raw material to production ratio, decreasing energy consumption and waste production, and ultimately results in cheaper, sustainable technologies. The key, enabling innovation to realize water, energy and mineral production could be membrane technology, which can motivate redesigning of conventional separation process engineering ( Fig. 1 ). Membrane processes already have a wide range of application in several industries [5] , where they have reduced the overall energy needs and environmental footprint compared to traditional recovery and separation solutions. In particular, in desalination industry where membrane processes (mainly reverse osmosis) cover more than 90% of all desalination plants. Today, the main focused areas of desalination is the development of integrated systems that do not only produce fresh water, but also generate energy and minerals. With respect to the minerals in seawater, a wide range of raw materials critical for society are found in vast quantities dissolved in low concentrations in naturally occurring brines. These low concentrations have been a barrier for commercial recovery from seawater, despite research carried out since the early 1970s. Therefore, it is an interesting objective instead to recover minerals from the waste stream coming from the desalination industry. The paradox in combining minerals recovery and desalination is that"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.81599999999999,
+            "t": 64.65772643015634,
+            "r": 357.01107969999964,
+            "b": 58.623868765318434,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "1876-1070/\u00a9 2018 Taiwan Institute of Chemical Engineers. Published by Elsevier B.V. All rights reserved.",
+      "text": "1876-1070/\u00a9 2018 Taiwan Institute of Chemical Engineers. Published by Elsevier B.V. All rights reserved."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.006,
+            "t": 756.6319296101564,
+            "r": 43.65982549,
+            "b": 750.5980719453185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "130",
+      "text": "130"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 153.56912446,
+            "t": 756.6319296101564,
+            "r": 432.88821238000014,
+            "b": 750.5980719453185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "C.A. Quist-Jensen et al. / Journal of the Taiwan Institute of Chemical Engineers 94 (2019) 129-134",
+      "text": "C.A. Quist-Jensen et al. / Journal of the Taiwan Institute of Chemical Engineers 94 (2019) 129-134"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 169.545,
+            "t": 618.9229296101563,
+            "r": 416.80123145999977,
+            "b": 612.8890719453184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            78
+          ]
+        }
+      ],
+      "orig": "Fig. 1. Turning waste streams into resources by means of membrane engineering.",
+      "text": "Fig. 1. Turning waste streams into resources by means of membrane engineering."
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.006,
+            "t": 591.1697476101563,
+            "r": 284.37844954,
+            "b": 531.3194491872136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            335
+          ]
+        }
+      ],
+      "orig": "historically, water has been a necessity but also a waste product in the mining industry and likewise the desalination industry have seen their mineral-rich stream as the waste (the brine produced during desalination) [6] . However, by combining these two industries in the logic of mining from the sea, many synergies can be obtained.",
+      "text": "historically, water has been a necessity but also a waste product in the mining industry and likewise the desalination industry have seen their mineral-rich stream as the waste (the brine produced during desalination) [6] . However, by combining these two industries in the logic of mining from the sea, many synergies can be obtained."
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.006,
+            "t": 528.4037476101563,
+            "r": 284.36099629,
+            "b": 259.33934918721366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1641
+          ]
+        }
+      ],
+      "orig": "One more sector where membrane engineering can bring important innovative results is 'water recovery from sky'. In fact, apart from the conventional water purification technologies such as desalination and wastewater reuse, water recovery from the atmosphere and, in particular, from the gases produced in many industrial production processes can represent a real new source of potable water. Statistics provided by UNESCO illustrate that annually 575.0 0 0 km 3 of water evaporate and disappear into the atmosphere. Also in many industrial production processes, evaporated water is either produced and/or liberated in the process and escape as 'waste' water to the atmosphere. Until now, little development has taken place in capturing the evaporated waste water. Each of the traditional technologies proposed for the capture of evaporated water from gaseous streams (cooling with condensation, liquid and solid sorption, dense membranes or porous hydrophilic membranes) has its own drawbacks (such as, corrosion phenomena, desiccant losses, adsorbent regeneration, and high energy consumption -in the case of dense membranes). As it will be illustrated in the present manuscript, the innovative membrane assisted-condensation process [7-11] has the potentialities to become a proper solution for water recovery from waste gaseous streams. In current paper, also the perspectives on recovering minerals from desalinated brine and other alternative sources via membrane crystallization will be discussed. Membrane condenser and membrane crystallizer are interesting examples of the contribution of membrane operations in process engineering.",
+      "text": "One more sector where membrane engineering can bring important innovative results is 'water recovery from sky'. In fact, apart from the conventional water purification technologies such as desalination and wastewater reuse, water recovery from the atmosphere and, in particular, from the gases produced in many industrial production processes can represent a real new source of potable water. Statistics provided by UNESCO illustrate that annually 575.0 0 0 km 3 of water evaporate and disappear into the atmosphere. Also in many industrial production processes, evaporated water is either produced and/or liberated in the process and escape as 'waste' water to the atmosphere. Until now, little development has taken place in capturing the evaporated waste water. Each of the traditional technologies proposed for the capture of evaporated water from gaseous streams (cooling with condensation, liquid and solid sorption, dense membranes or porous hydrophilic membranes) has its own drawbacks (such as, corrosion phenomena, desiccant losses, adsorbent regeneration, and high energy consumption -in the case of dense membranes). As it will be illustrated in the present manuscript, the innovative membrane assisted-condensation process [7-11] has the potentialities to become a proper solution for water recovery from waste gaseous streams. In current paper, also the perspectives on recovering minerals from desalinated brine and other alternative sources via membrane crystallization will be discussed. Membrane condenser and membrane crystallizer are interesting examples of the contribution of membrane operations in process engineering."
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.006,
+            "t": 243.8326476101563,
+            "r": 227.5830003799999,
+            "b": 236.29034918721368,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            47
+          ]
+        }
+      ],
+      "orig": "2. Combining desalination and minerals recovery",
+      "text": "2. Combining desalination and minerals recovery",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.006,
+            "t": 222.90764761015635,
+            "r": 284.32895415000013,
+            "b": 131.6833491872137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            538
+          ]
+        }
+      ],
+      "orig": "The interesting objective of recovering minerals from the sea might actually partly aim to reduce the problem of brine disposal in desalination. Moreover, as an interesting and positive side effect, it can contribute to the conventional mining industry and hereby reduce mineral depletion [12,13] . The continued extraction of minerals from mining leads to degradation of the high concentrated ores, thus less concentrated ores have to be deployed. Low concentrated ores are more difficult to extract and at higher associated costs [14] .",
+      "text": "The interesting objective of recovering minerals from the sea might actually partly aim to reduce the problem of brine disposal in desalination. Moreover, as an interesting and positive side effect, it can contribute to the conventional mining industry and hereby reduce mineral depletion [12,13] . The continued extraction of minerals from mining leads to degradation of the high concentrated ores, thus less concentrated ores have to be deployed. Low concentrated ores are more difficult to extract and at higher associated costs [14] ."
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 33.006,
+            "t": 128.75874761015632,
+            "r": 284.3611175799999,
+            "b": 47.99244918721365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            498
+          ]
+        }
+      ],
+      "orig": "Seawater is an additional source for mineral extraction. The most part of the ions present in the periodic table might be recovered from seawater in the logic of 'mining from the sea'. In 2010, Bardi stated that extraction from low concentrated sources, for many ions, is too expensive in terms of the required energy. Besides the highest concentrated ions in seawater (Na, Mg, Ca, K) already being extracted [15] . Nevertheless, combination of desalination and mineral extraction can be developed.",
+      "text": "Seawater is an additional source for mineral extraction. The most part of the ions present in the periodic table might be recovered from seawater in the logic of 'mining from the sea'. In 2010, Bardi stated that extraction from low concentrated sources, for many ions, is too expensive in terms of the required energy. Besides the highest concentrated ions in seawater (Na, Mg, Ca, K) already being extracted [15] . Nevertheless, combination of desalination and mineral extraction can be developed."
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 301.998,
+            "t": 591.1697476101563,
+            "r": 553.3702718399999,
+            "b": 353.48834918721366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1479
+          ]
+        }
+      ],
+      "orig": "This integration can minimize many of the drawbacks associated with the production methods of today and, furthermore, in the logic of sustainable development, RO brine can be turned from waste streams to mineral resources. Shahmansouri et al. have highlighted some of the potential profitable elements which can be recovered from RO brine including Rb, Br, K, Mg, Ca, Cl, Na [16] . The results obtained by Shahmansouri et al. [16] correspond well with feasible economic components found by others [17] . In prospective, cesium, lithium, strontium etc. could also add significant value to the desalination process. However, technological development is required to be able to recover minerals from such kind of solutions. In particular, because RO brine and other high concentrated industrial wastewaters are difficult to treat due to the complex solutions and high concentrations. Nevertheless, emerging membrane operations including membrane distillation (MD), membrane crystallization (MCr), forward osmosis (FO) and electrodialysis (ED) and their integration with conventional membrane processes can be the answer to the request of technological development [18-20] . In the desalination industry, MD and MCr, in particular, can add a positive effect on the process by increasing the overall water production and recovering valuable salts from the brine thus approaching zero-liquid-discharge and the goals of process intensification strategy in a single unit operation [19] .",
+      "text": "This integration can minimize many of the drawbacks associated with the production methods of today and, furthermore, in the logic of sustainable development, RO brine can be turned from waste streams to mineral resources. Shahmansouri et al. have highlighted some of the potential profitable elements which can be recovered from RO brine including Rb, Br, K, Mg, Ca, Cl, Na [16] . The results obtained by Shahmansouri et al. [16] correspond well with feasible economic components found by others [17] . In prospective, cesium, lithium, strontium etc. could also add significant value to the desalination process. However, technological development is required to be able to recover minerals from such kind of solutions. In particular, because RO brine and other high concentrated industrial wastewaters are difficult to treat due to the complex solutions and high concentrations. Nevertheless, emerging membrane operations including membrane distillation (MD), membrane crystallization (MCr), forward osmosis (FO) and electrodialysis (ED) and their integration with conventional membrane processes can be the answer to the request of technological development [18-20] . In the desalination industry, MD and MCr, in particular, can add a positive effect on the process by increasing the overall water production and recovering valuable salts from the brine thus approaching zero-liquid-discharge and the goals of process intensification strategy in a single unit operation [19] ."
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 301.998,
+            "t": 350.5726476101563,
+            "r": 553.43218343,
+            "b": 175.65734918721364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1072
+          ]
+        }
+      ],
+      "orig": "The focus on utilizing MCr for minerals extraction in desalination started in the early 20 0 0s [21-23] . MCr was applied in an integrated system working on NF and RO brine for the recovery of sodium and magnesium ( Fig. 2 a and b). Introduction of NF is required to separate bivalent and monovalent ions [24-26] , thus providing that magnesium can be recovered from the NF retentate and sodium from the RO retentate. Magnesium was extracted as magnesium sulfate in form of Epsomite (MgSO 4 .7H 2 O). The recovery of epsomite is particular interesting since it highlights that MCr can control/tune the polymorph selection, thus increasing the product value and minimizing the post-treatment. In this study, it was also proposed to separate CaCO 3 from seawater by gas-liquid membrane contactor technology to avoid scaling ( Fig. 2 c) [22] . The prospects of introducing MCr on RO brine is to increase the fresh water recovery factor from around 50% to above 90%, thus approaching zero liquid discharge, total utilization of raw materials and low energy consumptions [23] .",
+      "text": "The focus on utilizing MCr for minerals extraction in desalination started in the early 20 0 0s [21-23] . MCr was applied in an integrated system working on NF and RO brine for the recovery of sodium and magnesium ( Fig. 2 a and b). Introduction of NF is required to separate bivalent and monovalent ions [24-26] , thus providing that magnesium can be recovered from the NF retentate and sodium from the RO retentate. Magnesium was extracted as magnesium sulfate in form of Epsomite (MgSO 4 .7H 2 O). The recovery of epsomite is particular interesting since it highlights that MCr can control/tune the polymorph selection, thus increasing the product value and minimizing the post-treatment. In this study, it was also proposed to separate CaCO 3 from seawater by gas-liquid membrane contactor technology to avoid scaling ( Fig. 2 c) [22] . The prospects of introducing MCr on RO brine is to increase the fresh water recovery factor from around 50% to above 90%, thus approaching zero liquid discharge, total utilization of raw materials and low energy consumptions [23] ."
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 301.998,
+            "t": 172.74174761015627,
+            "r": 553.3644096099999,
+            "b": 50.1253491872136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            783
+          ]
+        }
+      ],
+      "orig": "Integrated membrane systems are also very interesting from an economical point of view [27-30] . The exegetic efficiency decreases when MD or MCr are introduced, mainly due to the requirement of steam when operating the thermal processes with respect to electrical energy demand in pressure driven membrane operations [29] . Nevertheless, the water recovery factor increases significant with the introduction of MD and MCr from only 40-60% in RO to above 90% for integrated operations. In general, integrated membrane systems extract the additional freshwater and salts at the expense of increased operational costs. However, if the sale of CaCO 3 , MgSO4.7H 2 O and NaCl is considered the water production cost can be negative [29] . These numbers indicate that the actual desalina-",
+      "text": "Integrated membrane systems are also very interesting from an economical point of view [27-30] . The exegetic efficiency decreases when MD or MCr are introduced, mainly due to the requirement of steam when operating the thermal processes with respect to electrical energy demand in pressure driven membrane operations [29] . Nevertheless, the water recovery factor increases significant with the introduction of MD and MCr from only 40-60% in RO to above 90% for integrated operations. In general, integrated membrane systems extract the additional freshwater and salts at the expense of increased operational costs. However, if the sale of CaCO 3 , MgSO4.7H 2 O and NaCl is considered the water production cost can be negative [29] . These numbers indicate that the actual desalina-"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 163.38,
+            "t": 756.6319296101564,
+            "r": 442.69908792000007,
+            "b": 750.5980719453185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "C.A. Quist-Jensen et al. / Journal of the Taiwan Institute of Chemical Engineers 94 (2019) 129-134",
+      "text": "C.A. Quist-Jensen et al. / Journal of the Taiwan Institute of Chemical Engineers 94 (2019) 129-134"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 552.9418569199999,
+            "t": 756.6319296101564,
+            "r": 563.2756021899997,
+            "b": 750.5980719453185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "131",
+      "text": "131"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 105.222,
+            "t": 585.9199296101564,
+            "r": 501.00501768999993,
+            "b": 579.8860719453185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "Fig. 2. Crystal obtained from RO brine: (a) NaCl, (b) MgSO4.7H2O, (c) CaCO3. (Adapted from Ref. [22] with permission of Elsevier).",
+      "text": "Fig. 2. Crystal obtained from RO brine: (a) NaCl, (b) MgSO4.7H2O, (c) CaCO3. (Adapted from Ref. [22] with permission of Elsevier)."
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.81344956000004,
+            "t": 460.09992961015627,
+            "r": 294.22052212,
+            "b": 445.49786876531834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "Fig. 3. Different polymorphs of LiCl obtained through MCr. From Ref. [31] with permission from Elsevier.",
+      "text": "Fig. 3. Different polymorphs of LiCl obtained through MCr. From Ref. [31] with permission from Elsevier."
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.816,
+            "t": 432.1216476101563,
+            "r": 294.2018307799999,
+            "b": 142.14144918721365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1846
+          ]
+        }
+      ],
+      "orig": "tion process might no longer be targeted for water production but directed towards minerals production. In this case the desalinated fresh water can just be a by-product in mineral production. This is a very interesting case to minimize mineral depletion. Another mineral of interest, present in brine, is lithium, which is one of the raw materials at risk of supply deficit, as global lithium demand is growing exponentially for lithium-based batteries for most forms of transport and smaller energy storage installations. As such, the use of MCr combined with desalination can potentially extract lithium. However, this has not yet been performed in mixed solutions [31] . At large scale, the salts can be harvested from the solution by letting them sediment as carried out in fluidized bed reactors or the crystals can be separated from solution by filtration. The fractionation of the different salts from seawater brine requires further studies to fully understand the kinetics of nucleation and growth in mixed solutions. Eventually, it might be necessary to integrate MCr with other processes as pre-separation steps (as explained in the third paragraph of this Section as, for instance, via the integration of NF with MCr or potentially MCr with ion exchange). The crystallization of LiCl can be obtained in different polymorph structures (such as for magnesium), depending on the operative conditions ( Fig. 3 ). A large part of lithium production is today carried out from naturally occurring brines and the extraction involves evaporation ponds [32] . These ponds require a large available area, they are time intensive and a large volume of water is lost to the atmosphere during evaporation [6] . Therefore, MD or MCr can be utilized instead of the evaporation ponds to make the procedure more sustainable and environmental friendly.",
+      "text": "tion process might no longer be targeted for water production but directed towards minerals production. In this case the desalinated fresh water can just be a by-product in mineral production. This is a very interesting case to minimize mineral depletion. Another mineral of interest, present in brine, is lithium, which is one of the raw materials at risk of supply deficit, as global lithium demand is growing exponentially for lithium-based batteries for most forms of transport and smaller energy storage installations. As such, the use of MCr combined with desalination can potentially extract lithium. However, this has not yet been performed in mixed solutions [31] . At large scale, the salts can be harvested from the solution by letting them sediment as carried out in fluidized bed reactors or the crystals can be separated from solution by filtration. The fractionation of the different salts from seawater brine requires further studies to fully understand the kinetics of nucleation and growth in mixed solutions. Eventually, it might be necessary to integrate MCr with other processes as pre-separation steps (as explained in the third paragraph of this Section as, for instance, via the integration of NF with MCr or potentially MCr with ion exchange). The crystallization of LiCl can be obtained in different polymorph structures (such as for magnesium), depending on the operative conditions ( Fig. 3 ). A large part of lithium production is today carried out from naturally occurring brines and the extraction involves evaporation ponds [32] . These ponds require a large available area, they are time intensive and a large volume of water is lost to the atmosphere during evaporation [6] . Therefore, MD or MCr can be utilized instead of the evaporation ponds to make the procedure more sustainable and environmental friendly."
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 42.816,
+            "t": 139.22564761015633,
+            "r": 294.2019669,
+            "b": 47.99244918721365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            560
+          ]
+        }
+      ],
+      "orig": "The experimental proof-of-concept of minerals recovery from brine includes the above-mentioned compounds. In perspectives, there are other minerals of interest such as barium, strontium and nickel, which can be recovered from integrated membrane systems. Thermodynamic modeling of an integrated system consisting of NF, RO and MCr have been considered and the amount of minerals that can be extracted have been estimated ( Fig. 4 ) [13] . For instance, it might be possible to recover around 86% of barium ions and 87% of strontium ions if MCr is applied on NF",
+      "text": "The experimental proof-of-concept of minerals recovery from brine includes the above-mentioned compounds. In perspectives, there are other minerals of interest such as barium, strontium and nickel, which can be recovered from integrated membrane systems. Thermodynamic modeling of an integrated system consisting of NF, RO and MCr have been considered and the amount of minerals that can be extracted have been estimated ( Fig. 4 ) [13] . For instance, it might be possible to recover around 86% of barium ions and 87% of strontium ions if MCr is applied on NF"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.808,
+            "t": 559.1656476101563,
+            "r": 563.2092826400001,
+            "b": 520.2403491872136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            235
+          ]
+        }
+      ],
+      "orig": "retentate and it is able to reach a recovery factor of 99%. This is an ambitious target to reach, however, through a continued development of the process and efficient separation of the produced minerals, the objective can be realized.",
+      "text": "retentate and it is able to reach a recovery factor of 99%. This is an ambitious target to reach, however, through a continued development of the process and efficient separation of the produced minerals, the objective can be realized."
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.808,
+            "t": 505.3456476101563,
+            "r": 528.1391490899999,
+            "b": 497.80334918721366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            55
+          ]
+        }
+      ],
+      "orig": "3. Alternative minerals recycling from industrial waste",
+      "text": "3. Alternative minerals recycling from industrial waste",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.808,
+            "t": 484.4296476101563,
+            "r": 563.1805005000001,
+            "b": 351.3553491872137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            832
+          ]
+        }
+      ],
+      "orig": "Beside applying MCr in desalination and naturally occurring brines, the process can also be applied in the treatment of industrial waste streams in order to recover or recycle minerals. Today, many industrial processes require post-treatment on their wastewaters due to more strict environmental regulations. The problem of industrial waste is the associated higher cost of post-treatment without any economic gain. Nevertheless, if waste could be turned into resources it might add several benefits to the industrial process. In this logic, membrane crystallizers is very interesting since it is able to treat almost all types of feed waters, no concentration limits, it is able to produce fresh water, which can be used elsewhere in the industry and it can also recover the valuable resources, which is present in the wastewaters.",
+      "text": "Beside applying MCr in desalination and naturally occurring brines, the process can also be applied in the treatment of industrial waste streams in order to recover or recycle minerals. Today, many industrial processes require post-treatment on their wastewaters due to more strict environmental regulations. The problem of industrial waste is the associated higher cost of post-treatment without any economic gain. Nevertheless, if waste could be turned into resources it might add several benefits to the industrial process. In this logic, membrane crystallizers is very interesting since it is able to treat almost all types of feed waters, no concentration limits, it is able to produce fresh water, which can be used elsewhere in the industry and it can also recover the valuable resources, which is present in the wastewaters."
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 311.808,
+            "t": 348.4397476101563,
+            "r": 563.2400738000001,
+            "b": 47.99244918721365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1887
+          ]
+        }
+      ],
+      "orig": "One compound that has gained attention in this regard is Na 2 SO 4 . Curcio et al. [33] recovered Na 2 SO 4 from simulated wastewater obtained in production of base raw materials (Ni-H) for special rechargeable batteries. The system consisted of NF and MCr in integrated membrane operations. At time of crystallization, NF and MCr system achieved an overall water recovery factor of 87%. The produced crystals have been found to be of the anhydrous form (Thenardite) and of very high quality in terms of uniform crystal size with coefficient of variation as low as 23% [33] . The recovery of Thenardite have also been obtained from other real industrial wastewaters containing large amounts of suspended solids, soluble SiO 2 , calcium and magnesium ( Fig. 5 a) [34] . Despite the high scaling potential, the treatment of the industrial waste continued for more than 90 h showing a stable flux and low incorporation of impurities. Less favorable results have been obtained in the first study by Tun et al. [35] , who studied MD with Na 2 SO 4 and NaCl solutions near saturation. The authors achieved a promising flux of 20 l/m 2. h at feed temperatures of 60 \u00b0 C and /Delta1 T of 40 \u00b0 C. However, they have also observed a drastically flux reduction due to extensive scaling on membrane surface [35] . In 2011, Tun and Groth [36] , treated effluent from a SO 2 scrubber with MF-NF-MCr for water and Na 2 SO 4 production and energy recovery. In this study high purity (above 95%) anhydrous Na 2 SO 4 crystals have been achieved. Moreover, also high quality fresh water has been produced [36] . Sodium sulfate solutions can also be a by-product from SO 2 removal in flue gas. In the study by Li et al. [37] an integrated membrane system (RO and MCr) has been suggested for Na 2 SO 4 reclamation from these types of solutions. The MCr unit in this study has not been based on direct contact",
+      "text": "One compound that has gained attention in this regard is Na 2 SO 4 . Curcio et al. [33] recovered Na 2 SO 4 from simulated wastewater obtained in production of base raw materials (Ni-H) for special rechargeable batteries. The system consisted of NF and MCr in integrated membrane operations. At time of crystallization, NF and MCr system achieved an overall water recovery factor of 87%. The produced crystals have been found to be of the anhydrous form (Thenardite) and of very high quality in terms of uniform crystal size with coefficient of variation as low as 23% [33] . The recovery of Thenardite have also been obtained from other real industrial wastewaters containing large amounts of suspended solids, soluble SiO 2 , calcium and magnesium ( Fig. 5 a) [34] . Despite the high scaling potential, the treatment of the industrial waste continued for more than 90 h showing a stable flux and low incorporation of impurities. Less favorable results have been obtained in the first study by Tun et al. [35] , who studied MD with Na 2 SO 4 and NaCl solutions near saturation. The authors achieved a promising flux of 20 l/m 2. h at feed temperatures of 60 \u00b0 C and /Delta1 T of 40 \u00b0 C. However, they have also observed a drastically flux reduction due to extensive scaling on membrane surface [35] . In 2011, Tun and Groth [36] , treated effluent from a SO 2 scrubber with MF-NF-MCr for water and Na 2 SO 4 production and energy recovery. In this study high purity (above 95%) anhydrous Na 2 SO 4 crystals have been achieved. Moreover, also high quality fresh water has been produced [36] . Sodium sulfate solutions can also be a by-product from SO 2 removal in flue gas. In the study by Li et al. [37] an integrated membrane system (RO and MCr) has been suggested for Na 2 SO 4 reclamation from these types of solutions. The MCr unit in this study has not been based on direct contact"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.006,
+            "t": 756.6319296101564,
+            "r": 43.672577690000004,
+            "b": 750.5980719453185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "132",
+      "text": "132"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 153.56976207000002,
+            "t": 756.6319296101564,
+            "r": 432.88821238000014,
+            "b": 750.5980719453185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "C.A. Quist-Jensen et al. / Journal of the Taiwan Institute of Chemical Engineers 94 (2019) 129-134",
+      "text": "C.A. Quist-Jensen et al. / Journal of the Taiwan Institute of Chemical Engineers 94 (2019) 129-134"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 108.156,
+            "t": 523.9189296101563,
+            "r": 478.55002509999997,
+            "b": 517.8850719453184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            122
+          ]
+        }
+      ],
+      "orig": "Fig. 4. The ions that can be recovered from seawater by means of MCr at a water recovery factor of 98.6%. From Ref. [13] .",
+      "text": "Fig. 4. The ions that can be recovered from seawater by means of MCr at a water recovery factor of 98.6%. From Ref. [13] ."
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 50.403,
+            "t": 366.09492961015627,
+            "r": 536.3384410500004,
+            "b": 359.317359187463,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "Fig. 5. Different polymorph structures of sodium sulfate (a) Na 2 SO 4 (Thenardite) [34] (b) Na 2 SO 4 .10H 2 O crystals (mirabilite) [37] . With permission from Elsevier.",
+      "text": "Fig. 5. Different polymorph structures of sodium sulfate (a) Na 2 SO 4 (Thenardite) [34] (b) Na 2 SO 4 .10H 2 O crystals (mirabilite) [37] . With permission from Elsevier."
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.006,
+            "t": 339.34074761015626,
+            "r": 284.40351795999993,
+            "b": 288.63550263484456,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            331
+          ]
+        }
+      ],
+      "orig": "membrane distillation (DCMD) but instead on osmotic membrane distillation (OMD) using a draw solution of NaCl. The isothermal process of OMD has been carried out at 20 \u00b0 C and for this reason the authors found, as different for the other studies, that sodium sulfate has been formed as Na 2 SO 4 \u00b7 10H 2 O (Mirabilite) ( Fig. 5 b).",
+      "text": "membrane distillation (DCMD) but instead on osmotic membrane distillation (OMD) using a draw solution of NaCl. The isothermal process of OMD has been carried out at 20 \u00b0 C and for this reason the authors found, as different for the other studies, that sodium sulfate has been formed as Na 2 SO 4 \u00b7 10H 2 O (Mirabilite) ( Fig. 5 b)."
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 33.006,
+            "t": 287.0326476101563,
+            "r": 284.4770034,
+            "b": 49.35144918721369,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1528
+          ]
+        },
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 301.998,
+            "t": 339.34074761015626,
+            "r": 553.3599734999999,
+            "b": 300.4153491872137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            1529,
+            1773
+          ]
+        }
+      ],
+      "orig": "Recently, membrane crystallizers have also been suggested in CO 2 capture [38-41] . Most common for CO 2 capture is absorption such as amine-based. Also more environmental-friendly processes, such as reaction with alkaline solutions, and membrane technology have been investigated [38] . Luis et al. [40] , have applied osmotic MCr to treat Na 2 CO 3 solutions using NaCl and MgCl 2 solutions as draw agents. The polymorphic structure obtained in this study is Na 2 CO 3 \u00b7 10H 2 O [40] . Similarly in the studies by Ye et al. [38,39] , it has been found that Na 2 CO 3 \u00b7 10H 2 O is produced by utilizing a OMD configuration with NaCl as draw solution. As a result of NO x and SO x in flue gasses, the influence of NaNO 3 and Na 2 SO 4 on crystal habit has also been investigated. The authors have found that only Na 2 SO 4 has some impact on crystal morphology, whereas no impurities of Na 2 SO 4 , NaNO 3 or NaCl (from draw solution) have been observed within the crystals [38,39] . Therefore, MCr is able to produce ultrapure Na 2 CO 3 \u00b7 10H 2 O, which can be a potential application in CO 2 capture. Ye et al. [41] have also conducted similar experiments by utilizing dense membranes in FO and PRO mode. Similar results on polymorph and purity have been obtained. The authors have stated that a higher purity of sodium carbonate ( > 99.98%) can be obtained using this configuration with respect to their results obtained utilizing MCr [41] . Nevertheless, the results have to be seen in perspective to the results achieved in their previous study with the lowest purity given as 99.10% [39] . Moreover, the main problem in both osmotic MCr and FO is the draw solution which should be re-concentrated for constant flux and more efficient draw solutions might be required.",
+      "text": "Recently, membrane crystallizers have also been suggested in CO 2 capture [38-41] . Most common for CO 2 capture is absorption such as amine-based. Also more environmental-friendly processes, such as reaction with alkaline solutions, and membrane technology have been investigated [38] . Luis et al. [40] , have applied osmotic MCr to treat Na 2 CO 3 solutions using NaCl and MgCl 2 solutions as draw agents. The polymorphic structure obtained in this study is Na 2 CO 3 \u00b7 10H 2 O [40] . Similarly in the studies by Ye et al. [38,39] , it has been found that Na 2 CO 3 \u00b7 10H 2 O is produced by utilizing a OMD configuration with NaCl as draw solution. As a result of NO x and SO x in flue gasses, the influence of NaNO 3 and Na 2 SO 4 on crystal habit has also been investigated. The authors have found that only Na 2 SO 4 has some impact on crystal morphology, whereas no impurities of Na 2 SO 4 , NaNO 3 or NaCl (from draw solution) have been observed within the crystals [38,39] . Therefore, MCr is able to produce ultrapure Na 2 CO 3 \u00b7 10H 2 O, which can be a potential application in CO 2 capture. Ye et al. [41] have also conducted similar experiments by utilizing dense membranes in FO and PRO mode. Similar results on polymorph and purity have been obtained. The authors have stated that a higher purity of sodium carbonate ( > 99.98%) can be obtained using this configuration with respect to their results obtained utilizing MCr [41] . Nevertheless, the results have to be seen in perspective to the results achieved in their previous study with the lowest purity given as 99.10% [39] . Moreover, the main problem in both osmotic MCr and FO is the draw solution which should be re-concentrated for constant flux and more efficient draw solutions might be required."
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 301.998,
+            "t": 297.49064761015626,
+            "r": 553.4075477399998,
+            "b": 143.50034918721371,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            933
+          ]
+        }
+      ],
+      "orig": "Another example is in wastewater such as rare-earth wastewater and fertilizer plant wastewater, where high amount of ammonium salts is present. You et al. [42] have suggested MCr in vacuum membrane distillation (VMD) mode for recovery of ammonium salt. Two solutions of 20% NH 4 Cl and (NH 4 ) 2 SO 4 have been tested. Volatile ammonium has to be minimized by controlling pH in order to avoid it to move to the permeate. In treatment of NH 4 Cl solution, the authors have been able to maintain the total nitrogen low and stable in permeate whereas for (NH 4 ) 2 SO 4 it increased rapid after 400 min of operation. Total of 125.7 kg/m 3 and 58.4 kg/m 3 for NH 4 Cl and (NH 4 ) 2 SO 4 , respectively, could be obtained for the highest saturation factor. It has been found that the crystal size decreases with increase in saturation and moreover, that NH 4 Cl has dendritic structure and (NH 4 ) 2 SO 4 crystals is being lamellar [42] .",
+      "text": "Another example is in wastewater such as rare-earth wastewater and fertilizer plant wastewater, where high amount of ammonium salts is present. You et al. [42] have suggested MCr in vacuum membrane distillation (VMD) mode for recovery of ammonium salt. Two solutions of 20% NH 4 Cl and (NH 4 ) 2 SO 4 have been tested. Volatile ammonium has to be minimized by controlling pH in order to avoid it to move to the permeate. In treatment of NH 4 Cl solution, the authors have been able to maintain the total nitrogen low and stable in permeate whereas for (NH 4 ) 2 SO 4 it increased rapid after 400 min of operation. Total of 125.7 kg/m 3 and 58.4 kg/m 3 for NH 4 Cl and (NH 4 ) 2 SO 4 , respectively, could be obtained for the highest saturation factor. It has been found that the crystal size decreases with increase in saturation and moreover, that NH 4 Cl has dendritic structure and (NH 4 ) 2 SO 4 crystals is being lamellar [42] ."
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 301.998,
+            "t": 126.76964761015631,
+            "r": 515.188659,
+            "b": 108.7694491872137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "orig": "4. Alternative water sources. Water recovery from the atmosphere",
+      "text": "4. Alternative water sources. Water recovery from the atmosphere",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 301.998,
+            "t": 97.3756476101563,
+            "r": 553.3158586099999,
+            "b": 47.99244918721365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            310
+          ]
+        }
+      ],
+      "orig": "The most part of industrial processes consume huge amount of water that are then expelled to the atmosphere. An example can be found in the cooling systems that typically account for more than 90% of water use at steam-electric plants. Together with water consumption, also the environmental impacts associated",
+      "text": "The most part of industrial processes consume huge amount of water that are then expelled to the atmosphere. An example can be found in the cooling systems that typically account for more than 90% of water use at steam-electric plants. Together with water consumption, also the environmental impacts associated"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 163.38,
+            "t": 756.6319296101564,
+            "r": 442.69908792000007,
+            "b": 750.5980719453185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "C.A. Quist-Jensen et al. / Journal of the Taiwan Institute of Chemical Engineers 94 (2019) 129-134",
+      "text": "C.A. Quist-Jensen et al. / Journal of the Taiwan Institute of Chemical Engineers 94 (2019) 129-134"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 552.7078540499999,
+            "t": 756.6319296101564,
+            "r": 563.2756021899997,
+            "b": 750.5980719453185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "133",
+      "text": "133"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.8159999999998,
+            "t": 495.91992961015626,
+            "r": 563.5374219699995,
+            "b": 481.31786876531834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            200
+          ]
+        }
+      ],
+      "orig": "Fig. 6. Scheme of the membrane condenser process for the recovery of evaporated 'waste' water from a gaseous stream. Reprinted with permission from Ref. [7] . Copyright 2013 American Chemical Society.",
+      "text": "Fig. 6. Scheme of the membrane condenser process for the recovery of evaporated 'waste' water from a gaseous stream. Reprinted with permission from Ref. [7] . Copyright 2013 American Chemical Society."
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.816,
+            "t": 465.57464761015626,
+            "r": 294.1372873499999,
+            "b": 416.19144918721366,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            271
+          ]
+        }
+      ],
+      "orig": "with vapour emissions in terms of greenhouse effects are more and more emerging as top priorities for various types of power plants. As a consequence, efficient technologies for reclamation of evaporated 'waste' water and their reuse represent a critical industrial need.",
+      "text": "with vapour emissions in terms of greenhouse effects are more and more emerging as top priorities for various types of power plants. As a consequence, efficient technologies for reclamation of evaporated 'waste' water and their reuse represent a critical industrial need."
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.816,
+            "t": 413.2756476101563,
+            "r": 294.1544193900001,
+            "b": 196.5194491872137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1269
+          ]
+        }
+      ],
+      "orig": "Based on the results achieved in MD technology, Drioli and co-workers [7-11] recently introduced membrane assisted condensation technology for water recovery from gaseous streams. Membrane condenser is a membrane contactor operation and exploits the hydrophobic nature of microporous membranes for promoting water condensation. The operating principle consists in condensing and recovering the water contained in a saturated gas on the retentate side of the membrane module whereas the dehydrated gases pass through the membrane in the permeate side. Fig. 6 schematizes the membrane condenser concept. The gaseous stream ( e.g. flue gas, biogas) exiting from the plant, cooling towers, stacks, etc., at a certain relative humidity and temperature, is fed to the membrane condenser kept at a lower temperature for cooling the gas down to a super-saturation state. The water condenses in the membrane module and, once this stream is brought in contact with the retentate side of the microporous membranes, their hydrophobic nature prevents the penetration of the liquid into the pores letting pass the dehydrated gases through the membrane. Therefore, the liquid water is recovered at the retentate side, whereas the other gases at the permeate side of the membrane unit.",
+      "text": "Based on the results achieved in MD technology, Drioli and co-workers [7-11] recently introduced membrane assisted condensation technology for water recovery from gaseous streams. Membrane condenser is a membrane contactor operation and exploits the hydrophobic nature of microporous membranes for promoting water condensation. The operating principle consists in condensing and recovering the water contained in a saturated gas on the retentate side of the membrane module whereas the dehydrated gases pass through the membrane in the permeate side. Fig. 6 schematizes the membrane condenser concept. The gaseous stream ( e.g. flue gas, biogas) exiting from the plant, cooling towers, stacks, etc., at a certain relative humidity and temperature, is fed to the membrane condenser kept at a lower temperature for cooling the gas down to a super-saturation state. The water condenses in the membrane module and, once this stream is brought in contact with the retentate side of the microporous membranes, their hydrophobic nature prevents the penetration of the liquid into the pores letting pass the dehydrated gases through the membrane. Therefore, the liquid water is recovered at the retentate side, whereas the other gases at the permeate side of the membrane unit."
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 42.816,
+            "t": 193.59474761015622,
+            "r": 294.17955276000004,
+            "b": 50.06234918721361,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            872
+          ]
+        }
+      ],
+      "orig": "The hydrophobic nature of the membranes not only avoids water droplets dragging, but promotes vapour condensation exploiting the principle of dropwise condensation where, when condensation takes place on a surface that is not wet by the condensate, water beads up into droplets and rolls off the surface. Water vapor preferentially condenses on solid surfaces because of the reduced activation energy of heterogeneous nucleation in comparison to homogeneous nucleation. However, the effect of surface-structure geometry on condensation behavior remains under debate. What it is sure is that the use of hydrophobic surfaces improves heterogeneous condensation and recently, the use of hydrophobic surfaces structured at capillary length scales has been proposed to enhance heterogeneous condensation. For what concerns the amount of recovered water, it has been demostrated",
+      "text": "The hydrophobic nature of the membranes not only avoids water droplets dragging, but promotes vapour condensation exploiting the principle of dropwise condensation where, when condensation takes place on a surface that is not wet by the condensate, water beads up into droplets and rolls off the surface. Water vapor preferentially condenses on solid surfaces because of the reduced activation energy of heterogeneous nucleation in comparison to homogeneous nucleation. However, the effect of surface-structure geometry on condensation behavior remains under debate. What it is sure is that the use of hydrophobic surfaces improves heterogeneous condensation and recently, the use of hydrophobic surfaces structured at capillary length scales has been proposed to enhance heterogeneous condensation. For what concerns the amount of recovered water, it has been demostrated"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.80720219,
+            "t": 297.7380829101563,
+            "r": 563.2582698399997,
+            "b": 257.20825922531833,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            352
+          ]
+        }
+      ],
+      "orig": "Fig. 7. Concentration of HF in the recovered water vs. /Delta1 T (temperature difference between the feed waste gas and the membrane module) at various HF concentration in the feed. Feed temperature = 55.5 \u00b0 C, RH feed = 100%. Dotted line represents the WHO maximum recommended limits of HF in drinking water. From Ref. [9] with permission of Elsevier.",
+      "text": "Fig. 7. Concentration of HF in the recovered water vs. /Delta1 T (temperature difference between the feed waste gas and the membrane module) at various HF concentration in the feed. Feed temperature = 55.5 \u00b0 C, RH feed = 100%. Dotted line represents the WHO maximum recommended limits of HF in drinking water. From Ref. [9] with permission of Elsevier."
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.808,
+            "t": 233.36564761015632,
+            "r": 563.2404393600001,
+            "b": 110.75834918721364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            734
+          ]
+        }
+      ],
+      "orig": "that, in general, more than 65% of the water present in the gaseous waste stream (with temperature of the gaseous stream from 40 to 80 \u00b0 C) can be recovered with cooling lower than 20 \u00b0 C [7] . For what concerns energy consumption, it was proved that energy consumption in membrane condenser is mainly owing to the heat required to condense the water vapor [7] . Membrane condenser offers, moreover, the possibility of controlling the composition of the recovered liquid water by opportunely tuning the operating conditions. It was proved [9] that contaminants concentration increases with the growing temperature difference between fed flue gas and membrane module due to the dependence of gases solubility on temperature ( Fig. 7 ).",
+      "text": "that, in general, more than 65% of the water present in the gaseous waste stream (with temperature of the gaseous stream from 40 to 80 \u00b0 C) can be recovered with cooling lower than 20 \u00b0 C [7] . For what concerns energy consumption, it was proved that energy consumption in membrane condenser is mainly owing to the heat required to condense the water vapor [7] . Membrane condenser offers, moreover, the possibility of controlling the composition of the recovered liquid water by opportunely tuning the operating conditions. It was proved [9] that contaminants concentration increases with the growing temperature difference between fed flue gas and membrane module due to the dependence of gases solubility on temperature ( Fig. 7 )."
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 311.808,
+            "t": 107.84264761015629,
+            "r": 563.1915263800004,
+            "b": 47.99244918721365,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            397
+          ]
+        }
+      ],
+      "orig": "Maps in Fig. 7 can be therefore utilized to identify the proper operative conditions to achieve drinkable water. For example, the figure shows that waste gaseous streams with HF concentration as high as 750 vppm can be cooled until /Delta1 T \u2248 32 \u00b0 C before achieving in the liquid water HF concentration higher than 7.9 \u00d7 10 -5 mol/L ( i.e. , its WHO maximum recommended limit). The data obtained",
+      "text": "Maps in Fig. 7 can be therefore utilized to identify the proper operative conditions to achieve drinkable water. For example, the figure shows that waste gaseous streams with HF concentration as high as 750 vppm can be cooled until /Delta1 T \u2248 32 \u00b0 C before achieving in the liquid water HF concentration higher than 7.9 \u00d7 10 -5 mol/L ( i.e. , its WHO maximum recommended limit). The data obtained"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.006,
+            "t": 756.6319296101564,
+            "r": 43.66365115,
+            "b": 750.5980719453185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            3
+          ]
+        }
+      ],
+      "orig": "134",
+      "text": "134"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 153.56912446,
+            "t": 756.6319296101564,
+            "r": 432.88821238000014,
+            "b": 750.5980719453185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            98
+          ]
+        }
+      ],
+      "orig": "C.A. Quist-Jensen et al. / Journal of the Taiwan Institute of Chemical Engineers 94 (2019) 129-134",
+      "text": "C.A. Quist-Jensen et al. / Journal of the Taiwan Institute of Chemical Engineers 94 (2019) 129-134"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.006,
+            "t": 735.9796476101562,
+            "r": 284.3427118,
+            "b": 697.0633491872137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "have been also supported by an experimental study of the process, confirming the validity of the simulation study and its suitability for a screening of the operative conditions to be chosen in a membrane condenser.",
+      "text": "have been also supported by an experimental study of the process, confirming the validity of the simulation study and its suitability for a screening of the operative conditions to be chosen in a membrane condenser."
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.006,
+            "t": 683.6807476101562,
+            "r": 86.52055028999999,
+            "b": 676.1384491872136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            13
+          ]
+        }
+      ],
+      "orig": "5. Conclusion",
+      "text": "5. Conclusion",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.006,
+            "t": 662.7556476101563,
+            "r": 284.37070050000005,
+            "b": 425.0833491872137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            1487
+          ]
+        }
+      ],
+      "orig": "Resource-intensive industrial development, an overall increase in living standards and quality of life and a significant prolongation of life expectancy characterized the past century. The effect of these phenomena caused, however, accentuating of some problems such as water shortage, raw materials deployment, global warming, and environmental pollution. Process intensification (PI) has been suggested as the best answer to the problems characterizing the world today and in the near future. Membrane operations respond efficiently to the requirements of PI strategy because they use intrinsically cleaner and more energy-efficient separation routes when compared with conventional separation technologies. In many fields, membrane operations are already recognized as the best available technologies able to contribute to sustainable development. A typical example is membrane bioreactors (MBRs) for wastewater treatments. Practically all traditional unit operations can be re-designed as membrane operations in the logic of PI, such as membrane-assisted crystallization and membrane-assisted condensation. The interesting results achieved with these two new technologies overcome the performance of traditional operations: in the case of MCr, the possibility to produce specific polymorphs of crystals; in the case of the condenser, on the basis of the final objectives, the control of the concentration of condensable contaminants in the permeate or in the recovered liquid stream.",
+      "text": "Resource-intensive industrial development, an overall increase in living standards and quality of life and a significant prolongation of life expectancy characterized the past century. The effect of these phenomena caused, however, accentuating of some problems such as water shortage, raw materials deployment, global warming, and environmental pollution. Process intensification (PI) has been suggested as the best answer to the problems characterizing the world today and in the near future. Membrane operations respond efficiently to the requirements of PI strategy because they use intrinsically cleaner and more energy-efficient separation routes when compared with conventional separation technologies. In many fields, membrane operations are already recognized as the best available technologies able to contribute to sustainable development. A typical example is membrane bioreactors (MBRs) for wastewater treatments. Practically all traditional unit operations can be re-designed as membrane operations in the logic of PI, such as membrane-assisted crystallization and membrane-assisted condensation. The interesting results achieved with these two new technologies overcome the performance of traditional operations: in the case of MCr, the possibility to produce specific polymorphs of crystals; in the case of the condenser, on the basis of the final objectives, the control of the concentration of condensable contaminants in the permeate or in the recovered liquid stream."
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.006,
+            "t": 414.19374761015627,
+            "r": 74.64419343000002,
+            "b": 406.65144918721364,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            10
+          ]
+        }
+      ],
+      "orig": "References",
+      "text": "References",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.696,
+            "t": 394.57092961015627,
+            "r": 284.34499922,
+            "b": 380.56312128531835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "[1] World Health Organization Water Fact Sheet #391, 2014, available at www. who.int/mediacentre/factsheets/fs391/en/ (Last access: February 13, 2018)",
+      "text": "World Health Organization Water Fact Sheet #391, 2014, available at www. who.int/mediacentre/factsheets/fs391/en/ (Last access: February 13, 2018)",
+      "hyperlink": "http://www.who.int/mediacentre/factsheets/fs391/en/",
+      "enumerated": true,
+      "marker": "[1]"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69599999999997,
+            "t": 378.63195483015625,
+            "r": 284.51014020999975,
+            "b": 356.6591223853183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            186
+          ]
+        }
+      ],
+      "orig": "[2] R\u00fchl C , Appleby P , Fennema J , Naumov A , Schaffer M . Economic development and the demand for energy: a historical perspective on the next 20 years. Energy Policy 2012;50:109-16 .",
+      "text": "R\u00fchl C , Appleby P , Fennema J , Naumov A , Schaffer M . Economic development and the demand for energy: a historical perspective on the next 20 years. Energy Policy 2012;50:109-16 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0002",
+      "enumerated": true,
+      "marker": "[2]"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69344955999982,
+            "t": 354.71902961015627,
+            "r": 284.3261519899999,
+            "b": 340.71122128531835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "[3] Stankiewicz AI , Moulijn JA . Process intensification: transforming chemical engineering. Chem Eng Prog 20 0 0;96(1):22-34 .",
+      "text": "Stankiewicz AI , Moulijn JA . Process intensification: transforming chemical engineering. Chem Eng Prog 20 0 0;96(1):22-34 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0003",
+      "enumerated": true,
+      "marker": "[3]"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69883150999996,
+            "t": 338.78005483015625,
+            "r": 284.30000998,
+            "b": 324.7722465053183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            150
+          ]
+        }
+      ],
+      "orig": "[4] Stankiewicz A . Reactive separations for process intensification: an industrial perspective. Chem Eng Process Process Intensif 2003;42(3):137-44 .",
+      "text": "Stankiewicz A . Reactive separations for process intensification: an industrial perspective. Chem Eng Process Process Intensif 2003;42(3):137-44 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0004",
+      "enumerated": true,
+      "marker": "[4]"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.698831509999934,
+            "t": 322.8410800501562,
+            "r": 284.2968219299999,
+            "b": 308.83307194531835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            101
+          ]
+        }
+      ],
+      "orig": "[5] Drioli E, Giorno L, editors. Comprehensive membrane science and engineering. Elsevier Ltd; 2010 .",
+      "text": "Drioli E, Giorno L, editors. Comprehensive membrane science and engineering. Elsevier Ltd; 2010 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0005",
+      "enumerated": true,
+      "marker": "[5]"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69588304,
+            "t": 306.90190549015625,
+            "r": 284.3474326999997,
+            "b": 284.9201465053183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            171
+          ]
+        }
+      ],
+      "orig": "[6] Hickenbottom KL , Cath TY . Sustainable operation of membrane distillation for enhancement of mineral recovery from hypersaline solutions. J Memb Sci 2014;454:426-35 .",
+      "text": "Hickenbottom KL , Cath TY . Sustainable operation of membrane distillation for enhancement of mineral recovery from hypersaline solutions. J Memb Sci 2014;454:426-35 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0006",
+      "enumerated": true,
+      "marker": "[6]"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69652064999997,
+            "t": 282.9889800501562,
+            "r": 284.48579407,
+            "b": 261.0161478253183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "[7] Macedonio F , Brunetti A , Barbieri G , Drioli E . Membrane condenser as a new technology for water recovery from humidified 'waste' gaseous streams. Ind Eng Chem Res 2013;52:1160-7 .",
+      "text": "Macedonio F , Brunetti A , Barbieri G , Drioli E . Membrane condenser as a new technology for water recovery from humidified 'waste' gaseous streams. Ind Eng Chem Res 2013;52:1160-7 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0007",
+      "enumerated": true,
+      "marker": "[7]"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.69703729000004,
+            "t": 259.0760548301562,
+            "r": 284.5800393800001,
+            "b": 237.1032223853183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "[8] Brunetti A , Santoro S , Macedonio F , Figoli A , Drioli E , Barbieri G . Waste gaseous streams: from environmental issue to source of water by using membrane condensers. Clean Soil Air Water 2014;42:1145-53 .",
+      "text": "Brunetti A , Santoro S , Macedonio F , Figoli A , Drioli E , Barbieri G . Waste gaseous streams: from environmental issue to source of water by using membrane condensers. Clean Soil Air Water 2014;42:1145-53 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0008",
+      "enumerated": true,
+      "marker": "[8]"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 36.696,
+            "t": 235.1629296101563,
+            "r": 284.4929247399999,
+            "b": 213.19009716531843,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            223
+          ]
+        }
+      ],
+      "orig": "[9] Macedonio F , Cersosimo M , Brunetti A , Barbieri G , Drioli E . Water recovery from humidified waste gas streams: quality control using membrane condenser technology. Chem Eng Process Process Intensif 2014;86:196-203 .",
+      "text": "Macedonio F , Cersosimo M , Brunetti A , Barbieri G , Drioli E . Water recovery from humidified waste gas streams: quality control using membrane condenser technology. Chem Eng Process Process Intensif 2014;86:196-203 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0009",
+      "enumerated": true,
+      "marker": "[9]"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.437812899999955,
+            "t": 211.25893071015628,
+            "r": 284.47223726999994,
+            "b": 189.28609716531844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            213
+          ]
+        }
+      ],
+      "orig": "[10] Brunetti A , Macedonio F , Barbieri G , Drioli E . Membrane engineering for environmental protection and sustainable industrial growth: options for water and gas treatment. Environ Eng Res 2015;20(4):307-28 .",
+      "text": "Brunetti A , Macedonio F , Barbieri G , Drioli E . Membrane engineering for environmental protection and sustainable industrial growth: options for water and gas treatment. Environ Eng Res 2015;20(4):307-28 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0010",
+      "enumerated": true,
+      "marker": "[10]"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.70660037000005,
+            "t": 187.34600417015622,
+            "r": 284.42441651999985,
+            "b": 173.3381958453184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            160
+          ]
+        }
+      ],
+      "orig": "[11] Macedonio F , Brunetti A , Barbieri G , Drioli E . Membrane condenser configurations for water recovery from waste gases. Sep Purif Technol 2017;181:60-8 .",
+      "text": "Macedonio F , Brunetti A , Barbieri G , Drioli E . Membrane condenser configurations for water recovery from waste gases. Sep Purif Technol 2017;181:60-8 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0011",
+      "enumerated": true,
+      "marker": "[11]"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.33933701000004,
+            "t": 171.40702939015625,
+            "r": 284.3068457500001,
+            "b": 157.39912128531842,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            152
+          ]
+        }
+      ],
+      "orig": "[12] Loganathan P , Naidu G , Vigneswaran S . Mining valuable minerals from seawater: a critical review. Environ Sci Water Res Technol 2017;3(1):37-53 .",
+      "text": "Loganathan P , Naidu G , Vigneswaran S . Mining valuable minerals from seawater: a critical review. Environ Sci Water Res Technol 2017;3(1):37-53 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0012",
+      "enumerated": true,
+      "marker": "[12]"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.41113641000004,
+            "t": 155.46795483015626,
+            "r": 284.37953329,
+            "b": 133.49512238531838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "[13] Quist-Jensen CA , Macedonio F , Drioli E . Integrated membrane desalination systems with membrane crystallization units for resource recovery: a new approach for mining from the sea. Crystals 2016;6(4):36 .",
+      "text": "Quist-Jensen CA , Macedonio F , Drioli E . Integrated membrane desalination systems with membrane crystallization units for resource recovery: a new approach for mining from the sea. Crystals 2016;6(4):36 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0013",
+      "enumerated": true,
+      "marker": "[13]"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 33.46563813999995,
+            "t": 131.55507895015626,
+            "r": 284.37856294999995,
+            "b": 109.58224650531838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            232
+          ]
+        }
+      ],
+      "orig": "[14] Bardi, U. (2014) World Mineral resources and the Limits to Economic Growth. In E3S Web of Conferences (Vol. 2). EDP Sciences. Article available at http: //dx.doi.org/10.1051/e3sconf/20140202001 (Last access: February 13, 2018).",
+      "text": "Bardi, U. (2014) World Mineral resources and the Limits to Economic Growth. In E3S Web of Conferences (Vol. 2). EDP Sciences. Article available at http: //dx.doi.org/10.1051/e3sconf/20140202001 (Last access: February 13, 2018).",
+      "hyperlink": "http://dx.doi.org/10.1051/e3sconf/20140202001",
+      "enumerated": true,
+      "marker": "[14]"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.421,
+            "t": 734.7889296101563,
+            "r": 553.3090580200001,
+            "b": 720.7900478253184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            100
+          ]
+        }
+      ],
+      "orig": "[15] Bardi U . Extracting minerals from seawater: an energy analysis. Sustainability 2010;2:980-92 .",
+      "text": "Bardi U . Extracting minerals from seawater: an energy analysis. Sustainability 2010;2:980-92 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0014",
+      "enumerated": true,
+      "marker": "[15]"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.4465043999999,
+            "t": 718.8499548301563,
+            "r": 553.47866228,
+            "b": 696.8771223853184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            188
+          ]
+        }
+      ],
+      "orig": "[16] Shahmansouri A , Min J , Jin L , Bellona C . Feasibility of extracting valuable minerals from desalination concentrate: a comprehensive literature review. J Clean Prod 2015;100:4-16 .",
+      "text": "Shahmansouri A , Min J , Jin L , Bellona C . Feasibility of extracting valuable minerals from desalination concentrate: a comprehensive literature review. J Clean Prod 2015;100:4-16 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0015",
+      "enumerated": true,
+      "marker": "[16]"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.60208123999996,
+            "t": 694.9459559301564,
+            "r": 553.4886977900005,
+            "b": 680.9381212853184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "[17] Jeppesen T , Shu L , Keir G , Jegatheesan V . Metal recovery from reverse osmosis concentrate. J Clean Prod 2009;17:703-7 .",
+      "text": "Jeppesen T , Shu L , Keir G , Jegatheesan V . Metal recovery from reverse osmosis concentrate. J Clean Prod 2009;17:703-7 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0016",
+      "enumerated": true,
+      "marker": "[17]"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.4941589000001,
+            "t": 679.0069548301564,
+            "r": 553.5428946400001,
+            "b": 657.0250719453185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            185
+          ]
+        }
+      ],
+      "orig": "[18] P\u00e9rez-Gonz\u00e1lez A , Urtiaga A M , Ib\u00e1\u00f1ez R , Ortiz I . State of the art and review on the treatment technologies of water reverse osmosis concentrates. Water Res 2012;46(2):267-83 .",
+      "text": "P\u00e9rez-Gonz\u00e1lez A , Urtiaga A M , Ib\u00e1\u00f1ez R , Ortiz I . State of the art and review on the treatment technologies of water reverse osmosis concentrates. Water Res 2012;46(2):267-83 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0017",
+      "enumerated": true,
+      "marker": "[18]"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.44809797,
+            "t": 655.0939054901564,
+            "r": 553.3973665500002,
+            "b": 641.0860971653185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            117
+          ]
+        }
+      ],
+      "orig": "[19] Tsai JH , et al. Membrane-based zero liquid discharge: Myth or reality? J Taiwan Inst Chem Eng 2017;80:192-202 .",
+      "text": "Tsai JH , et al. Membrane-based zero liquid discharge: Myth or reality? J Taiwan Inst Chem Eng 2017;80:192-202 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0018",
+      "enumerated": true,
+      "marker": "[19]"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.0087846800002,
+            "t": 639.1549307101565,
+            "r": 553.3954537200004,
+            "b": 617.1820982653186,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            187
+          ]
+        }
+      ],
+      "orig": "[20] Jia F , Wang J . Treatment of flue gas desulfurization wastewater with near-zero liquid discharge by nanofiltration-membrane distillation process. Sep Sci Technol 2018;53(1):146-53 .",
+      "text": "Jia F , Wang J . Treatment of flue gas desulfurization wastewater with near-zero liquid discharge by nanofiltration-membrane distillation process. Sep Sci Technol 2018;53(1):146-53 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0019",
+      "enumerated": true,
+      "marker": "[20]"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.28869547000016,
+            "t": 615.2420052701565,
+            "r": 553.4042539900004,
+            "b": 601.2341212853185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            128
+          ]
+        }
+      ],
+      "orig": "[21] Drioli E , Criscuoli A , Curcio E . Integrated membrane operations for seawater desalination. Desalination 2002;147:77-81 .",
+      "text": "Drioli E , Criscuoli A , Curcio E . Integrated membrane operations for seawater desalination. Desalination 2002;147:77-81 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0020",
+      "enumerated": true,
+      "marker": "[21]"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.00100709000003,
+            "t": 599.3029548301564,
+            "r": 553.4877809000002,
+            "b": 577.3300478253185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            179
+          ]
+        }
+      ],
+      "orig": "[22] Drioli E , Curcio E , Criscuoli A , Di Profio G . Integrated system for recovery of CaCO3, NaCl and MgSO4 \u00b7 7H2O from nanofiltration retentate. J Memb Sci 2004;239(1):27-38 .",
+      "text": "Drioli E , Curcio E , Criscuoli A , Di Profio G . Integrated system for recovery of CaCO3, NaCl and MgSO4 \u00b7 7H2O from nanofiltration retentate. J Memb Sci 2004;239(1):27-38 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0021",
+      "enumerated": true,
+      "marker": "[22]"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 301.99716648000003,
+            "t": 575.3899548301564,
+            "r": 553.3124232000001,
+            "b": 553.4171223853185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "[23] Drioli E, Criscuoli A, Macedonio F, editors. Membrane based desalination: an integrated approach (Medina) (European water research). London, UK: IWA Publishing; 2011 .",
+      "text": "Drioli E, Criscuoli A, Macedonio F, editors. Membrane based desalination: an integrated approach (Medina) (European water research). London, UK: IWA Publishing; 2011 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0022",
+      "enumerated": true,
+      "marker": "[23]"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.07878056000015,
+            "t": 551.4770293901564,
+            "r": 553.3908492300002,
+            "b": 537.4780719453184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            145
+          ]
+        }
+      ],
+      "orig": "[24] Nanda D , et al. Effect of solution chemistry on water softening using charged nanofiltration membranes. Desalination 2008;234(1-3):344-53 .",
+      "text": "Nanda D , et al. Effect of solution chemistry on water softening using charged nanofiltration membranes. Desalination 2008;234(1-3):344-53 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0023",
+      "enumerated": true,
+      "marker": "[24]"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 301.99767698,
+            "t": 535.5379789501563,
+            "r": 553.58009229,
+            "b": 513.5651465053185,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            218
+          ]
+        }
+      ],
+      "orig": "[25] Nanda D , Tung KL , Li YL , Lin NJ , Chuang CJ . Effect of pH on membrane morphology, fouling potential, and filtration performance of nanofiltration membrane for water softening. J Memb Sci 2010;349(1-2):411-20 .",
+      "text": "Nanda D , Tung KL , Li YL , Lin NJ , Chuang CJ . Effect of pH on membrane morphology, fouling potential, and filtration performance of nanofiltration membrane for water softening. J Memb Sci 2010;349(1-2):411-20 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0024",
+      "enumerated": true,
+      "marker": "[25]"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 301.99958980999975,
+            "t": 511.6339800501563,
+            "r": 553.4181526599999,
+            "b": 489.6521706253183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            184
+          ]
+        }
+      ],
+      "orig": "[26] Gando-Ferreira LM , Gaspar CSS , Monteiro M , Moreira MJA . Studies on integration of ion exchange and nanofiltration for water desalination. Sep Sci Technol 2017;52(16):2600-10 .",
+      "text": "Gando-Ferreira LM , Gaspar CSS , Monteiro M , Moreira MJA . Studies on integration of ion exchange and nanofiltration for water desalination. Sep Sci Technol 2017;52(16):2600-10 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0025",
+      "enumerated": true,
+      "marker": "[26]"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.19598700000006,
+            "t": 487.7210041701562,
+            "r": 553.4736247300001,
+            "b": 473.7131958453183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            147
+          ]
+        }
+      ],
+      "orig": "[27] Macedonio F , Di Profio G , Curcio E , Drioli E . Integrated membrane systems for seawater desalination. Desalination 20 06;20 0(1-3):612-14 .",
+      "text": "Macedonio F , Di Profio G , Curcio E , Drioli E . Integrated membrane systems for seawater desalination. Desalination 20 06;20 0(1-3):612-14 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0026",
+      "enumerated": true,
+      "marker": "[27]"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 301.9989655100002,
+            "t": 471.7820293901562,
+            "r": 553.50378424,
+            "b": 449.80909716531835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            215
+          ]
+        }
+      ],
+      "orig": "[28] Drioli E , Curcio E , Di Profio G , Macedonio F , Criscuoli A . Integrating membrane contactors technology and pressure-driven membrane operations for seawater desalination. Chem Eng Res Des 2006;84(3):209-20 .",
+      "text": "Drioli E , Curcio E , Di Profio G , Macedonio F , Criscuoli A . Integrating membrane contactors technology and pressure-driven membrane operations for seawater desalination. Chem Eng Res Des 2006;84(3):209-20 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0027",
+      "enumerated": true,
+      "marker": "[28]"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 301.9997949599999,
+            "t": 447.86900417015624,
+            "r": 553.4381104099999,
+            "b": 425.89604782531836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            202
+          ]
+        }
+      ],
+      "orig": "[29] Macedonio F , Curcio E , Drioli E . Integrated membrane systems for seawater desalination : energetic and exergetic analysis, economic evaluation, experimental study. Desalination 2007;203:260-76 .",
+      "text": "Macedonio F , Curcio E , Drioli E . Integrated membrane systems for seawater desalination : energetic and exergetic analysis, economic evaluation, experimental study. Desalination 2007;203:260-76 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0028",
+      "enumerated": true,
+      "marker": "[29]"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.0065198899998,
+            "t": 423.95595483015626,
+            "r": 553.42570704,
+            "b": 409.95707304531834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            151
+          ]
+        }
+      ],
+      "orig": "[30] Wang HY , Tung KL , Ward JD . Design and economic analysis of membrane-assisted crystallization processes. J Taiwan Inst Chem Eng 2017;81:159-69 .",
+      "text": "Wang HY , Tung KL , Ward JD . Design and economic analysis of membrane-assisted crystallization processes. J Taiwan Inst Chem Eng 2017;81:159-69 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0029",
+      "enumerated": true,
+      "marker": "[30]"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.3310633799999,
+            "t": 408.01702961015627,
+            "r": 553.5469428400003,
+            "b": 386.04419716531834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            211
+          ]
+        }
+      ],
+      "orig": "[31] Quist-Jensen CA , Ali A , Mondal S , Macedonio F , Drioli E . A study of membrane distillation and crystallization for lithium recovery from high-concentrated aqueous solutions. J Memb Sci 2016;505:167-73 .",
+      "text": "Quist-Jensen CA , Ali A , Mondal S , Macedonio F , Drioli E . A study of membrane distillation and crystallization for lithium recovery from high-concentrated aqueous solutions. J Memb Sci 2016;505:167-73 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0030",
+      "enumerated": true,
+      "marker": "[31]"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 301.99895846999993,
+            "t": 384.10410417015623,
+            "r": 553.6132542800002,
+            "b": 370.1052223853183,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            139
+          ]
+        }
+      ],
+      "orig": "[32] An JW , Kang DJ , Tran KT , Kim MJ , Lim T , Tran T . Recovery of lithium from Uyuni salar brine. Hydrometallurgy 2012;117-118:64-70 .",
+      "text": "An JW , Kang DJ , Tran KT , Kim MJ , Lim T , Tran T . Recovery of lithium from Uyuni salar brine. Hydrometallurgy 2012;117-118:64-70 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0031",
+      "enumerated": true,
+      "marker": "[32]"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.097,
+            "t": 368.16492961015626,
+            "r": 553.3083262900002,
+            "b": 354.16604782531834,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            146
+          ]
+        }
+      ],
+      "orig": "[33] Curcio E , et al. Hybrid nanofiltration-membrane crystallization system for the treatment of sulfate wastes. J Memb Sci 2010;360(1-2):493-8 .",
+      "text": "Curcio E , et al. Hybrid nanofiltration-membrane crystallization system for the treatment of sulfate wastes. J Memb Sci 2010;360(1-2):493-8 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0032",
+      "enumerated": true,
+      "marker": "[33]"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.00773460000005,
+            "t": 352.22595483015624,
+            "r": 553.4581646400001,
+            "b": 330.25307194531837,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            207
+          ]
+        }
+      ],
+      "orig": "[34] Quist-Jensen CA , Macedonio F , Horbez D , Drioli E . Reclamation of sodium sulfate from industrial wastewater by using membrane distillation and membrane crystallization. Desalination 2017;401:112-19 .",
+      "text": "Quist-Jensen CA , Macedonio F , Horbez D , Drioli E . Reclamation of sodium sulfate from industrial wastewater by using membrane distillation and membrane crystallization. Desalination 2017;401:112-19 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0033",
+      "enumerated": true,
+      "marker": "[34]"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.09623421000003,
+            "t": 328.32190549015627,
+            "r": 553.4146789800005,
+            "b": 306.34014650531833,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "[35] Tun CM , Fane AG , Matheickal JT , Sheikholeslami R . Membrane distillation crystallization of concentrated salts-flux and crystal formation. J Memb Sci 2005;257(1-2):144-55 .",
+      "text": "Tun CM , Fane AG , Matheickal JT , Sheikholeslami R . Membrane distillation crystallization of concentrated salts-flux and crystal formation. J Memb Sci 2005;257(1-2):144-55 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0034",
+      "enumerated": true,
+      "marker": "[35]"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 301.9961294399999,
+            "t": 304.40898005015623,
+            "r": 553.3432666599999,
+            "b": 282.4360478253184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "[36] Tun CM , Groth AM . Sustainable integrated membrane contactor process for water reclamation, sodium sulfate salt and energy recovery from industrial effluent. Desalination 2011;283:187-92 .",
+      "text": "Tun CM , Groth AM . Sustainable integrated membrane contactor process for water reclamation, sodium sulfate salt and energy recovery from industrial effluent. Desalination 2011;283:187-92 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0035",
+      "enumerated": true,
+      "marker": "[36]"
+    },
+    {
+      "self_ref": "#/texts/114",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.23081955999993,
+            "t": 280.4959548301563,
+            "r": 553.4708382999997,
+            "b": 258.5231223853184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            180
+          ]
+        }
+      ],
+      "orig": "[37] Li W , Van der Bruggen B , Luis P . Integration of reverse osmosis and membrane crystallization for sodium sulphate recovery. Chem Eng Process Process Intensif 2014;85:57-68 .",
+      "text": "Li W , Van der Bruggen B , Luis P . Integration of reverse osmosis and membrane crystallization for sodium sulphate recovery. Chem Eng Process Process Intensif 2014;85:57-68 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0036",
+      "enumerated": true,
+      "marker": "[37]"
+    },
+    {
+      "self_ref": "#/texts/115",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 301.9968166899996,
+            "t": 256.5830293901563,
+            "r": 553.5617869600001,
+            "b": 234.6100971653184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            217
+          ]
+        }
+      ],
+      "orig": "[38] Ye W , Lin J , Shen J , Luis P , Van der Bruggen B . Membrane crystallization of sodium carbonate for carbon dioxide recovery: Effect of impurities on the crystal morphology. Cryst Growth Des 2013;13(6):2362-72 .",
+      "text": "Ye W , Lin J , Shen J , Luis P , Van der Bruggen B . Membrane crystallization of sodium carbonate for carbon dioxide recovery: Effect of impurities on the crystal morphology. Cryst Growth Des 2013;13(6):2362-72 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0037a",
+      "enumerated": true,
+      "marker": "[38]"
+    },
+    {
+      "self_ref": "#/texts/116",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 301.99977517,
+            "t": 232.67893071015624,
+            "r": 553.52990646,
+            "b": 210.70604782531836,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            219
+          ]
+        }
+      ],
+      "orig": "[39] Ye W , Lin J , Luis P , Van der Bruggen B . Carbon Dioxide Recovery by Membrane Assisted Crystallization. World Academy of Science, Engineering and Technology. Int J Chem Mol Nucl Mater Metall Eng 2013;7(7):575-7 .",
+      "text": "Ye W , Lin J , Luis P , Van der Bruggen B . Carbon Dioxide Recovery by Membrane Assisted Crystallization. World Academy of Science, Engineering and Technology. Int J Chem Mol Nucl Mater Metall Eng 2013;7(7):575-7 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0037b",
+      "enumerated": true,
+      "marker": "[39]"
+    },
+    {
+      "self_ref": "#/texts/117",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.00893974999997,
+            "t": 208.76595483015626,
+            "r": 553.4810485299996,
+            "b": 186.79312238531838,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            196
+          ]
+        }
+      ],
+      "orig": "[40] Luis P , Van Aubel D , Van der Bruggen B . Technical viability and exergy analysis of membrane crystallization: closing the loop of CO2 sequestration. Int J Greenh Gas Control 2013;12:450-9 .",
+      "text": "Luis P , Van Aubel D , Van der Bruggen B . Technical viability and exergy analysis of membrane crystallization: closing the loop of CO2 sequestration. Int J Greenh Gas Control 2013;12:450-9 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0037",
+      "enumerated": true,
+      "marker": "[40]"
+    },
+    {
+      "self_ref": "#/texts/118",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.3883176999995,
+            "t": 184.85302961015623,
+            "r": 553.37852494,
+            "b": 162.88019716531835,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            174
+          ]
+        }
+      ],
+      "orig": "[41] Ye W , et al. Potential of osmotic membrane crystallization using dense membranes for Na2 CO3 production in a CO2 capture scenario. Cryst Growth Des 2015;15(2):695-705 .",
+      "text": "Ye W , et al. Potential of osmotic membrane crystallization using dense membranes for Na2 CO3 production in a CO2 capture scenario. Cryst Growth Des 2015;15(2):695-705 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0038",
+      "enumerated": true,
+      "marker": "[41]"
+    },
+    {
+      "self_ref": "#/texts/119",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "list_item",
+      "prov": [
+        {
+          "page_no": 6,
+          "bbox": {
+            "l": 302.0007824399998,
+            "t": 160.9490307101562,
+            "r": 553.4486620399996,
+            "b": 138.9671212853184,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            172
+          ]
+        }
+      ],
+      "orig": "[42] You W-T , Xu Z-L , Dong Z-Q , Zhang M . Vacuum membrane distillation - crystallization process of high ammonium salt solutions. Desalin Water Treat 2014;55(2):368-80 .",
+      "text": "You W-T , Xu Z-L , Dong Z-Q , Zhang M . Vacuum membrane distillation - crystallization process of high ammonium salt solutions. Desalin Water Treat 2014;55(2):368-80 .",
+      "hyperlink": "http://refhub.elsevier.com/S1876-1070(18)30071-3/sbref0039",
+      "enumerated": true,
+      "marker": "[42]"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 42.108489990234375,
+            "t": 731.3885192871094,
+            "r": 102.66203308105469,
+            "b": 663.5323181152344,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 504.29132080078125,
+            "t": 736.9562683105469,
+            "r": 562.148681640625,
+            "b": 664.6793518066406,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 508.4471740722656,
+            "t": 626.0946807861328,
+            "r": 536.9891967773438,
+            "b": 596.0472564697266,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 2,
+          "bbox": {
+            "l": 90.63309478759766,
+            "t": 736.9896202087402,
+            "r": 495.679931640625,
+            "b": 627.1894989013672,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 45.70140075683594,
+            "t": 735.7600440979004,
+            "r": 559.6837158203125,
+            "b": 594.5418548583984,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 3,
+          "bbox": {
+            "l": 47.1959228515625,
+            "t": 561.1253051757812,
+            "r": 289.08978271484375,
+            "b": 469.0414123535156,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 123.71444702148438,
+            "t": 738.0607414245605,
+            "r": 460.9691467285156,
+            "b": 533.1829528808594,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 4,
+          "bbox": {
+            "l": 125.56285095214844,
+            "t": 500.9791564941406,
+            "r": 459.56134033203125,
+            "b": 374.52593994140625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 128.5623779296875,
+            "t": 736.3077354431152,
+            "r": 477.5231018066406,
+            "b": 504.8366394042969,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/69"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 5,
+          "bbox": {
+            "l": 314.2961120605469,
+            "t": 466.873291015625,
+            "r": 558.6786499023438,
+            "b": 306.7394104003906,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/69"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 595.2449951171875,
+        "height": 793.9199829101562
+      },
+      "page_no": 1
+    },
+    "2": {
+      "size": {
+        "width": 595.2449951171875,
+        "height": 793.9199829101562
+      },
+      "page_no": 2
+    },
+    "3": {
+      "size": {
+        "width": 595.2449951171875,
+        "height": 793.9199829101562
+      },
+      "page_no": 3
+    },
+    "4": {
+      "size": {
+        "width": 595.2449951171875,
+        "height": 793.9199829101562
+      },
+      "page_no": 4
+    },
+    "5": {
+      "size": {
+        "width": 595.2449951171875,
+        "height": 793.9199829101562
+      },
+      "page_no": 5
+    },
+    "6": {
+      "size": {
+        "width": 595.2449951171875,
+        "height": 793.9199829101562
+      },
+      "page_no": 6
+    }
+  }
+}

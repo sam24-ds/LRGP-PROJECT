@@ -1,0 +1,1916 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.10.0",
+  "name": "1891771",
+  "origin": {
+    "mimetype": "application/pdf",
+    "binary_hash": 893647222113764730,
+    "filename": "1891771.pdf"
+  },
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/pictures/11"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/pictures/12"
+      },
+      {
+        "$ref": "#/pictures/13"
+      },
+      {
+        "$ref": "#/pictures/14"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/pictures/15"
+      },
+      {
+        "$ref": "#/pictures/16"
+      },
+      {
+        "$ref": "#/pictures/17"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/pictures/18"
+      },
+      {
+        "$ref": "#/pictures/19"
+      },
+      {
+        "$ref": "#/pictures/20"
+      },
+      {
+        "$ref": "#/pictures/21"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/pictures/22"
+      },
+      {
+        "$ref": "#/pictures/23"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/pictures/24"
+      },
+      {
+        "$ref": "#/pictures/25"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 32.98,
+            "t": 2116.9505599999998,
+            "r": 2123.03956,
+            "b": 2071.7094554216865,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            83
+          ]
+        }
+      ],
+      "orig": "CFD Model Verification of Hollow Fiber Modules for Gas Separation using 3D Printing",
+      "text": "CFD Model Verification of Hollow Fiber Modules for Gas Separation using 3D Printing",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 38.98,
+            "t": 2042.12448,
+            "r": 1660.7295,
+            "b": 2016.1699373493977,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            130
+          ]
+        }
+      ],
+      "orig": "Victor Kusuma, 1,2 Lili Sun, 3 Nathan Diemler, 1,2 Lingxiang Zhu, 1,2 Grigorios Panagakos, 1,4 Glenn Lipscomb, 3 David Hopkinson 1",
+      "text": "Victor Kusuma, 1,2 Lili Sun, 3 Nathan Diemler, 1,2 Lingxiang Zhu, 1,2 Grigorios Panagakos, 1,4 Glenn Lipscomb, 3 David Hopkinson 1"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 110.98,
+            "t": 2002.23696,
+            "r": 818.1852399999998,
+            "b": 1957.8490987951807,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            104
+          ]
+        }
+      ],
+      "orig": "1 National Energy Technology Laboratory, Pittsburgh PA / Morgantown WV 3 University of Toledo, Toledo OH",
+      "text": "1 National Energy Technology Laboratory, Pittsburgh PA / Morgantown WV 3 University of Toledo, Toledo OH"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.92,
+            "t": 1891.81856,
+            "r": 604.6996800000001,
+            "b": 1854.4046361445783,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            26
+          ]
+        }
+      ],
+      "orig": "Hollow Fiber Module Design",
+      "text": "Hollow Fiber Module Design",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 80.26,
+            "t": 1588.09744,
+            "r": 793.34196,
+            "b": 1575.9392192771086,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            123
+          ]
+        }
+      ],
+      "orig": "A typical hollow fiber module with straight tubes, adapted from Wan, CF; Yang, T; et al. : J. Membr. Sci. 538 , 96 ( 2017 )",
+      "text": "A typical hollow fiber module with straight tubes, adapted from Wan, CF; Yang, T; et al. : J. Membr. Sci. 538 , 96 ( 2017 )"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 1552.924,
+            "r": 726.2099999999996,
+            "b": 1515.6696385542168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            132
+          ]
+        }
+      ],
+      "orig": "Commercial hollow fiber membrane modules used for gas and liquid separations offer: \u00b7 high surface area/volume ratio without spacers",
+      "text": "Commercial hollow fiber membrane modules used for gas and liquid separations offer: \u00b7 high surface area/volume ratio without spacers"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 1509.724,
+            "r": 318.89999999999975,
+            "b": 1494.0696385542167,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            37
+          ]
+        }
+      ],
+      "orig": "\u00b7 effective countercurrent contacting",
+      "text": "\u00b7 effective countercurrent contacting"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 1488.124,
+            "r": 226.79600000000002,
+            "b": 1472.4696385542168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            27
+          ]
+        }
+      ],
+      "orig": "\u00b7 competitive cost ($/m 2 )",
+      "text": "\u00b7 competitive cost ($/m 2 )"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 1466.5240000000001,
+            "r": 910.01,
+            "b": 1407.6696385542168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            322
+          ]
+        }
+      ],
+      "orig": "Post-combustion carbon capture using membranes is challenging due to low driving force (dilute CO 2 in flue gases) and large volumetric flow . High CO 2 permeance and CO 2 /N 2 selectivity are necessary but may cause high pressure drop and loss of driving force, especially for module designs with poor fluid distribution.",
+      "text": "Post-combustion carbon capture using membranes is challenging due to low driving force (dilute CO 2 in flue gases) and large volumetric flow . High CO 2 permeance and CO 2 /N 2 selectivity are necessary but may cause high pressure drop and loss of driving force, especially for module designs with poor fluid distribution."
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 36.0,
+            "t": 1380.124,
+            "r": 910.7399999999994,
+            "b": 1321.2696385542167,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            309
+          ]
+        }
+      ],
+      "orig": "Computational Fluid Dynamics (CFD) is a powerful tool to evaluate new module designs. Recent advances in 3D Printing technology make it possible to evaluate these designs experimentally. We present initial attempts to 3D-print hollow fiber modules, evaluate module performance, and compare to CFD simulations.",
+      "text": "Computational Fluid Dynamics (CFD) is a powerful tool to evaluate new module designs. Recent advances in 3D Printing technology make it possible to evaluate these designs experimentally. We present initial attempts to 3D-print hollow fiber modules, evaluate module performance, and compare to CFD simulations."
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 30.42,
+            "t": 1268.6785599999998,
+            "r": 667.8043200000001,
+            "b": 1231.2646361445782,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            30
+          ]
+        }
+      ],
+      "orig": "Module Fabrication and Testing",
+      "text": "Module Fabrication and Testing",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 314.58,
+            "t": 964.844,
+            "r": 891.3479999999996,
+            "b": 841.1896385542168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            383
+          ]
+        }
+      ],
+      "orig": "Commonly-used fused deposition modeling printing method, in which a solid thermoplastic filament is melt-deposited in a layer-by-layer fashion, lacks the requisite gas tightness for module casing. Instead, we chose stereolithography , which relies on layer-by-layer curing of liquid acrylate-based resin using a UV laser. A Formlabs Form 3+ printing system was utilized in this work.",
+      "text": "Commonly-used fused deposition modeling printing method, in which a solid thermoplastic filament is melt-deposited in a layer-by-layer fashion, lacks the requisite gas tightness for module casing. Instead, we chose stereolithography , which relies on layer-by-layer curing of liquid acrylate-based resin using a UV laser. A Formlabs Form 3+ printing system was utilized in this work."
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 314.58,
+            "t": 813.644,
+            "r": 881.1120000000001,
+            "b": 689.989638554217,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            402
+          ]
+        }
+      ],
+      "orig": "Using dip-coating, commercially-available poly(vinylidene fluoride) (PVDF) hollow fibers were first coated with a poly(dimethyl siloxane) (PDMS) gutter layer followed by a Pebax\u00ae 2533 selective layer. Four of these fibers were aligned within the module with the aid of 3D-printed buttons. Each side is potted using epoxy with a tube stub that allows fittings to be connected to a gas permeation system.",
+      "text": "Using dip-coating, commercially-available poly(vinylidene fluoride) (PVDF) hollow fibers were first coated with a poly(dimethyl siloxane) (PDMS) gutter layer followed by a Pebax\u00ae 2533 selective layer. Four of these fibers were aligned within the module with the aid of 3D-printed buttons. Each side is potted using epoxy with a tube stub that allows fittings to be connected to a gas permeation system."
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 158.76,
+            "t": 372.664,
+            "r": 200.772,
+            "b": 356.51929281767957,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            4
+          ]
+        }
+      ],
+      "orig": "Feed",
+      "text": "Feed"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 313.26,
+            "t": 394.7840000000001,
+            "r": 395.304,
+            "b": 378.6392928176797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            9
+          ]
+        }
+      ],
+      "orig": "Retentate",
+      "text": "Retentate"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 158.76,
+            "t": 252.2840000000001,
+            "r": 239.83200000000005,
+            "b": 236.1392928176797,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            8
+          ]
+        }
+      ],
+      "orig": "Permeate",
+      "text": "Permeate"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 563.14,
+            "t": 526.664,
+            "r": 897.154,
+            "b": 424.6096385542169,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            194
+          ]
+        }
+      ],
+      "orig": "Pure gas or mixed gas (14/86% CO 2 /N 2 , 30/70% CO 2 /N 2 ) were introduced into the shell side at pressures up to 2.3 bar absolute. The bore side is under vacuum (0.2 bar absolute) on one end.",
+      "text": "Pure gas or mixed gas (14/86% CO 2 /N 2 , 30/70% CO 2 /N 2 ) were introduced into the shell side at pressures up to 2.3 bar absolute. The bore side is under vacuum (0.2 bar absolute) on one end."
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 563.14,
+            "t": 397.06399999999985,
+            "r": 882.9279999999998,
+            "b": 316.6096385542169,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            115
+          ]
+        }
+      ],
+      "orig": "A mass spectrometer measures gas composition of the permeate. Retentate composition was estimated via mass balance.",
+      "text": "A mass spectrometer measures gas composition of the permeate. Retentate composition was estimated via mass balance."
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 28.02,
+            "t": 191.31500000000005,
+            "r": 917.0949000000006,
+            "b": 122.30620278330025,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            975
+          ]
+        }
+      ],
+      "orig": "This project was funded by the United States Department of Energy, National Energy Technology Laboratory, in part, through a site support contract. Neither the United States Government nor any agency thereof, nor any of their employees, nor the support contractor, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.  Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof.",
+      "text": "This project was funded by the United States Department of Energy, National Energy Technology Laboratory, in part, through a site support contract. Neither the United States Government nor any agency thereof, nor any of their employees, nor the support contractor, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.  Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof."
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 903.0,
+            "t": 2002.23696,
+            "r": 1292.0836800000002,
+            "b": 1983.7090987951806,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            40
+          ]
+        }
+      ],
+      "orig": "2 NETL Support Contractor, Pittsburgh PA",
+      "text": "2 NETL Support Contractor, Pittsburgh PA"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 903.0,
+            "t": 1976.37696,
+            "r": 1309.9458,
+            "b": 1957.8490987951807,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            43
+          ]
+        }
+      ],
+      "orig": "4 Carnegie Mellon University, Pittsburgh PA",
+      "text": "4 Carnegie Mellon University, Pittsburgh PA"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 980.94,
+            "t": 1892.69856,
+            "r": 1402.7511000000002,
+            "b": 1855.2846361445784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            20
+          ]
+        }
+      ],
+      "orig": "Experimental Results",
+      "text": "Experimental Results",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1032.66,
+            "t": 1490.0374399999998,
+            "r": 1538.9456999999968,
+            "b": 1477.8792192771084,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            80
+          ]
+        }
+      ],
+      "orig": "Data shown for experiments at highest feed flowrate introduced at each pressure.",
+      "text": "Data shown for experiments at highest feed flowrate introduced at each pressure."
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 997.52,
+            "t": 1447.304,
+            "r": 1825.8280000000002,
+            "b": 1345.2496385542167,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            488
+          ]
+        }
+      ],
+      "orig": "The expected pure CO 2 permeance is 200 GPU with CO 2 /N 2 selectivity of 25. The module shows instead 500 GPU with CO 2 /N 2 around 8.3, suggesting the presence of defects. The apparent CO 2 permeance (calculated by log-mean) is reduced further with the mixed gas feed introduction. The N 2 permeance, on the other hand, is not affected much by the mixed gas feed. Unlike CO 2 , N 2 driving force remained high because the partial pressure remains high (and increasing) in the retentate.",
+      "text": "The expected pure CO 2 permeance is 200 GPU with CO 2 /N 2 selectivity of 25. The module shows instead 500 GPU with CO 2 /N 2 around 8.3, suggesting the presence of defects. The apparent CO 2 permeance (calculated by log-mean) is reduced further with the mixed gas feed introduction. The N 2 permeance, on the other hand, is not affected much by the mixed gas feed. Unlike CO 2 , N 2 driving force remained high because the partial pressure remains high (and increasing) in the retentate."
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 997.52,
+            "t": 1001.1840000000002,
+            "r": 1809.8780000000027,
+            "b": 917.1197590361446,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            379
+          ]
+        }
+      ],
+      "orig": "As the feed velocity decreases, the apparent CO 2 permeance decreases. (The N 2 permeance remains virtually constant in all these experiments.) In one extreme case, reducing the feed flowrate to 25 sccm splits the retentate and permeate evenly, and apparent CO 2 permeance plunged to 240 GPU. Not surprisingly, the product CO 2 purity was thus strongly affected by feed flowrate.",
+      "text": "As the feed velocity decreases, the apparent CO 2 permeance decreases. (The N 2 permeance remains virtually constant in all these experiments.) In one extreme case, reducing the feed flowrate to 25 sccm splits the retentate and permeate evenly, and apparent CO 2 permeance plunged to 240 GPU. Not surprisingly, the product CO 2 purity was thus strongly affected by feed flowrate."
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 980.94,
+            "t": 550.53856,
+            "r": 1473.64806,
+            "b": 513.1246361445783,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            23
+          ]
+        }
+      ],
+      "orig": "CFD Model Visualization",
+      "text": "CFD Model Visualization",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/pictures/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1022.4,
+            "t": 217.9974400000001,
+            "r": 1702.1215799999973,
+            "b": 205.83921927710844,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            112
+          ]
+        }
+      ],
+      "orig": "Inlet velocity corresponds to  feed flowrate of 105 sccm and 21 sccm, respectively, with feed pressure of 2 atm.",
+      "text": "Inlet velocity corresponds to  feed flowrate of 105 sccm and 21 sccm, respectively, with feed pressure of 2 atm."
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 985.28,
+            "t": 188.0239999999999,
+            "r": 1847.408000000002,
+            "b": 129.16963855421682,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            318
+          ]
+        }
+      ],
+      "orig": "These models illustrate the shell-side CO 2 mole fraction at the highest and lowest flowrates, respectively. The lowest flowrate has insufficient velocity to attain uniform axial flow distribution around the inlet. Even at highest flowrate, stagnant flow zones are apparent between the inlet/outlet ports and end caps.",
+      "text": "These models illustrate the shell-side CO 2 mole fraction at the highest and lowest flowrates, respectively. The lowest flowrate has insufficient velocity to attain uniform axial flow distribution around the inlet. Even at highest flowrate, stagnant flow zones are apparent between the inlet/outlet ports and end caps."
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2179.9,
+            "t": 2082.005,
+            "r": 2466.6365800000003,
+            "b": 2018.080874751491,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            28
+          ]
+        }
+      ],
+      "orig": "Research & Innovation Center",
+      "text": "Research & Innovation Center"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1927.16,
+            "t": 1594.684,
+            "r": 2770.9419999999996,
+            "b": 1535.829638554217,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            298
+          ]
+        }
+      ],
+      "orig": "The model shows clearly the reductions in streamlines due to gas permeation to the permeate side and illustrates how the gas flows around the four fibers. The fibers'  lumen side are much narrower and the gas velocity is much higher.  Pressure drop is observed in both the model and experimentally.",
+      "text": "The model shows clearly the reductions in streamlines due to gas permeation to the permeate side and illustrates how the gas flows around the four fibers. The fibers'  lumen side are much narrower and the gas velocity is much higher.  Pressure drop is observed in both the model and experimentally."
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1929.84,
+            "t": 1004.95856,
+            "r": 2443.197660000001,
+            "b": 967.5446361445784,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            22
+          ]
+        }
+      ],
+      "orig": "Performance Comparison",
+      "text": "Performance Comparison",
+      "level": 1
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1928.54,
+            "t": 615.5039999999999,
+            "r": 2798.3000000000015,
+            "b": 553.0597590361444,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            259
+          ]
+        }
+      ],
+      "orig": "The CO 2 permeate purity correlation with stage cut for a particular pressure was compared between the CFD models and experimental results. The experiments were showing much lower purity than expected for a given stage cut, particularly for the 30% CO 2 feed.",
+      "text": "The CO 2 permeate purity correlation with stage cut for a particular pressure was compared between the CFD models and experimental results. The experiments were showing much lower purity than expected for a given stage cut, particularly for the 30% CO 2 feed."
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1934.16,
+            "t": 203.144,
+            "r": 2794.955999999998,
+            "b": 122.6896385542168,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            364
+          ]
+        }
+      ],
+      "orig": "However, the model above assumes CO 2 permeance 500 GPU / 8.3 selectivity uniformly. We had expected 100-200 GPU / 25 selectivity for defect-free membranes. Adjusting the membrane permeance to 220-300 GPU gives much better agreement with experimental results. It suggests that CFD model can also be used to check the defect density of a particular membrane bundle.",
+      "text": "However, the model above assumes CO 2 permeance 500 GPU / 8.3 selectivity uniformly. We had expected 100-200 GPU / 25 selectivity for defect-free membranes. Adjusting the membrane permeance to 220-300 GPU gives much better agreement with experimental results. It suggests that CFD model can also be used to check the defect density of a particular membrane bundle."
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2084.24,
+            "t": 67.82000000000016,
+            "r": 2830.051999999998,
+            "b": 35.237495029821275,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            41
+          ]
+        }
+      ],
+      "orig": "Science & Engineering To Power Our Future",
+      "text": "Science & Engineering To Power Our Future"
+    }
+  ],
+  "pictures": [
+    {
+      "self_ref": "#/pictures/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 138.8716278076172,
+            "t": 1808.5766296386719,
+            "r": 794.95068359375,
+            "b": 1600.0761108398438,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 220.1056365966797,
+            "t": 1182.6903686523438,
+            "r": 736.5139770507812,
+            "b": 996.502685546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 43.14115524291992,
+            "t": 974.7965087890625,
+            "r": 271.798095703125,
+            "b": 580.1103515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 446.4519348144531,
+            "t": 681.05908203125,
+            "r": 706.1035766601562,
+            "b": 553.716552734375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 40.35254669189453,
+            "t": 536.204833984375,
+            "r": 546.5470581054688,
+            "b": 211.3533935546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 56.76609802246094,
+            "t": 104.279052734375,
+            "r": 423.8251647949219,
+            "b": 9.83642578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 999.6035766601562,
+            "t": 1808.0690002441406,
+            "r": 1375.138427734375,
+            "b": 1501.1212158203125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1434.069091796875,
+            "t": 1807.1531372070312,
+            "r": 1807.5396728515625,
+            "b": 1505.8474731445312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1002.9375,
+            "t": 1319.2174682617188,
+            "r": 1370.5760498046875,
+            "b": 1016.6612548828125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1441.5828857421875,
+            "t": 1319.7344970703125,
+            "r": 1806.380126953125,
+            "b": 1020.0421142578125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1003.7525634765625,
+            "t": 892.585205078125,
+            "r": 1371.616943359375,
+            "b": 591.548095703125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1448.4556884765625,
+            "t": 896.5054931640625,
+            "r": 1816.701904296875,
+            "b": 595.520751953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/12",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1600.9268798828125,
+            "t": 586.3841552734375,
+            "r": 1848.5137939453125,
+            "b": 499.7694091796875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/13",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 968.7586059570312,
+            "t": 471.2904052734375,
+            "r": 1402.029541015625,
+            "b": 238.5802001953125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/14",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1422.22119140625,
+            "t": 470.755859375,
+            "r": 1864.2489013671875,
+            "b": 234.1922607421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/15",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2490.24365234375,
+            "t": 2125.813995361328,
+            "r": 2839.696044921875,
+            "b": 1986.5836334228516,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/16",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1933.9039306640625,
+            "t": 1904.6886138916016,
+            "r": 2321.603271484375,
+            "b": 1612.1900634765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/17",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2369.941650390625,
+            "t": 1877.8809204101562,
+            "r": 2804.247802734375,
+            "b": 1638.7449340820312,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1920.129638671875,
+            "t": 1523.6146240234375,
+            "r": 2349.888671875,
+            "b": 1299.4869384765625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/19",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2375.039794921875,
+            "t": 1524.2722778320312,
+            "r": 2804.730224609375,
+            "b": 1296.9595947265625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/20",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1919.3382568359375,
+            "t": 1279.4559936523438,
+            "r": 2348.03369140625,
+            "b": 1049.016357421875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/21",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2370.7978515625,
+            "t": 1279.3319702148438,
+            "r": 2803.724365234375,
+            "b": 1045.2962646484375,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/22",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1937.01123046875,
+            "t": 935.74365234375,
+            "r": 2306.654541015625,
+            "b": 630.603515625,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/23",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2400.607177734375,
+            "t": 933.460693359375,
+            "r": 2766.910400390625,
+            "b": 630.434814453125,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/24",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1931.9361572265625,
+            "t": 534.9622802734375,
+            "r": 2311.23291015625,
+            "b": 226.877685546875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    },
+    {
+      "self_ref": "#/pictures/25",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "picture",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 2396.157470703125,
+            "t": 533.350341796875,
+            "r": 2774.37841796875,
+            "b": 223.0467529296875,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "captions": [],
+      "references": [],
+      "footnotes": [],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 2880.0,
+        "height": 2160.0
+      },
+      "page_no": 1
+    }
+  }
+}

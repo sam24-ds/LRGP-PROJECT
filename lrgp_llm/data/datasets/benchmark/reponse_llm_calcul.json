@@ -1,0 +1,155 @@
+[
+  {
+    "question": "Un procédé de perméation gazeuse mono-étagé (single stage) est utilisé pour générer un gaz riche en CH4 à partir de biogaz, mais comme indiqué dans la littérature, des pertes significatives de CH4 sont observées. Si le procédé traite 1000 Nm3/h de biogaz brut contenant 60% de CH4 et 40% de CO2, et que le gaz produit (rétentat) a un débit de 500 Nm3/h avec une pureté en CH4 de 95%, calculer le débit de CH4 perdu dans le perméat (en Nm3/h) et le pourcentage de perte de CH4 par rapport à la quantité initiale.",
+    "answer": "Débit de CH4 entrant = 1000 * 0,60 = 600 Nm3/h. Débit de CH4 dans le produit (rétentat) = 500 * 0,95 = 475 Nm3/h. Le débit de CH4 perdu dans le perméat est donc 600 - 475 = 125 Nm3/h. Le pourcentage de perte de CH4 est (125 / 600) * 100 = 20,83 %.",
+    "type": "CALCUL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Une unité de purification de gaz naturel vise à éliminer le CO2 pour atteindre la norme de 98 % massique en CH4, profitant du fait que le CH4 est le composé 'lent'. Le flux d'alimentation sous pression est de 5000 kg/h avec 90% de CH4 et 10% de CO2. Le rétentat obtenu atteint exactement 98% massique de CH4. En supposant que le débit de perte de CH4 dans le perméat est de 50 kg/h, quel est le débit total du rétentat (en kg/h) et quel est le débit de CO2 éliminé dans le perméat (en kg/h) ?",
+    "answer": "Débit de CH4 entrant = 5000 * 0,90 = 4500 kg/h. Débit de CH4 dans le rétentat = 4500 - 50 = 4450 kg/h. Comme le rétentat contient 98% de CH4, le débit total du rétentat = 4450 / 0,98 = 4540,82 kg/h. Le débit de CO2 dans le rétentat = 4540,82 - 4450 = 90,82 kg/h. Le débit de CO2 entrant = 5000 * 0,10 = 500 kg/h. Le CO2 éliminé dans le perméat = 500 - 90,82 = 409,18 kg/h.",
+    "type": "CALCUL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Dans le cadre de l'épuration du biogaz, un procédé membranaire à 3 étages (3-stage membrane process) est modélisé. L'alimentation initiale de 100 mol/s (50% CH4, 50% CO2) entre dans l'étage 1 qui récupère 60% du CH4 total avec 90% de pureté. L'étage 2 récupère 20% du CH4 total avec 80% de pureté. L'étage 3 récupère 10% du CH4 total avec 70% de pureté. Calculez le débit total de CH4 récupéré dans l'ensemble des 3 étages et la concentration molaire globale en CH4 si on mélange ces trois flux.",
+    "answer": "CH4 initial = 50 mol/s. Rétentat 1 : CH4 = 0,60 * 50 = 30 mol/s ; Débit 1 = 30 / 0,90 = 33,33 mol/s. Rétentat 2 : CH4 = 0,20 * 50 = 10 mol/s ; Débit 2 = 10 / 0,80 = 12,50 mol/s. Rétentat 3 : CH4 = 0,10 * 50 = 5 mol/s ; Débit 3 = 5 / 0,70 = 7,14 mol/s. Total CH4 récupéré = 30 + 10 + 5 = 45 mol/s. Débit total récupéré = 33,33 + 12,50 + 7,14 = 52,97 mol/s. Concentration globale = (45 / 52,97) * 100 = 84,95 %.",
+    "type": "CALCUL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N3"
+  },
+  {
+    "question": "En raison du compromis (trade-off) entre perméabilité et sélectivité dicté par le mécanisme de solution-diffusion, une membrane vitreuse présente une perméance au CO2 de 100 GPU et une sélectivité CO2/CH4 de 40 à 25°C. À 50°C, la perméance au CO2 augmente de 20 % tandis que la sélectivité CO2/CH4 diminue de 15 %. Calculer la perméance du CH4 à 25°C et à 50°C (en GPU).",
+    "answer": "À 25°C : Perméance CO2 = 100 GPU ; Sélectivité = Perméance CO2 / Perméance CH4 = 40. Perméance CH4 = 100 / 40 = 2,50 GPU. À 50°C : Perméance CO2 = 100 * 1,20 = 120 GPU. Sélectivité = 40 * (1 - 0,15) = 34. Perméance CH4 = 120 / 34 = 3,53 GPU.",
+    "type": "CALCUL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N2"
+  },
+  {
+    "question": "La sélectivité CO2/CH4 d'une membrane nanocomposite diminue avec la température selon une loi d'Arrhenius : S(T2) = S(T1) * exp[(-ΔE/R) * (1/T2 - 1/T1)], justifiée par une plus faible différence d'énergie d'activation ΔE = E_act(CO2) - E_act(CH4). Si ΔE = -4000 J/mol, R = 8,314 J/(mol K) et la sélectivité à T1 = 300 K est de 50, calculez la sélectivité exacte de cette membrane à T2 = 330 K.",
+    "answer": "Le terme exponentiel est exp[ (-(-4000) / 8,314) * (1/330 - 1/300) ]. (1/330 - 1/300) = 0,0030303 - 0,0033333 = -0,000303 K^-1. -(-4000)/8,314 = +481,116 K. L'exposant est 481,116 * (-0,000303) = -0,1458. S(330) = 50 * exp(-0,1458) = 50 * 0,8643 = 43,21.",
+    "type": "CALCUL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N4"
+  },
+  {
+    "question": "Un contacteur membranaire gaz-liquide est utilisé pour l'absorption sélective du CO2 à partir du CH4. Le flux de gaz brut est de 2000 kmol/h avec 30% molaire de CO2 et 70% de CH4. L'efficacité d'absorption du CO2 est de 90 % et on considère que le CH4 est totalement insoluble dans l'absorbant (0% de perte). Calculez le débit molaire de CO2 absorbé (en kmol/h) et la fraction molaire du CO2 résiduel dans le gaz épuré (en sortie).",
+    "answer": "Débit de CO2 initial = 2000 * 0,30 = 600 kmol/h. Débit de CH4 initial = 2000 * 0,70 = 1400 kmol/h. Débit de CO2 absorbé = 600 * 0,90 = 540 kmol/h. CO2 résiduel dans le gaz = 600 - 540 = 60 kmol/h. CH4 dans le gaz épuré = 1400 kmol/h. Débit total du gaz épuré = 1400 + 60 = 1460 kmol/h. Fraction molaire du CO2 = 60 / 1460 = 0,0411 (soit 4,11 %).",
+    "type": "CALCUL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Une unité de purification membranaire de gaz naturel possède deux étages pour minimiser les pertes. L'alimentation est de 100 mol/s avec 15% de CO2 et 85% de CH4. Le premier étage sépare le gaz en un rétentat R1 contenant 70% de la quantité initiale de CH4 à une pureté de 95%, et un perméat P1. Calculez le débit total (en mol/s) du perméat P1 qui sera envoyé au deuxième étage, ainsi que sa concentration molaire en CH4 (en %).",
+    "answer": "CH4 entrant total = 100 * 0,85 = 85 mol/s. CH4 dans R1 = 0,70 * 85 = 59,5 mol/s. Débit total de R1 = 59,5 / 0,95 = 62,63 mol/s. Par bilan de matière global sur le premier étage : Débit de P1 = Alimentation - R1 = 100 - 62,63 = 37,37 mol/s. La quantité de CH4 dans P1 = CH4 entrant - CH4 dans R1 = 85 - 59,5 = 25,5 mol/s. Concentration de CH4 dans P1 = (25,5 / 37,37) * 100 = 68,24 %.",
+    "type": "CALCUL",
+    "domaine": "CH4_CO2",
+    "difficulté": "N3"
+  },
+
+  
+  {
+    "question": "Dans le cadre de la modélisation d'un contacteur à fibres creuses (Doc 12), l'utilisation à long terme de la MEA entraîne un phénomène de mouillage (wetting) qui réduit le coefficient de transfert de matière global (K_ov). Si le K_ov initial pour des fibres microporeuses hydrophobes est de 2,5 x 10^-3 m/s et que le mouillage partiel augmente la résistance globale au transfert de matière de 40 %, calculez la nouvelle valeur du coefficient de transfert de matière global K_ov_mouillé (en m/s).",
+    "answer": "La résistance initiale est R_init = 1 / K_ov_init = 1 / (2,5 x 10^-3) = 400 s/m. L'augmentation de 40 % donne une nouvelle résistance R_new = 400 * 1,40 = 560 s/m. Le nouveau coefficient est donc K_ov_mouillé = 1 / R_new = 1 / 560 = 1,79 x 10^-3 m/s.",
+    "type": "CALCUL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Des facteurs d'intensification impressionnants sont rapportés pour l'absorption du CO2 par des fibres creuses microporeuses (Doc 12). Si une colonne à garnissage classique présente une aire interfaciale (a) de 250 m2/m3 et qu'un contacteur membranaire en PTFE (Doc 4) permet d'atteindre une aire interfaciale de 1500 m2/m3 avec un coefficient de transfert local (K) 1,2 fois supérieur à celui de la colonne, calculez le facteur d'intensification global défini comme le rapport des capacités volumiques de transfert (K_v = K * a) du contacteur membranaire sur la colonne classique.",
+    "answer": "La capacité volumique de la colonne classique est K_class * 250. Celle du contacteur membranaire est (1,2 * K_class) * 1500 = 1800 * K_class. Le facteur d'intensification est le ratio des deux : 1800 / 250 = 7,2.",
+    "type": "CALCUL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2"
+  },
+  {
+    "question": "La modélisation du flux de masse de CO2 (CO2 mass flux, Doc 4) dans un contacteur membranaire en PTFE indique un flux (J) constant de 1,5 x 10^-3 mol/(m2.s) sous une force motrice globale (différence de concentration) de 0,5 mol/m3. En supposant le régime stationnaire, calculez le coefficient de transfert de matière global (K_ov en m/s) de ce contacteur en utilisant la relation linéaire J = K_ov * Delta_C.",
+    "answer": "En utilisant la relation J = K_ov * Delta_C, on isole K_ov = J / Delta_C. Soit K_ov = (1,5 x 10^-3) / 0,5 = 3,0 x 10^-3 m/s.",
+    "type": "CALCUL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N1"
+  },
+  {
+    "question": "Dindore et al. (2004) ont étudié l'absorption du CO2 à des pressions élevées (elevated pressures, Doc 7). Pour une absorption dans un contacteur à fibres creuses opérant à une pression totale de 15 bar (soit 1500 kPa), la fraction molaire du CO2 dans la phase gaz est de 30 %. En supposant un comportement de gaz parfait et une température opératoire de 300 K (avec R = 8,314 J/(mol.K)), calculez la concentration de CO2 dans la phase gazeuse (en mol/m3) disponible pour le transfert interfaciel.",
+    "answer": "La pression partielle de CO2 est P_CO2 = 0,30 * 1500 kPa = 450 kPa = 450 000 Pa. En appliquant la loi des gaz parfaits (C = P/RT), la concentration est C_g = 450 000 / (8,314 * 300) = 450 000 / 2494,2 = 180,4 mol/m3.",
+    "type": "CALCUL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Une étude évalue le potentiel de l'ammoniaque face à la MEA (Doc 12) pour l'absorption du CO2. Le taux de charge (CO2 loading) d'une solution de MEA à 30 % massique (masse molaire MEA = 61 g/mol, densité de la solution = 1000 kg/m3) est de 0,4 mol CO2 / mol amine. Si une solution d'ammoniaque (masse molaire NH3 = 17 g/mol) à 10 % massique (densité estimée à 950 kg/m3) atteint un taux de charge de 0,5 mol CO2 / mol amine, calculez les concentrations volumiques de CO2 absorbé (en mol CO2 / L de solution) pour les deux solvants et indiquez la différence de capacité volumique en faveur du meilleur solvant.",
+    "answer": "Pour la MEA : Concentration d'amine = (300 g/L) / 61 g/mol = 4,918 mol/L. Concentration CO2 = 4,918 * 0,4 = 1,967 mol CO2/L. Pour l'ammoniaque : Concentration d'amine = (95 g/L) / 17 g/mol = 5,588 mol/L. Concentration CO2 = 5,588 * 0,5 = 2,794 mol CO2/L. La différence est de 2,794 - 1,967 = 0,827 mol CO2/L en faveur de l'ammoniaque.",
+    "type": "CALCUL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N4"
+  },
+  {
+    "question": "Dans la simulation d'un système couplé absorption/stripping (désorption) (Doc 3 et 6), le débit total de CO2 absorbé dans le contacteur à fibres creuses principal est de 500 mol/h. Lors de l'étape de stripping (stripping step), l'efficacité de désorption limite la récupération. Si 85 % du CO2 préalablement absorbé est effectivement désorbé et récupéré en phase gaz, et que l'aire membranaire dédiée au module de désorption est de 20 m2, calculez le flux molaire moyen de CO2 désorbé (en mol/(m2.h)).",
+    "answer": "La quantité de CO2 désorbée est de 500 mol/h * 0,85 = 425 mol/h. Le flux molaire moyen rapporté à l'aire membranaire est donc Flux = 425 mol/h / 20 m2 = 21,25 mol/(m2.h).",
+    "type": "CALCUL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2"
+  },
+  {
+    "question": "Makhloufi (Doc 12) rapporte que le mouillage (wetting) des membranes microporeuses se produit lors d'une utilisation à long terme. Soit une fibre creuse hydrophobe dont la progression du mouillage ajoute une résistance au transfert de matière de façon linéaire avec le temps. Si après 1000 heures de fonctionnement, la résistance additionnelle mesurée due au mouillage est de 50 s/m, calculez la résistance totale au transfert de matière (en s/m) après 4000 heures de fonctionnement continu, en sachant que la résistance initiale de la membrane non mouillée et des phases fluides était de 300 s/m.",
+    "answer": "Le taux d'augmentation de la résistance due au mouillage est de 50 s/m pour 1000 h, soit 0,05 s/(m.h). Après 4000 heures, la résistance additionnelle est de 4000 * 0,05 = 200 s/m. La résistance totale est donc la somme de la résistance initiale et de la résistance due au mouillage : R_totale = 300 + 200 = 500 s/m.",
+    "type": "CALCUL",
+    "domaine": "contacteurs_fibres",
+    "difficulté": "N2"
+  },
+
+  {
+    "question": "Selon l'approche des résistances en série pour un contacteur membranaire à fibres creuses (Doc 5), la résistance globale au transfert de matière s'exprime par 1/K. Si la résistance locale de la phase liquide est de 3000 s/m et la résistance de la membrane est de 2000 s/m (en négligeant la résistance de la phase gazeuse), calculez le coefficient global de transfert de matière K en m/s (unité selon les documents 11 et 12).",
+    "answer": "La résistance globale (1/K) est la somme des résistances locales : 1/K = 3000 + 2000 = 5000 s/m. Le coefficient global K est donc 1 / 5000 = 2.10^-4 m/s.",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2"
+  },
+  
+  {
+    "question": "Dans les 3700 études de simulation de contacteurs membranaires mentionnées par Favre & Svendsen (Doc 8 et 9), le taux de capture de CO2 est fixé à 90 %. Si l'on applique ce ratio de capture à un flux d'alimentation contenant 150 mol/h de CO2, calculez le débit de CO2 capté (en mol/h) et le débit de CO2 résiduel non capté (en mol/h).",
+    "answer": "Le débit de CO2 capté est 150 * 0,90 = 135 mol/h. Le débit résiduel est 150 - 135 = 15 mol/h.",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N1"
+  },
+  {
+    "question": "Le document 1 mentionne un 'Coefficient de transfert de matière global rapporté au volume du contacteur', notons-le Kv (souvent exprimé comme K*a). Sachant que le coefficient K s'exprime en m/s (Doc 11), si un contacteur a un coefficient global K = 4.10^-4 m/s et une aire spécifique a = 2500 m2/m3, calculez ce coefficient volumique global de transfert Kv en s^-1.",
+    "answer": "Le coefficient volumique se calcule par Kv = K * a = 4.10^-4 m/s * 2500 m2/m3 = 1 s^-1.",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2"
+  },
+  {
+    "question": "En utilisant l'approche des résistances en série (résistance globale = 1/K) d'un contacteur à fibres creuses (Doc 5), on mesure un coefficient global de transfert de matière K = 1,25.10^-4 m/s. Si la somme des résistances locales de la membrane et de la phase gazeuse est de 3000 s/m, calculez la résistance locale au transfert de matière de la phase liquide en s/m.",
+    "answer": "La résistance globale est 1/K = 1 / (1,25.10^-4) = 8000 s/m. La résistance liquide est la résistance globale moins la somme des autres résistances, soit 8000 - 3000 = 5000 s/m.",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N3"
+  },
+  {
+    "question": "Le coefficient global de transfert de matière (Kov ou K) simplifie l'évaluation des performances du procédé (Doc 6). Si, suite à une modification du solvant, on divise la résistance globale au transfert de matière (1/K) par deux par rapport à un état initial où K valait 5.10^-5 m/s, calculez la nouvelle résistance globale (en s/m) et le nouveau coefficient global K (en m/s).",
+    "answer": "La résistance globale initiale est 1 / (5.10^-5) = 20000 s/m. La nouvelle résistance est divisée par deux, soit 20000 / 2 = 10000 s/m. Le nouveau coefficient K est 1 / 10000 = 1.10^-4 m/s.",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N2"
+  },
+  {
+    "question": "On modélise un contacteur membranaire avec l'approche du coefficient global constant Kov. La résistance globale (1/Kov) est de 2500 s/m. Sous une force motrice de concentration moyenne (ΔC) de 0,1 mol/m3, on souhaite capter 90 % du CO2 entrant (ratio ciblé dans les études du Doc 8). Si le débit d'entrée de CO2 est de 3,6 mol/s, et sachant que le flux de matière est J = Kov * ΔC, calculez l'aire membranaire totale (en m2) nécessaire (Débit capté = J * Aire).",
+    "answer": "Kov = 1 / 2500 = 4.10^-4 m/s. Le flux transféré est J = 4.10^-4 * 0,1 = 4.10^-5 mol/(m2.s). La quantité de CO2 à capter est 3,6 * 0,90 = 3,24 mol/s. L'aire nécessaire est donc A = 3,24 / (4.10^-5) = 81000 m2.",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N4"
+  },
+  {
+    "question": "Une étude de simulation vise un taux de capture de CO2 de 90% (comme défini par Favre & Svendsen, Doc 8). Pour un contacteur dont le coefficient global K = 2.10^-4 m/s et l'aire membranaire est de 450 m2, le débit molaire capté suit la relation : Débit = K * Aire * ΔCmoy. Calculez la force motrice moyenne de concentration (ΔCmoy, en mol/m3) requise dans le contacteur si l'on doit capter exactement 0,45 mol/s de CO2.",
+    "answer": "En utilisant la relation, 0,45 = (2.10^-4) * 450 * ΔCmoy. Cela donne 0,45 = 0,09 * ΔCmoy. On obtient donc ΔCmoy = 0,45 / 0,09 = 5 mol/m3.",
+    "type": "CALCUL",
+    "domaine": "transfert_matière",
+    "difficulté": "N3"
+  }
+
+
+]

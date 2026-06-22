@@ -46,8 +46,8 @@ def ask_srar(question: str) -> dict:
 
 
 if __name__ == "__main__":
-    graph1 = get_graph()
-    print(graph1.draw_mermaid())
+    #graph1 = get_graph()
+    #print(graph1.draw_mermaid())
     
     print(f"\n{'═'*60}")
     print(f"  SRAR-GP — Sprint 1 (Squelette routage)")

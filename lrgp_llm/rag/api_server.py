@@ -1,6 +1,6 @@
 """
 api_server.py
-Expose chain.py (V4 simple) et SRAR-GP (architecture multi-agents)
+Expose chain.py (V4 simple) et PRISME (architecture multi-agents)
 comme API OpenAI-compatible pour Open WebUI.
 
 Usage : python rag/api_server.py
@@ -11,8 +11,8 @@ Open WebUI → Settings → Connections → OpenAI API
 
 Modèles exposés :
   - "lrgp-rag"        → V4 fine-tuné + RAG (rapide, ~12s)
-  - "srar-gp"         → Architecture multi-agents complète (5-180s selon voie)
-  - "srar-gp-verbose" → SRAR-GP avec parcours détaillé des agents
+  - "prisme"         → Architecture multi-agents complète (5-180s selon voie)
+  - "prisme-verbose" → PRISME avec parcours détaillé des agents
 """
 
 import json
@@ -33,7 +33,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from rag.chain import LRGPChain
 from srar_gp.main import ask_srar
 
-app = FastAPI(title="LRGP RAG + SRAR-GP API")
+app = FastAPI(title="LRGP RAG + PRISME API")
 
 app.add_middleware(
     CORSMiddleware,
@@ -63,8 +63,8 @@ chain = LRGPChain(
 )
 print("✓")
 
-# SRAR-GP : pré-chargement du graphe pour éviter latence au premier appel
-print("[2/2] Pré-chargement du graphe SRAR-GP...", end=" ", flush=True)
+# PRISME : pré-chargement du graphe pour éviter latence au premier appel
+print("[2/2] Pré-chargement du graphe PRISME...", end=" ", flush=True)
 try:
     from srar_gp.graph import get_graph
     _ = get_graph()
@@ -85,7 +85,7 @@ class Message(BaseModel):
     content: str
 
 class ChatRequest(BaseModel):
-    model: str = "srar-gp"
+    model: str = "prisme"
     messages: list[Message]
     stream: bool = False
     temperature: float = 0.1
@@ -109,13 +109,13 @@ def list_models():
                 "owned_by": "LRGP Nancy",
             },
             {
-                "id":       "srar-gp",
+                "id":       "prisme",
                 "object":   "model",
                 "created":  created,
                 "owned_by": "LRGP Nancy",
             },
             {
-                "id":       "srar-gp-verbose",
+                "id":       "prisme-verbose",
                 "object":   "model",
                 "created":  created,
                 "owned_by": "LRGP Nancy",
@@ -149,7 +149,7 @@ def chat_completions(request: ChatRequest):
     print(f"[API] Question : {question[:120]}")
     print(f"{'='*60}")
     
-    if "srar" in model_id or "agentic" in model_id:
+    if "prisme" in model_id or "agentic" in model_id:
         return _handle_srar_gp(
             question, model_id, 
             stream=request.stream,
@@ -240,8 +240,8 @@ def _handle_srar_gp(question: str, model_id: str, stream: bool, verbose: bool):
     try:
         result = ask_srar(question)
     except Exception as e:
-        print(f"[API] ✗ Erreur SRAR-GP : {e}")
-        raise HTTPException(status_code=500, detail=f"Erreur SRAR-GP : {e}")
+        print(f"[API] ✗ Erreur PRISME : {e}")
+        raise HTTPException(status_code=500, detail=f"Erreur PRISME : {e}")
     
     contenu = result.get("reponse_finale", "")
     parcours = result.get("agents_actives", [])
@@ -253,7 +253,7 @@ def _handle_srar_gp(question: str, model_id: str, stream: bool, verbose: bool):
     
     # ── Mode verbose : ajouter le parcours en footer ──
     if verbose:
-        parcours_text = "\n\n---\n🔍 **Parcours SRAR-GP** :\n"
+        parcours_text = "\n\n---\n🔍 **Parcours PRISME** :\n"
         parcours_text += f"- **Voie** : {voie}\n"
         parcours_text += f"- **Agents traversés** : {' → '.join(parcours)}\n"
         
@@ -351,9 +351,9 @@ def _format_response(contenu: str, model_id: str, question: str, stream: bool):
 def health():
     return {
         "status": "ok",
-        "models": ["lrgp-rag", "srar-gp", "srar-gp-verbose"],
+        "models": ["lrgp-rag", "prisme", "prisme-verbose"],
         "rag": True,
-        "srar_gp": True,
+        "prisme": True,
     }
 
 

@@ -285,3 +285,83 @@ Quatre rôles (Director, Engineer, Grader, Validator) partagent la **même insta
 `srar_gp/` est le point de convergence de tout le projet. Il réutilise le retriever (`rag/`), le modèle fine-tuné (`training/`), la base vectorielle (`ingestion/`), et il est évalué par le harnais (`evaluation/`). C'est l'incarnation du principe directeur du rapport — l'asymétrie cognitive — et de son résultat principal : une architecture qui n'est pas la plus brillante sur chaque question isolée, mais la plus **fiable épistémiquement**, capable de signaler ses limites (données manquantes, validation échouée, échec après N tentatives) plutôt que d'inventer.
 
 C'est aussi le module le plus directement « vivant » : c'est lui qui tourne derrière le modèle `srar-gp` exposé à Open WebUI, et c'est son comportement (voies empruntées, boucles déclenchées) que le benchmark mesure.
+
+
+
+## Correctifs de robustesse des agents revision 22/06/2026
+
+Trois correctifs ont été apportés aux prompts de validation et de modélisation,
+en réponse à des biais classiques des LLM observés en conditions réelles. Ils
+ne changent pas l'architecture, mais fiabilisent fortement les agents Validator
+et Process Engineer.
+
+### 1. Préservation des données utilisateur (Validator)
+
+**Symptôme.** Sur un calcul de perméabilité d'une membrane PDMS, le système
+calculait correctement mais obtenait un résultat éloigné de l'intuition
+physique du LLM. Le Validator rejetait alors systématiquement le résultat ;
+sous la pression de produire une valeur « acceptable », le Process Engineer
+finissait par modifier discrètement les données d'entrée de l'utilisateur (par
+exemple en changeant le flux) pour bidouiller le résultat final.
+
+**Correctif.** Une règle d'or impose désormais la primauté des mathématiques
+sur les croyances physiques du Validator : si le calcul est juste au regard des
+données fournies, il DOIT valider, quitte à émettre des réserves dans sa
+synthèse textuelle. Les données d'entrée de l'utilisateur ne sont jamais
+modifiées.
+
+**Résultat.** Le système valide le calcul sans altérer les données d'entrée.
+
+### 2. Vérification prioritaire des conversions d'unités (Validator)
+
+**Symptôme.** Sur un calcul d'énergie de captage du CO₂, une simple erreur de
+conversion (division par 3,6×10⁹ au lieu de 3,6×10⁶ pour obtenir des kWh)
+donnait 0,26 kWh/tonne au lieu de ~263. Le Validator détectait l'incohérence
+physique mais accusait le modèle théorique plutôt que la conversion,
+déclenchant une boucle infinie où les agents échangeaient des théories de plus
+en plus complexes tout en conservant l'erreur de conversion triviale.
+
+**Correctif.** Une directive ajoutée à l'Étape 1 du prompt du Validator
+l'oblige à vérifier rigoureusement les facteurs de conversion d'unités avant de
+remettre en cause la physique du Blueprint.
+
+### 3. Approche macroscopique et bridage JSON (Process Engineer / Validator)
+
+**Symptôme.** Le Process Engineer produisait des Blueprints verbeux et exigeait
+du Calculation Expert la résolution de systèmes différentiels complexes (ODEs,
+matrices NumPy) pour de simples calculs d'énergie. Cela provoquait des
+troncatures côté serveur et des plantages de code, que le Validator imputait à
+tort au codeur ou au modèle physique — relançant des boucles de correction qui
+saturaient la mémoire.
+
+**Correctif.** Passage en JSON strict pour brider la verbosité (éliminant la
+troncature) et règle d'approche macroscopique imposant des modèles algébriques
+simples et découplés pour les énergies minimales.
+
+**Résultat.** Temps de réponse divisés par ~3, code Python généré sans bug,
+résultat thermodynamique fiable.
+
+### Fil conducteur
+
+Ces trois correctifs adressent deux biais récurrents des LLM :
+
+1. **Modifier les données pour plaire à l'évaluateur** — corrigé par la
+   préservation des données utilisateur.
+2. **Chercher des erreurs intellectuellement complexes plutôt que vérifier les
+   détails triviaux** (les divisions par 1000) — corrigé par la directive sur
+   les conversions d'unités.
+
+### Perspective : Validator connecté au RAG / recherche web (V2)
+
+Doter le Validator de ses propres outils de fact-checking, suivant les
+architectures *Actor-Critic* de l'état de l'art. Aujourd'hui, le Validator juge
+la plausibilité physique d'un résultat à partir de ses poids internes, qui
+peuvent le tromper sur un procédé novateur ou spécifique. Avec un accès au RAG
+LRGP (et au web), il pourrait vérifier un résultat contre la littérature et
+valider avec une certitude documentée, citations à l'appui.
+
+**Garde-fou impératif.** La préservation des données utilisateur doit être
+maintenue : si l'utilisateur impose une sélectivité α = 40 et que la
+littérature trouvée indique 20, le Validator ne doit pas rejeter le calcul. Il
+valide le calcul mathématique en ajoutant une note signalant l'écart
+(« la valeur imposée de 40 dépasse l'état de l'art trouvé, qui est de 20 »).

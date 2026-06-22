@@ -9,7 +9,7 @@ from srar_gp.state import SRARState
 from srar_gp.prompts.coder_prompts import PROMPT_CODE, PROMPT_CODE_FIX
 from srar_gp.tools.python_repl import execute_python
 
-CODER_MODEL = "deepseek-coder:6.7b"
+CODER_MODEL = "deepseek-coder-v2:16b" #deepseek-coder:6.7b"
 MAX_FIX_ATTEMPTS = 3
 
 
@@ -91,15 +91,12 @@ def generer_et_executer_code(state: SRARState) -> SRARState:
             "role": "user",
             "content": PROMPT_CODE.format(blueprint=state["blueprint"])
         }],
+
         
-        options={"temperature": 0.1, "num_predict": 1500,
-                 "stop": [
-            "```\n\n",              # stop après bloc code complet
-            "<｜begin",              # ← stop si DeepSeek génère son token
-            "<|begin",              # variante
-            "</s>",                 # stop générique
-            ]},
+        options={"temperature": 0.0, "num_predict": 4000, "num_ctx": 16384},
     )
+
+    #print(f"blueprint envoyer au model : {state['blueprint']}") #debogage
     
     code = extraire_code(response.message.content)
     print(f"  │  → Code généré ({len(code)} chars)")
@@ -115,7 +112,7 @@ def generer_et_executer_code(state: SRARState) -> SRARState:
         
         if result.success and stdout.strip():
             print(f"  │  ✓ Code exécuté avec succès")
-            print(f"  │  → stdout : {stdout[:150]}")
+            print(f"  │  → stdout : {stdout[:500]}")
             return {
                 "code_python": code,
                 "resultat_numerique": stdout.strip(),
@@ -126,7 +123,7 @@ def generer_et_executer_code(state: SRARState) -> SRARState:
         # Erreur ou stdout vide
         err_msg = stderr[:500] if stderr else "Pas de stderr — stdout vide"
         errors.append(err_msg)
-        print(f"  │  ✗ Erreur : {err_msg[:100]}")
+        print(f"  │  ✗ Erreur : {err_msg[:500]}")
         
         if tentative < MAX_FIX_ATTEMPTS - 1:
             print(f"  │  → Demande de correction...")
@@ -139,7 +136,8 @@ def generer_et_executer_code(state: SRARState) -> SRARState:
                         erreur=err_msg,
                     )
                 }],
-                options={"temperature": 0.1, "num_predict": 1500},
+                options={"temperature": 0.1, "num_predict": 10000},
+                think=False,
             )
             code = extraire_code(response.message.content)
     

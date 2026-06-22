@@ -17,8 +17,10 @@ RÈGLES STRICTES :
 1. Écris UN SEUL bloc de code Python complet et autonome.
 2. Utilise UNIQUEMENT : numpy, scipy.optimize, scipy.integrate, math
 3. Le code doit :
+   - Importer les bibliothèques nécessaires
    - Définir toutes les constantes en début de script
-   - Implémenter les équations du Blueprint exactement
+   - Implémenter les équations du Blueprint exactement, correctement, et de manière rigoureuse
+   - Etre très rigoureux dans l'implementation correcte de la formule physique dans le code Python 
    - Afficher le résultat final via print() avec unités
    - Inclure des commentaires français pour chaque étape
 

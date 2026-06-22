@@ -3,6 +3,7 @@ document_grader.py
 Évalue la pertinence des sources RAG (Boucle 1 — Self-Reflection).
 """
 import json
+import re
 import ollama
 from srar_gp.state import SRARState
 
@@ -51,6 +52,7 @@ def grader_documents(state: SRARState) -> SRARState:
             "agents_actives": ["doc_grader_no_sources"],
         }
     
+    contenu = ""  # Initialisation pour pouvoir l'afficher dans le bloc except
     try:
         response = ollama.chat(
             model=GRADER_MODEL,
@@ -67,7 +69,24 @@ def grader_documents(state: SRARState) -> SRARState:
             keep_alive="5m",
         )
         
-        data = json.loads(response.message.content)
+        contenu = response.message.content.strip()
+        
+        # ─── NETTOYAGE DU TEXTE POUR ÉVITER LES ERREURS JSON ───
+        # 1. Retirer les balises <think> (si le modèle "réfléchit" malgré think=False)
+        contenu = re.sub(r"<think>.*?</think>", "", contenu, flags=re.DOTALL).strip()
+        
+        # 2. Retirer les balises Markdown (ex: ```json ... ```)
+        if "```" in contenu:
+            match = re.search(r"```(?:json)?(.*?)```", contenu, re.DOTALL)
+            if match:
+                contenu = match.group(1).strip()
+                
+        # 3. Sécurité contre les réponses vides (qui causent "Expecting value: char 0")
+        if not contenu:
+            raise ValueError("Le modèle a renvoyé une chaîne vide.")
+        # ───────────────────────────────────────────────────────
+        
+        data = json.loads(contenu)
         pertinent = bool(data.get("pertinent", False))
         raison = data.get("raison", "")
         manque = data.get("manque", "")
@@ -82,9 +101,19 @@ def grader_documents(state: SRARState) -> SRARState:
             "agents_actives": [f"doc_grader_{'ok' if pertinent else 'fail'}"],
         }
     
-    except Exception as e:
-        print(f"  │  ⚠ Erreur Grader : {str(e)[:100]} — considère pertinent par défaut")
+    except json.JSONDecodeError as e:
+        print(f"  │  ⚠ Erreur Parsing JSON : {str(e)}")
+        print(f"  │  → Texte reçu : {contenu[:100]}...")
+        print(f"  │  → Considéré NON pertinent par sécurité (Web Search déclenchée)")
         return {
-            "document_pertinent": True,
+            "document_pertinent": False,
+            "agents_actives": ["doc_grader_error"],
+        }
+        
+    except Exception as e:
+        print(f"  │  ⚠ Erreur Grader : {str(e)[:100]}")
+        print(f"  │  → Considéré NON pertinent par sécurité (Web Search déclenchée)")
+        return {
+            "document_pertinent": False,
             "agents_actives": ["doc_grader_error"],
         }

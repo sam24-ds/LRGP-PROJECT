@@ -1,14 +1,15 @@
 """
 process_engineer.py
-Process_Engineer — Rédige le Blueprint mathématique.
+Process_Engineer — Rédige le Blueprint mathématique au format JSON.
 Modèle : Qwen 3.5 27B.
 """
 import ollama
+import json
+import re
 from srar_gp.state import SRARState
 from srar_gp.prompts.engineer_prompts import PROMPT_BLUEPRINT
 
-ENGINEER_MODEL = "qwen3.5:27b"
-
+ENGINEER_MODEL = "qwen3.5:27b"  # Modèle LLM pour le Process_Engineer
 
 def rediger_blueprint(state: SRARState) -> SRARState:
     print(f"\n  ┌─ [PROCESS_ENGINEER] Rédaction du Blueprint...")
@@ -31,31 +32,40 @@ def rediger_blueprint(state: SRARState) -> SRARState:
                 question=state["question"],
             )
         }],
-        think=False,
-        options={"temperature": 0.1, "num_predict": 3000},
+        think=True,     # <-- DÉSACTIVÉ pour éviter la troncature
+        format="json",   # <-- FORCER LE FORMAT JSON
+        options={
+            "temperature": 0.1, 
+            "num_predict": 10000, 
+            "num_ctx": 16384  # <-- Protège contre la limite de contexte
+        },
     )
     
-    blueprint = response.message.content.strip()
-    print(f"  │  → Blueprint généré ({len(blueprint)} chars)")
+    raw_content = response.message.content.strip()
+    
+    # Nettoyage de sécurité
+    raw_content = re.sub(r"<think>.*?</think>", "", raw_content, flags=re.DOTALL).strip()
+    
+    print(f"  │  → Blueprint généré ({len(raw_content)} chars)")
     
     # ── DEBUG : afficher le Blueprint complet ──
     print(f"\n{'='*70}")
-    print(f"BLUEPRINT COMPLET")
+    print(f"BLUEPRINT JSON COMPLET")
     print(f"{'='*70}")
-    print(blueprint)
+    print(raw_content)
     print(f"{'='*70}\n")
     
-    if not blueprint:
-        print(f"  │  ⚠ Blueprint vide — fallback")
-        blueprint = (
-            f"## DONNÉES\n{state['question']}\n\n"
-            f"## MÉTHODE\nCalcul direct des équations"
-        )
-    
-    missing = [l.strip() for l in blueprint.split("\n") if "MISSING_DATA" in l.upper()]
-    
+    # Extraction des MISSING_DATA
+    missing = []
+    try:
+        data = json.loads(raw_content)
+        manquantes = data.get("donnees_manquantes", [])
+        missing = [d for d in manquantes if "MISSING_DATA" in d]
+    except json.JSONDecodeError:
+        print("  │  ⚠ Erreur de parsing JSON dans le Blueprint.")
+        
     return {
-        "blueprint": blueprint,
+        "blueprint": raw_content,
         "missing_data": missing,
         "agents_actives": ["process_engineer"],
     }

@@ -7,15 +7,14 @@ from rag.chain import LRGPChain
 
 # ── Test avec OpenAI (si tu as une clé) ──────────────────────────
 chain = LRGPChain(
-    llm_backend = "openai",
-    model_name  = "gpt-4o-mini",
+    llm_backend = "ollama",
+    model_name  = "qwen3.5:9b",
     temperature = 0.1,
     verbose     = True,
 )
 
 questions = [
-    "Quelle est la perméabilité du CO2 pour une membrane PDMS ?",
-    "Calcule le flux de CO2 à travers une membrane PDMS d'épaisseur 100 µm avec une pression partielle de 10 kPa.",
+    "Comment estimer l'importance des effets de couplage de flux dans le dimensionnement d'un procédé de séparation de gaz par membranes?",
 ]
 
 for q in questions:

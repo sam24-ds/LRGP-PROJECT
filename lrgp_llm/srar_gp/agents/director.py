@@ -27,7 +27,6 @@ PATTERNS_GENERAL = [
 PATTERNS_CALCUL = [
     r"\bcalcule[zr]?\b",
     r"\bd[ée]termine[zr]?\b",
-    r"\bdimension[a-z]*\b",
     r"\br[ée]sou[ds]?\b",
     r"\bquelle? est la valeur\b",
     r"\btrouve[zr]? la valeur\b",

@@ -11,26 +11,185 @@ Flux :
      ↓
   Prompt (adapté au type)
      ↓
-  LLM (Ollama local ou API cloud)
+  LLM (Ollama local via ollama.chat avec think=False)
      ↓
   Réponse avec sources
+
+⚠ MODIFICATION (bug Qwen 3.5 thinking) :
+ChatOllama ne supporte pas correctement le paramètre `think=False` nécessaire
+pour Qwen 3.5. On utilise donc un wrapper Runnable personnalisé `OllamaThinkRunnable`
+qui appelle ollama.chat directement et nettoie les balises <think> en sortie.
 """
 
 import os
 os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
+import re
 from dataclasses import dataclass, field
-from typing import Optional
+from typing import Optional, Iterator, Any
 
+import ollama
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough, RunnableLambda
+from langchain_core.runnables import Runnable
+from langchain_core.runnables.config import RunnableConfig
+from langchain_core.messages import AIMessage, AIMessageChunk
+from langchain_core.prompt_values import PromptValue
 
 from rag.retriever import LRGPRetriever, RetrievalResult
 from rag.prompts import (
     PROMPT_RAG, PROMPT_CALCUL, PROMPT_NO_CONTEXT,
     PROMPT_ROUTER, choisir_prompt, formater_historique
 )
+
+
+# ══════════════════════════════════════════════════════════════════
+# WRAPPER LANGCHAIN — utilise ollama.chat avec think=False
+# ══════════════════════════════════════════════════════════════════
+class OllamaThinkRunnable(Runnable):
+    """
+    Wrapper Runnable LangChain qui appelle ollama.chat directement.
+    Permet de passer le paramètre `think=False` indispensable pour Qwen 3.5,
+    Qwen 3, DeepSeek-R1 et autres modèles avec mode reasoning.
+
+    Compatible avec LCEL : prompt | llm | StrOutputParser()
+    """
+
+    def __init__(
+        self,
+        model: str,
+        base_url: str = "http://localhost:11434",
+        temperature: float = 0.1,
+        num_predict: int = 2048,
+        think: bool = False,
+        **extra_options: Any,
+    ):
+        self.model = model
+        self.base_url = base_url
+        self.temperature = temperature
+        self.num_predict = num_predict
+        self.think = think
+        self.extra_options = extra_options
+        # Client Ollama configuré une fois
+        self._client = ollama.Client(host=base_url)
+
+    # ── Helpers internes ──────────────────────────────────────────
+    def _normalize_input(self, input_data: Any) -> list[dict]:  
+        """Convertit l'input LCEL en liste de messages format Ollama."""
+        # PromptValue → liste de messages LangChain
+        if isinstance(input_data, PromptValue):
+            lc_messages = input_data.to_messages()
+        elif isinstance(input_data, str):
+            return [{"role": "user", "content": input_data}]
+        elif isinstance(input_data, list):
+            lc_messages = input_data
+        else:
+            # Fallback : sérialiser en str
+            return [{"role": "user", "content": str(input_data)}]
+
+        # Convertir messages LangChain → format Ollama
+        messages = []
+        for m in lc_messages:
+            mtype = getattr(m, "type", "human")
+            if mtype == "system":
+                role = "system"
+            elif mtype == "ai" or mtype == "assistant":
+                role = "assistant"
+            else:
+                role = "user"
+            messages.append({"role": role, "content": m.content})
+        return messages
+
+    def _clean_thinking(self, text: str) -> str:
+        """Supprime les balises <think>...</think> au cas où elles fuiraient."""
+        if not text:
+            return ""
+        # Nettoie les balises <think> complètes
+        text = re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL)
+        # Nettoie les balises <think> non fermées (réponse tronquée)
+        text = re.sub(r"<think>.*", "", text, flags=re.DOTALL)
+        return text.strip()
+
+    def _build_options(self) -> dict:
+        """Construit le dict options pour ollama.chat."""
+        options = {
+            "temperature": self.temperature,
+            "num_predict": self.num_predict,
+        }
+        options.update(self.extra_options)
+        return options
+
+    # ── Interface Runnable (synchrone) ────────────────────────────
+    def invoke(
+        self,
+        input: Any,
+        config: Optional[RunnableConfig] = None,
+        **kwargs: Any,
+    ) -> AIMessage:
+        """Appel synchrone — retourne un AIMessage compatible LCEL."""
+        messages = self._normalize_input(input)
+
+        response = self._client.chat(
+            model=self.model,
+            messages=messages,
+            think=self.think,
+            options=self._build_options(),
+        )
+
+        content = self._clean_thinking(response.message.content)
+        return AIMessage(content=content)
+
+    # ── Interface Runnable (streaming) ────────────────────────────
+    def stream(
+        self,
+        input: Any,
+        config: Optional[RunnableConfig] = None,
+        **kwargs: Any,
+    ) -> Iterator[AIMessageChunk]:
+        """Streaming — yield des AIMessageChunk au fil de l'eau."""
+        messages = self._normalize_input(input)
+
+        stream = self._client.chat(
+            model=self.model,
+            messages=messages,
+            think=self.think,
+            options=self._build_options(),
+            stream=True,
+        )
+
+        # On filtre activement les balises <think> en streaming
+        inside_thinking = False
+        buffer = ""
+
+        for chunk in stream:
+            content = chunk.message.content or ""
+            if not content:
+                continue
+
+            buffer += content
+
+            # Détection d'ouverture <think>
+            if "<think>" in buffer and not inside_thinking:
+                pre, _, rest = buffer.partition("<think>")
+                if pre:
+                    yield AIMessageChunk(content=pre)
+                buffer = rest
+                inside_thinking = True
+
+            # Détection de fermeture </think>
+            if inside_thinking and "</think>" in buffer:
+                _, _, after = buffer.partition("</think>")
+                buffer = after
+                inside_thinking = False
+
+            # Émission de tokens hors think
+            if not inside_thinking and buffer:
+                yield AIMessageChunk(content=buffer)
+                buffer = ""
+
+        # Flush du buffer final s'il reste qch hors thinking
+        if not inside_thinking and buffer:
+            yield AIMessageChunk(content=buffer)
 
 
 # ══════════════════════════════════════════════════════════════════
@@ -67,7 +226,7 @@ class RAGResponse:
 class LRGPChain:
     """
     Chaîne RAG complète pour l'assistant LRGP.
-    Supporte Ollama (local) et API cloud (OpenAI, Anthropic).
+    Supporte Ollama (local, via ollama.chat) et API cloud (OpenAI, Anthropic).
     """
 
     def __init__(
@@ -79,13 +238,13 @@ class LRGPChain:
         top_k_rerank:   int = 5,
         temperature:    float = 0.1,
         verbose:        bool = False,
-        num_predict :   int = 2048
+        num_predict:    int = 2048,
     ):
-        self.llm_backend  = llm_backend
-        self.model_name   = model_name
-        self.temperature  = temperature
-        self.verbose      = verbose
-        self.num_predict  = num_predict
+        self.llm_backend = llm_backend
+        self.model_name  = model_name
+        self.temperature = temperature
+        self.verbose     = verbose
+        self.num_predict = num_predict
 
         # Retriever
         self.retriever = LRGPRetriever(
@@ -94,14 +253,15 @@ class LRGPChain:
             use_reranker=True,
         )
 
-        # LLM
+        # LLM principal (générateur)
         self.llm = self._charger_llm(
-            llm_backend, model_name, ollama_url, temperature,num_predict
+            llm_backend, model_name, ollama_url, temperature, num_predict
         )
 
-        # Router LLM (petit modèle rapide pour classifier)
+        # Router LLM (déterministe, classification rapide)
         self.router_llm = self._charger_llm(
-            llm_backend, model_name, ollama_url, temperature=0.0,num_predict =2048
+            llm_backend, model_name, ollama_url,
+            temperature=0.0, num_predict=128,  # ↓ tokens suffisants pour un mot
         )
 
     def _charger_llm(
@@ -110,17 +270,17 @@ class LRGPChain:
         model:       str,
         ollama_url:  str,
         temperature: float,
-        num_predict: int
+        num_predict: int,
     ):
         """Charge le LLM selon le backend choisi."""
         if backend == "ollama":
-            from langchain_ollama import ChatOllama
-            return ChatOllama(
+            # ✅ NOUVEAU : wrapper qui utilise ollama.chat avec think=False
+            return OllamaThinkRunnable(
                 model=model,
                 base_url=ollama_url,
                 temperature=temperature,
-                num_predict =num_predict,
-                
+                num_predict=num_predict,
+                think=False,
             )
 
         elif backend == "openai":
@@ -128,7 +288,7 @@ class LRGPChain:
             return ChatOpenAI(
                 model=model,
                 temperature=temperature,
-                num_predict=num_predict,
+                max_tokens=num_predict,
                 api_key=os.getenv("OPENAI_API_KEY"),
             )
 
@@ -137,7 +297,7 @@ class LRGPChain:
             return ChatAnthropic(
                 model=model,
                 temperature=temperature,
-                num_predict=num_predict,
+                max_tokens=num_predict,
                 api_key=os.getenv("ANTHROPIC_API_KEY"),
             )
 
@@ -154,7 +314,9 @@ class LRGPChain:
             valides = {"CALCUL", "FACTUEL", "COMPARAISON",
                        "PROCEDURE", "GENERAL"}
             return type_q if type_q in valides else "FACTUEL"
-        except Exception:
+        except Exception as e:
+            if self.verbose:
+                print(f"  ⚠ Router fallback : {e}")
             return "FACTUEL"
 
     # ── Interface principale ──────────────────────────────────────

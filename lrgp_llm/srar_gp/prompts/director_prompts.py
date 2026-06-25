@@ -34,6 +34,7 @@ Questions scientifiques DEMANDANT UNE EXPLICATION (pas un chiffre) :
   • Mécanismes : "explique le mécanisme de sorption-diffusion"
   • Descriptions : "décris les membranes PDMS"
   • PORTANT SUR le génie des procédés / membranes / LRGP
+  * Valeur de reférence connu  
 
 ═══════════════════════════════════════════════════════════════
 CATÉGORIE 4 — COMPARAISON

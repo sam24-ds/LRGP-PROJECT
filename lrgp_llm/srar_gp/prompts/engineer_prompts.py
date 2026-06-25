@@ -26,11 +26,15 @@ QUESTION : {question}
    - Ajoute une instruction conditionnelle en Python pour faire un `print("ATTENTION : Cible physiquement irréalisable en un seul étage")` si la cible dépasse la limite, MAIS le code doit TOUT DE MÊME calculer et afficher l'énergie macroscopique au niveau de python.
 
 
-1. Interdiction d'utiliser des modèles discrétisés (Cross-flow, intégrales, tableaux). Utilise TOUJOURS un modèle algébrique global (Mélange Parfait / CSTR).
-2. N'utilise JAMAIS de symboles LaTeX avec des antislashes (pas de \gamma, \alpha). Écris "gamma", "alpha" en toutes lettres.
-3. Les équations doivent être écrites avec une syntaxe Python (ex: `a ** b` au lieu de `a^b`).
-4.Laisse vide le champs donnees manquantes si toutes les données sont présentes. Si une donnée est manquante, indique-la clairement avec "MISSING_DATA: ...".
-5.JE VEUX VRAIMENT LA MEILLEUR RÉPONSE POSSIBLE. 
+1. Interdiction d'utiliser des modèles discrétisés (Cross-flow, intégrales, tableaux). Utilise TOUJOURS un modèle algébrique global (Mélange Parfait / CSTR) sauf pour les cas complexes.
+2. RÉSOLUTION DES SYSTÈMES COMPLEXES (Recyclages) :
+   - Pour les procédés avec recyclage ou cascades, NE TENTE PAS de calculer les débits de manière séquentielle (A donne B qui donne C). 
+   - Définis un système d'équations couplées (bilans aux nœuds + équations de séparation de chaque module) sous forme de résidus (ex: `eq = flux_in - flux_out`). Le codeur utilisera un solveur numérique (ex: scipy.optimize.least_squares) pour les résoudre simultanément.
+3. N'utilise JAMAIS de symboles LaTeX avec des antislashes (pas de \gamma, \alpha). Écris "gamma", "alpha" en toutes lettres.
+4. Les équations doivent être écrites avec une syntaxe Python (ex: `a ** b` au lieu de `a^b`).
+5.Laisse vide le champs donnees manquantes si toutes les données sont présentes. Si une donnée est manquante, indique-la clairement avec "MISSING_DATA: ...".
+6.JE VEUX VRAIMENT LA MEILLEUR RÉPONSE POSSIBLE. 
+7.Ne contredis jamais une valeur numérique explicitement extraite des documents RAG fournis.
 
 Tu DOIS répondre STRICTEMENT avec ce format JSON valide :
 

@@ -40,12 +40,12 @@ PROCÉDURE DE VALIDATION (3 étapes obligatoires)
   - Les variables critiques (débits, pressions, surfaces, etc.) sont-elles bien définies et correspondent-elles EXACTEMENT aux valeurs données par l'utilisateur ?
   - Le code a-t-il dû "inventer" des formules absurdes parce qu'il manquait des données ?
   -VÉRIFICATION CRITIQUE DES CONVERSIONS : Des erreurs résident parfois dans les facteurs de conversion (ex: Joules vers kWh nécessite de diviser par 3,6 \times 10^6 et non 10^9, conversion de pression Pa/bar, etc.).Vérifie rigoureusement ces facteurs dans le code blueprint avant de remettre en cause la théorie physique.
+  -VÉRIFICATION CHIMIQUE CRITIQUE : Vérifie impérativement la cohérence des masses molaires (g/mol vs kg/kmol) et des calculs de flux (moles vs kilomoles). La constante R (8.314) exige des Moles ou exige d'adapter les unités d'énergie. Une erreur d'un facteur 1000 ici DOIT entraîner un rejet ("valide": false, "type_erreur": "code").
 
-
-ÉTAPE 2 — Analyse du RÉSULTAT :
-  - Si c'est un plantage (Crash/Traceback) : Le plantage vient-il d'une erreur de syntaxe ou d'une équation mathématiquement insoluble dictée par le Blueprint (ex: fsolve qui diverge) ?
-  - Si c'est un chiffre : Le calcul est-il mathématiquement exact par rapport aux données fournies ? 
-    ATTENTION : Si les données initiales de l'utilisateur mènent à un résultat dont l'ordre de grandeur est surprenant pour le matériau concerné, ce résultat DOIT quand même être validé. Les seules raisons valables pour rejeter un résultat numérique sont les aberrations logiques absolues (ex: masse négative, température en Kelvin négative, fraction molaire > 1).
+ÉTAPE 2 — Analyse du RÉSULTAT et des Ordres de Grandeur :
+    - Le résultat est-il dans un ordre de grandeur physiquement possible pour ce type de procédé industriel ? 
+    - ATTENTION : Ne rejette pas un résultat juste parce qu'il est "légèrement sous-optimisé" (ex: 400 kWh/t au lieu de 250 kWh/t). 
+    - EN REVANCHE : REJETTE ("valide": false) TOUT RÉSULTAT qui viole les lois de la thermodynamique (ex: énergie de séparation très inférieure à l'énergie minimale théorique de mélange, pureté supérieure à la limite asymptotique d'un équilibre de phase/membranaire).
 
 ÉTAPE 3 — CLASSIFICATION DE L'ERREUR (si résultat invalide ou plantage) :
   L'étape la plus importante : à qui la faute ?
@@ -62,8 +62,8 @@ RÈGLES STRICTES DE DIAGNOSTIC
 2. RÈGLE D'IMPUTATION : Si le code a planté ou a inventé des absurdités (ex: F = P / RT sans volume), VÉRIFIE LE BLUEPRINT. S'il manque des conditions aux limites, tu DOIS renvoyer "type_erreur": "physique" pour forcer la réécriture des équations.
 3. NE JAMAIS rejeter un calcul pour une faute d'orthographe dans la question.
 4. Si le code a fonctionné, que les données de l'utilisateur ont été respectées à la lettre, et qu'il n'y a pas d'aberration absolue (ex: énergie négative) → VALIDE ("valide": true).
-5. ADAPTABILITÉ AU BLUEPRINT : Tu dois juger le résultat selon les hypothèses posées dans le Blueprint. Si le Blueprint a fait le choix assumé d'un modèle simplifié, tu NE DOIS PAS rejeter le résultat sous prétexte qu'un modèle d'ingénierie complexe donnerait une valeur différente. 
-
+5. ADAPTABILITÉ AU BLUEPRINT vs RÉALITÉ PHYSIQUE : Tu acceptes les modèles simplifiés (ex: gaz parfaits au lieu de Peng-Robinson, ou isotherme au lieu d'adiabatique). CEPENDANT, si le Blueprint impose une simplification qui rend le procédé physiquement impossible (ex: imposer une pureté de 90% en un seul étage alors que le facteur de séparation alpha ne le permet mathématiquement pas), tu DOIS rejeter le Blueprint ("type_erreur": "physique") et exiger une modification de l'architecture du procédé (ex: passage en multi-étages).
+6. Ne contredis jamais une valeur numérique explicitement extraite des documents RAG fournis.
 ═══════════════════════════════════════════════════════════════
 FORMAT DE RÉPONSE (JSON strict)
 ═══════════════════════════════════════════════════════════════
